@@ -1,0 +1,7 @@
+[
+  {"key": "2026-10-30|airspace", "date": "2026-10-30", "order": 1, "metric": "Airspace incidents", "value": 0, "note": "Per pastarąsias 24 valandas nepranešta apie naujus Baltijos šalių, Lenkijos ar Suomijos oro erdvės pažeidimus ar dronų įskridimus. Paskutinis buvo spalio 18 d. dronas Lietuvoje."},
+  {"key": "2026-10-30|sabotage", "date": "2026-10-30", "order": 2, "metric": "Sabotage cases", "value": 1, "note": "Pranešta apie vieną naują bylą: sulaikymai Vokietijoje ir Lenkijoje, susiję su gaisru Brašovo gynybos gamykloje ir planuotu išpuoliu prie Niurnbergo."},
+  {"key": "2026-10-30|jamming", "date": "2026-10-30", "order": 3, "metric": "GPS jamming reports", "value": 0, "note": "Per pastarąsias 24 valandas naujų oficialių pranešimų nėra. Pats trikdymas fone tęsiasi nuolat."},
+  {"key": "2026-10-30|border", "date": "2026-10-30", "order": 4, "metric": "Border incidents", "value": 0, "note": "Per pastarąsias 24 valandas nepranešta apie naujas provokacijas prie Baltijos šalių, Lenkijos ar Suomijos sienų."},
+  {"key": "2026-10-30|threats", "date": "2026-10-30", "order": 5, "metric": "Official Russian threats", "value": 0, "note": "Per pastarąsias 24 valandas aukšti Rusijos pareigūnai nepaskelbė naujų aiškių grasinimų NATO ar Baltijos šalims."}
+]
