@@ -1,0 +1,7 @@
+[
+  {"key": "2026-10-30|airspace", "date": "2026-10-30", "order": 1, "metric": "Airspace incidents", "value": 0, "note": "No new violation or drone incursion into Baltic, Polish or Finnish airspace reported in the last 24 hours. The latest was the 18 October drone in Lithuania."},
+  {"key": "2026-10-30|sabotage", "date": "2026-10-30", "order": 2, "metric": "Sabotage cases", "value": 1, "note": "One case newly reported: arrests in Germany and Poland linked to the Brașov defence plant arson and a planned attack near Nuremberg."},
+  {"key": "2026-10-30|jamming", "date": "2026-10-30", "order": 3, "metric": "GPS jamming reports", "value": 0, "note": "No new official report in the last 24 hours. Interference itself remains persistent in the background."},
+  {"key": "2026-10-30|border", "date": "2026-10-30", "order": 4, "metric": "Border incidents", "value": 0, "note": "No new provocation reported at Baltic, Polish or Finnish borders in the last 24 hours."},
+  {"key": "2026-10-30|threats", "date": "2026-10-30", "order": 5, "metric": "Official Russian threats", "value": 0, "note": "No new explicit threat against NATO or the Baltic states by a senior Russian official in the last 24 hours."}
+]
