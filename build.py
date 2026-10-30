@@ -37,6 +37,7 @@ T = {
         "meta_desc": "Daily fact-based briefing on Russia, NATO and the Baltic states, with warning indicators, a claim tracker and trends.",
         "kicker": "Daily briefing · Russia, NATO and the Baltic states",
         "switch": ("Lietuviškai", "lt/", "lt"),
+        "notice": "Compiled automatically by AI (Claude) from public sources each morning and not reviewed by a person before publication. It can contain mistakes: check the linked sources before relying on anything here.",
         "conv_h": "Conventional attack risk", "conv_s": "Near term, judged from public indicators",
         "hyb_h": "Hybrid activity", "hyb_s": "Sabotage, jamming, drones and border pressure",
         "chg_h": "What changed since yesterday", "chg_s": "New, rising or easing items only",
@@ -84,6 +85,7 @@ T = {
         "meta_desc": "Kasdienė faktais pagrįsta apžvalga apie Rusiją, NATO ir Baltijos šalis: įspėjamieji rodikliai, teiginių sekimas ir tendencijos.",
         "kicker": "Kasdienė apžvalga · Rusija, NATO ir Baltijos šalys",
         "switch": ("English", "../", "en"),
+        "notice": "Kiekvieną rytą automatiškai sudaroma dirbtinio intelekto (Claude) iš viešų šaltinių; prieš paskelbiant žmogus jos neperžiūri. Joje gali būti klaidų, todėl prieš kuo nors remdamiesi patikrinkite pateiktus šaltinius.",
         "conv_h": "Konvencinio puolimo rizika", "conv_s": "Artimiausiu metu, vertinant pagal viešus rodiklius",
         "hyb_h": "Hibridinė veikla", "hyb_s": "Sabotažas, GPS trikdžiai, dronai ir spaudimas pasienyje",
         "chg_h": "Kas pasikeitė nuo vakar", "chg_s": "Tik tai, kas nauja, stiprėja ar silpnėja",
@@ -341,7 +343,7 @@ class Page:
 <style>{CSS}</style></head><body><div class="wrap">""")
         a(f'<header class="head"><div class="topline"><p class="kicker">{e(t["kicker"])} · {e(self.fmt_long(last))}</p>'
           f'<a class="lang" href="{sw_href}" hreflang="{sw_lang}" lang="{sw_lang}">{e(sw_label)}</a></div>'
-          f'<h1>{e(t["title"])}</h1><p class="lede">{e(ed.get("headline"))}</p></header>')
+          f'<h1>{e(t["title"])}</h1><p class="notice">{e(t["notice"])}</p><p class="lede">{e(ed.get("headline"))}</p></header>')
         a('<div class="grid">')
         a(f'<div class="card"><h3>{e(t["conv_h"])}</h3><p class="sub">{e(t["conv_s"])}</p>'
           f'<p class="big lv-{level(ed.get("conventional"))}">{e(self.tr(ed.get("conventional")))}</p><p style="margin:0">{e(ed.get("conventional_note"))}</p></div>')
@@ -449,6 +451,7 @@ h2{font-size:1.15rem;font-weight:600;margin:0 0 .25rem}h3{font-size:1rem;font-we
 .kicker{margin:0;font-size:.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
 .lang{font-size:.85rem;font-weight:600;color:var(--fg);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:3px 12px;background:var(--panel)}
 .lang:hover{border-color:var(--muted)}
+.notice{margin:0 0 1rem;max-width:52rem;font-size:.82rem;color:var(--muted);border-left:3px solid var(--warn);padding:6px 0 6px 12px}
 .lede{font-size:1.12rem;max-width:52rem;margin:0}.head{padding-bottom:1.5rem;border-bottom:1px solid var(--line);margin-bottom:1.5rem}
 .sub{margin:0 0 1rem;color:var(--muted);font-size:.85rem;max-width:52rem}.card .sub{margin:.15rem 0 .6rem}
 section{margin-top:2.6rem}.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(min(100%,18rem),1fr))}
