@@ -1,9 +1,156 @@
 [
-  {"key": "2026-10-30|drone-route", "date": "2026-10-30", "order": 1, "claim": "The drone that hit a car in Lithuania on 18 October entered from Poland", "claimed_by": "Lithuania (president and prime minister)", "evidence": "Lithuanian radar track with a minute-by-minute timeline", "conflict": "Poland says its radars show no crossing. Ukraine says Russian jamming may have diverted it. Russian outlet EADaily spins it as Lithuania letting Ukrainian drones through.", "verdict": "Contested", "verdict_note": "Most likely a stray Ukrainian drone. Two NATO allies disagree on its route."},
-  {"key": "2026-10-30|pentagon", "date": "2026-10-30", "order": 2, "claim": "The Pentagon asked the Baltic states to tone down their rhetoric on Russia", "claimed_by": "Reuters (four anonymous sources)", "evidence": "Anonymous sources", "conflict": "Pentagon declined to comment but did not deny. Baltic ministries silent.", "verdict": "Likely", "verdict_note": "Credible but not confirmed on the record."},
-  {"key": "2026-10-30|limited-attack", "date": "2026-10-30", "order": 3, "claim": "Russia could make a limited attack on a NATO country in the coming months", "claimed_by": "Danish intelligence (25 September); US intelligence via WSJ and CNN (August)", "evidence": "Intelligence assessments, public summaries only", "conflict": "Estonia's intelligence service: no intention to attack NATO this year. Putin: no plans to attack.", "verdict": "Disputed", "verdict_note": "Services disagree on the odds but agree the risk is low and growing. Hybrid escalation is the more likely path."},
-  {"key": "2026-10-30|beds", "date": "2026-10-30", "order": 4, "claim": "Russia is adding 16,000–20,000 military hospital beds near the Baltic states", "claimed_by": "Militarnyi, citing anonymous sources in Russian media; amplified by others", "evidence": "Anonymous source", "conflict": "No official or imagery confirmation. Beds are also planned around Moscow and Smolensk, which fits Ukraine casualties.", "verdict": "Unconfirmed", "verdict_note": "Single source; headlines saying beds are moving 'close to the Baltics' overstate it."},
-  {"key": "2026-10-30|suwalki", "date": "2026-10-30", "order": 5, "claim": "Belarus is preparing infrastructure for a Russian push to the Suwałki Gap by spring 2027", "claimed_by": "BELPOL (exiled Belarusian security officers)", "evidence": "Unverified claim", "conflict": "No official confirmation or denial.", "verdict": "Unconfirmed", "verdict_note": "Plausible but partisan. Watch for imagery of rail and communications works."},
-  {"key": "2026-10-30|baltiysk", "date": "2026-10-30", "order": 6, "claim": "Ships at Baltiysk signal a Kaliningrad build-up for an attack", "claimed_by": "YouTube commentary channels", "evidence": "Imagery shows equipment being loaded out", "conflict": "OSINT analysts and Militarnyi: destination unknown; the same ships have supplied Africa before.", "verdict": "Misleading", "verdict_note": "The imagery is real; the framing is not supported by it."},
-  {"key": "2026-10-30|blockade", "date": "2026-10-30", "order": 7, "claim": "NATO is preparing an air and naval blockade of Kaliningrad", "claimed_by": "Russian embassies and a diplomatic note to NATO (late September)", "evidence": "None provided", "conflict": "NATO replied that none of its exercises threaten Russian territory.", "verdict": "Unsupported", "verdict_note": "No evidence offered. Reads as a pretext narrative backing nuclear warnings."}
+ {
+  "key": "2026-10-30|drone-route",
+  "date": "2026-10-30",
+  "order": 1,
+  "claim": "The drone that hit a car in Lithuania on 18 October entered from Poland",
+  "claimed_by": "Lithuania (president and prime minister)",
+  "evidence": "Lithuanian radar track with a minute-by-minute timeline",
+  "conflict": "Poland says its radars show no crossing. Ukraine says Russian jamming may have diverted it. Russian outlet EADaily spins it as Lithuania letting Ukrainian drones through.",
+  "verdict": "Contested",
+  "verdict_note": "Most likely a stray Ukrainian drone. Two NATO allies disagree on its route."
+ },
+ {
+  "key": "2026-10-30|pentagon",
+  "date": "2026-10-30",
+  "order": 2,
+  "claim": "The Pentagon asked the Baltic states to tone down their rhetoric on Russia",
+  "claimed_by": "Reuters (four anonymous sources)",
+  "evidence": "Anonymous sources",
+  "conflict": "Pentagon declined to comment but did not deny. Baltic ministries silent.",
+  "verdict": "Likely",
+  "verdict_note": "Credible but not confirmed on the record."
+ },
+ {
+  "key": "2026-10-30|limited-attack",
+  "date": "2026-10-30",
+  "order": 3,
+  "claim": "Russia could make a limited attack on a NATO country in the coming months",
+  "claimed_by": "Danish intelligence (25 September); US intelligence via WSJ and CNN (August)",
+  "evidence": "Intelligence assessments, public summaries only",
+  "conflict": "Estonia's intelligence service: no intention to attack NATO this year. Putin: no plans to attack.",
+  "verdict": "Disputed",
+  "verdict_note": "Services disagree on the odds but agree the risk is low and growing. Hybrid escalation is the more likely path."
+ },
+ {
+  "key": "2026-10-30|beds",
+  "date": "2026-10-30",
+  "order": 4,
+  "claim": "Russia is adding 16,000–20,000 military hospital beds near the Baltic states",
+  "claimed_by": "Militarnyi, citing anonymous sources in Russian media; amplified by others",
+  "evidence": "Anonymous source",
+  "conflict": "No official or imagery confirmation. Beds are also planned around Moscow and Smolensk, which fits Ukraine casualties.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Single source; headlines saying beds are moving 'close to the Baltics' overstate it."
+ },
+ {
+  "key": "2026-10-30|suwalki",
+  "date": "2026-10-30",
+  "order": 5,
+  "claim": "Belarus is preparing infrastructure for a Russian push to the Suwałki Gap by spring 2027",
+  "claimed_by": "BELPOL (exiled Belarusian security officers)",
+  "evidence": "Unverified claim",
+  "conflict": "No official confirmation or denial.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible but partisan. Watch for imagery of rail and communications works."
+ },
+ {
+  "key": "2026-10-30|baltiysk",
+  "date": "2026-10-30",
+  "order": 6,
+  "claim": "Ships at Baltiysk signal a Kaliningrad build-up for an attack",
+  "claimed_by": "YouTube commentary channels",
+  "evidence": "Imagery shows equipment being loaded out",
+  "conflict": "OSINT analysts and Militarnyi: destination unknown; the same ships have supplied Africa before.",
+  "verdict": "Misleading",
+  "verdict_note": "The imagery is real; the framing is not supported by it."
+ },
+ {
+  "key": "2026-10-30|blockade",
+  "date": "2026-10-30",
+  "order": 7,
+  "claim": "NATO is preparing an air and naval blockade of Kaliningrad",
+  "claimed_by": "Russian embassies and a diplomatic note to NATO (late September)",
+  "evidence": "None provided",
+  "conflict": "NATO replied that none of its exercises threaten Russian territory.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence offered. Reads as a pretext narrative backing nuclear warnings."
+ },
+ {
+  "key": "2026-10-31|pentagon",
+  "date": "2026-10-31",
+  "order": 1,
+  "claim": "The Pentagon asked the Baltic states to tone down their rhetoric on Russia",
+  "claimed_by": "Reuters (four anonymous sources)",
+  "evidence": "Anonymous sources",
+  "conflict": "Estonia's foreign minister: no official US proposal. Estonia's PM: allies are asking Estonia to hold back. Peskov: reports should be taken with a grain of salt. Pentagon declines to comment. Lithuania and Latvia silent.",
+  "verdict": "Likely",
+  "verdict_note": "Still unconfirmed on the record, but Estonian reactions suggest informal pressure rather than a formal request."
+ },
+ {
+  "key": "2026-10-31|starlink-russia",
+  "date": "2026-10-31",
+  "order": 2,
+  "claim": "Russian intelligence was behind the Starlink arson attacks in Poland, Bulgaria and Lithuania",
+  "claimed_by": "Poland's intelligence minister; Lithuania's prime minister; Der Spiegel",
+  "evidence": "Official statements; arrests in four countries; press reports on the gang leader's protection in Russia",
+  "conflict": "Lithuanian police say the ultimate motive has not been established. German broadcaster ARD notes that gang membership is hard to establish. Russia routinely denies such accusations.",
+  "verdict": "Likely",
+  "verdict_note": "The cross-border link is official; the Russian tasking is asserted by officials but not yet shown in court."
+ },
+ {
+  "key": "2026-10-31|nato-1997",
+  "date": "2026-10-31",
+  "order": 3,
+  "claim": "Russia will demand a NATO pullback to 1997 lines in peace talks",
+  "claimed_by": "The Telegraph (unnamed diplomatic sources)",
+  "evidence": "Anonymous sources",
+  "conflict": "Not announced by the Kremlin. The Kremlin ruled out European participation in the Abu Dhabi round on 29 October, while the report says Moscow wants Europeans at the table.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible given Russia's 2021 demands, but a single anonymous-source report."
+ },
+ {
+  "key": "2026-10-31|kaliningrad-blackout",
+  "date": "2026-10-31",
+  "order": 4,
+  "claim": "The Kaliningrad blackout was caused by a protection system tripping at the CHP-2 power plant",
+  "claimed_by": "Kaliningrad regional authorities; grid operator Rosseti",
+  "evidence": "Official statement",
+  "conflict": "Ukrainian outlets say the cause could not be verified; social media posts speculated about sabotage without evidence.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "The official explanation is plausible and not contradicted by any evidence, but it has not been independently verified."
+ },
+ {
+  "key": "2026-10-31|putin-no-war",
+  "date": "2026-10-31",
+  "order": 5,
+  "claim": "Russia does not want a war with Europe",
+  "claimed_by": "Putin (29 October)",
+  "evidence": "Official statement",
+  "conflict": "Danish and US intelligence see a low but growing risk of a limited test of NATO; European officials blame Russia for an ongoing sabotage campaign.",
+  "verdict": "Disputed",
+  "verdict_note": "Statements of intent cannot be verified; the hybrid record runs against the reassurance."
+ },
+ {
+  "key": "2026-10-31|belarus-relays",
+  "date": "2026-10-31",
+  "order": 6,
+  "claim": "Belarus is relaying signals for Russian attack drones",
+  "claimed_by": "Ukraine's border guard spokesperson and military intelligence chief; Ukrainian monitoring project E-radar",
+  "evidence": "Unverified claim",
+  "conflict": "Minsk has not responded. No NATO or Lithuanian technical body has confirmed it. Ukrainian explanations (commercial LTE networks or purpose-built relays) differ.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Relevant to the Baltics because a Russian Gerbera drone was shot down over Lithuania in September; all sources are Ukrainian or Belarusian opposition."
+ },
+ {
+  "key": "2026-10-31|potash",
+  "date": "2026-10-31",
+  "order": 7,
+  "claim": "The US is pressing Lithuania to allow Belarusian potash transit despite EU sanctions",
+  "claimed_by": "Politico (four anonymous European officials)",
+  "evidence": "Anonymous sources",
+  "conflict": "Lithuanian PM said in September no US request had been received. The State Department did not respond. Lithuanian officials reject the idea on the record.",
+  "verdict": "Likely",
+  "verdict_note": "Consistent with earlier reporting of US outreach to Minsk; the request itself is not on the record."
+ }
 ]

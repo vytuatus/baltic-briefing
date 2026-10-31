@@ -1,9 +1,156 @@
 [
-  {"key": "2026-10-30|drone-route", "date": "2026-10-30", "order": 1, "claim": "Spalio 18 d. Lietuvoje automobilį apgadinęs dronas atskrido iš Lenkijos", "claimed_by": "Lietuva (prezidentas ir premjeras)", "evidence": "Lietuvos radarų duomenys su minutės tikslumo laiko juosta", "conflict": "Lenkija teigia, kad jos radarai sienos kirtimo neužfiksavo. Ukraina teigia, kad droną galėjo nukreipti Rusijos trukdymas. Rusijos leidinys EADaily tai pateikia kaip Lietuvos leidimą ukrainiečių dronams skristi.", "verdict": "Contested", "verdict_note": "Greičiausiai nuklydęs ukrainiečių dronas. Dvi NATO sąjungininkės nesutaria dėl jo maršruto."},
-  {"key": "2026-10-30|pentagon", "date": "2026-10-30", "order": 2, "claim": "Pentagonas paprašė Baltijos šalių sušvelninti retoriką apie Rusiją", "claimed_by": "Reuters (keturi anoniminiai šaltiniai)", "evidence": "Anoniminiai šaltiniai", "conflict": "Pentagonas atsisakė komentuoti, bet nepaneigė. Baltijos šalių ministerijos tyli.", "verdict": "Likely", "verdict_note": "Patikima, bet oficialiai nepatvirtinta."},
-  {"key": "2026-10-30|limited-attack", "date": "2026-10-30", "order": 3, "claim": "Artimiausiais mėnesiais Rusija gali surengti ribotą puolimą prieš NATO šalį", "claimed_by": "Danijos žvalgyba (rugsėjo 25 d.); JAV žvalgyba per WSJ ir CNN (rugpjūtis)", "evidence": "Žvalgybos vertinimai, viešai skelbiamos tik santraukos", "conflict": "Estijos žvalgyba: šiais metais Rusija neketina pulti NATO. Putinas: puolimo planų nėra.", "verdict": "Disputed", "verdict_note": "Tarnybos nesutaria dėl tikimybės, bet sutaria, kad rizika nedidelė ir auga. Tikėtinesnis kelias – hibridinė eskalacija."},
-  {"key": "2026-10-30|beds", "date": "2026-10-30", "order": 4, "claim": "Rusija prie Baltijos šalių ruošia 16 000–20 000 karinių lovų ligoninėse", "claimed_by": "Militarnyi, remdamasis anoniminiais šaltiniais Rusijos žiniasklaidoje; išplatino kiti", "evidence": "Anoniminis šaltinis", "conflict": "Nėra oficialaus ar palydovinių nuotraukų patvirtinimo. Lovos planuojamos ir aplink Maskvą bei Smolenską, o tai atitinka sužeistųjų Ukrainoje srautą.", "verdict": "Unconfirmed", "verdict_note": "Vienas šaltinis; antraštės apie lovas „prie Baltijos šalių“ tai perdeda."},
-  {"key": "2026-10-30|suwalki", "date": "2026-10-30", "order": 5, "claim": "Baltarusija iki 2027 m. pavasario ruošia infrastruktūrą Rusijos veržimuisi į Suvalkų koridorių", "claimed_by": "BELPOL (emigracijoje esantys Baltarusijos saugumo pareigūnai)", "evidence": "Nepatikrintas teiginys", "conflict": "Nei oficialaus patvirtinimo, nei paneigimo.", "verdict": "Unconfirmed", "verdict_note": "Tikėtina, bet šališka. Verta stebėti palydovines geležinkelio ir ryšių darbų nuotraukas."},
-  {"key": "2026-10-30|baltiysk", "date": "2026-10-30", "order": 6, "claim": "Laivai Baltijske rodo, kad Karaliaučiuje telkiamos pajėgos puolimui", "claimed_by": "YouTube komentatorių kanalai", "evidence": "Nuotraukose matyti, kad technika išvežama", "conflict": "OSINT analitikai ir Militarnyi: paskirties vieta nežinoma; tie patys laivai anksčiau gabeno krovinius į Afriką.", "verdict": "Misleading", "verdict_note": "Nuotraukos tikros, bet jos nepagrindžia tokio aiškinimo."},
-  {"key": "2026-10-30|blockade", "date": "2026-10-30", "order": 7, "claim": "NATO ruošia Karaliaučiaus oro ir jūros blokadą", "claimed_by": "Rusijos ambasados ir diplomatinė nota NATO (rugsėjo pabaiga)", "evidence": "Nepateikta", "conflict": "NATO atsakė, kad jokios jos pratybos nekelia grėsmės Rusijos teritorijai.", "verdict": "Unsupported", "verdict_note": "Jokių įrodymų nepateikta. Panašu į pretekstą branduoliniams įspėjimams pagrįsti."}
+ {
+  "key": "2026-10-30|drone-route",
+  "date": "2026-10-30",
+  "order": 1,
+  "claim": "Spalio 18 d. Lietuvoje automobilį apgadinęs dronas atskrido iš Lenkijos",
+  "claimed_by": "Lietuva (prezidentas ir premjeras)",
+  "evidence": "Lietuvos radarų duomenys su minutės tikslumo laiko juosta",
+  "conflict": "Lenkija teigia, kad jos radarai sienos kirtimo neužfiksavo. Ukraina teigia, kad droną galėjo nukreipti Rusijos trukdymas. Rusijos leidinys EADaily tai pateikia kaip Lietuvos leidimą ukrainiečių dronams skristi.",
+  "verdict": "Contested",
+  "verdict_note": "Greičiausiai nuklydęs ukrainiečių dronas. Dvi NATO sąjungininkės nesutaria dėl jo maršruto."
+ },
+ {
+  "key": "2026-10-30|pentagon",
+  "date": "2026-10-30",
+  "order": 2,
+  "claim": "Pentagonas paprašė Baltijos šalių sušvelninti retoriką apie Rusiją",
+  "claimed_by": "Reuters (keturi anoniminiai šaltiniai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Pentagonas atsisakė komentuoti, bet nepaneigė. Baltijos šalių ministerijos tyli.",
+  "verdict": "Likely",
+  "verdict_note": "Patikima, bet oficialiai nepatvirtinta."
+ },
+ {
+  "key": "2026-10-30|limited-attack",
+  "date": "2026-10-30",
+  "order": 3,
+  "claim": "Artimiausiais mėnesiais Rusija gali surengti ribotą puolimą prieš NATO šalį",
+  "claimed_by": "Danijos žvalgyba (rugsėjo 25 d.); JAV žvalgyba per WSJ ir CNN (rugpjūtis)",
+  "evidence": "Žvalgybos vertinimai, viešai skelbiamos tik santraukos",
+  "conflict": "Estijos žvalgyba: šiais metais Rusija neketina pulti NATO. Putinas: puolimo planų nėra.",
+  "verdict": "Disputed",
+  "verdict_note": "Tarnybos nesutaria dėl tikimybės, bet sutaria, kad rizika nedidelė ir auga. Tikėtinesnis kelias – hibridinė eskalacija."
+ },
+ {
+  "key": "2026-10-30|beds",
+  "date": "2026-10-30",
+  "order": 4,
+  "claim": "Rusija prie Baltijos šalių ruošia 16 000–20 000 karinių lovų ligoninėse",
+  "claimed_by": "Militarnyi, remdamasis anoniminiais šaltiniais Rusijos žiniasklaidoje; išplatino kiti",
+  "evidence": "Anoniminis šaltinis",
+  "conflict": "Nėra oficialaus ar palydovinių nuotraukų patvirtinimo. Lovos planuojamos ir aplink Maskvą bei Smolenską, o tai atitinka sužeistųjų Ukrainoje srautą.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Vienas šaltinis; antraštės apie lovas „prie Baltijos šalių“ tai perdeda."
+ },
+ {
+  "key": "2026-10-30|suwalki",
+  "date": "2026-10-30",
+  "order": 5,
+  "claim": "Baltarusija iki 2027 m. pavasario ruošia infrastruktūrą Rusijos veržimuisi į Suvalkų koridorių",
+  "claimed_by": "BELPOL (emigracijoje esantys Baltarusijos saugumo pareigūnai)",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Nei oficialaus patvirtinimo, nei paneigimo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, bet šališka. Verta stebėti palydovines geležinkelio ir ryšių darbų nuotraukas."
+ },
+ {
+  "key": "2026-10-30|baltiysk",
+  "date": "2026-10-30",
+  "order": 6,
+  "claim": "Laivai Baltijske rodo, kad Karaliaučiuje telkiamos pajėgos puolimui",
+  "claimed_by": "YouTube komentatorių kanalai",
+  "evidence": "Nuotraukose matyti, kad technika išvežama",
+  "conflict": "OSINT analitikai ir Militarnyi: paskirties vieta nežinoma; tie patys laivai anksčiau gabeno krovinius į Afriką.",
+  "verdict": "Misleading",
+  "verdict_note": "Nuotraukos tikros, bet jos nepagrindžia tokio aiškinimo."
+ },
+ {
+  "key": "2026-10-30|blockade",
+  "date": "2026-10-30",
+  "order": 7,
+  "claim": "NATO ruošia Karaliaučiaus oro ir jūros blokadą",
+  "claimed_by": "Rusijos ambasados ir diplomatinė nota NATO (rugsėjo pabaiga)",
+  "evidence": "Nepateikta",
+  "conflict": "NATO atsakė, kad jokios jos pratybos nekelia grėsmės Rusijos teritorijai.",
+  "verdict": "Unsupported",
+  "verdict_note": "Jokių įrodymų nepateikta. Panašu į pretekstą branduoliniams įspėjimams pagrįsti."
+ },
+ {
+  "key": "2026-10-31|pentagon",
+  "date": "2026-10-31",
+  "order": 1,
+  "claim": "Pentagonas paprašė Baltijos šalių sušvelninti retoriką apie Rusiją",
+  "claimed_by": "Reuters (keturi anoniminiai šaltiniai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Estijos užsienio reikalų ministras: oficialaus JAV pasiūlymo nebuvo. Estijos premjeras: sąjungininkai prašo Estiją santūriau kalbėti. Peskovas: į pranešimus reikia žiūrėti skeptiškai. Pentagonas atsisako komentuoti. Lietuva ir Latvija tyli.",
+  "verdict": "Likely",
+  "verdict_note": "Oficialiai vis dar nepatvirtinta, tačiau Estijos reakcijos rodo veikiau neformalų spaudimą nei oficialų prašymą."
+ },
+ {
+  "key": "2026-10-31|starlink-russia",
+  "date": "2026-10-31",
+  "order": 2,
+  "claim": "Rusijos žvalgyba stovėjo už padegimų prieš „Starlink“ Lenkijoje, Bulgarijoje ir Lietuvoje",
+  "claimed_by": "Lenkijos specialiųjų tarnybų ministras; Lietuvos premjeras; Der Spiegel",
+  "evidence": "Oficialūs pareiškimai; sulaikymai keturiose šalyse; žiniasklaidos pranešimai apie gaujos lyderio globą Rusijoje",
+  "conflict": "Lietuvos policija teigia, kad galutinis motyvas nenustatytas. Vokietijos transliuotojas ARD pažymi, kad narystę gaujoje sunku įrodyti. Rusija tokius kaltinimus paprastai neigia.",
+  "verdict": "Likely",
+  "verdict_note": "Tarpvalstybinis ryšys oficialus; Rusijos užsakymą teigia pareigūnai, bet teisme jis dar neįrodytas."
+ },
+ {
+  "key": "2026-10-31|nato-1997",
+  "date": "2026-10-31",
+  "order": 3,
+  "claim": "Rusija taikos derybose reikalaus NATO atsitraukti iki 1997 m. linijų",
+  "claimed_by": "The Telegraph (neįvardyti diplomatiniai šaltiniai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Kremlius to nepaskelbė. Spalio 29 d. Kremlius atmetė europiečių dalyvavimą Abu Dabio derybų etape, o pranešime teigiama, kad Maskva nori europiečių prie derybų stalo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, atsižvelgiant į 2021 m. Rusijos reikalavimus, bet tai vienas anoniminiais šaltiniais grįstas pranešimas."
+ },
+ {
+  "key": "2026-10-31|kaliningrad-blackout",
+  "date": "2026-10-31",
+  "order": 4,
+  "claim": "Elektros dingimą Karaliaučiuje sukėlė suveikusi TEC-2 elektrinės apsaugos sistema",
+  "claimed_by": "Karaliaučiaus srities valdžia; tinklo operatorius „Rosseti“",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Ukrainos leidiniai teigia, kad priežasties patikrinti nepavyko; socialiniuose tinkluose be įrodymų spėliota apie sabotažą.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Oficialus paaiškinimas tikėtinas ir jam neprieštarauja jokie įrodymai, tačiau jis nepatikrintas nepriklausomai."
+ },
+ {
+  "key": "2026-10-31|putin-no-war",
+  "date": "2026-10-31",
+  "order": 5,
+  "claim": "Rusija nenori karo su Europa",
+  "claimed_by": "Putinas (spalio 29 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Danijos ir JAV žvalgybos mato nedidelę, bet augančią riboto NATO išbandymo riziką; Europos pareigūnai kaltina Rusiją dėl besitęsiančios sabotažo kampanijos.",
+  "verdict": "Disputed",
+  "verdict_note": "Ketinimų pareiškimų patikrinti neįmanoma; hibridinės veiklos istorija prieštarauja šiam nuraminimui."
+ },
+ {
+  "key": "2026-10-31|belarus-relays",
+  "date": "2026-10-31",
+  "order": 6,
+  "claim": "Baltarusija retransliuoja signalus Rusijos atakos dronams",
+  "claimed_by": "Ukrainos pasieniečių atstovas ir karinės žvalgybos vadovas; Ukrainos stebėsenos projektas E-radar",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Minskas neatsakė. Jokia NATO ar Lietuvos techninė institucija to nepatvirtino. Ukrainos paaiškinimai (komerciniai LTE tinklai ar specialiai sukurti retransliatoriai) skiriasi.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Aktualu Baltijos šalims, nes rugsėjį virš Lietuvos buvo numuštas rusiškas dronas „Gerbera“; visi šaltiniai – ukrainiečių arba Baltarusijos opozicijos."
+ },
+ {
+  "key": "2026-10-31|potash",
+  "date": "2026-10-31",
+  "order": 7,
+  "claim": "JAV spaudžia Lietuvą leisti baltarusiškų trąšų tranzitą nepaisant ES sankcijų",
+  "claimed_by": "Politico (keturi anoniminiai Europos pareigūnai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Lietuvos premjeras rugsėjį sakė, kad jokio JAV prašymo negauta. Valstybės departamentas neatsakė. Lietuvos pareigūnai šią idėją oficialiai atmeta.",
+  "verdict": "Likely",
+  "verdict_note": "Dera su ankstesniais pranešimais apie JAV kontaktus su Minsku; pats prašymas nėra oficialiai patvirtintas."
+ }
 ]

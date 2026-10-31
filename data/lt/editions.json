@@ -1,12 +1,22 @@
 [
-  {
-    "date": "2026-10-30",
-    "headline": "Viešai nėra jokių ženklų, kad Rusija ruoštųsi konvenciniam puolimui prieš Baltijos šalis. Hibridinis spaudimas (sabotažas, GPS trikdžiai, dronai ir provokacijos pasienyje) išlieka didelis ir aktyvus.",
-    "conventional": "Low",
-    "conventional_note": "Nepranešta apie karių telkimą, lauko ligonines ar kraujo atsargų gabenimą Baltijos šalių pasienio link. Estijos žvalgyba mano, kad Rusija šiais metais neketina pulti NATO; Danijos ir JAV žvalgybos mato nedidelę, bet augančią riboto išbandymo riziką.",
-    "hybrid": "High",
-    "hybrid_note": "Šią savaitę sulaikyti sabotažu įtariami asmenys Vokietijoje, Lenkijoje ir Rumunijoje, nuolat trikdomas GPS signalas aplink Karaliaučių, o šio mėnesio pradžioje ginkluoti palydovai stūmė migrantus per Latvijos ir Baltarusijos sieną.",
-    "changed": "Pirmasis leidimas, todėl nėra ankstesnės dienos palyginimui. Nuo rytojaus čia bus nurodoma tik tai, kas nauja, stiprėja ar silpnėja.",
-    "bottom_line": "Pagrindinė šios dienos tema yra atotrūkis tarp nerimo ir įrodymų. Labiausiai platinama žinia, Reuters pranešimas, kad Pentagonas paprašė Baltijos šalių sušvelninti įspėjimus apie Rusiją, remiasi keturiais anoniminiais šaltiniais; dešimtys ją pakartojusių leidinių didina sklaidą, bet ne patikimumą. Tuo tarpu viešuose pranešimuose nėra fizinių ženklų, kurie būtų matomi prieš konvencinį puolimą. Realiausia artimiausio laikotarpio rizika yra ribotas incidentas, kurio galima išsiginti (dronas, sabotažas, provokacija pasienyje), o ne invazija. Danijos žvalgyba įspėjo, kad Rusija NATO teritorijoje nukritusius ginklus gali aiškinti ukrainiečių radioelektroniniu trukdymu; tai verta prisiminti vertinant tokius incidentus kaip spalio 18 d. dronas Lietuvoje."
-  }
+ {
+  "date": "2026-10-30",
+  "headline": "Viešai nėra jokių ženklų, kad Rusija ruoštųsi konvenciniam puolimui prieš Baltijos šalis. Hibridinis spaudimas (sabotažas, GPS trikdžiai, dronai ir provokacijos pasienyje) išlieka didelis ir aktyvus.",
+  "conventional": "Low",
+  "conventional_note": "Nepranešta apie karių telkimą, lauko ligonines ar kraujo atsargų gabenimą Baltijos šalių pasienio link. Estijos žvalgyba mano, kad Rusija šiais metais neketina pulti NATO; Danijos ir JAV žvalgybos mato nedidelę, bet augančią riboto išbandymo riziką.",
+  "hybrid": "High",
+  "hybrid_note": "Šią savaitę sulaikyti sabotažu įtariami asmenys Vokietijoje, Lenkijoje ir Rumunijoje, nuolat trikdomas GPS signalas aplink Karaliaučių, o šio mėnesio pradžioje ginkluoti palydovai stūmė migrantus per Latvijos ir Baltarusijos sieną.",
+  "changed": "Pirmasis leidimas, todėl nėra ankstesnės dienos palyginimui. Nuo rytojaus čia bus nurodoma tik tai, kas nauja, stiprėja ar silpnėja.",
+  "bottom_line": "Pagrindinė šios dienos tema yra atotrūkis tarp nerimo ir įrodymų. Labiausiai platinama žinia, Reuters pranešimas, kad Pentagonas paprašė Baltijos šalių sušvelninti įspėjimus apie Rusiją, remiasi keturiais anoniminiais šaltiniais; dešimtys ją pakartojusių leidinių didina sklaidą, bet ne patikimumą. Tuo tarpu viešuose pranešimuose nėra fizinių ženklų, kurie būtų matomi prieš konvencinį puolimą. Realiausia artimiausio laikotarpio rizika yra ribotas incidentas, kurio galima išsiginti (dronas, sabotažas, provokacija pasienyje), o ne invazija. Danijos žvalgyba įspėjo, kad Rusija NATO teritorijoje nukritusius ginklus gali aiškinti ukrainiečių radioelektroniniu trukdymu; tai verta prisiminti vertinant tokius incidentus kaip spalio 18 d. dronas Lietuvoje."
+ },
+ {
+  "date": "2026-10-31",
+  "headline": "Estija viešai atsisako švelninti įspėjimus po pranešimo apie Pentagono prašymą, o Lietuvos policija susiejo padegimų bandymus prieš „Starlink“ trijose ES šalyse su vienu tinklu. Viešai vis dar nėra ženklų, kad būtų ruošiamasi konvenciniam puolimui.",
+  "conventional": "Low",
+  "conventional_note": "Nepranešta apie karių telkimą, lauko ligonines, kraujo atsargas ar technikos traukinius, judančius Baltijos šalių sienų link. Spalio 29 d. Putinas pareiškė, kad Rusija pasirengusi karui su Europa, bet jo nenori. Naktinis elektros dingimas Karaliaučiuje turi oficialų techninį paaiškinimą, karinės veiklos ženklų nėra.",
+  "hybrid": "High",
+  "hybrid_note": "Lietuva paskelbė įtariamiesiems dviem vyrams, susijusiems su padegimų bandymais prieš „Starlink“ Lietuvoje, Bulgarijoje ir Lenkijoje, įtarimus dėl terorizmo; Lenkija kaltina Rusijos žvalgybą. GPS trikdžiai išlieka nuolatiniai. Apie naujus dronų ar pasienio incidentus nepranešta.",
+  "changed": "Rodiklių vertinimai nepasikeitė, todėl grėsmės balas nepakito. Incidentų skaičius: viena sabotažo byla (padegimų prieš „Starlink“ tinklas, apie kurį paskelbta spalio 27–29 d. ir kuris nebuvo aprašytas vakarykščiame leidime), kitose keturiose kategorijose – nulis. Nauja: Estijos premjeras viešai atmetė raginimus sušvelninti Rusijos kritiką, Peskovas Baltijos šalių retoriką pavadino isteriškai agresyvia, Politico pranešė apie JAV spaudimą Lietuvai leisti baltarusiškų trąšų tranzitą per Klaipėdą, o Karaliaučiaus sritį naktį ištiko elektros dingimas visame regione.",
+  "bottom_line": "Įrodymai vis dar rodo hibridinį spaudimą, o ne pasirengimą invazijai. Svarbiausias naujas įvykis – „Starlink“ byla: trijų šalių prokurorai susiejo išpuolius, o ryšys su Rusija remiasi Lenkijos ministro pareiškimu ir pranešimais, kad Turkijos gaujos lyderis gyvena globojamas Rusijoje, nors Lietuvos policija teigia, kad motyvas dar nenustatytas. Pentagono istorija iš anoniminių šaltinių pereina į oficialias Baltijos šalių reakcijas, tačiau jos nesutampa: Estijos užsienio reikalų ministras teigia, kad oficialaus prašymo nebuvo, o premjeras sako, kad sąjungininkai prašo Estiją santūriau kalbėti. Kartu su Politico pranešimu apie trąšas susidaro JAV spaudimo Baltijos šalių pozicijoms vaizdas, siekiant susitarimo su Maskva; abu pranešimai remiasi anoniminiais Europos pareigūnais. Elektros dingimas Karaliaučiuje sukėlė spėlionių internete apie sabotažą, tačiau kol kas niekas neprieštarauja valdžios paaiškinimui, kad suveikė elektrinės apsaugos sistema. The Telegraph pranešimas, kad Maskva reikalaus NATO atsitraukti iki 1997 m. linijų, remiasi neįvardytais diplomatiniais šaltiniais ir jokio pareigūno nepatvirtintas."
+ }
 ]

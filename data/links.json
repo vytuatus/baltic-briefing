@@ -1,33 +1,506 @@
 [
-  {"key": "2026-10-30|l01", "date": "2026-10-30", "topic": "Pentagon rhetoric request", "outlet": "Military Times (Reuters)", "perspective": "US and international", "title": "Pentagon tells Europeans to cool their rhetoric on Russia", "url": "https://www.militarytimes.com/pentagon/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/"},
-  {"key": "2026-10-30|l02", "date": "2026-10-30", "topic": "Pentagon rhetoric request", "outlet": "Irish Times (Reuters)", "perspective": "US and international", "title": "US tells Europeans to cool their rhetoric on Russia", "url": "https://www.irishtimes.com/world/europe/2026/10/30/us-tells-europeans-to-cool-their-rhetoric-on-russia/"},
-  {"key": "2026-10-30|l03", "date": "2026-10-30", "topic": "Pentagon rhetoric request", "outlet": "Meduza", "perspective": "Russian independent", "title": "Pentagon urges Baltic NATO allies to tone down rhetoric about Russia", "url": "https://meduza.io/en/news/2026/10/30/pentagon-urges-baltic-nato-allies-to-tone-down-rhetoric-about-russia-citing-remarks-likening-putin-to-a-rat-in-a-corner"},
-  {"key": "2026-10-30|l04", "date": "2026-10-30", "topic": "Pentagon rhetoric request", "outlet": "TVP World", "perspective": "Central Europe", "title": "Pentagon urges Baltic states to tone down rhetoric on Russia", "url": "https://tvpworld.com/96212451/pentagon-urges-baltic-states-to-tone-down-rhetoric-on-russia"},
-  {"key": "2026-10-30|l05", "date": "2026-10-30", "topic": "NATO commander in Latvia", "outlet": "BNN (LETA)", "perspective": "Baltic", "title": "NATO supreme commander on what the Baltic states must prepare for", "url": "https://bnn-news.com/baltics/nato-supreme-commander-reveals-what-the-baltic-states-must-prepare-for-amid-russian-threats-d4c9b76"},
-  {"key": "2026-10-30|l06", "date": "2026-10-30", "topic": "German EW monitoring", "outlet": "Reform.news", "perspective": "Russian independent", "title": "German brigade in Lithuania to monitor Belarus and Kaliningrad", "url": "https://reform.news/en/german-brigade-in-lithuania-to-monitor-military-activity-in-belarus-and-kaliningrad-region/"},
-  {"key": "2026-10-30|l07", "date": "2026-10-30", "topic": "German EW monitoring", "outlet": "UNN", "perspective": "Ukrainian", "title": "German brigade will monitor Kaliningrad and Belarus with EW equipment", "url": "https://unn.ua/en/amp/the-german-brigade-in-lithuania-will-monitor-kaliningrad-and-belarus-using-electronic-warfare-systems"},
-  {"key": "2026-10-30|l08", "date": "2026-10-30", "topic": "Sabotage arrests", "outlet": "US News (Reuters)", "perspective": "US and international", "title": "German police arrest two suspected of planning sabotage for Russia", "url": "https://www.usnews.com/news/world/articles/2026-10-28/german-police-arrest-two-suspected-of-planning-sabotage-attacks-for-russia-spiegel-says"},
-  {"key": "2026-10-30|l09", "date": "2026-10-30", "topic": "Sabotage arrests", "outlet": "The Insider", "perspective": "Russian independent", "title": "Germany detains two Belarusians suspected of sabotage on Russia's behalf", "url": "https://theins.press/en/news/298911"},
-  {"key": "2026-10-30|l10", "date": "2026-10-30", "topic": "Sabotage arrests", "outlet": "Kyiv Post (AFP)", "perspective": "Ukrainian", "title": "Two Belarusian men held in Germany over alleged sabotage plot", "url": "https://www.kyivpost.com/post/88522"},
-  {"key": "2026-10-30|l11", "date": "2026-10-30", "topic": "Baltiysk cargo ships", "outlet": "Militarnyi", "perspective": "Ukrainian", "title": "Military equipment loading spotted on another ship in Kaliningrad", "url": "https://militarnyi.com/en/news/military-equipment-loading-spotted-on-another-ship-in-kaliningrad-region/"},
-  {"key": "2026-10-30|l12", "date": "2026-10-30", "topic": "Baltiysk cargo ships", "outlet": "The Insider", "perspective": "Russian independent", "title": "OSINT analysts spot Russian cargo ships loading military vehicles", "url": "https://theins.press/en/news/298618"},
-  {"key": "2026-10-30|l13", "date": "2026-10-30", "topic": "Kaliningrad radar", "outlet": "Stars and Stripes", "perspective": "US and international", "title": "Russia builds powerful new radar in Kaliningrad", "url": "https://www.stripes.com/theaters/europe/2026-10-21/russia-kaliningrad-radar-nato-23216406.html"},
-  {"key": "2026-10-30|l14", "date": "2026-10-30", "topic": "Kaliningrad and Belarus daily monitor", "outlet": "Baltic Monitor", "perspective": "OSINT and trackers", "title": "Issue of 22 October: Su-30 crash, no troop movement reported", "url": "https://baltic-monitor.com/en/issues/2026-10-22/"},
-  {"key": "2026-10-30|l15", "date": "2026-10-30", "topic": "Drone in Lithuania", "outlet": "Notes from Poland", "perspective": "Central Europe", "title": "Lithuania says Ukrainian drone entered its airspace from Poland", "url": "https://notesfrompoland.com/2026/10/19/lithuania-says-ukrainian-drone-that-struck-car-entered-its-airspace-from-poland/"},
-  {"key": "2026-10-30|l16", "date": "2026-10-30", "topic": "Drone in Lithuania", "outlet": "EADaily", "perspective": "Russian state-aligned", "title": "Russian framing of the Lithuania drone incident", "url": "https://eadaily.com/en/news/2026/10/19/nato-country-has-opened-the-sky-for-ukrainian-drones-recognition-of-the-prime-minister-of-lithuania"},
-  {"key": "2026-10-30|l17", "date": "2026-10-30", "topic": "Airspace violations", "outlet": "Global Military tracker", "perspective": "OSINT and trackers", "title": "European airspace violations tracker", "url": "https://www.globalmilitary.net/conflicts/european-airspace/"},
-  {"key": "2026-10-30|l18", "date": "2026-10-30", "topic": "Belarus drill", "outlet": "Euromaidan Press", "perspective": "Ukrainian", "title": "CSTO drill in a Belarusian region bordering two NATO states", "url": "https://euromaidanpress.com/2026/10/12/peacekeepers-riot-police-and-drone-crews-russias-bloc-rehearses-an-operation-in-a-belarusian-oblast-bordering-two-nato-states/"},
-  {"key": "2026-10-30|l19", "date": "2026-10-30", "topic": "Latvia border", "outlet": "Euronews", "perspective": "US and international", "title": "Latvia's border guard seeks greater powers amid violent crossings", "url": "https://www.euronews.com/2026/10/09/latvias-border-guard-seeks-greater-powers-amid-increasingly-violent-border-crossings"},
-  {"key": "2026-10-30|l20", "date": "2026-10-30", "topic": "GPS jamming", "outlet": "MR East", "perspective": "Central Europe", "title": "Russia jams GPS across Poland's Baltic coast", "url": "https://www.mreast.eu/2026/08/russia-jams-gps-across-polands-baltic-coast/"},
-  {"key": "2026-10-30|l21", "date": "2026-10-30", "topic": "GPS jamming", "outlet": "TechRadar", "perspective": "US and international", "title": "NATO to buy GPS jammers for training", "url": "https://www.techradar.com/pro/nato-jammers-will-block-out-gps-for-miles-around-and-they-could-be-the-secret-weapon-in-the-next-big-conflict"},
-  {"key": "2026-10-30|l22", "date": "2026-10-30", "topic": "Intelligence assessments", "outlet": "Breaking Defense", "perspective": "Nordic", "title": "Danish intelligence: hybrid attacks likely to increase", "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment/"},
-  {"key": "2026-10-30|l23", "date": "2026-10-30", "topic": "Intelligence assessments", "outlet": "CNN", "perspective": "US and international", "title": "US intel assesses Putin could test NATO unity", "url": "https://edition.cnn.com/2026/08/07/politics/us-intelligence-russia-putin-nato-attack"},
-  {"key": "2026-10-30|l24", "date": "2026-10-30", "topic": "Intelligence assessments", "outlet": "Estonian Foreign Intelligence Service", "perspective": "Baltic", "title": "International Security and Estonia 2026", "url": "https://raport.valisluureamet.ee/2026/en/summary/"},
-  {"key": "2026-10-30|l25", "date": "2026-10-30", "topic": "Russian rhetoric", "outlet": "The Moscow Times (Reuters)", "perspective": "Russian independent", "title": "Moscow sends nuclear warning to NATO over Kaliningrad", "url": "https://www.themoscowtimes.com/2026/09/30/moscow-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic-a93828"},
-  {"key": "2026-10-30|l26", "date": "2026-10-30", "topic": "Russian rhetoric", "outlet": "Izvestia", "perspective": "Russian state-aligned", "title": "Zakharova calls US troop plans in the Baltics an escalation", "url": "https://en.iz.ru/en/2180774/2026-10-08/zakharova-called-us-plans-deploy-troops-baltic-states-escalation"},
-  {"key": "2026-10-30|l27", "date": "2026-10-30", "topic": "Mobilization", "outlet": "Foreign Policy", "perspective": "US and international", "title": "Russia's next mobilization is already happening", "url": "https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/"},
-  {"key": "2026-10-30|l28", "date": "2026-10-30", "topic": "Mobilization", "outlet": "Bloomberg", "perspective": "US and international", "title": "Lithuania sends troops to border over mobilization concern", "url": "https://www.bloomberg.com/news/articles/2026-10-08/lithuania-sends-troops-to-border-over-putin-mobilization-concern"},
-  {"key": "2026-10-30|l29", "date": "2026-10-30", "topic": "Hospital beds", "outlet": "Militarnyi", "perspective": "Ukrainian", "title": "Russia plans 16,000–20,000 hospital beds near the Baltic states", "url": "https://militarnyi.com/en/news/russia-plans-16-000-20-000-hospital-beds-for-wounded-soldiers-near-the-baltic-states/"},
-  {"key": "2026-10-30|l30", "date": "2026-10-30", "topic": "Belarus infrastructure claim", "outlet": "United24 Media", "perspective": "Ukrainian", "title": "BELPOL: Belarus builds infrastructure toward NATO borders", "url": "https://united24media.com/war-in-ukraine/belarus-modernizes-infrastructure-for-russian-aggression-near-nato-borders-by-2027-23460"},
-  {"key": "2026-10-30|l31", "date": "2026-10-30", "topic": "Finland border build-up", "outlet": "The War Zone", "perspective": "US and international", "title": "Finland plans a million landmines as Russia rebuilds near its border", "url": "https://www.twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms"}
+ {
+  "key": "2026-10-30|l01",
+  "date": "2026-10-30",
+  "topic": "Pentagon rhetoric request",
+  "outlet": "Military Times (Reuters)",
+  "perspective": "US and international",
+  "title": "Pentagon tells Europeans to cool their rhetoric on Russia",
+  "url": "https://www.militarytimes.com/pentagon/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/"
+ },
+ {
+  "key": "2026-10-30|l02",
+  "date": "2026-10-30",
+  "topic": "Pentagon rhetoric request",
+  "outlet": "Irish Times (Reuters)",
+  "perspective": "US and international",
+  "title": "US tells Europeans to cool their rhetoric on Russia",
+  "url": "https://www.irishtimes.com/world/europe/2026/10/30/us-tells-europeans-to-cool-their-rhetoric-on-russia/"
+ },
+ {
+  "key": "2026-10-30|l03",
+  "date": "2026-10-30",
+  "topic": "Pentagon rhetoric request",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Pentagon urges Baltic NATO allies to tone down rhetoric about Russia",
+  "url": "https://meduza.io/en/news/2026/10/30/pentagon-urges-baltic-nato-allies-to-tone-down-rhetoric-about-russia-citing-remarks-likening-putin-to-a-rat-in-a-corner"
+ },
+ {
+  "key": "2026-10-30|l04",
+  "date": "2026-10-30",
+  "topic": "Pentagon rhetoric request",
+  "outlet": "TVP World",
+  "perspective": "Central Europe",
+  "title": "Pentagon urges Baltic states to tone down rhetoric on Russia",
+  "url": "https://tvpworld.com/96212451/pentagon-urges-baltic-states-to-tone-down-rhetoric-on-russia"
+ },
+ {
+  "key": "2026-10-30|l05",
+  "date": "2026-10-30",
+  "topic": "NATO commander in Latvia",
+  "outlet": "BNN (LETA)",
+  "perspective": "Baltic",
+  "title": "NATO supreme commander on what the Baltic states must prepare for",
+  "url": "https://bnn-news.com/baltics/nato-supreme-commander-reveals-what-the-baltic-states-must-prepare-for-amid-russian-threats-d4c9b76"
+ },
+ {
+  "key": "2026-10-30|l06",
+  "date": "2026-10-30",
+  "topic": "German EW monitoring",
+  "outlet": "Reform.news",
+  "perspective": "Russian independent",
+  "title": "German brigade in Lithuania to monitor Belarus and Kaliningrad",
+  "url": "https://reform.news/en/german-brigade-in-lithuania-to-monitor-military-activity-in-belarus-and-kaliningrad-region/"
+ },
+ {
+  "key": "2026-10-30|l07",
+  "date": "2026-10-30",
+  "topic": "German EW monitoring",
+  "outlet": "UNN",
+  "perspective": "Ukrainian",
+  "title": "German brigade will monitor Kaliningrad and Belarus with EW equipment",
+  "url": "https://unn.ua/en/amp/the-german-brigade-in-lithuania-will-monitor-kaliningrad-and-belarus-using-electronic-warfare-systems"
+ },
+ {
+  "key": "2026-10-30|l08",
+  "date": "2026-10-30",
+  "topic": "Sabotage arrests",
+  "outlet": "US News (Reuters)",
+  "perspective": "US and international",
+  "title": "German police arrest two suspected of planning sabotage for Russia",
+  "url": "https://www.usnews.com/news/world/articles/2026-10-28/german-police-arrest-two-suspected-of-planning-sabotage-attacks-for-russia-spiegel-says"
+ },
+ {
+  "key": "2026-10-30|l09",
+  "date": "2026-10-30",
+  "topic": "Sabotage arrests",
+  "outlet": "The Insider",
+  "perspective": "Russian independent",
+  "title": "Germany detains two Belarusians suspected of sabotage on Russia's behalf",
+  "url": "https://theins.press/en/news/298911"
+ },
+ {
+  "key": "2026-10-30|l10",
+  "date": "2026-10-30",
+  "topic": "Sabotage arrests",
+  "outlet": "Kyiv Post (AFP)",
+  "perspective": "Ukrainian",
+  "title": "Two Belarusian men held in Germany over alleged sabotage plot",
+  "url": "https://www.kyivpost.com/post/88522"
+ },
+ {
+  "key": "2026-10-30|l11",
+  "date": "2026-10-30",
+  "topic": "Baltiysk cargo ships",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Military equipment loading spotted on another ship in Kaliningrad",
+  "url": "https://militarnyi.com/en/news/military-equipment-loading-spotted-on-another-ship-in-kaliningrad-region/"
+ },
+ {
+  "key": "2026-10-30|l12",
+  "date": "2026-10-30",
+  "topic": "Baltiysk cargo ships",
+  "outlet": "The Insider",
+  "perspective": "Russian independent",
+  "title": "OSINT analysts spot Russian cargo ships loading military vehicles",
+  "url": "https://theins.press/en/news/298618"
+ },
+ {
+  "key": "2026-10-30|l13",
+  "date": "2026-10-30",
+  "topic": "Kaliningrad radar",
+  "outlet": "Stars and Stripes",
+  "perspective": "US and international",
+  "title": "Russia builds powerful new radar in Kaliningrad",
+  "url": "https://www.stripes.com/theaters/europe/2026-10-21/russia-kaliningrad-radar-nato-23216406.html"
+ },
+ {
+  "key": "2026-10-30|l14",
+  "date": "2026-10-30",
+  "topic": "Kaliningrad and Belarus daily monitor",
+  "outlet": "Baltic Monitor",
+  "perspective": "OSINT and trackers",
+  "title": "Issue of 22 October: Su-30 crash, no troop movement reported",
+  "url": "https://baltic-monitor.com/en/issues/2026-10-22/"
+ },
+ {
+  "key": "2026-10-30|l15",
+  "date": "2026-10-30",
+  "topic": "Drone in Lithuania",
+  "outlet": "Notes from Poland",
+  "perspective": "Central Europe",
+  "title": "Lithuania says Ukrainian drone entered its airspace from Poland",
+  "url": "https://notesfrompoland.com/2026/10/19/lithuania-says-ukrainian-drone-that-struck-car-entered-its-airspace-from-poland/"
+ },
+ {
+  "key": "2026-10-30|l16",
+  "date": "2026-10-30",
+  "topic": "Drone in Lithuania",
+  "outlet": "EADaily",
+  "perspective": "Russian state-aligned",
+  "title": "Russian framing of the Lithuania drone incident",
+  "url": "https://eadaily.com/en/news/2026/10/19/nato-country-has-opened-the-sky-for-ukrainian-drones-recognition-of-the-prime-minister-of-lithuania"
+ },
+ {
+  "key": "2026-10-30|l17",
+  "date": "2026-10-30",
+  "topic": "Airspace violations",
+  "outlet": "Global Military tracker",
+  "perspective": "OSINT and trackers",
+  "title": "European airspace violations tracker",
+  "url": "https://www.globalmilitary.net/conflicts/european-airspace/"
+ },
+ {
+  "key": "2026-10-30|l18",
+  "date": "2026-10-30",
+  "topic": "Belarus drill",
+  "outlet": "Euromaidan Press",
+  "perspective": "Ukrainian",
+  "title": "CSTO drill in a Belarusian region bordering two NATO states",
+  "url": "https://euromaidanpress.com/2026/10/12/peacekeepers-riot-police-and-drone-crews-russias-bloc-rehearses-an-operation-in-a-belarusian-oblast-bordering-two-nato-states/"
+ },
+ {
+  "key": "2026-10-30|l19",
+  "date": "2026-10-30",
+  "topic": "Latvia border",
+  "outlet": "Euronews",
+  "perspective": "US and international",
+  "title": "Latvia's border guard seeks greater powers amid violent crossings",
+  "url": "https://www.euronews.com/2026/10/09/latvias-border-guard-seeks-greater-powers-amid-increasingly-violent-border-crossings"
+ },
+ {
+  "key": "2026-10-30|l20",
+  "date": "2026-10-30",
+  "topic": "GPS jamming",
+  "outlet": "MR East",
+  "perspective": "Central Europe",
+  "title": "Russia jams GPS across Poland's Baltic coast",
+  "url": "https://www.mreast.eu/2026/08/russia-jams-gps-across-polands-baltic-coast/"
+ },
+ {
+  "key": "2026-10-30|l21",
+  "date": "2026-10-30",
+  "topic": "GPS jamming",
+  "outlet": "TechRadar",
+  "perspective": "US and international",
+  "title": "NATO to buy GPS jammers for training",
+  "url": "https://www.techradar.com/pro/nato-jammers-will-block-out-gps-for-miles-around-and-they-could-be-the-secret-weapon-in-the-next-big-conflict"
+ },
+ {
+  "key": "2026-10-30|l22",
+  "date": "2026-10-30",
+  "topic": "Intelligence assessments",
+  "outlet": "Breaking Defense",
+  "perspective": "Nordic",
+  "title": "Danish intelligence: hybrid attacks likely to increase",
+  "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment/"
+ },
+ {
+  "key": "2026-10-30|l23",
+  "date": "2026-10-30",
+  "topic": "Intelligence assessments",
+  "outlet": "CNN",
+  "perspective": "US and international",
+  "title": "US intel assesses Putin could test NATO unity",
+  "url": "https://edition.cnn.com/2026/08/07/politics/us-intelligence-russia-putin-nato-attack"
+ },
+ {
+  "key": "2026-10-30|l24",
+  "date": "2026-10-30",
+  "topic": "Intelligence assessments",
+  "outlet": "Estonian Foreign Intelligence Service",
+  "perspective": "Baltic",
+  "title": "International Security and Estonia 2026",
+  "url": "https://raport.valisluureamet.ee/2026/en/summary/"
+ },
+ {
+  "key": "2026-10-30|l25",
+  "date": "2026-10-30",
+  "topic": "Russian rhetoric",
+  "outlet": "The Moscow Times (Reuters)",
+  "perspective": "Russian independent",
+  "title": "Moscow sends nuclear warning to NATO over Kaliningrad",
+  "url": "https://www.themoscowtimes.com/2026/09/30/moscow-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic-a93828"
+ },
+ {
+  "key": "2026-10-30|l26",
+  "date": "2026-10-30",
+  "topic": "Russian rhetoric",
+  "outlet": "Izvestia",
+  "perspective": "Russian state-aligned",
+  "title": "Zakharova calls US troop plans in the Baltics an escalation",
+  "url": "https://en.iz.ru/en/2180774/2026-10-08/zakharova-called-us-plans-deploy-troops-baltic-states-escalation"
+ },
+ {
+  "key": "2026-10-30|l27",
+  "date": "2026-10-30",
+  "topic": "Mobilization",
+  "outlet": "Foreign Policy",
+  "perspective": "US and international",
+  "title": "Russia's next mobilization is already happening",
+  "url": "https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/"
+ },
+ {
+  "key": "2026-10-30|l28",
+  "date": "2026-10-30",
+  "topic": "Mobilization",
+  "outlet": "Bloomberg",
+  "perspective": "US and international",
+  "title": "Lithuania sends troops to border over mobilization concern",
+  "url": "https://www.bloomberg.com/news/articles/2026-10-08/lithuania-sends-troops-to-border-over-putin-mobilization-concern"
+ },
+ {
+  "key": "2026-10-30|l29",
+  "date": "2026-10-30",
+  "topic": "Hospital beds",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Russia plans 16,000–20,000 hospital beds near the Baltic states",
+  "url": "https://militarnyi.com/en/news/russia-plans-16-000-20-000-hospital-beds-for-wounded-soldiers-near-the-baltic-states/"
+ },
+ {
+  "key": "2026-10-30|l30",
+  "date": "2026-10-30",
+  "topic": "Belarus infrastructure claim",
+  "outlet": "United24 Media",
+  "perspective": "Ukrainian",
+  "title": "BELPOL: Belarus builds infrastructure toward NATO borders",
+  "url": "https://united24media.com/war-in-ukraine/belarus-modernizes-infrastructure-for-russian-aggression-near-nato-borders-by-2027-23460"
+ },
+ {
+  "key": "2026-10-30|l31",
+  "date": "2026-10-30",
+  "topic": "Finland border build-up",
+  "outlet": "The War Zone",
+  "perspective": "US and international",
+  "title": "Finland plans a million landmines as Russia rebuilds near its border",
+  "url": "https://www.twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms"
+ },
+ {
+  "key": "2026-10-31|l01",
+  "date": "2026-10-31",
+  "topic": "Pentagon report: Estonian reaction",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Estonian prime minister refuses to tone down rhetoric on Russia despite U.S. requests",
+  "url": "https://meduza.io/en/news/2026/10/30/estonian-prime-minister-refuses-to-tone-down-rhetoric-on-russia-despite-u-s-requests-putin-is-a-dictator-who-kills-women-and-children"
+ },
+ {
+  "key": "2026-10-31|l02",
+  "date": "2026-10-31",
+  "topic": "Pentagon report: Estonian reaction",
+  "outlet": "RBC-Ukraine",
+  "perspective": "Ukrainian",
+  "title": "Estonia responds to reports that Pentagon urged to tone down rhetoric toward Russia",
+  "url": "https://newsukraine.rbc.ua/news/estonian-pm-pushes-back-against-pentagon-1793369898.html"
+ },
+ {
+  "key": "2026-10-31|l03",
+  "date": "2026-10-31",
+  "topic": "Pentagon report: Baltic coverage",
+  "outlet": "LSM",
+  "perspective": "Baltic",
+  "title": "Report: U.S. pressures Baltics not to say nasty things about Russia",
+  "url": "https://eng.lsm.lv/article/politics/diplomacy/30.10.2026-report-us-pressures-baltics-not-to-say-nasty-things-about-russia.a669926/"
+ },
+ {
+  "key": "2026-10-31|l04",
+  "date": "2026-10-31",
+  "topic": "Pentagon report: Baltic coverage",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Pentagon urges Baltic states to tone down rhetoric on Russia – media",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3098101/pentagon-urges-baltic-states-to-tone-down-rhetoric-on-russia-media"
+ },
+ {
+  "key": "2026-10-31|l05",
+  "date": "2026-10-31",
+  "topic": "Pentagon report",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Pentagon Tells Baltic NATO Allies to 'Don't Make Noise' on Russia as US Reviews Troop Presence in Europe",
+  "url": "https://www.kyivpost.com/post/88647"
+ },
+ {
+  "key": "2026-10-31|l06",
+  "date": "2026-10-31",
+  "topic": "Pentagon report: Kremlin reaction",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Kremlin describes Baltic states' rhetoric as hysterically aggressive",
+  "url": "https://tass.com/politics/2210883"
+ },
+ {
+  "key": "2026-10-31|l07",
+  "date": "2026-10-31",
+  "topic": "Pentagon report: Russian state framing",
+  "outlet": "RT",
+  "perspective": "Russian state-aligned",
+  "title": "Pentagon tells Baltic hawks to stop 'poking' Russia",
+  "url": "https://rt-english.com/news/648136-pentagon-baltics-stop-poking-russia/"
+ },
+ {
+  "key": "2026-10-31|l08",
+  "date": "2026-10-31",
+  "topic": "Starlink arson network",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Two German citizens arrested over suspected Starlink equipment arson attempt in Vilnius",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3097187/two-german-citizens-arrested-over-suspected-starlink-equipment-arson-attempt-in-vilnius"
+ },
+ {
+  "key": "2026-10-31|l09",
+  "date": "2026-10-31",
+  "topic": "Starlink arson network",
+  "outlet": "The Insider",
+  "perspective": "Russian independent",
+  "title": "Lithuanian police connect Starlink arson attacks in three EU countries to the same group",
+  "url": "https://theins.press/en/news/298977"
+ },
+ {
+  "key": "2026-10-31|l10",
+  "date": "2026-10-31",
+  "topic": "Starlink arson network",
+  "outlet": "The Insider",
+  "perspective": "Russian independent",
+  "title": "Turkey detains 85 gang members linked to Russian-ordered Starlink arson in Poland",
+  "url": "https://theins.press/en/news/298876"
+ },
+ {
+  "key": "2026-10-31|l11",
+  "date": "2026-10-31",
+  "topic": "Starlink arson network",
+  "outlet": "Turkish Minute",
+  "perspective": "US and international",
+  "title": "Turkey detains 85 in raids on gang suspected in Poland Starlink sabotage",
+  "url": "https://www.turkishminute.com/2026/10/27/turkey-detains-85-in-raids-on-gang-suspected-in-poland-starlink-sabotage/?r=1"
+ },
+ {
+  "key": "2026-10-31|l12",
+  "date": "2026-10-31",
+  "topic": "Kaliningrad blackout",
+  "outlet": "Kyiv Independent",
+  "perspective": "Ukrainian",
+  "title": "Power outages hit Russia's Kaliningrad Oblast, explosions reported in Ufa amid drone alerts",
+  "url": "https://kyivindependent.com/power-outages-hit-russias-kaliningrad-oblast-explosions-reported-in-ufa-amid-drone-alerts/"
+ },
+ {
+  "key": "2026-10-31|l13",
+  "date": "2026-10-31",
+  "topic": "Kaliningrad blackout",
+  "outlet": "EADaily",
+  "perspective": "Russian state-aligned",
+  "title": "Part of the equipment was turned off at the Kaliningrad CHP-2",
+  "url": "https://eadaily.com/en/news/2026/10/31/part-of-the-equipment-was-turned-off-at-the-kaliningrad-chp-2"
+ },
+ {
+  "key": "2026-10-31|l14",
+  "date": "2026-10-31",
+  "topic": "US pressure on potash transit",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "US pressures Lithuania to reopen port for Belarusian potash exports – Politico",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3098186/us-pressures-lithuania-to-reopen-port-for-belarusian-potash-exports-politico"
+ },
+ {
+  "key": "2026-10-31|l15",
+  "date": "2026-10-31",
+  "topic": "Putin on war with Europe",
+  "outlet": "Yahoo News (The Telegraph)",
+  "perspective": "US and international",
+  "title": "Putin: Russia is prepared for war with Europe",
+  "url": "https://yahoo.com/news/world/articles/putin-russia-prepared-war-europe-185651190.html"
+ },
+ {
+  "key": "2026-10-31|l16",
+  "date": "2026-10-31",
+  "topic": "Putin on the Nordic call",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Putin Says Nordic Leaders Were Right to Call Him, Despite EU Criticism",
+  "url": "https://www.kyivpost.com/post/88604"
+ },
+ {
+  "key": "2026-10-31|l17",
+  "date": "2026-10-31",
+  "topic": "NATO pullback claim",
+  "outlet": "Hromadske",
+  "perspective": "Ukrainian",
+  "title": "Russia may demand NATO military pullback to 1997 levels in Ukraine peace talks - Telegraph",
+  "url": "https://hromadske.ua/en/amp/war/273178-russia-may-demand-nato-military-pullback-to-1997-levels-in-ukraine-peace-talks-telegraph"
+ },
+ {
+  "key": "2026-10-31|l18",
+  "date": "2026-10-31",
+  "topic": "Belarus drone relays",
+  "outlet": "Bytes Europe",
+  "perspective": "US and international",
+  "title": "Ukraine Alleges Belarus Resumed Relaying Russian Drones",
+  "url": "https://www.byteseu.com/2480303/"
+ },
+ {
+  "key": "2026-10-31|l19",
+  "date": "2026-10-31",
+  "topic": "Lithuanian conscription",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Lithuania to introduce universal military conscription in 2032, president says",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3097267/lithuania-to-introduce-universal-military-conscription-in-2032-president-says"
+ },
+ {
+  "key": "2026-10-31|l20",
+  "date": "2026-10-31",
+  "topic": "Anti-drone funding",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "LRT News in English (headline: Brussels rejects Baltic states' €500 million anti-drone request)",
+  "url": "https://www.lrt.lt/en/news-in-english"
+ },
+ {
+  "key": "2026-10-31|l21",
+  "date": "2026-10-31",
+  "topic": "US troops in Lithuania",
+  "outlet": "Stars and Stripes",
+  "perspective": "US and international",
+  "title": "US troop rotation arrives in Lithuania as Pentagon reviews Europe posture",
+  "url": "https://www.stripes.com/branches/army/2026-10-15/lithuania-us-troop-deployment-23160843.html"
+ },
+ {
+  "key": "2026-10-31|l22",
+  "date": "2026-10-31",
+  "topic": "ISW daily assessment",
+  "outlet": "Kyiv Post (ISW)",
+  "perspective": "OSINT and trackers",
+  "title": "ISW Russian Offensive Campaign Assessment, October 30, 2026",
+  "url": "https://www.kyivpost.com/post/88722"
+ },
+ {
+  "key": "2026-10-31|l23",
+  "date": "2026-10-31",
+  "topic": "Disinformation narrative on the Baltics",
+  "outlet": "EUvsDisinfo",
+  "perspective": "US and international",
+  "title": "DISINFO: Following Ukraine's defeat, Brussels is now preparing to set the Baltics on fire",
+  "url": "https://euvsdisinfo.eu/report/following-ukraines-defeat-brussels-is-now-preparing-to-set-the-baltics-on-fire/"
+ },
+ {
+  "key": "2026-10-31|l24",
+  "date": "2026-10-31",
+  "topic": "Fact-checker check (nothing new on the Baltics)",
+  "outlet": "Gwara Media",
+  "perspective": "Ukrainian",
+  "title": "Gwara Media: Kharkiv News Today",
+  "url": "https://gwaramedia.com/en/"
+ },
+ {
+  "key": "2026-10-31|l25",
+  "date": "2026-10-31",
+  "topic": "Commentary-tier check (nothing new since 1 October)",
+  "outlet": "Robert Lansing Institute",
+  "perspective": "Commentary",
+  "title": "From Article 5 to Two Brigades: Czechia Prepares for the Defense of the Baltics",
+  "url": "https://lansinginstitute.org/2026/10/01/from-article-5-to-two-brigades-czechia-prepares-for-the-defense-of-the-baltics/"
+ }
 ]

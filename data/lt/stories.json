@@ -1,8 +1,132 @@
 [
-  {"key": "2026-10-30|pentagon", "date": "2026-10-30", "order": 1, "title": "Pentagonas paprašė Baltijos šalių sušvelninti įspėjimus apie Rusiją", "summary": "Reuters, remdamasi trimis Europos pareigūnais ir vienu JAV pareigūnu, praneša, kad Pentagono pareigūnai, tarp jų politikos vadovas Elbridge'as Colby, pastarosiomis savaitėmis paprašė Lietuvos, Latvijos, Estijos ir kitų šalių nuosaikiau kalbėti apie Rusijos grėsmę. Kaip pavyzdys minėtas Estijos premjero Kristeno Michalo palyginimas, kad Putinas – į kampą įvaryta žiurkė. Pentagonas privačių pokalbių nekomentuoja; Baltijos šalių gynybos ministerijos neatsakė.", "evidence": "Anoniminiai šaltiniai", "corroboration": "Vienas pirminis pranešimas (Reuters). Dešimtys leidinių jį pakartojo – tai didina sklaidą, bet ne patikimumą.", "analysis": "Patikimas leidinys ir keli šaltiniai, bet oficialiai niekas nepatvirtino. Reuters cituojamas Europos pareigūnas atkreipė dėmesį į ironiją: Baltijos šalių žvalgybos tarnybos yra vienos ramiausių. Tai dera su JAV siekiu derybomis baigti karą, įskaitant sankcijų Rusijai švelninimą. Verta laukti oficialių Baltijos šalių atsakymų."},
-  {"key": "2026-10-30|saceur", "date": "2026-10-30", "order": 2, "title": "Aukščiausiasis NATO vadas Latvijoje: grėsmė reali, bet nereikia jos sureikšminti", "summary": "Aukščiausiasis NATO pajėgų Europoje vadas generolas Alexusas Grynkewichius Latvijoje žurnalistams sakė, kad karas Ukrainoje rodo Rusijos pasirengimą naudoti jėgą, kad Aljansas jau pasirengęs esamoms grėsmėms ir kad svarbiausia yra atsparumas ir pasirengimas.", "evidence": "Oficialus pareiškimas", "corroboration": "Pranešė LETA ir Baltijos šalių žiniasklaida.", "analysis": "Ramus, bet budrus tonas, atitinkantis Baltijos šalių žvalgybos vertinimus. Pastebėtina, kad šią savaitę NATO karinė vadovybė ir Pentagono politinė žinia kalba ta pačia kryptimi."},
-  {"key": "2026-10-30|germanew", "date": "2026-10-30", "order": 3, "title": "Vokiečių brigada pradėjo radioelektroninę Karaliaučiaus ir Baltarusijos stebėseną", "summary": "Bundesvero kibernetinės ir informacinės erdvės vadas spalio 28 d. Reuters sakė, kad nuo spalio 23 d. iki gruodžio 7 d. Lietuvoje dislokuota apie 170 radioelektroninės kovos specialistų. Jie perima signalus, kad iš anksto įspėtų apie karinę veiklą Karaliaučiaus srityje ir Baltarusijoje.", "evidence": "Oficialus pareiškimas", "corroboration": "Reuters, patvirtino Bundesveras ir Vokietijos žemės ministerija.", "analysis": "Sustiprina NATO ankstyvojo įspėjimo vaizdą būtent ten, kur ši apžvalga mato mažiausiai. Tai taip pat reiškia, kad ateityje žinia „nieko nepranešta“ iš šio sektoriaus turės didesnį svorį."},
-  {"key": "2026-10-30|sabotage", "date": "2026-10-30", "order": 4, "title": "Sulaikymai dėl sabotažo Vokietijoje, Lenkijoje ir Rumunijoje", "summary": "Miuncheno prokurorai teigia, kad du baltarusiai (39 ir 50 metų) nuo spalio 7 d. suimti dėl planų už atlygį užsienio valstybės užsakymu padegti infrastruktūrą prie Niurnbergo. Der Spiegel, remdamasis saugumo šaltiniais, nurodo, kad ta valstybė – Rusija. Rumunija juos sieja su rugsėjo 14 d. gaisru gynybos gamykloje Brašove; Varšuvoje sulaikytas ukrainietis.", "evidence": "Oficialu (prokurorai) ir žiniasklaidos priskyrimas", "corroboration": "Prokurorai, Rumunijos žvalgyba ir keli nepriklausomi leidiniai.", "analysis": "Prokurorai Rusijos neįvardijo; kaltė priskiriama remiantis saugumo šaltiniais ir Rumunijos žvalgyba. Modelis – pigūs verbuotojai iš trečiųjų šalių, apmokami už vienkartines užduotis – atitinka Leipcigo drono bylą, dėl kurios Vokietija oficialiai apkaltino Rusijos karinę žvalgybą. Maskva visus tokius kaltinimus neigia."},
-  {"key": "2026-10-30|baltiysk", "date": "2026-10-30", "order": 5, "title": "Baltijske ketvirtas Rusijos krovininis laivas krauna šarvuotą techniką", "summary": "Spalio 23 d. palydovinėse nuotraukose matyti krovininis laivas Lady R Baltijsko karinėje bazėje ir pakrauti laukianti šarvuota bei logistikos technika. Spalio 15–16 d. panašią techniką pasikrovė dar trys laivai.", "evidence": "Palydovinės nuotraukos (OSINT)", "corroboration": "Dvi OSINT grupės; pranešė Ukrainos ir nepriklausoma Rusijos žiniasklaida.", "analysis": "Pakrovimas užfiksuotas, paskirties vieta – ne. Šie sankcionuoti laivai anksčiau aprūpindavo Rusijos Afrikos korpusą per Tobruką Libijoje. Technika, išvežama iš Karaliaučiaus, mažintų, o ne didintų vietinius pajėgumus. Vaizdo įrašai, pristatantys tai kaip pasiruošimą invazijai iš Karaliaučiaus, gerokai peržengia įrodymus."},
-  {"key": "2026-10-30|mobilization", "date": "2026-10-30", "order": 6, "title": "Rusijos mobilizacija: dekreto nėra, bet šaukimas nesiliauja", "summary": "Foreign Policy teigia, kad Rusija teisiškai mobilizuota nuo 2022 m., o nuo sausio vykdo šaukimą visus metus, todėl naujo paskelbimo gali ir nebūti. CNN praneša apie prievartinį pažeidžiamų vyrų verbavimą.", "evidence": "Analizė ir interviu", "corroboration": "Sutampa skirtinguose nepriklausomuose leidiniuose.", "analysis": "Ankstesnės Ukrainos prognozės apie oficialią mobilizaciją nuo spalio dekretu neišsipildė. Žmonės, panašu, siunčiami į Ukrainos frontą. Nėra ženklų, kad Baltijos kryptimi būtų formuojami nauji daliniai."}
+ {
+  "key": "2026-10-30|pentagon",
+  "date": "2026-10-30",
+  "order": 1,
+  "title": "Pentagonas paprašė Baltijos šalių sušvelninti įspėjimus apie Rusiją",
+  "summary": "Reuters, remdamasi trimis Europos pareigūnais ir vienu JAV pareigūnu, praneša, kad Pentagono pareigūnai, tarp jų politikos vadovas Elbridge'as Colby, pastarosiomis savaitėmis paprašė Lietuvos, Latvijos, Estijos ir kitų šalių nuosaikiau kalbėti apie Rusijos grėsmę. Kaip pavyzdys minėtas Estijos premjero Kristeno Michalo palyginimas, kad Putinas – į kampą įvaryta žiurkė. Pentagonas privačių pokalbių nekomentuoja; Baltijos šalių gynybos ministerijos neatsakė.",
+  "evidence": "Anoniminiai šaltiniai",
+  "corroboration": "Vienas pirminis pranešimas (Reuters). Dešimtys leidinių jį pakartojo – tai didina sklaidą, bet ne patikimumą.",
+  "analysis": "Patikimas leidinys ir keli šaltiniai, bet oficialiai niekas nepatvirtino. Reuters cituojamas Europos pareigūnas atkreipė dėmesį į ironiją: Baltijos šalių žvalgybos tarnybos yra vienos ramiausių. Tai dera su JAV siekiu derybomis baigti karą, įskaitant sankcijų Rusijai švelninimą. Verta laukti oficialių Baltijos šalių atsakymų."
+ },
+ {
+  "key": "2026-10-30|saceur",
+  "date": "2026-10-30",
+  "order": 2,
+  "title": "Aukščiausiasis NATO vadas Latvijoje: grėsmė reali, bet nereikia jos sureikšminti",
+  "summary": "Aukščiausiasis NATO pajėgų Europoje vadas generolas Alexusas Grynkewichius Latvijoje žurnalistams sakė, kad karas Ukrainoje rodo Rusijos pasirengimą naudoti jėgą, kad Aljansas jau pasirengęs esamoms grėsmėms ir kad svarbiausia yra atsparumas ir pasirengimas.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė LETA ir Baltijos šalių žiniasklaida.",
+  "analysis": "Ramus, bet budrus tonas, atitinkantis Baltijos šalių žvalgybos vertinimus. Pastebėtina, kad šią savaitę NATO karinė vadovybė ir Pentagono politinė žinia kalba ta pačia kryptimi."
+ },
+ {
+  "key": "2026-10-30|germanew",
+  "date": "2026-10-30",
+  "order": 3,
+  "title": "Vokiečių brigada pradėjo radioelektroninę Karaliaučiaus ir Baltarusijos stebėseną",
+  "summary": "Bundesvero kibernetinės ir informacinės erdvės vadas spalio 28 d. Reuters sakė, kad nuo spalio 23 d. iki gruodžio 7 d. Lietuvoje dislokuota apie 170 radioelektroninės kovos specialistų. Jie perima signalus, kad iš anksto įspėtų apie karinę veiklą Karaliaučiaus srityje ir Baltarusijoje.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Reuters, patvirtino Bundesveras ir Vokietijos žemės ministerija.",
+  "analysis": "Sustiprina NATO ankstyvojo įspėjimo vaizdą būtent ten, kur ši apžvalga mato mažiausiai. Tai taip pat reiškia, kad ateityje žinia „nieko nepranešta“ iš šio sektoriaus turės didesnį svorį."
+ },
+ {
+  "key": "2026-10-30|sabotage",
+  "date": "2026-10-30",
+  "order": 4,
+  "title": "Sulaikymai dėl sabotažo Vokietijoje, Lenkijoje ir Rumunijoje",
+  "summary": "Miuncheno prokurorai teigia, kad du baltarusiai (39 ir 50 metų) nuo spalio 7 d. suimti dėl planų už atlygį užsienio valstybės užsakymu padegti infrastruktūrą prie Niurnbergo. Der Spiegel, remdamasis saugumo šaltiniais, nurodo, kad ta valstybė – Rusija. Rumunija juos sieja su rugsėjo 14 d. gaisru gynybos gamykloje Brašove; Varšuvoje sulaikytas ukrainietis.",
+  "evidence": "Oficialu (prokurorai) ir žiniasklaidos priskyrimas",
+  "corroboration": "Prokurorai, Rumunijos žvalgyba ir keli nepriklausomi leidiniai.",
+  "analysis": "Prokurorai Rusijos neįvardijo; kaltė priskiriama remiantis saugumo šaltiniais ir Rumunijos žvalgyba. Modelis – pigūs verbuotojai iš trečiųjų šalių, apmokami už vienkartines užduotis – atitinka Leipcigo drono bylą, dėl kurios Vokietija oficialiai apkaltino Rusijos karinę žvalgybą. Maskva visus tokius kaltinimus neigia."
+ },
+ {
+  "key": "2026-10-30|baltiysk",
+  "date": "2026-10-30",
+  "order": 5,
+  "title": "Baltijske ketvirtas Rusijos krovininis laivas krauna šarvuotą techniką",
+  "summary": "Spalio 23 d. palydovinėse nuotraukose matyti krovininis laivas Lady R Baltijsko karinėje bazėje ir pakrauti laukianti šarvuota bei logistikos technika. Spalio 15–16 d. panašią techniką pasikrovė dar trys laivai.",
+  "evidence": "Palydovinės nuotraukos (OSINT)",
+  "corroboration": "Dvi OSINT grupės; pranešė Ukrainos ir nepriklausoma Rusijos žiniasklaida.",
+  "analysis": "Pakrovimas užfiksuotas, paskirties vieta – ne. Šie sankcionuoti laivai anksčiau aprūpindavo Rusijos Afrikos korpusą per Tobruką Libijoje. Technika, išvežama iš Karaliaučiaus, mažintų, o ne didintų vietinius pajėgumus. Vaizdo įrašai, pristatantys tai kaip pasiruošimą invazijai iš Karaliaučiaus, gerokai peržengia įrodymus."
+ },
+ {
+  "key": "2026-10-30|mobilization",
+  "date": "2026-10-30",
+  "order": 6,
+  "title": "Rusijos mobilizacija: dekreto nėra, bet šaukimas nesiliauja",
+  "summary": "Foreign Policy teigia, kad Rusija teisiškai mobilizuota nuo 2022 m., o nuo sausio vykdo šaukimą visus metus, todėl naujo paskelbimo gali ir nebūti. CNN praneša apie prievartinį pažeidžiamų vyrų verbavimą.",
+  "evidence": "Analizė ir interviu",
+  "corroboration": "Sutampa skirtinguose nepriklausomuose leidiniuose.",
+  "analysis": "Ankstesnės Ukrainos prognozės apie oficialią mobilizaciją nuo spalio dekretu neišsipildė. Žmonės, panašu, siunčiami į Ukrainos frontą. Nėra ženklų, kad Baltijos kryptimi būtų formuojami nauji daliniai."
+ },
+ {
+  "key": "2026-10-31|pentagon-reaction",
+  "date": "2026-10-31",
+  "order": 1,
+  "title": "Estija nepasiduoda pranešimams apie Pentagono prašymą švelninti toną",
+  "summary": "Reuters pranešus, kad Pentagono pareigūnai paprašė Baltijos šalių sušvelninti įspėjimus apie Rusiją, Estijos premjeras Kristenas Michalas Delfi sakė, kad nesivaržys, ir pavadino Putiną diktatoriumi, žudančiu moteris ir vaikus. Užsienio reikalų ministras Margusas Tsahkna teigė, kad JAV oficialaus pasiūlymo nepateikė; ministerijos kancleris Jonatanas Vseviovas sakė nežinantis apie jokį oficialų prašymą. Estijos gynybos ministerija atsisakė komentuoti anoniminiais šaltiniais grįstus pranešimus. Lietuva ir Latvija nekomentavo.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Estijos pareiškimai per Delfi, ERR ir LSM; pats prašymas tebėra žinomas tik iš Reuters.",
+  "analysis": "Estijos atsakymai ne visai sutampa: ministerija neigia oficialų prašymą, o premjeras sako, kad sąjungininkai prašo Estiją santūriau kalbėti. Abu teiginiai gali būti teisingi, jei spaudimas buvo neformalus – būtent taip jį aprašė Reuters. Pastebėtina Lietuvos ir Latvijos tyla."
+ },
+ {
+  "key": "2026-10-31|starlink",
+  "date": "2026-10-31",
+  "order": 2,
+  "title": "Padegimai prieš „Starlink“ Lietuvoje, Bulgarijoje ir Lenkijoje susieti su vienu tinklu",
+  "summary": "Spalio 29 d. Lietuvos policija pranešė, kad du maždaug dvidešimties metų vyrai, dvigubą pilietybę turintys Vokietijos piliečiai, gyvenantys Vokietijoje, įtariami sudarę teroristinę grupę ir spalio 18 d. bandę padegti Vilniaus duomenų centrą, kuriame laikoma „Starlink“ įranga. Jie sulaikyti Vokietijoje pagal Bulgarijos orderį dėl spalio 9 d. gaisro netoli Sofijos. Policija teigia, kad su jais susijęs ir rugsėjo 23 d. išpuolis prieš „Starlink“ stotį Lenkijoje. Spalio 27 d. Turkija per reidus prieš nusikalstamą gaują, įtariamą dėl išpuolio Lenkijoje, sulaikė 85 asmenis.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Lietuvos, Lenkijos ir Turkijos institucijos; LRT, The Insider, Turkish Minute ir kiti.",
+  "analysis": "Tarpvalstybinis ryšys dabar oficialus. Ryšį su Rusija teigia Lenkijos specialiųjų tarnybų ministras ir Lietuvos premjeras, o žiniasklaida praneša, kad tariamas gaujos lyderis gyvena globojamas Rusijoje; Lietuvos policija teigia, kad motyvas dar nenustatytas. Taikiniai palaiko Ukrainos ryšius, o tai atitinka kitur matytą pigaus sabotažo per tarpininkus modelį."
+ },
+ {
+  "key": "2026-10-31|blackout",
+  "date": "2026-10-31",
+  "order": 3,
+  "title": "Karaliaučiaus sritį naktį ištiko elektros dingimas visame regione",
+  "summary": "Apie spalio 31 d. vidurnaktį elektra dingo Karaliaučiuje ir tokiuose miestuose kaip Gvardeiskas, Svetlogorskas ir Bagrationovskas, sutriko mobilusis internetas. Gubernatoriaus atstovas spaudai teigė, kad TEC-2 elektrinės avarinė automatika išjungė dalį įrangos, o apkrova buvo perskirstyta; elektra atkuriama etapais.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Rusijos regiono valdžia; Kyiv Independent ir UNN teigia, kad priežasties patikrinti nepavyko.",
+  "analysis": "Kol kas niekas neprieštarauja techniniam paaiškinimui, ir nėra jokių išpuolio ar karinės veiklos ženklų. Antraštės, teigiančios, kad priežastis nežinoma, aplenkia įrodymus priešinga kryptimi. Verta stebėti tik tuo atveju, jei elektros dingimai kartosis."
+ },
+ {
+  "key": "2026-10-31|potash",
+  "date": "2026-10-31",
+  "order": 4,
+  "title": "Pranešimas: JAV spaudžia Lietuvą leisti baltarusiškų trąšų tranzitą per Klaipėdą",
+  "summary": "Politico, remdamasis keturiais Europos pareigūnais, praneša, kad JAV specialusis pasiuntinys Baltarusijai Johnas Coale'as teiravosi Lietuvos diplomatų apie apribojimų baltarusiškoms kalio trąšoms, kurias ES sankcijos draudžia per ES uostus, švelninimą. Užsienio reikalų ministras Kęstutis Budrys sakė, kad sankcijos draudžia ir importą, ir tranzitą; nacionalinio saugumo patarėjas Deividas Matulionis įspėjo apie teisines ir finansines pasekmes.",
+  "evidence": "Anoniminiai šaltiniai",
+  "corroboration": "Vienas pirminis pranešimas (Politico), perduotas LRT; Lietuvos atsakymai – oficialūs.",
+  "analysis": "Lietuvos atsisakymas oficialus, o pats JAV prašymas – ne. Kartu su Pentagono istorija tai rodo, kad Vašingtonas spaudžia Baltijos šalių pozicijas, siekdamas susitarimo, į kurį įtraukti Minskas ir Maskva. Valstybės departamentas neatsakė."
+ },
+ {
+  "key": "2026-10-31|putin-europe",
+  "date": "2026-10-31",
+  "order": 5,
+  "title": "Putinas: pasirengę karui su Europa, bet jo nenorime",
+  "summary": "Spalio 29 d., po Suomijos prezidento Alexanderio Stubbo ir Norvegijos premjero Jonaso Gahro Støre inicijuoto pokalbio, Putinas pareiškė, kad Rusija nenori karo su Europa, kad tokiame kare nebūtų nugalėtojų ir kad Rusija pasirengusi, jei kiti jam ruošiasi. Danijos premjerė Mette Frederiksen į pokalbį žvelgė skeptiškai. FT pranešė, kad Putinas didžiąją pokalbio dalį kalbėjo apie istoriją; Støre tai ginčija.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Kremliaus pareiškimus perdavė TASS, Telegraph, Kyiv Post ir Bloomberg.",
+  "analysis": "Pažįstama, nuo 2025 m. gruodžio kartojama linija: nuraminimas kartu su įspėjimu. Ji nekeičia įrodymų vaizdo, kuris rodo besitęsiantį hibridinį spaudimą. FT ir Støre nesutarimas dėl to, kas buvo pasakyta per pokalbį, neišspręstas."
+ },
+ {
+  "key": "2026-10-31|nato-1997",
+  "date": "2026-10-31",
+  "order": 6,
+  "title": "Telegraph: Maskva gali reikalauti NATO atsitraukti iki 1997 m. linijų",
+  "summary": "The Telegraph, remdamasis neįvardytais diplomatiniais šaltiniais, pranešė, kad Rusija taikos derybose turėtų siekti sumažinti NATO karinį buvimą Rytų Europoje iki 1997 m. lygio, o tai galėtų reikšti sąjungininkų karių pasitraukimą iš Lenkijos, Baltijos šalių ir Suomijos. Vienas Europos pareigūnas sakė, kad ši pozicija tokia pati kaip 2022 m. sausį. Rusija sutiko kitą mėnesį Abu Dabyje dalyvauti JAV tarpininkaujamose derybose su Ukraina.",
+  "evidence": "Anoniminiai šaltiniai",
+  "corroboration": "Vienas pirminis pranešimas (Telegraph), plačiai pakartotas Ukrainos ir kitų leidinių.",
+  "analysis": "Jokio pareigūno nepatvirtinta. Tai dera su 2021 m. gruodžio Rusijos reikalavimais, todėl tikėtina, bet oficialiai nepaskelbta. Atkreiptinas dėmesys į prieštaravimą: spalio 29 d. Kremlius atmetė europiečių dalyvavimą Abu Dabio derybų etape, o Telegraph teigia, kad Maskva nori europiečių prie derybų stalo."
+ },
+ {
+  "key": "2026-10-31|conscription",
+  "date": "2026-10-31",
+  "order": 7,
+  "title": "Lietuva 2032 m. įves visuotinę šauktinių tarnybą",
+  "summary": "Po spalio 29 d. Valstybės gynimo tarybos posėdžio prezidentas Gitanas Nausėda paskelbė, kad visuotinė šauktinių tarnyba prasidės 2032 m., o kasmetinis šaukimas išaugs nuo daugiau nei 5 000 iki maždaug 7 500. Vyriausybė norėjo anksčiau, tačiau kariuomenė teigė, kad jai reikia laiko parengti instruktorius ir pastatyti būstą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT ir BNS.",
+  "analysis": "Ilgalaikė atsparumo priemonė, o ne reakcija į artėjančią grėsmę. Verta atkreipti dėmesį į atotrūkį tarp vyriausybės norimo tempo ir kariuomenės pasirengimo."
+ }
 ]

@@ -1,7 +1,82 @@
 [
-  {"key": "2026-10-30|airspace", "date": "2026-10-30", "order": 1, "metric": "Airspace incidents", "value": 0, "note": "No new violation or drone incursion into Baltic, Polish or Finnish airspace reported in the last 24 hours. The latest was the 18 October drone in Lithuania."},
-  {"key": "2026-10-30|sabotage", "date": "2026-10-30", "order": 2, "metric": "Sabotage cases", "value": 1, "note": "One case newly reported: arrests in Germany and Poland linked to the Brașov defence plant arson and a planned attack near Nuremberg."},
-  {"key": "2026-10-30|jamming", "date": "2026-10-30", "order": 3, "metric": "GPS jamming reports", "value": 0, "note": "No new official report in the last 24 hours. Interference itself remains persistent in the background."},
-  {"key": "2026-10-30|border", "date": "2026-10-30", "order": 4, "metric": "Border incidents", "value": 0, "note": "No new provocation reported at Baltic, Polish or Finnish borders in the last 24 hours."},
-  {"key": "2026-10-30|threats", "date": "2026-10-30", "order": 5, "metric": "Official Russian threats", "value": 0, "note": "No new explicit threat against NATO or the Baltic states by a senior Russian official in the last 24 hours."}
+ {
+  "key": "2026-10-30|airspace",
+  "date": "2026-10-30",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "No new violation or drone incursion into Baltic, Polish or Finnish airspace reported in the last 24 hours. The latest was the 18 October drone in Lithuania."
+ },
+ {
+  "key": "2026-10-30|sabotage",
+  "date": "2026-10-30",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One case newly reported: arrests in Germany and Poland linked to the Brașov defence plant arson and a planned attack near Nuremberg."
+ },
+ {
+  "key": "2026-10-30|jamming",
+  "date": "2026-10-30",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "No new official report in the last 24 hours. Interference itself remains persistent in the background."
+ },
+ {
+  "key": "2026-10-30|border",
+  "date": "2026-10-30",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "No new provocation reported at Baltic, Polish or Finnish borders in the last 24 hours."
+ },
+ {
+  "key": "2026-10-30|threats",
+  "date": "2026-10-30",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "No new explicit threat against NATO or the Baltic states by a senior Russian official in the last 24 hours."
+ },
+ {
+  "key": "2026-10-31|airspace",
+  "date": "2026-10-31",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "No new violation or drone incursion into Baltic, Polish or Finnish airspace reported."
+ },
+ {
+  "key": "2026-10-31|sabotage",
+  "date": "2026-10-31",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One case: the Starlink arson network spanning Lithuania, Bulgaria and Poland, with terrorism suspicions announced in Vilnius on 29 October and 85 detentions in Turkey on 27 October (not covered in yesterday's edition)."
+ },
+ {
+  "key": "2026-10-31|jamming",
+  "date": "2026-10-31",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "No new official or major media report of GNSS interference; the interference itself remains persistent."
+ },
+ {
+  "key": "2026-10-31|border",
+  "date": "2026-10-31",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "No new provocation reported at Baltic, Polish or Finnish borders with Russia or Belarus."
+ },
+ {
+  "key": "2026-10-31|threats",
+  "date": "2026-10-31",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None. Peskov's criticism of Baltic rhetoric and Putin's statement that Russia is ready for but does not want war with Europe are not explicit threats."
+ }
 ]

@@ -1,8 +1,132 @@
 [
-  {"key": "2026-10-30|pentagon", "date": "2026-10-30", "order": 1, "title": "Pentagon asked the Baltic states to tone down warnings about Russia", "summary": "Reuters, citing three European officials and one US official, reports that Pentagon officials including policy chief Elbridge Colby asked Lithuania, Latvia, Estonia and others in recent weeks to moderate public statements about the Russian threat. One example cited was Estonian PM Kristen Michal calling Putin a rat in a corner. The Pentagon said it won't comment on private conversations; the Baltic defence ministries did not respond.", "evidence": "Anonymous sources", "corroboration": "One original report (Reuters). Dozens of outlets repeated it, which adds reach, not corroboration.", "analysis": "Credible outlet and several sources, but nothing on the record yet. A European official quoted by Reuters pointed out the irony: Baltic intelligence services have been among the calmer voices. It fits the US push for a negotiated end to the war that includes sanctions relief for Russia. Watch for on-the-record Baltic responses."},
-  {"key": "2026-10-30|saceur", "date": "2026-10-30", "order": 2, "title": "NATO's top commander in Latvia: the threat is real, but no need to dramatise", "summary": "General Alexus Grynkewich, NATO's Supreme Allied Commander Europe, told journalists in Latvia that Russia's war in Ukraine shows its willingness to use force, that the alliance is already prepared for existing threats, and that resilience and preparedness are what matter.", "evidence": "Official statement, on the record", "corroboration": "Reported by LETA and Baltic outlets.", "analysis": "Calm but vigilant, in line with Baltic intelligence assessments. Notable that NATO's military leadership and the Pentagon's political message point in the same direction this week."},
-  {"key": "2026-10-30|germanew", "date": "2026-10-30", "order": 3, "title": "German brigade starts electronic surveillance of Kaliningrad and Belarus", "summary": "The head of the Bundeswehr's Cyber and Information Domain Command told Reuters on 28 October that about 170 electronic-warfare personnel are deployed in Lithuania from 23 October to 7 December, intercepting signals to give early warning of military activity in Kaliningrad and Belarus.", "evidence": "Official statement, on the record", "corroboration": "Reuters, confirmed by Bundeswehr and a German state ministry.", "analysis": "Strengthens NATO's early-warning picture right where this briefing has the least visibility. It also means that in future, 'nothing reported' from this sector carries more weight."},
-  {"key": "2026-10-30|sabotage", "date": "2026-10-30", "order": 4, "title": "Sabotage arrests in Germany, Poland and Romania", "summary": "Munich prosecutors say two Belarusian men, aged 39 and 50, have been in custody since 7 October for plotting to set fire to infrastructure near Nuremberg on behalf of a foreign power, for payment. Der Spiegel, citing security sources, says that power is Russia. Romania links the same men to the 14 September arson at a Brașov defence plant; a Ukrainian was arrested in Warsaw.", "evidence": "Official (prosecutors) plus press attribution", "corroboration": "Prosecutors, Romanian intelligence and several independent outlets.", "analysis": "Prosecutors did not name Russia; the attribution comes from security sources and Romania's intelligence service. The pattern, cheap recruits from third countries paid for one-off jobs, matches the Leipzig drone case that Germany formally blamed on Russian military intelligence. Moscow denies all such accusations."},
-  {"key": "2026-10-30|baltiysk", "date": "2026-10-30", "order": 5, "title": "Fourth Russian cargo ship loads armour at Baltiysk", "summary": "Satellite images from 23 October show the cargo ship Lady R at the Baltiysk naval base with armoured and logistics vehicles waiting to load, after three other ships loaded similar equipment on 15–16 October.", "evidence": "Satellite imagery (OSINT)", "corroboration": "Two OSINT groups; reported by Ukrainian and Russian independent outlets.", "analysis": "The loading is documented, the destination is not. These sanctioned ships have previously supplied Russia's Africa Corps via Tobruk in Libya. Equipment leaving Kaliningrad would reduce local capacity, not build it up. Videos framing this as a Kaliningrad invasion go well beyond the evidence."},
-  {"key": "2026-10-30|mobilization", "date": "2026-10-30", "order": 6, "title": "Russia's mobilization: no decree, but call-ups never stopped", "summary": "Foreign Policy argues that Russia has been legally mobilized since 2022 and has run a year-round draft since January, so a new announcement may never come. CNN reports coercive recruitment of vulnerable men.", "evidence": "Analysis and interviews", "corroboration": "Consistent across independent outlets.", "analysis": "Earlier Ukrainian predictions of a formal mobilization from October have not come true as a decree. The manpower appears to go to the Ukraine front. No sign of new units being formed toward the Baltic direction."}
+ {
+  "key": "2026-10-30|pentagon",
+  "date": "2026-10-30",
+  "order": 1,
+  "title": "Pentagon asked the Baltic states to tone down warnings about Russia",
+  "summary": "Reuters, citing three European officials and one US official, reports that Pentagon officials including policy chief Elbridge Colby asked Lithuania, Latvia, Estonia and others in recent weeks to moderate public statements about the Russian threat. One example cited was Estonian PM Kristen Michal calling Putin a rat in a corner. The Pentagon said it won't comment on private conversations; the Baltic defence ministries did not respond.",
+  "evidence": "Anonymous sources",
+  "corroboration": "One original report (Reuters). Dozens of outlets repeated it, which adds reach, not corroboration.",
+  "analysis": "Credible outlet and several sources, but nothing on the record yet. A European official quoted by Reuters pointed out the irony: Baltic intelligence services have been among the calmer voices. It fits the US push for a negotiated end to the war that includes sanctions relief for Russia. Watch for on-the-record Baltic responses."
+ },
+ {
+  "key": "2026-10-30|saceur",
+  "date": "2026-10-30",
+  "order": 2,
+  "title": "NATO's top commander in Latvia: the threat is real, but no need to dramatise",
+  "summary": "General Alexus Grynkewich, NATO's Supreme Allied Commander Europe, told journalists in Latvia that Russia's war in Ukraine shows its willingness to use force, that the alliance is already prepared for existing threats, and that resilience and preparedness are what matter.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Reported by LETA and Baltic outlets.",
+  "analysis": "Calm but vigilant, in line with Baltic intelligence assessments. Notable that NATO's military leadership and the Pentagon's political message point in the same direction this week."
+ },
+ {
+  "key": "2026-10-30|germanew",
+  "date": "2026-10-30",
+  "order": 3,
+  "title": "German brigade starts electronic surveillance of Kaliningrad and Belarus",
+  "summary": "The head of the Bundeswehr's Cyber and Information Domain Command told Reuters on 28 October that about 170 electronic-warfare personnel are deployed in Lithuania from 23 October to 7 December, intercepting signals to give early warning of military activity in Kaliningrad and Belarus.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Reuters, confirmed by Bundeswehr and a German state ministry.",
+  "analysis": "Strengthens NATO's early-warning picture right where this briefing has the least visibility. It also means that in future, 'nothing reported' from this sector carries more weight."
+ },
+ {
+  "key": "2026-10-30|sabotage",
+  "date": "2026-10-30",
+  "order": 4,
+  "title": "Sabotage arrests in Germany, Poland and Romania",
+  "summary": "Munich prosecutors say two Belarusian men, aged 39 and 50, have been in custody since 7 October for plotting to set fire to infrastructure near Nuremberg on behalf of a foreign power, for payment. Der Spiegel, citing security sources, says that power is Russia. Romania links the same men to the 14 September arson at a Brașov defence plant; a Ukrainian was arrested in Warsaw.",
+  "evidence": "Official (prosecutors) plus press attribution",
+  "corroboration": "Prosecutors, Romanian intelligence and several independent outlets.",
+  "analysis": "Prosecutors did not name Russia; the attribution comes from security sources and Romania's intelligence service. The pattern, cheap recruits from third countries paid for one-off jobs, matches the Leipzig drone case that Germany formally blamed on Russian military intelligence. Moscow denies all such accusations."
+ },
+ {
+  "key": "2026-10-30|baltiysk",
+  "date": "2026-10-30",
+  "order": 5,
+  "title": "Fourth Russian cargo ship loads armour at Baltiysk",
+  "summary": "Satellite images from 23 October show the cargo ship Lady R at the Baltiysk naval base with armoured and logistics vehicles waiting to load, after three other ships loaded similar equipment on 15–16 October.",
+  "evidence": "Satellite imagery (OSINT)",
+  "corroboration": "Two OSINT groups; reported by Ukrainian and Russian independent outlets.",
+  "analysis": "The loading is documented, the destination is not. These sanctioned ships have previously supplied Russia's Africa Corps via Tobruk in Libya. Equipment leaving Kaliningrad would reduce local capacity, not build it up. Videos framing this as a Kaliningrad invasion go well beyond the evidence."
+ },
+ {
+  "key": "2026-10-30|mobilization",
+  "date": "2026-10-30",
+  "order": 6,
+  "title": "Russia's mobilization: no decree, but call-ups never stopped",
+  "summary": "Foreign Policy argues that Russia has been legally mobilized since 2022 and has run a year-round draft since January, so a new announcement may never come. CNN reports coercive recruitment of vulnerable men.",
+  "evidence": "Analysis and interviews",
+  "corroboration": "Consistent across independent outlets.",
+  "analysis": "Earlier Ukrainian predictions of a formal mobilization from October have not come true as a decree. The manpower appears to go to the Ukraine front. No sign of new units being formed toward the Baltic direction."
+ },
+ {
+  "key": "2026-10-31|pentagon-reaction",
+  "date": "2026-10-31",
+  "order": 1,
+  "title": "Estonia pushes back on reported Pentagon request to soften its tone",
+  "summary": "After Reuters reported that Pentagon officials asked the Baltic states to tone down warnings about Russia, Estonian PM Kristen Michal told Delfi he would not hold back and called Putin a dictator who kills women and children. Foreign Minister Margus Tsahkna said the US made no official proposal; ministry secretary general Jonatan Vseviov said he knew of no official request. Estonia's defence ministry declined to comment on anonymous-source reporting. Lithuania and Latvia have not commented.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Estonian statements via Delfi, ERR and LSM; Reuters remains the only source for the request itself.",
+  "analysis": "The Estonian answers do not fully line up: the foreign ministry denies any official request, while the prime minister says allies are asking Estonia to hold back. Both can be true if the pressure was informal, which is what Reuters described. Lithuanian and Latvian silence is notable."
+ },
+ {
+  "key": "2026-10-31|starlink",
+  "date": "2026-10-31",
+  "order": 2,
+  "title": "One network linked to Starlink arson attacks in Lithuania, Bulgaria and Poland",
+  "summary": "Lithuanian police said on 29 October that two men in their early 20s, dual German citizens living in Germany, are suspected of forming a terrorist group and of the 18 October arson attempt at a Vilnius data centre storing Starlink equipment. They were detained in Germany on a Bulgarian warrant over a 9 October fire near Sofia. Police say the 23 September attack on a Starlink station in Poland is linked to them. Turkey detained 85 people on 27 October in raids on a crime gang suspected in the Polish attack.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Lithuanian, Polish and Turkish authorities; LRT, The Insider, Turkish Minute and others.",
+  "analysis": "The cross-border link is now official. The Russian link is stated by Poland's intelligence minister and Lithuania's prime minister, and press reports say the gang's alleged leader lives under Russian protection; Lithuanian police say the motive is not yet established. The targets support Ukraine's communications, which fits the pattern of cheap proxy sabotage seen elsewhere."
+ },
+ {
+  "key": "2026-10-31|blackout",
+  "date": "2026-10-31",
+  "order": 3,
+  "title": "Region-wide blackout in Kaliningrad overnight",
+  "summary": "Around midnight on 31 October power went out in Kaliningrad and towns including Gvardeysk, Svetlogorsk and Bagrationovsk, and mobile internet was disrupted. The governor's press secretary said emergency automation at the CHP-2 power plant shut down part of the equipment and the load was redistributed; power is being restored in stages.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Russian regional authorities; Kyiv Independent and UNN say the cause could not be verified.",
+  "analysis": "Nothing so far contradicts the technical explanation, and there is no sign of an attack or of military activity. Headlines saying the cause is unknown run ahead of the evidence in the other direction. Worth watching only if outages repeat."
+ },
+ {
+  "key": "2026-10-31|potash",
+  "date": "2026-10-31",
+  "order": 4,
+  "title": "Report: US presses Lithuania to let Belarusian potash through Klaipėda",
+  "summary": "Politico, citing four European officials, reports that US special envoy to Belarus John Coale has asked Lithuanian diplomats about easing restrictions on Belarusian potash, which EU sanctions bar from EU ports. Foreign Minister Kęstutis Budrys said the sanctions ban both imports and transit; national security adviser Deividas Matulionis warned of legal and financial consequences.",
+  "evidence": "Anonymous sources",
+  "corroboration": "One original report (Politico), relayed by LRT; Lithuanian responses on the record.",
+  "analysis": "Lithuania's refusal is on the record; the US request itself is not. Together with the Pentagon story, it suggests Washington is leaning on Baltic positions as it seeks a deal involving Minsk and Moscow. The State Department did not respond."
+ },
+ {
+  "key": "2026-10-31|putin-europe",
+  "date": "2026-10-31",
+  "order": 5,
+  "title": "Putin: ready for war with Europe but does not want one",
+  "summary": "On 29 October, after a call initiated by Finnish President Alexander Stubb and Norwegian PM Jonas Gahr Støre, Putin said Russia does not want war with Europe, that such a war would have no winners, and that Russia is ready if others prepare for one. Danish PM Mette Frederiksen was sceptical of the call. The FT reported Putin spent much of it on history; Støre disputes that.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Kremlin remarks reported by TASS, the Telegraph, Kyiv Post and Bloomberg.",
+  "analysis": "A familiar line, repeated from December 2025: reassurance paired with a warning. It does not change the evidence picture, which shows continuing hybrid pressure. The disagreement between the FT and Støre about what was said on the call is unresolved."
+ },
+ {
+  "key": "2026-10-31|nato-1997",
+  "date": "2026-10-31",
+  "order": 6,
+  "title": "Telegraph: Moscow may demand NATO pullback to 1997 lines",
+  "summary": "The Telegraph, citing unnamed diplomatic sources, reported that Russia is expected to seek a reduction of NATO's military presence in Eastern Europe to 1997 levels in peace talks, which could mean allied troops leaving Poland, the Baltic states and Finland. A European official said the position is the same as in January 2022. Russia has agreed to US-mediated talks with Ukraine in Abu Dhabi next month.",
+  "evidence": "Anonymous sources",
+  "corroboration": "One original report (Telegraph), widely repeated by Ukrainian and other outlets.",
+  "analysis": "Not confirmed by any official. It is consistent with Russia's December 2021 demands, which makes it plausible, but it has not been formally announced. Note the tension with the Kremlin's 29 October statement ruling out European participation in the Abu Dhabi round, while the Telegraph says Moscow wants Europeans at the table."
+ },
+ {
+  "key": "2026-10-31|conscription",
+  "date": "2026-10-31",
+  "order": 7,
+  "title": "Lithuania to introduce universal conscription in 2032",
+  "summary": "After a State Defence Council meeting on 29 October, President Gitanas Nausėda said universal conscription will start in 2032, raising the annual intake from over 5,000 to about 7,500. The government wanted it sooner, but the military said it needs time to train instructors and build housing.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "LRT and BNS.",
+  "analysis": "A long-term resilience measure, not a reaction to an imminent threat. The gap between the government's preferred pace and the army's readiness is worth noting."
+ }
 ]

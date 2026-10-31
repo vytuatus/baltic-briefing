@@ -1,12 +1,22 @@
 [
-  {
-    "date": "2026-10-30",
-    "headline": "No public sign that Russia is preparing a conventional attack on the Baltic states. Hybrid pressure (sabotage, GPS jamming, drones and border provocations) remains high and active.",
-    "conventional": "Low",
-    "conventional_note": "Nothing reported on troop massing, field hospitals or blood supplies moving toward Baltic borders. Estonia's intelligence service sees no intention to attack NATO this year; Danish and US intelligence see a low but growing risk of a limited test.",
-    "hybrid": "High",
-    "hybrid_note": "Sabotage arrests in Germany, Poland and Romania this week, persistent GPS jamming around Kaliningrad, and armed escorts pushing migrants at the Latvia–Belarus border earlier this month.",
-    "changed": "First edition, so there is no previous day to compare against. From tomorrow this section lists only what is new, rising or easing.",
-    "bottom_line": "The gap between alarm and evidence is today's main story. The most-shared item, Reuters' report that the Pentagon asked the Baltic states to tone down their warnings about Russia, rests on four anonymous sources; dozens of outlets repeating it add reach, not corroboration. Meanwhile the physical signs that would come before a conventional attack are absent from public reporting. The realistic near-term risk is a deniable, limited incident (a drone, sabotage, a border provocation) rather than an invasion. Danish intelligence warned that Russia might blame weapons landing on NATO soil on Ukrainian jamming, which is worth keeping in mind when reading drone stories like the one in Lithuania on 18 October."
-  }
+ {
+  "date": "2026-10-30",
+  "headline": "No public sign that Russia is preparing a conventional attack on the Baltic states. Hybrid pressure (sabotage, GPS jamming, drones and border provocations) remains high and active.",
+  "conventional": "Low",
+  "conventional_note": "Nothing reported on troop massing, field hospitals or blood supplies moving toward Baltic borders. Estonia's intelligence service sees no intention to attack NATO this year; Danish and US intelligence see a low but growing risk of a limited test.",
+  "hybrid": "High",
+  "hybrid_note": "Sabotage arrests in Germany, Poland and Romania this week, persistent GPS jamming around Kaliningrad, and armed escorts pushing migrants at the Latvia–Belarus border earlier this month.",
+  "changed": "First edition, so there is no previous day to compare against. From tomorrow this section lists only what is new, rising or easing.",
+  "bottom_line": "The gap between alarm and evidence is today's main story. The most-shared item, Reuters' report that the Pentagon asked the Baltic states to tone down their warnings about Russia, rests on four anonymous sources; dozens of outlets repeating it add reach, not corroboration. Meanwhile the physical signs that would come before a conventional attack are absent from public reporting. The realistic near-term risk is a deniable, limited incident (a drone, sabotage, a border provocation) rather than an invasion. Danish intelligence warned that Russia might blame weapons landing on NATO soil on Ukrainian jamming, which is worth keeping in mind when reading drone stories like the one in Lithuania on 18 October."
+ },
+ {
+  "date": "2026-10-31",
+  "headline": "Estonia refuses on the record to soften its warnings after the Pentagon report, and Lithuanian police tie Starlink arson attempts in three EU countries to one network. Still no public sign of preparations for a conventional attack.",
+  "conventional": "Low",
+  "conventional_note": "No reports of troops massing, field hospitals, blood supplies or equipment trains moving toward Baltic borders. Putin said on 29 October that Russia is ready for but does not want a war with Europe. The overnight blackout in Kaliningrad has an official technical explanation and no sign of military activity.",
+  "hybrid": "High",
+  "hybrid_note": "Lithuania announced terrorism suspicions against two men linked to Starlink arson attempts in Lithuania, Bulgaria and Poland; Poland blames Russian intelligence. GPS jamming remains persistent. No new drone or border incident reported.",
+  "changed": "No change in indicator ratings, so the threat score is unchanged. Incident counts: one sabotage case (the Starlink arson network, announced 27–29 October and not covered in yesterday's edition), zero in the other four metrics. New: Estonia's prime minister publicly rejected calls to tone down criticism of Russia, Peskov called Baltic rhetoric hysterically aggressive, Politico reported US pressure on Lithuania to let Belarusian potash through Klaipėda, and Kaliningrad had a region-wide blackout overnight.",
+  "bottom_line": "The evidence still points to hybrid pressure, not preparation for invasion. The Starlink case is the most substantial new development: prosecutors in three countries have linked the attacks, and the Russian connection rests on a Polish minister's attribution and on reports that a Turkish gang's leader lives under Russian protection, while Lithuanian police say the motive is not yet established. The Pentagon story has moved from anonymous sourcing to on-the-record Baltic reactions, but those reactions disagree: Estonia's foreign minister says there was no official request, while its prime minister says allies are asking Estonia to hold back. Read together with the Politico potash report, the picture is US pressure on Baltic positions as part of a push for a deal with Moscow; both reports rely on anonymous European officials. The Kaliningrad blackout drew online speculation about sabotage, but nothing so far contradicts the authorities' explanation of a protection system tripping at a power plant. The Telegraph's report that Moscow will demand a NATO pullback to 1997 lines rests on unnamed diplomatic sources and is not confirmed by any official."
+ }
 ]
