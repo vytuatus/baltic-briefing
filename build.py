@@ -477,6 +477,7 @@ svg text{font-size:11px;fill:var(--muted);font-family:system-ui,sans-serif}svg .
 .legend{display:flex;flex-wrap:wrap;gap:14px;font-size:.8rem;color:var(--muted);margin-top:.6rem}.legend span{display:inline-flex;align-items:center;gap:6px}
 .hist{overflow-x:auto}.hist table{min-width:0;width:auto}.hist td,.hist th{padding:3px;border:0;font-size:.78rem}.hist th{font-weight:400;text-align:center}
 .hist td.lab{padding-right:12px;white-space:nowrap}.cell{display:block;width:2.4rem;height:1.3rem;border-radius:3px;background:var(--grid)}
+.cell.s-quiet{background:var(--ok)}.cell.s-watch{background:var(--muted)}.cell.s-elevated{background:var(--warn)}.cell.s-high{background:var(--bad)}
 .cell.s-quiet,.cell.s-watch{opacity:.6}
 .links{list-style:none;margin:0;padding:0;display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(min(100%,22rem),1fr));font-size:.85rem}
 .links a{color:var(--fg)}.ltopic{display:block;color:var(--muted)}.method li,.method p{font-size:.85rem}.method ul{padding-left:1.1rem;margin:.4rem 0 0}
