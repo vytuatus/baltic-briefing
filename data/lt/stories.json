@@ -128,5 +128,65 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "LRT ir BNS.",
   "analysis": "Ilgalaikė atsparumo priemonė, o ne reakcija į artėjančią grėsmę. Verta atkreipti dėmesį į atotrūkį tarp vyriausybės norimo tempo ir kariuomenės pasirengimo."
+ },
+ {
+  "key": "2026-11-01|pentagon-denials",
+  "date": "2026-11-01",
+  "order": 1,
+  "title": "Lietuva ir Estija teigia negavusios JAV prašymo švelninti įspėjimus",
+  "summary": "Lietuvos krašto apsaugos ministras Robertas Kaunas sakė neturintis informacijos apie JAV prašymą švelninti pareiškimus apie Rusiją ir kad Lietuva kalba remdamasi faktais. Estijos premjeras Kristenas Michalas sakė, kad tokie priekaištai jo tiesiogiai nepasiekė; NATO viršūnių susitikime Ankaroje jis iš JAV girdėjo raginimą daugiau skirti gynybai. Kadenciją baigiantis užsienio reikalų ministerijos kancleris Jonatanas Vseviovas sakė, kad Estija niekada neturėtų svarstyti atsisakyti savo balso dėl Rusijos. Latvija oficialiai vis dar nekomentavo; trijų šalių gynybos ministerijos Reuters neatsakė.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ERR (Estijos ir Lietuvos pareiškimai) ir LSM; pats prašymas vis dar remiasi tik keturiais anoniminiais Reuters šaltiniais.",
+  "analysis": "Paneigimai apima oficialius ar tiesioginius prašymus, o Reuters aprašė neformalius pokalbius su žemesnio nei premjero lygio pareigūnais, todėl abi versijos gali būti teisingos. Michalo komentaras taip pat ne visai dera su vakarykščiu jo ankstesnių žodžių, esą sąjungininkai prašo Estiją santūriau kalbėti, aiškinimu. Teiginį perkėlėme į „Ginčijama“."
+ },
+ {
+  "key": "2026-11-01|border-powers",
+  "date": "2026-11-01",
+  "order": 2,
+  "title": "Estija ir Latvija siekia suteikti pasieniečiams daugiau galių prieš Baltarusijos organizuojamus sienos kirtimus",
+  "summary": "Spalio 30 d. Piusos pasienio užkardoje Estijos vidaus reikalų ministras Igoris Taro sakė, kad Baltijos šalys galėtų laikinai uždaryti pasienio punktus su Baltarusija, kaip tai padarė Lenkija, ir kad Estija svarsto, kiek pasieniečiai gali naudoti jėgą, iki mirtinos. Latvijos vidaus reikalų ministras Jānis Dombrava sakė, kad Latvija pakeitė įstatymą, leidžiantį pasieniečiams naudoti ginklus prieš asmenis, kurie neteisėtai kerta sieną ar gadina pasienio infrastruktūrą. Abu teigė, kad migraciją organizuoja Baltarusijos valdžia.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ERR; LSM apie Latvijos įstatymo pakeitimą pranešė spalio 29 d.",
+  "analysis": "Tai politikos atsakas į mėnesius trunkantį spaudimą, o ne į naują incidentą. Ministrai tikisi, kad žiemą sienos kirtimų sumažės, o pavasarį vėl padaugės. Pasienio punktų uždarymas pakenktų tarpvalstybinei prekybai ir kelionėms, todėl tai dar laukiantis politinis sprendimas."
+ },
+ {
+  "key": "2026-11-01|poland-spy",
+  "date": "2026-11-01",
+  "order": 3,
+  "title": "Rusijos piliečiui, fotografavusiam Lenkijos geležinkelius, pateikti kaltinimai šnipinėjimu",
+  "summary": "Žemutinės Silezijos policija spalio 30 d. Švidnicoje sulaikė 55 metų Rusijos pilietį, profesionalia įranga fotografavusį traukinius ir geležinkelio infrastruktūrą. Tyrėjai paėmė nešiojamuosius kompiuterius, laikmenas, telefonus ir kelis asmens dokumentus bei rado šimtus tūkstančių transporto infrastruktūros nuotraukų, ne tik iš Lenkijos. Jam pateikti kaltinimai veikla užsienio žvalgybos naudai.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Lenkijos policija per RMF24, perdavė Militarnyi, Meduza ir kiti; vienas pirminis šaltinis.",
+  "analysis": "Tarnyba, kuriai jis tariamai dirbo, neįvardyta. Geležinkelių stebėjimas svarbus, nes 2025 m. lapkritį Lenkijos geležinkelis buvo sabotuotas ir yra pagrindinis paramos Ukrainai maršrutas. Sabotažo byla nelaikoma, nes kaltinimas – šnipinėjimas."
+ },
+ {
+  "key": "2026-11-01|roundups",
+  "date": "2026-11-01",
+  "order": 4,
+  "title": "Rusija: pranešimai apie vyrus, gatvėse sulaikomus ir verčiamus pasirašyti kariuomenės sutartis",
+  "summary": "Meduza, remdamasi iStories, Verstka ir žmogaus teisių grupėmis, praneša apie naują artimųjų skundų bangą, kad Omske ir kituose miestuose vyrai sulaikomi ir verčiami pasirašyti sutartis su Gynybos ministerija. Verstka suskaičiavo skundų iš 34 regionų. Apie šią praktiką pirmą kartą pranešta birželį Penzoje.",
+  "evidence": "Analizė",
+  "corroboration": "Keli nepriklausomi Rusijos leidiniai, tačiau dauguma liudijimų – netiesioginiai, iš artimųjų ir aktyvistų; oficialaus patvirtinimo nėra.",
+  "analysis": "Tai atitinka tylaus, visus metus vykstančio verbavimo karui Ukrainoje vaizdą, o ne mobilizaciją prieš NATO. Mobilizacijos rodiklis nesikeičia ir lieka „Stebima“."
+ },
+ {
+  "key": "2026-11-01|talks-europe",
+  "date": "2026-11-01",
+  "order": 5,
+  "title": "Maskva laiko Europą nuošalyje nuo taikos derybų, kartu spausdama NATO",
+  "summary": "ISW spalio 31 d. vertinime teigiama, kad Kremlius ne kartą reikalavo, jog Europos lyderiai nedalyvautų derybose, ir kartu atnaujino raginimą NATO grįžti prie 1997 m. sienų. Lavrovas sakė, kad europiečiai bando įsiprašyti į procesą. Po pokalbio su Suomijos ir Norvegijos vadovais Putinas sakė, kad Rusija nori visaverčių santykių su Europa; Suomijos apklausa parodė, kad trys ketvirtadaliai respondentų pritarė prezidento Stubbo sprendimui paskambinti.",
+  "evidence": "Analizė",
+  "corroboration": "ISW; Yle; Kremliaus pareiškimai, perduoti Rusijos valstybinės žiniasklaidos.",
+  "analysis": "Prieštaravimas glūdi pačios Maskvos pozicijoje: ji nori, kad Europa būtų pašalinta iš derybų, bet nori, kad derybos perrašytų Europos saugumo tvarką. ISW teiginys apie 1997 m. remiasi jo paties ankstesniais vertinimais, o ne nauju pirminiu pareiškimu, todėl dar nepatvirtina Telegraph pranešimo apie oficialų reikalavimą."
+ },
+ {
+  "key": "2026-11-01|nato-presence",
+  "date": "2026-11-01",
+  "order": 6,
+  "title": "NATO minų paieškos laivai lankosi Latvijoje",
+  "summary": "Spalio 30 d. į Liepoją atplaukė du NATO nuolatinės minų paieškos grupės 1 laivai.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Latvijos ginkluotosios pajėgos per LSM.",
+  "analysis": "Įprastas nuolatinės NATO grupės vizitas. Tai nėra reakcija į kokį nors naują Rusijos žingsnį."
  }
 ]

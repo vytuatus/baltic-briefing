@@ -152,5 +152,82 @@
   "conflict": "Lithuanian PM said in September no US request had been received. The State Department did not respond. Lithuanian officials reject the idea on the record.",
   "verdict": "Likely",
   "verdict_note": "Consistent with earlier reporting of US outreach to Minsk; the request itself is not on the record."
+ },
+ {
+  "key": "2026-11-01|pentagon",
+  "date": "2026-11-01",
+  "order": 1,
+  "claim": "The Pentagon asked the Baltic states to tone down their rhetoric on Russia",
+  "claimed_by": "Reuters (four anonymous sources)",
+  "evidence": "Anonymous sources",
+  "conflict": "Lithuania's defence minister says he has no information about such a request. Estonia's PM says no such complaints reached him directly; Estonia's foreign minister and ministry secretary general know of no official request. Pentagon and NATO decline to comment. Latvia silent.",
+  "verdict": "Contested",
+  "verdict_note": "Moved from Likely: two governments now say on the record that no request reached them, though they deny only official or direct requests and Reuters described informal ones."
+ },
+ {
+  "key": "2026-11-01|nato-1997",
+  "date": "2026-11-01",
+  "order": 2,
+  "claim": "Russia will demand a NATO pullback to 1997 lines in peace talks",
+  "claimed_by": "The Telegraph (unnamed diplomatic sources); ISW says the Kremlin has renewed this demand",
+  "evidence": "Anonymous sources",
+  "conflict": "ISW's statement cites its own earlier assessments, not a new primary Russian statement. The Kremlin wants Europeans excluded from the talks, while the Telegraph says Moscow wants them at the table.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Consistent with Russia's long-standing 2021 position, but no Russian official has been shown making it as a formal demand in the current talks."
+ },
+ {
+  "key": "2026-11-01|belarus-migration",
+  "date": "2026-11-01",
+  "order": 3,
+  "claim": "The Belarusian government organises illegal migration into the Baltic states",
+  "claimed_by": "Estonian and Latvian interior ministers (30 October)",
+  "evidence": "Official statement",
+  "conflict": "Minsk has not responded in the available reporting; it has denied such accusations in the past. Armed, masked escorts at Latvia's border in early October support the claim.",
+  "verdict": "Likely",
+  "verdict_note": "Consistent with years of official findings in Poland, Lithuania and Latvia, though direct proof of state direction is rarely published."
+ },
+ {
+  "key": "2026-11-01|poland-spy",
+  "date": "2026-11-01",
+  "order": 4,
+  "claim": "A Russian national arrested in Świdnica was gathering rail intelligence for a foreign service",
+  "claimed_by": "Polish police and prosecutors",
+  "evidence": "Official statement",
+  "conflict": "The intelligence service has not been named and the charge has not been tested in court. No Russian response reported.",
+  "verdict": "Likely",
+  "verdict_note": "A formal charge backed by seized material, but still an accusation; the suspect is presumed innocent."
+ },
+ {
+  "key": "2026-11-01|roundups",
+  "date": "2026-11-01",
+  "order": 5,
+  "claim": "Men are being seized off the streets in Russian cities and pressed to sign army contracts",
+  "claimed_by": "Meduza, iStories, Verstka; relatives and rights groups",
+  "evidence": "Analysis",
+  "conflict": "No official confirmation or response from Russian authorities in the reporting. Most accounts are second-hand.",
+  "verdict": "Likely",
+  "verdict_note": "Several independent outlets and complaints from many regions point the same way."
+ },
+ {
+  "key": "2026-11-01|putin-relations",
+  "date": "2026-11-01",
+  "order": 6,
+  "claim": "Russia wants fully-fledged relations with European countries",
+  "claimed_by": "Putin (29 October)",
+  "evidence": "Official statement",
+  "conflict": "Moscow simultaneously demands that European leaders stay out of peace talks, and European governments blame Russia for an ongoing sabotage campaign.",
+  "verdict": "Disputed",
+  "verdict_note": "A statement of intent that cannot be verified and that Russia's hybrid record contradicts."
+ },
+ {
+  "key": "2026-11-01|lansing-belarus-sabotage",
+  "date": "2026-11-01",
+  "order": 7,
+  "claim": "Belarusian state structures may be coordinating sabotage in Europe alongside Russian intelligence",
+  "claimed_by": "Robert Lansing Institute (commentary)",
+  "evidence": "Unverified claim",
+  "conflict": "The piece itself says state complicity is not established; the only fact behind it is that two suspects detained in Germany are Belarusian citizens. German prosecutors have not named a client.",
+  "verdict": "Unsupported",
+  "verdict_note": "A hypothesis from an outlet that does not disclose its funding; no official or evidence-based source supports Belarusian state involvement."
  }
 ]

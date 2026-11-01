@@ -128,5 +128,65 @@
   "evidence": "Official statement, on the record",
   "corroboration": "LRT and BNS.",
   "analysis": "A long-term resilience measure, not a reaction to an imminent threat. The gap between the government's preferred pace and the army's readiness is worth noting."
+ },
+ {
+  "key": "2026-11-01|pentagon-denials",
+  "date": "2026-11-01",
+  "order": 1,
+  "title": "Lithuania and Estonia say no US request to tone down warnings reached them",
+  "summary": "Lithuanian Defence Minister Robertas Kaunas said he had no information about a US request to soften statements on Russia and that Lithuania bases what it says on facts. Estonian PM Kristen Michal said no such complaints had reached him directly; the US message he heard at the NATO summit in Ankara was to spend more on defence. Outgoing foreign ministry secretary general Jonatan Vseviov said Estonia should never consider giving up its voice on Russia. Latvia has still not commented on the record; the three defence ministries did not answer Reuters.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "ERR (Estonian and Lithuanian statements) and LSM; the request itself still rests only on Reuters' four anonymous sources.",
+  "analysis": "The denials cover official or direct requests, while Reuters described informal conversations with officials below the prime-minister level, so both versions can be true. Michal's comment also sits awkwardly with yesterday's reading of his earlier remarks that allies were asking Estonia to hold back. We have moved the claim to Contested."
+ },
+ {
+  "key": "2026-11-01|border-powers",
+  "date": "2026-11-01",
+  "order": 2,
+  "title": "Estonia and Latvia move to give border guards wider powers against Belarus-organised crossings",
+  "summary": "At the Piusa border station on 30 October, Estonian Interior Minister Igor Taro said Baltic states could close their crossing points with Belarus for a while, as Poland did, and that Estonia is studying how far border guards may use force, up to lethal force. Latvian Interior Minister Jānis Dombrava said Latvia has amended its law so guards can use weapons against people who cross illegally or damage border infrastructure. Both said the Belarusian government organises the migration.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "ERR; LSM reported the Latvian legal change on 29 October.",
+  "analysis": "A policy response to months of pressure, not to a new incident. The ministers expect crossings to ease in winter and rise again in spring. Closing crossings would hit cross-border trade and travel, so whether it happens is a political decision still to be made."
+ },
+ {
+  "key": "2026-11-01|poland-spy",
+  "date": "2026-11-01",
+  "order": 3,
+  "title": "Russian national charged with spying after photographing Polish railways",
+  "summary": "Police in Lower Silesia arrested a 55-year-old Russian national in Świdnica on 30 October while he was photographing trains and rail infrastructure with professional equipment. Investigators seized laptops, drives, phones and several identity documents and found hundreds of thousands of images of transport infrastructure, not only in Poland. He is charged with acting for a foreign intelligence service.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Polish police via RMF24, relayed by Militarnyi, Meduza and others; one original source.",
+  "analysis": "The service he allegedly worked for has not been named. Rail surveillance matters because Poland's railway was sabotaged in November 2025 and is a key route for aid to Ukraine. Not counted as a sabotage case, since the charge is espionage."
+ },
+ {
+  "key": "2026-11-01|roundups",
+  "date": "2026-11-01",
+  "order": 4,
+  "title": "Russia: reports of men seized off the streets to sign army contracts",
+  "summary": "Meduza, drawing on iStories, Verstka and rights groups, reports a new wave of complaints from relatives that men in Omsk and other cities are being detained and pressed to sign Defence Ministry contracts. Verstka counted complaints from 34 regions. The practice was first reported in Penza in June.",
+  "evidence": "Analysis",
+  "corroboration": "Several Russian independent outlets, but most accounts are second-hand from relatives and activists; no official confirmation.",
+  "analysis": "This fits the picture of a quiet, year-round recruitment drive for the Ukraine war rather than a mobilization aimed at NATO. It does not change the mobilization indicator, which stays at Watch."
+ },
+ {
+  "key": "2026-11-01|talks-europe",
+  "date": "2026-11-01",
+  "order": 5,
+  "title": "Moscow keeps Europe out of peace talks while pressing demands on NATO",
+  "summary": "ISW's 31 October assessment says the Kremlin has repeatedly demanded that European leaders stay out of the talks while renewing its call for NATO to return to its 1997 borders. Lavrov said Europeans are trying to squeeze into the process. Putin said after his call with Finland's and Norway's leaders that Russia wants full relations with Europe; a Finnish poll found three quarters of respondents backed President Stubb's decision to call.",
+  "evidence": "Analysis",
+  "corroboration": "ISW; Yle; Kremlin statements reported by Russian state media.",
+  "analysis": "The contradiction is in Moscow's own line: it wants Europe excluded from the talks but wants the talks to rewrite Europe's security arrangements. ISW's 1997 point cites its own earlier assessments rather than a new primary statement, so it does not yet confirm the Telegraph's report of a formal demand."
+ },
+ {
+  "key": "2026-11-01|nato-presence",
+  "date": "2026-11-01",
+  "order": 6,
+  "title": "NATO mine-clearing ships visit Latvia",
+  "summary": "Two ships of NATO's Standing Maritime Mine Countermeasures Group 1 arrived in Liepāja on 30 October.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Latvian armed forces via LSM.",
+  "analysis": "A routine visit by a standing NATO group. It is not a reaction to any new Russian move."
  }
 ]

@@ -152,5 +152,82 @@
   "conflict": "Lietuvos premjeras rugsėjį sakė, kad jokio JAV prašymo negauta. Valstybės departamentas neatsakė. Lietuvos pareigūnai šią idėją oficialiai atmeta.",
   "verdict": "Likely",
   "verdict_note": "Dera su ankstesniais pranešimais apie JAV kontaktus su Minsku; pats prašymas nėra oficialiai patvirtintas."
+ },
+ {
+  "key": "2026-11-01|pentagon",
+  "date": "2026-11-01",
+  "order": 1,
+  "claim": "Pentagonas paprašė Baltijos šalių sušvelninti retoriką apie Rusiją",
+  "claimed_by": "Reuters (keturi anoniminiai šaltiniai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Lietuvos krašto apsaugos ministras teigia neturintis informacijos apie tokį prašymą. Estijos premjeras sako, kad tokie priekaištai jo tiesiogiai nepasiekė; Estijos užsienio reikalų ministras ir ministerijos kancleris nežino apie jokį oficialų prašymą. Pentagonas ir NATO atsisako komentuoti. Latvija tyli.",
+  "verdict": "Contested",
+  "verdict_note": "Perkelta iš „Tikėtina“: dvi vyriausybės oficialiai teigia, kad prašymas jų nepasiekė, nors neigia tik oficialius ar tiesioginius prašymus, o Reuters aprašė neformalius."
+ },
+ {
+  "key": "2026-11-01|nato-1997",
+  "date": "2026-11-01",
+  "order": 2,
+  "claim": "Rusija taikos derybose reikalaus NATO atsitraukti iki 1997 m. linijų",
+  "claimed_by": "The Telegraph (neįvardyti diplomatiniai šaltiniai); ISW teigia, kad Kremlius šį reikalavimą atnaujino",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "ISW teiginys remiasi jo paties ankstesniais vertinimais, o ne nauju pirminiu Rusijos pareiškimu. Kremlius nori, kad europiečiai nedalyvautų derybose, o Telegraph teigia, kad Maskva nori jų prie derybų stalo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Dera su ilgalaike Rusijos 2021 m. pozicija, tačiau neparodyta, kad kuris nors Rusijos pareigūnas tai būtų iškėlęs kaip oficialų reikalavimą dabartinėse derybose."
+ },
+ {
+  "key": "2026-11-01|belarus-migration",
+  "date": "2026-11-01",
+  "order": 3,
+  "claim": "Neteisėtą migraciją į Baltijos šalis organizuoja Baltarusijos valdžia",
+  "claimed_by": "Estijos ir Latvijos vidaus reikalų ministrai (spalio 30 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Turimuose pranešimuose Minskas neatsakė; anksčiau tokius kaltinimus neigė. Teiginį patvirtina spalio pradžioje Latvijos pasienyje matyti ginkluoti, kaukėti palydovai.",
+  "verdict": "Likely",
+  "verdict_note": "Atitinka ilgamečius oficialius Lenkijos, Lietuvos ir Latvijos nustatymus, nors tiesioginiai valstybės vadovavimo įrodymai skelbiami retai."
+ },
+ {
+  "key": "2026-11-01|poland-spy",
+  "date": "2026-11-01",
+  "order": 4,
+  "claim": "Švidnicoje sulaikytas Rusijos pilietis rinko geležinkelių žvalgybos duomenis užsienio tarnybai",
+  "claimed_by": "Lenkijos policija ir prokurorai",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Žvalgybos tarnyba neįvardyta, kaltinimas teisme dar nepatikrintas. Apie Rusijos reakciją nepranešta.",
+  "verdict": "Likely",
+  "verdict_note": "Oficialus kaltinimas, paremtas paimta medžiaga, bet tai vis dar kaltinimas; įtariamasis laikomas nekaltu."
+ },
+ {
+  "key": "2026-11-01|roundups",
+  "date": "2026-11-01",
+  "order": 5,
+  "claim": "Rusijos miestuose vyrai sulaikomi gatvėse ir verčiami pasirašyti kariuomenės sutartis",
+  "claimed_by": "Meduza, iStories, Verstka; artimieji ir žmogaus teisių grupės",
+  "evidence": "Analizė",
+  "conflict": "Pranešimuose nėra oficialaus Rusijos valdžios patvirtinimo ar atsako. Dauguma liudijimų – netiesioginiai.",
+  "verdict": "Likely",
+  "verdict_note": "Keli nepriklausomi leidiniai ir skundai iš daugelio regionų rodo ta pačia kryptimi."
+ },
+ {
+  "key": "2026-11-01|putin-relations",
+  "date": "2026-11-01",
+  "order": 6,
+  "claim": "Rusija nori visaverčių santykių su Europos šalimis",
+  "claimed_by": "Putinas (spalio 29 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Maskva kartu reikalauja, kad Europos lyderiai nedalyvautų taikos derybose, o Europos vyriausybės kaltina Rusiją dėl besitęsiančios sabotažo kampanijos.",
+  "verdict": "Disputed",
+  "verdict_note": "Ketinimų pareiškimas, kurio patikrinti neįmanoma ir kuriam prieštarauja Rusijos hibridinės veiklos istorija."
+ },
+ {
+  "key": "2026-11-01|lansing-belarus-sabotage",
+  "date": "2026-11-01",
+  "order": 7,
+  "claim": "Baltarusijos valstybės struktūros kartu su Rusijos žvalgyba gali koordinuoti sabotažą Europoje",
+  "claimed_by": "Robert Lansing Institute (komentaras)",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Pačiame tekste teigiama, kad valstybės bendrininkavimas nenustatytas; vienintelis faktas – du Vokietijoje sulaikyti įtariamieji yra Baltarusijos piliečiai. Vokietijos prokurorai užsakovo neįvardijo.",
+  "verdict": "Unsupported",
+  "verdict_note": "Hipotezė iš leidinio, kuris neatskleidžia savo finansavimo; joks oficialus ar įrodymais grįstas šaltinis Baltarusijos valstybės dalyvavimo nepatvirtina."
  }
 ]

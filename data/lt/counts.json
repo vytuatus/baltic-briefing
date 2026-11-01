@@ -78,5 +78,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra. Peskovo kritika Baltijos šalių retorikai ir Putino teiginys, kad Rusija pasirengusi karui su Europa, bet jo nenori, nėra aiškūs grasinimai."
+ },
+ {
+  "key": "2026-11-01|airspace",
+  "date": "2026-11-01",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Apie naujus Baltijos šalių, Lenkijos ar Suomijos oro erdvės pažeidimus ar dronų įskridimus nepranešta."
+ },
+ {
+  "key": "2026-11-01|sabotage",
+  "date": "2026-11-01",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra. Spalio 30 d. Lenkijoje sulaikytam Rusijos piliečiui pateikti kaltinimai šnipinėjimu, o ne sabotažu, todėl jis čia neįskaičiuojamas."
+ },
+ {
+  "key": "2026-11-01|jamming",
+  "date": "2026-11-01",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Naujų oficialių ar didžiosios žiniasklaidos pranešimų apie GNSS trikdžius nėra; patys trikdžiai išlieka nuolatiniai."
+ },
+ {
+  "key": "2026-11-01|border",
+  "date": "2026-11-01",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Apie naujas provokacijas prie Baltijos šalių, Lenkijos ar Suomijos sienų su Rusija ar Baltarusija nepranešta; Estijos ir Latvijos žingsniai dėl pasieniečių galių yra politikos atsakas, o ne incidentai."
+ },
+ {
+  "key": "2026-11-01|threats",
+  "date": "2026-11-01",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra. Lavrovo skundas, kad europiečiai bando įsiprašyti į taikos derybas, ir Putino raginimas palaikyti visaverčius santykius su Europa nėra aiškūs grasinimai."
  }
 ]
