@@ -646,5 +646,122 @@
   "perspective": "Commentary",
   "title": "Russia's Sabotage Campaign in Europe: The Belarusian Connection",
   "url": "https://lansinginstitute.org/2026/10/30/russias-sabotage-campaign-in-europe-the-belarusian-connection-attacks-on-critical-infrastructure-and-the-risk-of-expanding-hybrid-warfare-against-nato/"
+ },
+ {
+  "key": "2026-11-02|l01",
+  "date": "2026-11-02",
+  "topic": "Lietuvos grėsmių nacionaliniam saugumui vertinimas (bazinė linija)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-02|l02",
+  "date": "2026-11-02",
+  "topic": "VSD ir AOTD pareiškimų patikra (naujų nerasta)",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "LRT English news",
+  "url": "https://www.lrt.lt/en/news-in-english"
+ },
+ {
+  "key": "2026-11-02|l03",
+  "date": "2026-11-02",
+  "topic": "Objektas Latvijos oro erdvėje",
+  "outlet": "Reuters",
+  "perspective": "US and international",
+  "title": "Latvia reports brief airspace intrusion near Russia, Belarus borders",
+  "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/01/latvia-reports-brief-airspace-intrusion-near-russia-belarus-borders"
+ },
+ {
+  "key": "2026-11-02|l04",
+  "date": "2026-11-02",
+  "topic": "Objektas Latvijos oro erdvėje",
+  "outlet": "Kyiv Independent",
+  "perspective": "Ukrainian",
+  "title": "'Suspicious object' enters Latvian airspace near Belarus, Russia border",
+  "url": "https://kyivindependent.com/suspicious-object-enters-latvian-airspace-near-belarus-russia-border/"
+ },
+ {
+  "key": "2026-11-02|l05",
+  "date": "2026-11-02",
+  "topic": "Objektas Latvijos oro erdvėje: Rusijos pateikimas",
+  "outlet": "Izvestia",
+  "perspective": "Russian state-aligned",
+  "title": "The Latvian Armed Forces announced the cancellation of the air threat due to the UAV",
+  "url": "https://en.iz.ru/en/2194707/2026-11-02/latvian-armed-forces-announced-cancellation-air-threat-due-uav"
+ },
+ {
+  "key": "2026-11-02|l06",
+  "date": "2026-11-02",
+  "topic": "NATO vadas apie Rusiją",
+  "outlet": "Izvestia",
+  "perspective": "Russian state-aligned",
+  "title": "NATO Commander-in-Chief Grinkevich urged to prepare for a possible conflict",
+  "url": "https://en.iz.ru/en/2194292/2026-10-31/nato-commander-chief-grinkevich-urged-prepare-possible-conflict"
+ },
+ {
+  "key": "2026-11-02|l07",
+  "date": "2026-11-02",
+  "topic": "Diskusija Estijoje dėl žinios apie Rusiją",
+  "outlet": "ERR",
+  "perspective": "Baltic",
+  "title": "Veteran diplomat warns Estonia's 'predictable' Russia message losing impact",
+  "url": "https://news.err.ee/1610182732/veteran-diplomat-warns-estonia-s-predictable-russia-message-losing-impact"
+ },
+ {
+  "key": "2026-11-02|l08",
+  "date": "2026-11-02",
+  "topic": "Diskusija Estijoje dėl žinios apie Rusiją",
+  "outlet": "ERR",
+  "perspective": "Baltic",
+  "title": "Prime minister: I will not remain silent about Russia",
+  "url": "https://news.err.ee/1610182324/prime-minister-i-will-not-remain-silent-about-russia"
+ },
+ {
+  "key": "2026-11-02|l09",
+  "date": "2026-11-02",
+  "topic": "Radaras Karaliaučiaus srityje",
+  "outlet": "Stars and Stripes",
+  "perspective": "US and international",
+  "title": "Russia builds powerful new radar as surveillance contest with NATO heats up",
+  "url": "https://www.stripes.com/theaters/europe/2026-10-21/russia-kaliningrad-radar-nato-23216406.html"
+ },
+ {
+  "key": "2026-11-02|l10",
+  "date": "2026-11-02",
+  "topic": "Komentarų šaltiniai: radaras Karaliaučiaus srityje",
+  "outlet": "Robert Lansing Institute",
+  "perspective": "Commentary",
+  "title": "Russia expands radar surveillance of Europe: how a new station in Kaliningrad is changing Moscow's intelligence capabilities",
+  "url": "https://lansinginstitute.org/2026/10/21/russia-expands-radar-surveillance-of-europe-how-a-new-station-in-kaliningrad-is-changing-moscows-intelligence-capabilities/"
+ },
+ {
+  "key": "2026-11-02|l11",
+  "date": "2026-11-02",
+  "topic": "Sabotažas ir taikymasis į gynybos pramonę",
+  "outlet": "Al Jazeera",
+  "perspective": "US and international",
+  "title": "Russia's alleged sabotage campaign in Europe raises fears of escalation",
+  "url": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation"
+ },
+ {
+  "key": "2026-11-02|l12",
+  "date": "2026-11-02",
+  "topic": "ISW kasdienis vertinimas",
+  "outlet": "ISW (Critical Threats)",
+  "perspective": "OSINT and trackers",
+  "title": "Russian Offensive Campaign Assessment, October 31, 2026",
+  "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-31-2026"
+ },
+ {
+  "key": "2026-11-02|l13",
+  "date": "2026-11-02",
+  "topic": "Naktiniai smūgiai (veiklos Baltijos kryptimi nepranešta)",
+  "outlet": "AP via The Spokesman-Review",
+  "perspective": "US and international",
+  "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+  "url": "https://www.spokesman.com/stories/2026/nov/01/russian-strikes-cut-power-to-thousands-in-ukraine-/"
  }
 ]

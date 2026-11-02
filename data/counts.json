@@ -118,5 +118,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None. Lavrov's complaint that Europeans are trying to squeeze into peace talks and Putin's call for full relations with Europe are not explicit threats."
+ },
+ {
+  "key": "2026-11-02|airspace",
+  "date": "2026-11-02",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 1,
+  "note": "One: an unidentified object, probably a drone, over Krāslava and Ludza in eastern Latvia on the evening of 1 November."
+ },
+ {
+  "key": "2026-11-02|sabotage",
+  "date": "2026-11-02",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None first reported since yesterday; reports of incendiary devices at Munich defence-tech offices predate this edition and are not counted."
+ },
+ {
+  "key": "2026-11-02|jamming",
+  "date": "2026-11-02",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "No new official or major media report of GNSS interference; the interference itself remains persistent."
+ },
+ {
+  "key": "2026-11-02|border",
+  "date": "2026-11-02",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "No new provocation reported at Baltic, Polish or Finnish borders with Russia or Belarus."
+ },
+ {
+  "key": "2026-11-02|threats",
+  "date": "2026-11-02",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; state media repeated Putin's 29 October remarks, which were already covered."
  }
 ]

@@ -427,5 +427,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
   "evidence": "Single report (earlier)"
+ },
+ {
+  "key": "2026-11-02|troops",
+  "date": "2026-11-02",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states. Long-term construction near Finland continues; that is a structural build-up, not a sign of imminent action.",
+  "evidence": "OSINT monitoring; no new reporting"
+ },
+ {
+  "key": "2026-11-02|kaliningrad",
+  "date": "2026-11-02",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new reports of troop or ship movements. Catch-up: commercial satellite imagery analysed by ICEYE and reported by FAZ and Stars and Stripes on 21 October shows a large over-the-horizon radar under construction near Gvardeysk, about 37 km from Poland, plus more than 20 signals-intelligence and electronic-warfare sites across the exclave. It is not known whether the radar works yet. This is long-term capacity building, not a sign of imminent action.",
+  "evidence": "Commercial satellite imagery; media analysis"
+ },
+ {
+  "key": "2026-11-02|belarus",
+  "date": "2026-11-02",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "ISW again reports nothing significant on Russian military activity in Belarus. The object that entered Latvian airspace on 1 November came from the area where Latvia borders Russia and Belarus, but its origin has not been established.",
+  "evidence": "ISW analysis; Latvian armed forces"
+ },
+ {
+  "key": "2026-11-02|exercises",
+  "date": "2026-11-02",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near the Baltic borders announced for the coming weeks. Union Shield 2027, next year's main joint drill, is still at the planning stage.",
+  "evidence": "Official announcements (earlier)"
+ },
+ {
+  "key": "2026-11-02|gps",
+  "date": "2026-11-02",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new official report in the last 24 hours, but interference around Kaliningrad and the Baltic Sea remains persistent according to earlier government and maritime monitoring. The ICEYE imagery counts more than 20 electronic-warfare and signals sites in Kaliningrad.",
+  "evidence": "Government agencies; maritime and aviation monitoring (earlier reports); satellite imagery"
+ },
+ {
+  "key": "2026-11-02|airspace",
+  "date": "2026-11-02",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "Elevated",
+  "trend": "Rising",
+  "note": "On the evening of 1 November Latvia's armed forces warned of a threat in the airspace over Krāslava and Ludza, told residents to stay indoors and sent up an interceptor drone; the unidentified object left across the Russian border after about 30 minutes. Its type and origin have not been officially stated. It is the first new incursion since the 18 October drone in Lithuania.",
+  "evidence": "Latvian armed forces on record; Reuters, Kyiv Independent"
+ },
+ {
+  "key": "2026-11-02|sabotage",
+  "date": "2026-11-02",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new sabotage incident first reported in the last day. Al Jazeera's 29 October overview cites representatives of five EU intelligence agencies telling the FT that Russia aims to kill European defence executives, and FAZ reports of incendiary devices found at defence-tech offices in Munich; these are earlier reports and are not counted as new.",
+  "evidence": "Anonymous intelligence sources via FT; media reporting (earlier)"
+ },
+ {
+  "key": "2026-11-02|border",
+  "date": "2026-11-02",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation reported at Baltic, Polish or Finnish borders. Estonia's and Latvia's proposals to widen border guards' powers and possibly close crossings with Belarus are still under discussion.",
+  "evidence": "Estonian and Latvian interior ministers (earlier); no new incidents"
+ },
+ {
+  "key": "2026-11-02|rhetoric",
+  "date": "2026-11-02",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new explicit threat. Izvestia repeated Putin's 29 October line that a war with Europe would have no winners and that Russia is ready for any developments. The Kremlin keeps insisting that Europeans stay out of peace talks.",
+  "evidence": "Official statements; Russian state media; ISW analysis"
+ },
+ {
+  "key": "2026-11-02|mobilization",
+  "date": "2026-11-02",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree. Independent Russian media continue to report men being pressed into army contracts in many regions, which points to recruitment pressure for the Ukraine war rather than a call-up aimed at the Baltics.",
+  "evidence": "Russian independent media (earlier)"
+ },
+ {
+  "key": "2026-11-02|hospitals",
+  "date": "2026-11-02",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Single report, anonymous source"
+ },
+ {
+  "key": "2026-11-02|blood",
+  "date": "2026-11-02",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "None reported"
+ },
+ {
+  "key": "2026-11-02|rail",
+  "date": "2026-11-02",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
+  "evidence": "Single report (earlier)"
  }
 ]

@@ -229,5 +229,60 @@
   "conflict": "The piece itself says state complicity is not established; the only fact behind it is that two suspects detained in Germany are Belarusian citizens. German prosecutors have not named a client.",
   "verdict": "Unsupported",
   "verdict_note": "A hypothesis from an outlet that does not disclose its funding; no official or evidence-based source supports Belarusian state involvement."
+ },
+ {
+  "key": "2026-11-02|latvia-object",
+  "date": "2026-11-02",
+  "order": 1,
+  "claim": "The object that entered eastern Latvia on 1 November was a stray Ukrainian drone",
+  "claimed_by": "Implied by Izvestia's headline and related links; Latvian armed forces call it only an unidentified object",
+  "evidence": "Unverified claim",
+  "conflict": "Latvia has named neither the type nor the origin. The Kyiv Independent says it was likely a drone of unclear origin. Earlier stray drones over Latvia were both Ukrainian and Russian.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "No official identification yet; the object left toward Russia, which by itself proves nothing about where it came from."
+ },
+ {
+  "key": "2026-11-02|pentagon",
+  "date": "2026-11-02",
+  "order": 2,
+  "claim": "The Pentagon asked the Baltic states to tone down their rhetoric on Russia",
+  "claimed_by": "Reuters (four anonymous sources)",
+  "evidence": "Anonymous sources",
+  "conflict": "Lithuania's defence minister and Estonia's PM say no such request reached them; Estonia's foreign ministry knows of no official request. A former Estonian diplomat now argues the message should be more measured anyway. Pentagon silent.",
+  "verdict": "Contested",
+  "verdict_note": "No new evidence either way; the Estonian debate is about style, not about whether a request was made."
+ },
+ {
+  "key": "2026-11-02|kaliningrad-radar",
+  "date": "2026-11-02",
+  "order": 3,
+  "claim": "Russia is building an over-the-horizon radar near Gvardeysk that could watch NATO aircraft across much of Europe",
+  "claimed_by": "ICEYE imagery via FAZ and Stars and Stripes; amplified by the Robert Lansing Institute",
+  "evidence": "Imagery or documents",
+  "conflict": "The construction is visible on imagery, but the range and purpose are projections, and whether it is operational is unknown. No Russian or NATO comment.",
+  "verdict": "Likely",
+  "verdict_note": "Construction is well supported by imagery; the capability claims are not yet confirmed."
+ },
+ {
+  "key": "2026-11-02|defence-execs",
+  "date": "2026-11-02",
+  "order": 4,
+  "claim": "Russia is plotting to kill European defence-industry executives",
+  "claimed_by": "Representatives of five EU intelligence agencies (to the Financial Times), summarised by Al Jazeera",
+  "evidence": "Anonymous sources",
+  "conflict": "No named official or court case in the reporting describes a specific plot. Moscow denies running sabotage in Europe.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Consistent with earlier reported plots and with incendiary devices found at Munich offices, but the central claim rests on unnamed officials."
+ },
+ {
+  "key": "2026-11-02|nato-1997",
+  "date": "2026-11-02",
+  "order": 5,
+  "claim": "Russia will demand a NATO pullback to 1997 lines in peace talks",
+  "claimed_by": "The Telegraph (unnamed diplomatic sources); ISW says the Kremlin has renewed this demand",
+  "evidence": "Anonymous sources",
+  "conflict": "ISW's 31 October assessment again cites the demand without a fresh primary Russian statement. No Russian official has been shown making it as a formal demand in the current talks.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "No new evidence since yesterday; consistent with Russia's 2021 position but still unconfirmed as a demand in talks."
  }
 ]

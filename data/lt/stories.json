@@ -188,5 +188,55 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Latvijos ginkluotosios pajėgos per LSM.",
   "analysis": "Įprastas nuolatinės NATO grupės vizitas. Tai nėra reakcija į kokį nors naują Rusijos žingsnį."
+ },
+ {
+  "key": "2026-11-02|latvia-object",
+  "date": "2026-11-02",
+  "order": 1,
+  "title": "Neatpažintas objektas iš Rusijos ir Baltarusijos pasienio zonos įskrido į rytų Latviją",
+  "summary": "Lapkričio 1 d. vakarą Latvijos ginkluotosios pajėgos įspėjo apie grėsmę oro erdvėje virš Krāslavos ir Ludzos savivaldybių, netoli sienų su Baltarusija ir Rusija, ir paragino gyventojus likti viduje. Pavojus truko maždaug nuo 18.59 iki 19.30 vietos laiku; kariuomenė teigė, kad objektas paliko Latvijos oro erdvę per Rusijos sieną. Kyiv Independent praneša, kad Latvija paleido droną perėmėją BLAZE ir kad objektas greičiausiai buvo dronas, tačiau jo kilmė dar neaiški.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Latvijos ginkluotosios pajėgos, perdavė Reuters, Kyiv Independent ir Izvestija; vienas pirminis šaltinis.",
+  "analysis": "Faktų mažai. Anksčiau virš Latvijos nuklydę dronai buvo ir ukrainietiški, kaip pranešama, nukreipti Rusijos trukdymo, ir rusiški, todėl negalima daryti prielaidos apie kilmę. Izvestijos antraštė vadina jį dronu, o susijusios nuorodos veda prie ukrainiečių dronų, ir tai peržengia Latvijos pareiškimą. Greitas pavojaus paskelbimas ir drono perėmėjo paleidimas rodo, kad Latvijos oro gynybos procedūros veikia."
+ },
+ {
+  "key": "2026-11-02|grynkewich",
+  "date": "2026-11-02",
+  "order": 2,
+  "title": "Aukščiausiasis NATO vadas: Rusija kelia grėsmę NATO, bet konfliktas nėra neišvengiamas",
+  "summary": "Spalio 30 d. interviu Latvijos visuomeniniam transliuotojui aukščiausiasis NATO pajėgų Europoje vadas generolas Alexusas Grynkewichius sakė, kad Rusija kelia grėsmę Aljansui, bet konflikto jis nelaiko neišvengiamu, todėl NATO turi būti pasirengusi. Jis pagyrė Latviją, anksčiau laiko pasiekusią 5 proc. BVP gynybos išlaidų, ir už visuomenės atsparumo stiprinimą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LSM interviu, apie kurį pranešė Izvestija; atitinka ankstesnius jo viešus pareiškimus birželį ir spalį.",
+  "analysis": "Rusijos valstybinė žiniasklaida interviu pateikė kaip NATO pasirengimą konfliktui ir greta įdėjo Putino teiginį, kad kare su Europa nebūtų nugalėtojų. Tikroji Grynkewichiaus žinia – pasirengimas kaip būdas išvengti karo – atitinka Lietuvos bazinę liniją: artimiausiu metu grėsmė žema, o ilgalaikė rizika reikalauja atgrasymo."
+ },
+ {
+  "key": "2026-11-02|estonia-debate",
+  "date": "2026-11-02",
+  "order": 3,
+  "title": "Estijoje diskutuojama, ar jos įspėjimai apie Rusiją netapo pernelyg nuspėjami",
+  "summary": "Buvęs diplomatas, dabar opozicinės partijos „Isamaa“ narys Jaapas Ora ERR sakė, kad Estijos žinia apie Rusiją tapo nuspėjama ir kelia partnerių nuovargio riziką, todėl vieši pareiškimai turėtų būti saikingi. Premjeras Kristenas Michalas sakė, kad dėl Rusijos nesivaržys, o kadenciją baigiantis užsienio reikalų ministerijos kancleris teigė, kad Estija niekada neturėtų svarstyti atsisakyti savo balso.",
+  "evidence": "Komentaras",
+  "corroboration": "ERR, spalio 31 d. ir lapkričio 1 d.",
+  "analysis": "Tai Reuters anoniminiais šaltiniais grįsto pranešimo, kad Pentagonas paprašė Baltijos šalių sušvelninti retoriką, pasekmė. Tai vidaus ginčas apie stilių ir įtaką, o ne nauji įrodymai apie Rusijos ketinimus ar patį prašymą, kuris tebėra ginčijamas."
+ },
+ {
+  "key": "2026-11-02|kaliningrad-radar",
+  "date": "2026-11-02",
+  "order": 4,
+  "title": "Palydovinėse nuotraukose matyti Karaliaučiaus srityje statomas didelis Rusijos radaras",
+  "summary": "ICEYE išanalizuotose ir spalio 21 d. FAZ bei Stars and Stripes paskelbtose nuotraukose matyti netoli Gvardeisko, maždaug 37 km nuo Lenkijos sienos, statomas didelis virš horizonto veikiantis radaras su trimis maždaug 500 m ilgio antenų masyvais. ICEYE taip pat suskaičiavo daugiau nei 20 radijo žvalgybos ir radioelektroninės kovos objektų visoje srityje.",
+  "evidence": "Nuotraukos ar dokumentai",
+  "corroboration": "ICEYE nuotraukos per FAZ ir Stars and Stripes; taip pat aptarta Robert Lansing Institute (komentaras). Rusijos ar NATO pareigūnų komentarų nėra.",
+  "analysis": "Įtraukta kaip papildymas, nes ankstesniuose leidimuose praleista. Statybos gerai užfiksuotos, tačiau minimas maždaug 3 000 km veikimo nuotolis yra prognozė, o ar radaras veikia, nežinoma. Tai atitinka bazinės linijos vertinimą, kad Rusija toliau stiprina ilgalaikius karinius pajėgumus, tačiau radaras yra jutiklis, o ne artėjančio puolimo ženklas."
+ },
+ {
+  "key": "2026-11-02|defence-industry",
+  "date": "2026-11-02",
+  "order": 5,
+  "title": "Europos žvalgybos pareigūnai: Rusija taikosi į gynybos pramonės žmones ir tiekimo grandines",
+  "summary": "Spalio 29 d. Al Jazeera apžvalgoje sujungiami pranešimai, kad penkių ES žvalgybos tarnybų atstovai Financial Times sakė, jog Rusija nori nužudyti Europos gynybos pramonės vadovus ir sutrikdyti jų tiekimo grandines, ir kad FAZ pranešė apie dviejų gynybos technologijų įmonių biuruose Miunchene padėtus padegamuosius įtaisus. Taip pat primenamas rugpjūčio sąmokslas prieš krovininius lėktuvus Leipcigo ir Halės oro uoste, kurį Europos Komisija priskyrė Rusijai.",
+  "evidence": "Anoniminiai šaltiniai",
+  "corroboration": "FT ir FAZ pranešimai, apibendrinti Al Jazeera; žvalgybos pareigūnai neįvardyti.",
+  "analysis": "Apžvalgoje surinkti ankstesni pranešimai, o ne naujos bylos, todėl nieko čia neskaičiuojame kaip naujos sabotažo bylos. Modelis atitinka bazinės linijos įspėjimus apie pasirengimą trikdomosioms operacijoms, tačiau teiginys apie planus žudyti vadovus remiasi neįvardytais pareigūnais."
  }
 ]

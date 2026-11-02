@@ -229,5 +229,60 @@
   "conflict": "Pačiame tekste teigiama, kad valstybės bendrininkavimas nenustatytas; vienintelis faktas – du Vokietijoje sulaikyti įtariamieji yra Baltarusijos piliečiai. Vokietijos prokurorai užsakovo neįvardijo.",
   "verdict": "Unsupported",
   "verdict_note": "Hipotezė iš leidinio, kuris neatskleidžia savo finansavimo; joks oficialus ar įrodymais grįstas šaltinis Baltarusijos valstybės dalyvavimo nepatvirtina."
+ },
+ {
+  "key": "2026-11-02|latvia-object",
+  "date": "2026-11-02",
+  "order": 1,
+  "claim": "Lapkričio 1 d. į rytų Latviją įskridęs objektas buvo nuklydęs ukrainiečių dronas",
+  "claimed_by": "Numanoma pagal Izvestijos antraštę ir susijusias nuorodas; Latvijos ginkluotosios pajėgos vadina jį tik neatpažintu objektu",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Latvija nenurodė nei tipo, nei kilmės. Kyiv Independent teigia, kad tai greičiausiai buvo neaiškios kilmės dronas. Anksčiau virš Latvijos nuklydę dronai buvo ir ukrainietiški, ir rusiški.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Oficialaus identifikavimo dar nėra; tai, kad objektas išskrido Rusijos link, savaime nieko neįrodo apie jo kilmę."
+ },
+ {
+  "key": "2026-11-02|pentagon",
+  "date": "2026-11-02",
+  "order": 2,
+  "claim": "Pentagonas paprašė Baltijos šalių sušvelninti retoriką apie Rusiją",
+  "claimed_by": "Reuters (keturi anoniminiai šaltiniai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Lietuvos krašto apsaugos ministras ir Estijos premjeras teigia, kad toks prašymas jų nepasiekė; Estijos užsienio reikalų ministerija nežino apie jokį oficialų prašymą. Buvęs Estijos diplomatas dabar bet kuriuo atveju siūlo saikingesnę žinią. Pentagonas tyli.",
+  "verdict": "Contested",
+  "verdict_note": "Naujų įrodymų nė viena kryptimi nėra; diskusija Estijoje vyksta dėl stiliaus, o ne dėl to, ar prašymas buvo pateiktas."
+ },
+ {
+  "key": "2026-11-02|kaliningrad-radar",
+  "date": "2026-11-02",
+  "order": 3,
+  "claim": "Rusija netoli Gvardeisko stato virš horizonto veikiantį radarą, galintį stebėti NATO orlaivius didelėje Europos dalyje",
+  "claimed_by": "ICEYE nuotraukos per FAZ ir Stars and Stripes; išplatino Robert Lansing Institute",
+  "evidence": "Nuotraukos ar dokumentai",
+  "conflict": "Statybos matomos nuotraukose, tačiau veikimo nuotolis ir paskirtis yra prognozės, o ar radaras veikia, nežinoma. Rusijos ar NATO komentarų nėra.",
+  "verdict": "Likely",
+  "verdict_note": "Statybos gerai pagrįstos nuotraukomis; teiginiai apie pajėgumus dar nepatvirtinti."
+ },
+ {
+  "key": "2026-11-02|defence-execs",
+  "date": "2026-11-02",
+  "order": 4,
+  "claim": "Rusija planuoja nužudyti Europos gynybos pramonės vadovus",
+  "claimed_by": "Penkių ES žvalgybos tarnybų atstovai (Financial Times), apibendrinta Al Jazeera",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Pranešimuose nė vienas įvardytas pareigūnas ar teismo byla neaprašo konkretaus sąmokslo. Maskva neigia vykdanti sabotažą Europoje.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atitinka anksčiau aprašytus sąmokslus ir Miuncheno biuruose rastus padegamuosius įtaisus, tačiau pagrindinis teiginys remiasi neįvardytais pareigūnais."
+ },
+ {
+  "key": "2026-11-02|nato-1997",
+  "date": "2026-11-02",
+  "order": 5,
+  "claim": "Rusija taikos derybose reikalaus NATO atsitraukti iki 1997 m. linijų",
+  "claimed_by": "The Telegraph (neįvardyti diplomatiniai šaltiniai); ISW teigia, kad Kremlius šį reikalavimą atnaujino",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "ISW spalio 31 d. vertinime šis reikalavimas vėl minimas be naujo pirminio Rusijos pareiškimo. Neparodyta, kad kuris nors Rusijos pareigūnas būtų jį iškėlęs kaip oficialų reikalavimą dabartinėse derybose.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Nuo vakar naujų įrodymų nėra; dera su Rusijos 2021 m. pozicija, bet kaip reikalavimas derybose tebėra nepatvirtintas."
  }
 ]
