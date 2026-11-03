@@ -284,5 +284,49 @@
   "conflict": "ISW spalio 31 d. vertinime šis reikalavimas vėl minimas be naujo pirminio Rusijos pareiškimo. Neparodyta, kad kuris nors Rusijos pareigūnas būtų jį iškėlęs kaip oficialų reikalavimą dabartinėse derybose.",
   "verdict": "Unconfirmed",
   "verdict_note": "Nuo vakar naujų įrodymų nėra; dera su Rusijos 2021 m. pozicija, bet kaip reikalavimas derybose tebėra nepatvirtintas."
+ },
+ {
+  "key": "2026-11-03|armed-groups",
+  "date": "2026-11-03",
+  "order": 1,
+  "claim": "Ginkluotos grupės artimiausiomis dienomis gali bandyti įsiveržti iš Karaliaučiaus srities į Lenkiją",
+  "claimed_by": "RMF, remdamasis neįvardytais šaltiniais apie Lenkijos karinės žvalgybos ir sąjungininkų agentūrų įspėjimus",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Policijos vadas oficialiai patvirtino tik bendrą sabotažo grėsmę ir ginkluotų grupių neminėjo. Valdžia operaciją vadina prevencine; apie incidentus nepranešta. Rusijos atsako nerasta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Operacija reali; konkretus ginkluoto įsiveržimo scenarijus remiasi anoniminiais šaltiniais."
+ },
+ {
+  "key": "2026-11-03|estonia-deportee",
+  "date": "2026-11-03",
+  "order": 2,
+  "claim": "Iš Estijos išsiųstas Rusijos pilietis palaikė ryšius su Rusijos žvalgybos pareigūnais",
+  "claimed_by": "Estijos vidaus saugumo tarnyba (KAPO)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "KAPO savo įrodymų nepaskelbė, byla teisme nenagrinėta. Viešo paties asmens ar Maskvos atsako nerasta.",
+  "verdict": "Likely",
+  "verdict_note": "Oficialus patikimą veiklos istoriją turinčios saugumo tarnybos teiginys, tačiau įrodymai nevieši."
+ },
+ {
+  "key": "2026-11-03|latvia-object",
+  "date": "2026-11-03",
+  "order": 3,
+  "claim": "Lapkričio 1 d. į rytų Latviją įskridęs objektas buvo nuklydęs ukrainiečių dronas",
+  "claimed_by": "Numanoma pagal Izvestijos antraštę ir susijusias nuorodas; Latvijos ginkluotosios pajėgos vadina jį tik neatpažintu objektu",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Latvija vis dar nenurodo nei tipo, nei kilmės. Jos perėmėjas susinaikino nepasiekęs objekto, todėl nėra nuolaužų, kurias būtų galima ištirti. Anksčiau virš Latvijos nuklydę dronai buvo ir ukrainietiški, ir rusiški.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Naujų įrodymų apie kilmę nėra; tai, kad objektas išskrido Rusijos link, savaime nieko neįrodo."
+ },
+ {
+  "key": "2026-11-03|lithuania-drone-ew",
+  "date": "2026-11-03",
+  "order": 4,
+  "claim": "Spalio 18 d. Lietuvoje nukritusį droną nuo kurso nukreipė Rusijos radioelektroninė kova",
+  "claimed_by": "Ukrainos užsienio reikalų ministerijos atstovas, kaip pranešė European Pravda",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lietuva teigia, kad dronas atskrido iš Lenkijos ir gabeno sprogmenis; Ukraina išreiškė apgailestavimą, leisdama suprasti, kad dronas ukrainietiškas, ir kaltino Rusijos trukdymą. Nepriklausomų techninių išvadų apie priežastį nepaskelbta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, atsižvelgiant į nuolatinius Rusijos trikdžius regione, tačiau tai drono operatoriaus paaiškinimas, o ne nepriklausoma išvada."
  }
 ]

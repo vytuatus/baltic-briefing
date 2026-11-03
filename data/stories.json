@@ -238,5 +238,45 @@
   "evidence": "Anonymous sources",
   "corroboration": "FT and FAZ reporting, summarised by Al Jazeera; the intelligence officials are not named.",
   "analysis": "The overview collects earlier reports rather than breaking new cases, so nothing here is counted as a new sabotage case. The pattern fits the baseline's warnings about preparation for disruptive operations, but the claim of plans to kill executives rests on unnamed officials."
+ },
+ {
+  "key": "2026-11-03|poland-kaliningrad-op",
+  "date": "2026-11-03",
+  "order": 1,
+  "title": "Poland reinforces the Kaliningrad border after warnings of possible Russian sabotage",
+  "summary": "Polish police launched a special operation along the border with Russia's Kaliningrad exclave, sending extra officers and counter-terrorism units to the Warmia-Masuria and Podlasie provinces and working with the army, Border Guard and security services. National police chief Marek Boroń said the measures follow information from security services about possible incidents that could lead to sabotage. An order puts officers on full readiness from 2 to 8 November; police had earlier denied it was linked to political tensions in Warsaw. The broadcaster RMF, citing unnamed sources, reports that Poland's Military Intelligence Service and allied agencies warned of possible sabotage and even incursions by armed groups.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Police chief on the record via RMF and TVP World; Notes from Poland and UNITED24 relay RMF. The armed-groups detail rests on RMF's anonymous sources only.",
+  "analysis": "The operation itself is confirmed; the threat behind it is described only in general terms. Authorities call it preventive and no incident has been reported. It fits the baseline's warnings about preparation for disruptive operations and Poland's experience of rail sabotage in 2025, but readers should not treat it as a sign that an attack from Kaliningrad is imminent."
+ },
+ {
+  "key": "2026-11-03|estonia-deportation",
+  "date": "2026-11-03",
+  "order": 2,
+  "title": "Estonia deports a Russian citizen over contacts with Russian intelligence",
+  "summary": "On 2 November Estonia's Police and Border Guard Board deported a Russian citizen and barred him from the Schengen area, on the recommendation of the Internal Security Service (KAPO). KAPO said he kept in contact with Russian intelligence officers and people working for them, travelled regularly to Russia and was in contact with sanctioned individuals. He worked for a Russia-linked policy centre that KAPO and media associate with Kremlin influence networks.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "KAPO statement via ERR, relayed by Militarnyi and European Pravda; one original source.",
+  "analysis": "This is an administrative expulsion, not a conviction, and KAPO has not made its evidence public, so the man is not named here. It is consistent with the baseline's warnings about hostile intelligence services and influence operations in the region. No Russian reaction was found."
+ },
+ {
+  "key": "2026-11-03|latvia-followup",
+  "date": "2026-11-03",
+  "order": 3,
+  "title": "Latvia's 1 November air alert: interceptor self-destructed, object still unidentified",
+  "summary": "New details from LSM, relayed by European Pravda: the orange alert over Krāslava and Ludza began at 18:59, the object left Latvian airspace toward Russia about 17 minutes later, and Latvia's BLAZE interceptor drone, used for the first time, was ordered to self-destruct at 19:19 so it would not cross the border. Defence Minister Raivis Melnis said the army keeps watching the airspace and is ready to respond again.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Latvian armed forces and defence minister via LSM; relayed by European Pravda, Militarnyi and Izvestia.",
+  "analysis": "There is still no official identification. Izvestia's headline calls it a drone and links to stories about Ukrainian drones falling in the Baltics, but its own text speaks only of an unidentified object. The interceptor did not reach the target, which shows the limits of new counter-drone tools against short incursions."
+ },
+ {
+  "key": "2026-11-03|lithuania-drone-catchup",
+  "date": "2026-11-03",
+  "order": 4,
+  "title": "Catch-up: the 18 October drone in Lithuania came via Poland and carried explosives",
+  "summary": "European Pravda, recapping recent incidents, reports that Lithuania says the drone whose debris was found on 18 October entered from Poland and carried explosives, and that Ukraine's foreign ministry spokesperson expressed regret, saying it was likely the result of Russian electronic warfare. Latvian forces also found wreckage of a crashed drone on 24 October.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Lithuanian and Ukrainian official positions as reported by European Pravda; not checked here against Lithuanian primary sources.",
+  "analysis": "Ukraine's expression of regret implies the drone was Ukrainian; the claim that Russian jamming pushed it off course is plausible, given documented interference, but unproven. It is a reminder that not every drone over the Baltics is a Russian provocation, and that Russian electronic warfare can still create risk for NATO territory."
  }
 ]

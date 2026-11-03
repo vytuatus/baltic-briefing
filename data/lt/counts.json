@@ -158,5 +158,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra; valstybinė žiniasklaida pakartojo spalio 29 d. Putino žodžius, kurie jau buvo aprašyti."
+ },
+ {
+  "key": "2026-11-03|airspace",
+  "date": "2026-11-03",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nuo vakar pirmą kartą nepranešta apie jokius; lapkričio 1 d. objektas virš rytų Latvijos įskaičiuotas vakarykščiame leidime."
+ },
+ {
+  "key": "2026-11-03|sabotage",
+  "date": "2026-11-03",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; Lenkijos pasienio operacija yra atsakas į įspėjimą apie galimą sabotažą, o apie incidentus, sulaikymus ar kaltinimus nepranešta."
+ },
+ {
+  "key": "2026-11-03|jamming",
+  "date": "2026-11-03",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Naujų oficialių ar didžiosios žiniasklaidos pranešimų apie GNSS trikdžius nėra; patys trikdžiai išlieka nuolatiniai."
+ },
+ {
+  "key": "2026-11-03|border",
+  "date": "2026-11-03",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Apie naujas provokacijas prie Baltijos šalių, Lenkijos ar Suomijos sienų su Rusija ar Baltarusija nepranešta; anoniminių šaltinių minimi galimi ginkluoti įsiveržimai neįvyko."
+ },
+ {
+  "key": "2026-11-03|threats",
+  "date": "2026-11-03",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Per pastarąją parą aukšto Rusijos pareigūno grasinimų nerasta."
  }
 ]

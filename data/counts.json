@@ -158,5 +158,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; state media repeated Putin's 29 October remarks, which were already covered."
+ },
+ {
+  "key": "2026-11-03|airspace",
+  "date": "2026-11-03",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None first reported since yesterday; the 1 November object over eastern Latvia was counted in yesterday's edition."
+ },
+ {
+  "key": "2026-11-03|sabotage",
+  "date": "2026-11-03",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; Poland's border operation responds to a warning of possible sabotage, and no incident, arrest or charge has been reported."
+ },
+ {
+  "key": "2026-11-03|jamming",
+  "date": "2026-11-03",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "No new official or major media report of GNSS interference; the interference itself remains persistent."
+ },
+ {
+  "key": "2026-11-03|border",
+  "date": "2026-11-03",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "No new provocation reported at Baltic, Polish or Finnish borders with Russia or Belarus; the possible armed incursions mentioned by anonymous sources have not happened."
+ },
+ {
+  "key": "2026-11-03|threats",
+  "date": "2026-11-03",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None found from a senior Russian official in the last day."
  }
 ]

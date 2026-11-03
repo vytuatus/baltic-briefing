@@ -763,5 +763,95 @@
   "perspective": "US and international",
   "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
   "url": "https://www.spokesman.com/stories/2026/nov/01/russian-strikes-cut-power-to-thousands-in-ukraine-/"
+ },
+ {
+  "key": "2026-11-03|l01",
+  "date": "2026-11-03",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-03|l02",
+  "date": "2026-11-03",
+  "topic": "Polish operation on the Kaliningrad border",
+  "outlet": "Notes from Poland",
+  "perspective": "Central Europe",
+  "title": "Poland launches operation along Russian border in response to reports of planned sabotage",
+  "url": "https://notesfrompoland.com/2026/11/02/poland-launches-operation-along-russian-border-in-response-to-reports-of-planned-sabotage/"
+ },
+ {
+  "key": "2026-11-03|l03",
+  "date": "2026-11-03",
+  "topic": "Polish operation on the Kaliningrad border",
+  "outlet": "TVP World",
+  "perspective": "Central Europe",
+  "title": "Poland deploys counter-terror police to Russian exclave border over 'sabotage' threats",
+  "url": "https://tvpworld.com/96261985/kaliningrad-polish-police-chief-warns-of-sabotage-threat"
+ },
+ {
+  "key": "2026-11-03|l04",
+  "date": "2026-11-03",
+  "topic": "Polish operation on the Kaliningrad border",
+  "outlet": "UNITED24 Media",
+  "perspective": "Ukrainian",
+  "title": "Poland Launches Special Operation on Kaliningrad Border Over Russian Sabotage Threat",
+  "url": "https://united24media.com/war-in-ukraine/poland-launches-special-operation-on-kaliningrad-border-24012"
+ },
+ {
+  "key": "2026-11-03|l05",
+  "date": "2026-11-03",
+  "topic": "Estonian deportation over intelligence contacts",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Estonia Deports Russian National Over FSB Ties, Bans Him From Europe",
+  "url": "https://militarnyi.com/en/news/estonia-deports-russian-national-over-fsb-ties-bans-him-from-europe/"
+ },
+ {
+  "key": "2026-11-03|l06",
+  "date": "2026-11-03",
+  "topic": "Latvian air alert follow-up and 18 October Lithuanian drone",
+  "outlet": "European Pravda",
+  "perspective": "Ukrainian",
+  "title": "Latvian military deploys interceptor drone after unidentified drone violates its airspace",
+  "url": "https://www.eurointegration.com.ua/eng/news/2026/11/2/7249074/"
+ },
+ {
+  "key": "2026-11-03|l07",
+  "date": "2026-11-03",
+  "topic": "Latvian air alert follow-up",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Latvia Uses BLAZE Interceptor Drone for First Time Against Unidentified Object Near Russian Border",
+  "url": "https://militarnyi.com/en/news/latvia-uses-blaze-interceptor-drone-for-first-time-against-unidentified-object-near-russian-border/"
+ },
+ {
+  "key": "2026-11-03|l08",
+  "date": "2026-11-03",
+  "topic": "Kremlin-aligned framing of the Latvian air alert",
+  "outlet": "Izvestia",
+  "perspective": "Russian state-aligned",
+  "title": "The Latvian Armed Forces announced the cancellation of the air threat due to the UAV",
+  "url": "https://en.iz.ru/en/2194707/2026-11-02/latvian-armed-forces-announced-cancellation-air-threat-due-uav"
+ },
+ {
+  "key": "2026-11-03|l09",
+  "date": "2026-11-03",
+  "topic": "Belarusian exercises near the Suwałki corridor (background)",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Belarus Deploys Troops and Military Equipment for Exercises Near Suwałki Corridor",
+  "url": "https://militarnyi.com/en/news/belarus-deploys-troops-and-military-equipment-for-exercises-near-suwa-ki-corridor/"
+ },
+ {
+  "key": "2026-11-03|l10",
+  "date": "2026-11-03",
+  "topic": "Estonian forward-defence posture (background)",
+  "outlet": "ERR",
+  "perspective": "Baltic",
+  "title": "FT: Estonia moving troops closer to Russia in 'active defense' push",
+  "url": "https://news.err.ee/1610156476/ft-estonia-moving-troops-closer-to-russia-in-active-defense-push"
  }
 ]

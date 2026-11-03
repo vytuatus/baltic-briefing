@@ -238,5 +238,45 @@
   "evidence": "Anoniminiai šaltiniai",
   "corroboration": "FT ir FAZ pranešimai, apibendrinti Al Jazeera; žvalgybos pareigūnai neįvardyti.",
   "analysis": "Apžvalgoje surinkti ankstesni pranešimai, o ne naujos bylos, todėl nieko čia neskaičiuojame kaip naujos sabotažo bylos. Modelis atitinka bazinės linijos įspėjimus apie pasirengimą trikdomosioms operacijoms, tačiau teiginys apie planus žudyti vadovus remiasi neįvardytais pareigūnais."
+ },
+ {
+  "key": "2026-11-03|poland-kaliningrad-op",
+  "date": "2026-11-03",
+  "order": 1,
+  "title": "Lenkija sustiprino Karaliaučiaus pasienį po įspėjimų apie galimą Rusijos sabotažą",
+  "summary": "Lenkijos policija pradėjo specialią operaciją pasienyje su Rusijos Karaliaučiaus sritimi: į Varmijos-Mozūrų ir Palenkės vaivadijas pasiųsta papildomų pareigūnų ir antiteroristinių padalinių, bendradarbiaujama su kariuomene, pasieniečiais ir saugumo tarnybomis. Šalies policijos vadas Marekas Boronis sakė, kad priemonės taikomos gavus saugumo tarnybų informaciją apie galimus incidentus, kurie galėtų virsti sabotažu. Įsakymu pareigūnai visiškoje parengtyje nuo lapkričio 2 iki 8 d.; anksčiau policija neigė, kad tai susiję su politine įtampa Varšuvoje. Transliuotojas RMF, remdamasis neįvardytais šaltiniais, praneša, kad Lenkijos karinės žvalgybos tarnyba ir sąjungininkų agentūros įspėjo apie galimą sabotažą ir net ginkluotų grupių įsiveržimus.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Policijos vadas oficialiai per RMF ir TVP World; Notes from Poland ir UNITED24 perduoda RMF. Detalė apie ginkluotas grupes remiasi tik anoniminiais RMF šaltiniais.",
+  "analysis": "Pati operacija patvirtinta, o už jos slypinti grėsmė aprašyta tik bendrais bruožais. Valdžia ją vadina prevencine, apie incidentus nepranešta. Tai atitinka bazinės linijos įspėjimus apie pasirengimą trikdomosioms operacijoms ir 2025 m. Lenkijos patirtį su geležinkelių sabotažu, tačiau skaitytojai neturėtų to laikyti ženklu, kad puolimas iš Karaliaučiaus srities neišvengiamas."
+ },
+ {
+  "key": "2026-11-03|estonia-deportation",
+  "date": "2026-11-03",
+  "order": 2,
+  "title": "Estija išsiuntė Rusijos pilietį dėl ryšių su Rusijos žvalgyba",
+  "summary": "Lapkričio 2 d. Estijos policijos ir pasienio apsaugos valdyba, Vidaus saugumo tarnybos (KAPO) rekomendacija, išsiuntė Rusijos pilietį ir uždraudė jam atvykti į Šengeno erdvę. KAPO teigė, kad jis palaikė ryšius su Rusijos žvalgybos pareigūnais ir jiems dirbančiais asmenimis, reguliariai keliavo į Rusiją ir bendravo su sankcionuotais asmenimis. Jis dirbo su Rusija susijusiame politikos centre, kurį KAPO ir žiniasklaida sieja su Kremliaus įtakos tinklais.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "KAPO pareiškimas per ERR, perdavė Militarnyi ir European Pravda; vienas pirminis šaltinis.",
+  "analysis": "Tai administracinis išsiuntimas, o ne nuosprendis, ir KAPO savo įrodymų viešai nepaskelbė, todėl asmuo čia neįvardijamas. Tai atitinka bazinės linijos įspėjimus apie priešiškas žvalgybos tarnybas ir įtakos operacijas regione. Rusijos reakcijos nerasta."
+ },
+ {
+  "key": "2026-11-03|latvia-followup",
+  "date": "2026-11-03",
+  "order": 3,
+  "title": "Latvijos lapkričio 1 d. oro pavojus: perėmėjas susinaikino, objektas tebėra neatpažintas",
+  "summary": "Naujos LSM detalės, perduotos European Pravda: oranžinis pavojus virš Krāslavos ir Ludzos paskelbtas 18.59, objektas maždaug po 17 minučių paliko Latvijos oro erdvę Rusijos kryptimi, o pirmą kartą panaudotam Latvijos dronui perėmėjui BLAZE 19.19 buvo įsakyta susinaikinti, kad jis neperskristų sienos. Gynybos ministras Raivis Melnis sakė, kad kariuomenė toliau stebi oro erdvę ir yra pasirengusi vėl reaguoti.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Latvijos ginkluotosios pajėgos ir gynybos ministras per LSM; perdavė European Pravda, Militarnyi ir Izvestija.",
+  "analysis": "Oficialaus identifikavimo vis dar nėra. Izvestijos antraštė vadina jį dronu ir pateikia nuorodas į istorijas apie Baltijos šalyse nukritusius ukrainiečių dronus, tačiau pačiame tekste kalbama tik apie neatpažintą objektą. Perėmėjas taikinio nepasiekė – tai rodo naujų priešdroninių priemonių ribas trumpų įskridimų atveju."
+ },
+ {
+  "key": "2026-11-03|lithuania-drone-catchup",
+  "date": "2026-11-03",
+  "order": 4,
+  "title": "Papildymas: spalio 18 d. Lietuvoje nukritęs dronas atskrido per Lenkiją ir gabeno sprogmenis",
+  "summary": "European Pravda, apžvelgdama pastarųjų incidentų eigą, praneša, kad, Lietuvos teigimu, dronas, kurio nuolaužos rastos spalio 18 d., įskrido iš Lenkijos ir gabeno sprogmenis, o Ukrainos užsienio reikalų ministerijos atstovas išreiškė apgailestavimą, sakydamas, kad tai greičiausiai Rusijos radioelektroninės kovos pasekmė. Spalio 24 d. Latvijos pajėgos taip pat rado nukritusio drono nuolaužas.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Lietuvos ir Ukrainos oficialios pozicijos, kaip jas pateikė European Pravda; čia nepatikrinta su Lietuvos pirminiais šaltiniais.",
+  "analysis": "Ukrainos apgailestavimas leidžia manyti, kad dronas buvo ukrainietiškas; teiginys, kad nuo kurso jį nukreipė Rusijos trukdymas, tikėtinas atsižvelgiant į užfiksuotus trikdžius, bet neįrodytas. Tai primena, kad ne kiekvienas dronas virš Baltijos šalių yra Rusijos provokacija, ir kad Rusijos radioelektroninė kova vis tiek gali kelti riziką NATO teritorijai."
  }
 ]

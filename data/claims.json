@@ -284,5 +284,49 @@
   "conflict": "ISW's 31 October assessment again cites the demand without a fresh primary Russian statement. No Russian official has been shown making it as a formal demand in the current talks.",
   "verdict": "Unconfirmed",
   "verdict_note": "No new evidence since yesterday; consistent with Russia's 2021 position but still unconfirmed as a demand in talks."
+ },
+ {
+  "key": "2026-11-03|armed-groups",
+  "date": "2026-11-03",
+  "order": 1,
+  "claim": "Armed groups could try to cross from Kaliningrad into Poland in the coming days",
+  "claimed_by": "RMF, citing unnamed sources on warnings from Poland's Military Intelligence Service and allied agencies",
+  "evidence": "Anonymous sources",
+  "conflict": "The police chief confirmed on the record only a general sabotage threat and did not mention armed groups. Authorities call the operation preventive; no incident has been reported. No Russian response found.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "The operation is real; the specific armed-incursion scenario rests on anonymous sources."
+ },
+ {
+  "key": "2026-11-03|estonia-deportee",
+  "date": "2026-11-03",
+  "order": 2,
+  "claim": "A Russian citizen deported from Estonia kept contacts with Russian intelligence officers",
+  "claimed_by": "Estonia's Internal Security Service (KAPO)",
+  "evidence": "Official statement",
+  "conflict": "KAPO has not published its evidence and the case has not been tested in court. No public response from the man or from Moscow found.",
+  "verdict": "Likely",
+  "verdict_note": "An on-the-record claim by a security service with a strong track record, but the evidence is not public."
+ },
+ {
+  "key": "2026-11-03|latvia-object",
+  "date": "2026-11-03",
+  "order": 3,
+  "claim": "The object that entered eastern Latvia on 1 November was a stray Ukrainian drone",
+  "claimed_by": "Implied by Izvestia's headline and related links; Latvian armed forces call it only an unidentified object",
+  "evidence": "Unverified claim",
+  "conflict": "Latvia still names neither type nor origin. Its interceptor self-destructed without reaching the object, so there is no wreckage to examine. Earlier stray drones over Latvia were both Ukrainian and Russian.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "No new evidence on origin; the exit toward Russia by itself proves nothing."
+ },
+ {
+  "key": "2026-11-03|lithuania-drone-ew",
+  "date": "2026-11-03",
+  "order": 4,
+  "claim": "Russian electronic warfare pushed the drone that fell in Lithuania on 18 October off course",
+  "claimed_by": "Ukraine's foreign ministry spokesperson, as reported by European Pravda",
+  "evidence": "Official statement",
+  "conflict": "Lithuania says the drone came in from Poland and carried explosives; Ukraine expressed regret, implying it was Ukrainian, and blamed Russian jamming. No independent technical finding on the cause has been published.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible given persistent Russian jamming in the region, but it is the explanation of the drone's operator, not an independent finding."
  }
 ]

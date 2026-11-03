@@ -570,5 +570,148 @@
   "trend": "Unchanged",
   "note": "Nepranešta apie technikos traukinius, judančius Baltijos šalių sienų link. Spalio 12 d. pranešimas apie Baltarusijos pasienio bazę, pritaikytą ilgiems kariniams traukiniams, naujos informacijos nesulaukė.",
   "evidence": "Vienas pranešimas (ankstesnis)"
+ },
+ {
+  "key": "2026-11-03|troops",
+  "date": "2026-11-03",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Karių judėjimas Baltijos šalių pasienio link",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Naujų pranešimų apie Rusijos pajėgų judėjimą Baltijos šalių link nėra. Lenkijos pasienio operacija – atsakas į įspėjimą apie sabotažą, o ne į karių judėjimą.",
+  "evidence": "OSINT stebėsena; naujų pranešimų nėra"
+ },
+ {
+  "key": "2026-11-03|kaliningrad",
+  "date": "2026-11-03",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Veikla Karaliaučiaus srityje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujų pranešimų apie Rusijos karių ar laivų judėjimą srityje nėra. Lenkija sustiprino policijos pajėgas Karaliaučiaus pasienyje po įspėjimų apie galimą iš Rusijos pusės organizuojamą sabotažą; apie incidentus nepranešta. Netoli Gvardeisko statomas radaras išlieka ilgalaikių pajėgumų klausimu.",
+  "evidence": "Oficialus Lenkijos policijos vado pareiškimas; anoniminiai žvalgybos šaltiniai per RMF"
+ },
+ {
+  "key": "2026-11-03|belarus",
+  "date": "2026-11-03",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Veikla Baltarusijoje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujų pranešimų apie reikšmingą Rusijos karinę veiklą Baltarusijoje nėra. Lapkričio 1 d. į rytų Latviją iš zonos, kur Latvija ribojasi su Rusija ir Baltarusija, įskridusio objekto kilmė vis dar nenustatyta.",
+  "evidence": "Naujų pranešimų nėra; Latvijos ginkluotosios pajėgos (anksčiau)"
+ },
+ {
+  "key": "2026-11-03|exercises",
+  "date": "2026-11-03",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Paskelbtos pratybos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Artimiausioms savaitėms nepaskelbta jokių didelių Rusijos ar Baltarusijos pratybų prie Baltijos šalių sienų. Paskutinės reikšmingos Baltarusijos pratybos netoli Suvalkų koridoriaus vyko rugsėjo viduryje.",
+  "evidence": "Oficialūs pranešimai (ankstesni)"
+ },
+ {
+  "key": "2026-11-03|gps",
+  "date": "2026-11-03",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS trikdymas ir klastojimas",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Per pastarąsias 24 valandas naujų oficialių pranešimų nėra, tačiau, remiantis ankstesne valstybės institucijų ir jūrų stebėsena, trikdžiai aplink Karaliaučių ir Baltijos jūroje išlieka nuolatiniai.",
+  "evidence": "Valstybės institucijos; jūrų ir aviacijos stebėsena (ankstesni pranešimai)"
+ },
+ {
+  "key": "2026-11-03|airspace",
+  "date": "2026-11-03",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Oro erdvės pažeidimai ir dronai",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Nuo lapkričio 1 d. objekto virš rytų Latvijos apie naujus įskridimus nepranešta. Naujos detalės: Latvijos dronui perėmėjui 19.19 val. buvo įsakyta susinaikinti, kad jis neperskristų į Rusiją, o objekto tipas ir kilmė vis dar oficialiai nenurodyti. Latvijos gynybos ministras sakė, kad kariuomenė pasirengusi vėl reaguoti.",
+  "evidence": "Oficialūs Latvijos ginkluotųjų pajėgų ir gynybos ministro pareiškimai; LSM per European Pravda"
+ },
+ {
+  "key": "2026-11-03|sabotage",
+  "date": "2026-11-03",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotažo incidentai",
+  "status": "High",
+  "trend": "Rising",
+  "note": "Lenkijos policijos vadas patvirtino specialią operaciją Karaliaučiaus pasienyje su antiteroristiniais padaliniais Varmijos-Mozūrų ir Palenkės vaivadijose, gavus saugumo tarnybų informaciją, kad artimiausiomis dienomis gali įvykti sabotažas; pareigūnai visiškoje parengtyje nuo lapkričio 2 iki 8 d. Apie sabotažo incidentą nepranešta. Tendencija „Stiprėja“ dėl šio naujo oficialaus įspėjimo, o ne dėl naujos bylos.",
+  "evidence": "Oficialus pareiškimas (Lenkijos policija); anoniminiai žvalgybos šaltiniai per RMF"
+ },
+ {
+  "key": "2026-11-03|border",
+  "date": "2026-11-03",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Spaudimas Baltarusijos pasienyje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Apie naujas provokacijas prie Baltijos šalių, Lenkijos ar Suomijos sienų nepranešta. RMF cituojami anoniminiai šaltiniai teigia, kad Lenkijos įspėjimuose minimi ir galimi ginkluotų grupių įsiveržimai iš Karaliaučiaus srities; joks pareigūnas to nepatvirtino ir kol kas nieko neįvyko.",
+  "evidence": "Lenkijos policija (oficialiai); anoniminiai šaltiniai per RMF; naujų incidentų nėra"
+ },
+ {
+  "key": "2026-11-03|rhetoric",
+  "date": "2026-11-03",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Oficiali Rusijos retorika",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Naujų aiškių aukšto Rusijos pareigūno grasinimų nėra. Rusijos valstybinė žiniasklaida ir toliau Baltijos šalių oro pavojus sieja su nuklydusiais ukrainiečių dronais. Ankstesni branduoliniai įspėjimai dėl Karaliaučiaus (rugsėjo pabaigoje) išlieka aukščiausiu tašku.",
+  "evidence": "Rusijos valstybinė žiniasklaida; oficialūs pareiškimai (ankstesni)"
+ },
+ {
+  "key": "2026-11-03|mobilization",
+  "date": "2026-11-03",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilizacija ir rezervistų šaukimas",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Mobilizacijos dekreto nėra. Ankstesni nepriklausomos Rusijos žiniasklaidos pranešimai apie vyrus, verčiamus pasirašyti kariuomenės sutartis, rodo verbavimo spaudimą dėl karo Ukrainoje, o ne šaukimą, nukreiptą prieš Baltijos šalis.",
+  "evidence": "Nepriklausoma Rusijos žiniasklaida (ankstesni pranešimai)"
+ },
+ {
+  "key": "2026-11-03|hospitals",
+  "date": "2026-11-03",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Lauko ligoninės ir lovos ligoninėse",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujos informacijos nėra. Rugsėjo pranešimas apie 16 000–20 000 papildomų karinių lovų prie Baltijos šalių išlieka vieno, anoniminio šaltinio teiginiu. Apie lauko ligonines prie Baltijos šalių sienų nepranešta.",
+  "evidence": "Vienas pranešimas, anoniminis šaltinis"
+ },
+ {
+  "key": "2026-11-03|blood",
+  "date": "2026-11-03",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Kraujo atsargos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Viešai nepranešta apie kraujo atsargų gabenimą Baltijos šalių pasienio link. Pranešimų nebuvimas neįrodo, kad to nėra: šis ženklas paprastai paaiškėja vėlai, per Vakarų pareigūnus.",
+  "evidence": "Nepranešta"
+ },
+ {
+  "key": "2026-11-03|rail",
+  "date": "2026-11-03",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Technikos gabenimas geležinkeliu Baltijos kryptimi",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nepranešta apie technikos traukinius, judančius Baltijos šalių sienų link. Spalio 12 d. pranešimas apie Baltarusijos pasienio bazę, pritaikytą ilgiems kariniams traukiniams, naujos informacijos nesulaukė.",
+  "evidence": "Vienas pranešimas (ankstesnis)"
  }
 ]
