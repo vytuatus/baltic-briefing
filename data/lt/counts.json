@@ -198,5 +198,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Per pastarąją parą aukšto Rusijos pareigūno grasinimų nerasta."
+ },
+ {
+  "key": "2026-11-04|airspace",
+  "date": "2026-11-04",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 1,
+  "note": "Vienas: dronas virš Balvių ir Ludzos Latvijoje po vidurnakčio lapkričio 3 d., atrodęs ukrainietiškas; lapkričio 1 d. dronas, dabar vertinamas kaip rusiškas, įskaičiuotas lapkričio 2 d."
+ },
+ {
+  "key": "2026-11-04|sabotage",
+  "date": "2026-11-04",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; Lenkijos operacija yra atsakas į įspėjimus, o apie incidentus, sulaikymus ar kaltinimus nepranešta."
+ },
+ {
+  "key": "2026-11-04|jamming",
+  "date": "2026-11-04",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Naujų oficialių ar didžiosios žiniasklaidos pranešimų apie GNSS trikdžius nėra; patys trikdžiai išlieka nuolatiniai."
+ },
+ {
+  "key": "2026-11-04|border",
+  "date": "2026-11-04",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 1,
+  "note": "Vienas: žmonės su žibintuvėliais, pastebėti prie Lenkijos sienos su Karaliaučiaus sritimi netoli Sępopolio ankstų lapkričio 3 d. rytą; niekas sienos nekirto."
+ },
+ {
+  "key": "2026-11-04|threats",
+  "date": "2026-11-04",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; Rusijos ambasada Varšuvoje įspėjimus atmetė, o lapkričio 1 d. Medvedevo įrašas buvo pašaipus, o ne aiškus grasinimas."
  }
 ]

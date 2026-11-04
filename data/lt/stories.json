@@ -278,5 +278,55 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Lietuvos ir Ukrainos oficialios pozicijos, kaip jas pateikė European Pravda; čia nepatikrinta su Lietuvos pirminiais šaltiniais.",
   "analysis": "Ukrainos apgailestavimas leidžia manyti, kad dronas buvo ukrainietiškas; teiginys, kad nuo kurso jį nukreipė Rusijos trukdymas, tikėtinas atsižvelgiant į užfiksuotus trikdžius, bet neįrodytas. Tai primena, kad ne kiekvienas dronas virš Baltijos šalių yra Rusijos provokacija, ir kad Rusijos radioelektroninė kova vis tiek gali kelti riziką NATO teritorijai."
+ },
+ {
+  "key": "2026-11-04|sepopol",
+  "date": "2026-11-04",
+  "order": 1,
+  "title": "Lenkija teigia užkirtusi kelią galimai provokacijai Karaliaučiaus pasienyje",
+  "summary": "Premjeras Donaldas Tuskas lapkričio 3 d. vyriausybės posėdyje sakė, kad pasieniečiai netrukus po vidurnakčio pranešė apie žmones su žibintuvėliais, judančius prie sienos su Rusijos Karaliaučiaus sritimi netoli Sępopolio Varmijos-Mozūrų vaivadijoje. Pajėgos buvo greitai permestos, niekas sienos nekirto, o grupė pasitraukė į Karaliaučiaus sritį. Tuskas sakė, kad Lenkijos ir sąjungininkų tarnybos, taip pat NATO vyriausiasis vadas Alexusas Grynkewichas, įspėjo apie sabotažą ar rimtesnes provokacijas pirmojoje lapkričio pusėje, įskaitant galimą ginkluotų žmonių įsiveržimą; jis pridūrė negalintis būti tikras, kad buvo ketinta provokuoti, ir tikisi, kad Rusijos spaudimas tęsis. Policijos vadas Marekas Boronis sakė, kad operacija, kurioje dalyvauja antiteroristiniai padaliniai ir GROM specialiosios pajėgos, tęsis bent iki lapkričio 8 d.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Tuskas per RMF24, AP, Reuters pagrįstus pranešimus, CBS, Meduza ir LIGA; visi perduoda tą patį pareiškimą, todėl apie patį incidentą tai vienas šaltinis.",
+  "analysis": "Incidentas menkas ir dviprasmiškas: tai pastebėjimas, o ne bandymas kirsti sieną. Svorio jam suteikia ankstesni įspėjimai, kuriuos dabar oficialiai patvirtino premjeras, nors jų įrodymai nevieši. Antraštės apie „sužlugdytą provokaciją“ skuba toliau, nei teigė pats Tuskas. Tai atitinka bazinės linijos įspėjimus apie pasirengimą trikdomosioms operacijoms."
+ },
+ {
+  "key": "2026-11-04|latvia-attribution",
+  "date": "2026-11-04",
+  "order": 2,
+  "title": "Latvija: vienas dronas greičiausiai buvo rusiškas „Geran“, kitas atrodė ukrainietiškas",
+  "summary": "Lapkričio 3 d. brifinge Latvijos ginkluotosios pajėgos sakė, kad lapkričio 1 d. į Krāslavos ir Ludzos savivaldybes įskridęs dronas greičiausiai buvo rusiškas „Geran“ tipo; nežinoma, ar jis buvo ginkluotas, ir jis išskrido atgal į Rusiją. Antrasis dronas sukėlė pavojų Balvių ir Ludzos savivaldybėse lapkričio 3 d. nuo 00.10 iki 00.35; buvo pakelti NATO oro policijos naikintuvai ir du Latvijos dronai perėmėjai, o pirminis vizualus identifikavimas rodė Ukrainos naudojamą tipą. Jis galėjo nukristi Balvių savivaldybėje, kur ieško Nacionalinės gvardijos daliniai.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Latvijos ginkluotosios pajėgos per LSM ir Reuters; apie pavojus pranešė European Pravda. Vienas pirminis šaltinis.",
+  "analysis": "Priskyrimas Rusijai svarbus, nes Rusijos valstybinė žiniasklaida lapkričio 1 d. pavojų siejo su nuklydusiais ukrainiečių dronais. Abu identifikavimai preliminarūs ir paremti sekimu bei vizualiu stebėjimu, o ne nuolaužomis. Kad ir kokia būtų jų kilmė, du įskridimai per tris dienas netoli Rusijos ir Baltarusijos sienos rodo spaudimą rytų Latvijos oro gynybai."
+ },
+ {
+  "key": "2026-11-04|lithuania-monitoring",
+  "date": "2026-11-04",
+  "order": 3,
+  "title": "Lietuva: Vokietijos brigada sustiprino Karaliaučiaus ir Baltarusijos stebėseną",
+  "summary": "Po Lenkijos pranešimų Lietuvoje dislokuotos Bundesvero 45-osios šarvuotosios brigados kariai pradėjo papildomai stebėti grėsmes iš Baltarusijos ir Karaliaučiaus srities, naudodami radioelektroninės žvalgybos įrangą ir dronų aptikimo sistemas, praneša LRT, kaip perdavė UNN. Krašto apsaugos ministras Robertas Kaunas sakė, kad Lietuvos ir Lenkijos žvalgybos pasikeitė informacija apie galimas grėsmes, o Karaliaučiaus pasienio apsauga buvo sustiprinta jau prieš kelias savaites. Lietuvos institucijos teigė, kad kol kas papildomo stiprinimo nereikia; kariuomenės parama pasieniečiams ten anksčiau pratęsta iki lapkričio vidurio.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT per UNN; ankstesni ELTA ir LRT pranešimai apie kariuomenės dislokavimą.",
+  "analysis": "Lietuvos reakcija rami ir saikinga, o tai atitinka bazinės linijos požiūrį: žema konvencinė grėsmė su hibridine rizika. Nepatikrinta su LRT originaliu straipsniu."
+ },
+ {
+  "key": "2026-11-04|russia-response",
+  "date": "2026-11-04",
+  "order": 4,
+  "title": "Maskva vadina Lenkijos įspėjimus apie sabotažą netikrais",
+  "summary": "Rusijos ambasada Varšuvoje, kaip citavo TASS, teigė, kad Lenkijos informacinė erdvė pilna militaristinės retorikos, įskaitant netikras naujienas apie galimą sabotažą. TASS pažymėjo, kad Tuskas nepateikė įrodymų. Kremliaus, užsienio reikalų ministerijos ar Karaliaučiaus valdžios komentarų nerasta. Atskirai lapkričio 1 d. Dmitrijus Medvedevas išjuokė teiginius apie Rusijos ranką Lenkijos politinėje krizėje įrašu, kuris baigėsi fraze, galinčia skambėti grėsmingai.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "TASS ir Izvestija; Meduza, Moscow Times ir AP, be šio, kito Rusijos atsako nenurodo.",
+  "analysis": "Abi pusės teigia be viešų įrodymų: Lenkija nepaskelbė savo žvalgybos duomenų, o Rusija pateikia tik visuotinį neigimą. Lenkijos tyrimai vėliau paneigė ankstesnius Rusijos neigimus dėl sabotažo Lenkijoje, todėl šis neigimas silpnesnis."
+ },
+ {
+  "key": "2026-11-04|talks-context",
+  "date": "2026-11-04",
+  "order": 5,
+  "title": "Kontekstas: JAV tarpininkaujamos derybos Abu Dabyje, Vašingtonas ragina švelninti retoriką",
+  "summary": "JAV pasiuntinys Steve'as Witkoffas sakė, kad trišalės derybos su Ukraina ir Rusija vyks Abu Dabyje lapkričio 10–11 d. Reuters praėjusią savaitę pranešė, kad Pentagono pareigūnai neviešai paprašė Baltijos sąjungininkų sušvelninti viešus įspėjimus apie Rusiją, o JAV pajėgų išdėstymas Europoje peržiūrimas. Tusko vieši įspėjimai šią savaitę rodo, kad Lenkija šio patarimo nesilaiko.",
+  "evidence": "Analizė",
+  "corroboration": "Reuters pranešimai, perduoti FinChannel ir Moscow Times; nė vienas Baltijos šalių pareigūnas oficialiai nekomentavo.",
+  "analysis": "Paliaubos Ukrainoje yra pagrindinis pokytis, kuris galėtų atlaisvinti Rusijos pajėgas ir priartinti bazinėje linijoje aprašytą ilgalaikę riziką; kol kas niekas nerodo, kad susitarimas arti. JAV raginimų santūrumui ir Lenkijos bei Baltijos šalių viešų įspėjimų skirtumas yra realus politikos skirtumas, o ne ginčas dėl faktų."
  }
 ]

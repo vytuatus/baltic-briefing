@@ -328,5 +328,60 @@
   "conflict": "Lietuva teigia, kad dronas atskrido iš Lenkijos ir gabeno sprogmenis; Ukraina išreiškė apgailestavimą, leisdama suprasti, kad dronas ukrainietiškas, ir kaltino Rusijos trukdymą. Nepriklausomų techninių išvadų apie priežastį nepaskelbta.",
   "verdict": "Unconfirmed",
   "verdict_note": "Tikėtina, atsižvelgiant į nuolatinius Rusijos trikdžius regione, tačiau tai drono operatoriaus paaiškinimas, o ne nepriklausoma išvada."
+ },
+ {
+  "key": "2026-11-04|sepopol-provocation",
+  "date": "2026-11-04",
+  "order": 1,
+  "claim": "Žmonės su žibintuvėliais prie Sępopolio bandė surengti Rusijos provokaciją",
+  "claimed_by": "Lenkijos premjeras Donaldas Tuskas, su išlyga: jis sakė, kad taip yra, „jei toks buvo ketinimas“",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Niekas sienos nekirto, niekas neidentifikuotas. Pats Tuskas sakė negalintis būti visiškai tikras. Rusijos ambasada įspėjimus apie sabotažą vadina netikrais; dėl paties incidento Rusija nekomentavo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Pastebėjimas patvirtintas, jo tikslas – ne."
+ },
+ {
+  "key": "2026-11-04|armed-groups",
+  "date": "2026-11-04",
+  "order": 2,
+  "claim": "Lenkijos ir sąjungininkų žvalgyba įspėjo apie galimus ginkluotų žmonių įsiveržimus iš Karaliaučiaus srities pirmojoje lapkričio pusėje",
+  "claimed_by": "Donaldas Tuskas oficialiai; anksčiau RMF, remdamasis neįvardytais šaltiniais; AP teigia, kad įspėjimai gauti iš Lenkijos, NATO, Ukrainos ir JAV tarnybų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Vakar tai rėmėsi anoniminiais šaltiniais; dabar premjeras oficialiai patvirtino įspėjimų turinį. Patys žvalgybos duomenys nevieši, o Rusija juos vadina netikrais.",
+  "verdict": "Likely",
+  "verdict_note": "Tai, kad įspėjimai buvo pateikti, dabar gerai pagrįsta; ar toks įsiveržimas iš tikrųjų buvo planuotas, iš viešų įrodymų spręsti neįmanoma."
+ },
+ {
+  "key": "2026-11-04|latvia-geran",
+  "date": "2026-11-04",
+  "order": 3,
+  "claim": "Lapkričio 1 d. į rytų Latviją įskridęs dronas buvo rusiškas „Geran“",
+  "claimed_by": "Latvijos ginkluotosios pajėgos (labiausiai tikėtinas vertinimas); anksčiau Izvestijos pateikimas leido suprasti, kad tai nuklydęs ukrainiečių dronas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Dronas išskrido atgal į Rusiją ir nuolaužų nėra, todėl vertinimas remiasi sekimo duomenimis. Rusijos valstybinė žiniasklaida pavojų siejo su ukrainiečių dronais; nė vienas Rusijos pareigūnas naujojo Latvijos vertinimo nekomentavo.",
+  "verdict": "Likely",
+  "verdict_note": "Oficialus karinis vertinimas; jis svaresnis už ankstesnę užuominą apie ukrainietišką kilmę, kuri neturėjo jokių įrodymų."
+ },
+ {
+  "key": "2026-11-04|latvia-ukrainian",
+  "date": "2026-11-04",
+  "order": 4,
+  "claim": "Lapkričio 3 d. virš Balvių skridęs dronas buvo ukrainietiškas",
+  "claimed_by": "Latvijos ginkluotosios pajėgos, remdamosi pirminiu vizualiu identifikavimu",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Latvija teigia, kad tikslus tipas ir kilmė nenustatyti, o nuolaužos nerastos. Ukraina nekomentavo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, atsižvelgiant į Ukrainos atakas prieš Rusijos Baltijos uostus, tačiau preliminaru, kol nerastos nuolaužos."
+ },
+ {
+  "key": "2026-11-04|sabotage-fake",
+  "date": "2026-11-04",
+  "order": 5,
+  "claim": "Lenkijos įspėjimai apie galimą sabotažą yra militaristinės retorikos skatinamos netikros naujienos",
+  "claimed_by": "Rusijos ambasada Varšuvoje per TASS",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Pasak Tusko ir AP, įspėjimus nepriklausomai pateikė kelios tarnybos. Lenkija įrodymų nepaskelbė, tačiau ir Rusija savo neigimui jokių nepateikia.",
+  "verdict": "Unsupported",
+  "verdict_note": "Visuotinis neigimas be įrodymų, pateiktas vyriausybės, kurios ankstesnius sabotažo Lenkijoje neigimus paneigė Lenkijos tyrimai."
  }
 ]

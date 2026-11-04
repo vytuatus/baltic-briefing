@@ -328,5 +328,60 @@
   "conflict": "Lithuania says the drone came in from Poland and carried explosives; Ukraine expressed regret, implying it was Ukrainian, and blamed Russian jamming. No independent technical finding on the cause has been published.",
   "verdict": "Unconfirmed",
   "verdict_note": "Plausible given persistent Russian jamming in the region, but it is the explanation of the drone's operator, not an independent finding."
+ },
+ {
+  "key": "2026-11-04|sepopol-provocation",
+  "date": "2026-11-04",
+  "order": 1,
+  "claim": "The people seen with flashlights near Sępopol were attempting a Russian provocation",
+  "claimed_by": "Polish Prime Minister Donald Tusk, hedged: he said this was so 'if that was the intention'",
+  "evidence": "Official statement",
+  "conflict": "Nobody crossed the border and no one has been identified. Tusk himself said he could not be fully certain. Russia's embassy calls the sabotage warnings fake; no Russian comment on the incident itself.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "The sighting is confirmed; its purpose is not."
+ },
+ {
+  "key": "2026-11-04|armed-groups",
+  "date": "2026-11-04",
+  "order": 2,
+  "claim": "Polish and allied intelligence warned of possible incursions by armed people from Kaliningrad in the first half of November",
+  "claimed_by": "Donald Tusk on the record; earlier RMF citing unnamed sources; AP says warnings came from Polish, NATO, Ukrainian and US services",
+  "evidence": "Official statement",
+  "conflict": "Yesterday this rested on anonymous sources; the prime minister has now confirmed the content of the warnings on the record. The underlying intelligence is not public, and Russia dismisses it as fake.",
+  "verdict": "Likely",
+  "verdict_note": "That the warnings were given is now well established; whether such an incursion was really planned cannot be judged from public evidence."
+ },
+ {
+  "key": "2026-11-04|latvia-geran",
+  "date": "2026-11-04",
+  "order": 3,
+  "claim": "The drone that entered eastern Latvia on 1 November was a Russian Geran",
+  "claimed_by": "Latvia's armed forces (most likely assessment); earlier, Izvestia's framing implied a stray Ukrainian drone",
+  "evidence": "Official statement",
+  "conflict": "The drone flew back into Russia and no wreckage exists, so the assessment rests on tracking data. Russian state media had linked the alert to Ukrainian drones; no Russian official has commented on Latvia's new assessment.",
+  "verdict": "Likely",
+  "verdict_note": "An on-the-record military assessment; it outweighs the earlier implication of a Ukrainian origin, which had no evidence behind it."
+ },
+ {
+  "key": "2026-11-04|latvia-ukrainian",
+  "date": "2026-11-04",
+  "order": 4,
+  "claim": "The drone over Balvi on 3 November was Ukrainian",
+  "claimed_by": "Latvia's armed forces, on initial visual identification",
+  "evidence": "Official statement",
+  "conflict": "Latvia says the exact type and origin are not established, and the wreckage has not been found. Ukraine has not commented.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible, given Ukraine's attacks on Russian Baltic ports, but provisional until wreckage is found."
+ },
+ {
+  "key": "2026-11-04|sabotage-fake",
+  "date": "2026-11-04",
+  "order": 5,
+  "claim": "Polish warnings about possible sabotage are fake news driven by militarist rhetoric",
+  "claimed_by": "Russia's embassy in Warsaw, via TASS",
+  "evidence": "Official statement",
+  "conflict": "Several services, according to Tusk and AP, issued the warnings independently. Poland has not published the evidence, but Russia offers none for its denial either.",
+  "verdict": "Unsupported",
+  "verdict_note": "A blanket denial with no evidence, from a government whose earlier denials of sabotage in Poland were contradicted by Polish investigations."
  }
 ]

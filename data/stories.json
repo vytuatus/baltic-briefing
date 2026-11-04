@@ -278,5 +278,55 @@
   "evidence": "Official statement, on the record",
   "corroboration": "Lithuanian and Ukrainian official positions as reported by European Pravda; not checked here against Lithuanian primary sources.",
   "analysis": "Ukraine's expression of regret implies the drone was Ukrainian; the claim that Russian jamming pushed it off course is plausible, given documented interference, but unproven. It is a reminder that not every drone over the Baltics is a Russian provocation, and that Russian electronic warfare can still create risk for NATO territory."
+ },
+ {
+  "key": "2026-11-04|sepopol",
+  "date": "2026-11-04",
+  "order": 1,
+  "title": "Poland says it prevented a possible provocation on the Kaliningrad border",
+  "summary": "Prime Minister Donald Tusk told a cabinet meeting on 3 November that border guards reported people with flashlights moving near the border with Russia's Kaliningrad region shortly after midnight, near Sępopol in Warmia-Masuria. Forces were moved in quickly, nobody crossed and the group withdrew into Kaliningrad. Tusk said Polish and allied services, and NATO's top commander Alexus Grynkewich, had warned of sabotage or more serious provocations in the first half of November, including a possible incursion by armed people; he added that he could not be certain a provocation was intended and expects Russian pressure to continue. Police chief Marek Boroń said the operation, including counter-terrorism units and GROM special forces, runs until at least 8 November.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Tusk via RMF24, AP, Reuters-based reports, CBS, Meduza and LIGA; all relay the same statement, so this is one source on the incident itself.",
+  "analysis": "The incident is minor and ambiguous: a sighting, not an attempted crossing. What gives it weight is the earlier warnings, now confirmed on the record by the prime minister, though their evidence is not public. Headlines about a 'thwarted provocation' run ahead of what Tusk himself claimed. It is consistent with the baseline's warnings about preparation for disruptive operations."
+ },
+ {
+  "key": "2026-11-04|latvia-attribution",
+  "date": "2026-11-04",
+  "order": 2,
+  "title": "Latvia: one drone was most likely a Russian Geran, the other looked Ukrainian",
+  "summary": "At a briefing on 3 November Latvia's armed forces said the drone that crossed into Krāslava and Ludza on 1 November was most likely a Russian Geran type; it is not known whether it was armed, and it flew back into Russia. A second drone triggered an alert in Balvi and Ludza from 00:10 to 00:35 on 3 November; NATO air-policing fighters and two Latvian interceptor drones were launched, and initial visual identification suggested a type used by Ukraine. It may have crashed in Balvi district, where National Guard units are searching.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Latvian armed forces via LSM and Reuters; European Pravda reported the alerts. One original source.",
+  "analysis": "The Russian attribution is notable because Russian state media had framed the 1 November alert around stray Ukrainian drones. Both identifications are provisional and based on tracking and visual observation, not wreckage. Whatever their origin, two incursions in three days near the Russia–Belarus border show the air-defence pressure on Latvia's east."
+ },
+ {
+  "key": "2026-11-04|lithuania-monitoring",
+  "date": "2026-11-04",
+  "order": 3,
+  "title": "Lithuania: German brigade steps up surveillance of Kaliningrad and Belarus",
+  "summary": "After Poland's reports, soldiers of the Bundeswehr's 45th Armoured Brigade in Lithuania began extra monitoring of threats from Belarus and Kaliningrad, using electronic intelligence equipment and drone-detection systems, according to LRT as relayed by UNN. Defence Minister Robertas Kaunas said Lithuanian and Polish intelligence had exchanged information on possible threats and that protection of the Kaliningrad border had already been strengthened weeks earlier. Lithuanian authorities said no further reinforcement is needed for now; army support for border guards there was earlier extended to mid-November.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "LRT via UNN; earlier ELTA and LRT reports on the army deployment.",
+  "analysis": "Lithuania's response is calm and measured, which fits the baseline view of a low conventional threat with hybrid risks. Not checked against LRT's original article."
+ },
+ {
+  "key": "2026-11-04|russia-response",
+  "date": "2026-11-04",
+  "order": 4,
+  "title": "Moscow calls the Polish sabotage warnings fake",
+  "summary": "Russia's embassy in Warsaw, quoted by TASS, said Poland's information space is filled with militarist rhetoric, including fake news about possible sabotage. TASS noted that Tusk gave no evidence. No comment was found from the Kremlin, the foreign ministry or Kaliningrad's authorities. Separately, on 1 November Dmitry Medvedev mocked claims of a Russian hand in Poland's political crisis in a post ending with a phrase that can be read as menacing.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "TASS and Izvestia; Meduza, the Moscow Times and AP report no Russian response beyond this.",
+  "analysis": "Both sides make claims without public evidence: Poland has not published its intelligence, and Russia offers only a blanket denial. Polish investigations have since contradicted Russian denials of earlier sabotage cases in Poland, which weakens this one."
+ },
+ {
+  "key": "2026-11-04|talks-context",
+  "date": "2026-11-04",
+  "order": 5,
+  "title": "Context: US-brokered talks set for Abu Dhabi as Washington urges restraint in rhetoric",
+  "summary": "US envoy Steve Witkoff said trilateral talks with Ukraine and Russia would be held in Abu Dhabi on 10–11 November. Reuters reported last week that Pentagon officials privately asked Baltic allies to tone down public warnings about Russia, and that US force posture in Europe is under review. Tusk's public warnings this week show Poland is not following that advice.",
+  "evidence": "Analysis",
+  "corroboration": "Reuters reporting relayed by FinChannel and the Moscow Times; no Baltic official commented on the record.",
+  "analysis": "A ceasefire in Ukraine is the main development that could free Russian forces and shift the baseline's long-term risk closer; nothing so far suggests a deal is near. The gap between US calls for restraint and Polish and Baltic public warnings is a real policy difference, not a factual dispute."
  }
 ]
