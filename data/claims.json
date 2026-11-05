@@ -383,5 +383,71 @@
   "conflict": "Several services, according to Tusk and AP, issued the warnings independently. Poland has not published the evidence, but Russia offers none for its denial either.",
   "verdict": "Unsupported",
   "verdict_note": "A blanket denial with no evidence, from a government whose earlier denials of sabotage in Poland were contradicted by Polish investigations."
+ },
+ {
+  "key": "2026-11-05|sepopol-provocation",
+  "date": "2026-11-05",
+  "order": 1,
+  "claim": "The people seen with flashlights near Sępopol were attempting a Russian provocation",
+  "claimed_by": "Implied by Donald Tusk; Polish and Ukrainian media headlines",
+  "evidence": "Official statement",
+  "conflict": "Tusk said he could not be certain; Siemoniak said he could not confirm the warned plan involved crossing from Kaliningrad. Russia calls the warnings fake. No further details have been released.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "The sighting is real; its purpose remains unknown, and no new evidence has emerged."
+ },
+ {
+  "key": "2026-11-05|armed-groups",
+  "date": "2026-11-05",
+  "order": 2,
+  "claim": "Polish and allied intelligence warned of possible incursions by armed people from Kaliningrad in the first half of November",
+  "claimed_by": "Donald Tusk on the record; Stars and Stripes names NATO commander Alexus Grynkewich among those who warned; Tomasz Siemoniak",
+  "evidence": "Official statement",
+  "conflict": "Several officials confirm the warnings were given, but Siemoniak calls them imprecise. The underlying intelligence is not public, and Russia dismisses it as fake.",
+  "verdict": "Likely",
+  "verdict_note": "That the warnings were given is well established; whether an incursion was really planned cannot be judged from public evidence."
+ },
+ {
+  "key": "2026-11-05|blame-ukrainians",
+  "date": "2026-11-05",
+  "order": 3,
+  "claim": "A planned provocation on the Kaliningrad border would be staged so that Ukrainians are blamed",
+  "claimed_by": "Tomasz Siemoniak, Polish minister coordinating special services (TVN24)",
+  "evidence": "Official statement",
+  "conflict": "No evidence has been published, and the minister himself called the information imprecise. Russian outlets have long pushed narratives that blame Ukraine for incidents in Poland and the Baltics, which makes the scenario plausible but not proven.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A serious official warning about possible intent, not evidence of an operation."
+ },
+ {
+  "key": "2026-11-05|starlink-russia",
+  "date": "2026-11-05",
+  "order": 4,
+  "claim": "Russian intelligence was behind the 23 September arson at a Starlink ground station near Warsaw",
+  "claimed_by": "Polish government; Der Spiegel reporting on the investigation",
+  "evidence": "Official statement",
+  "conflict": "Arrests in Germany and charges in several countries back the criminal case, but the Russian link rests on Polish attribution and press reports of a Turkish crime group that may have worked for Russian services. Russia has not commented on this case.",
+  "verdict": "Likely",
+  "verdict_note": "Consistent with a well-documented pattern of Russian proxy sabotage, but not yet proven in court."
+ },
+ {
+  "key": "2026-11-05|distraction",
+  "date": "2026-11-05",
+  "order": 5,
+  "claim": "Poland's Kaliningrad border operation is a political distraction from Tusk's domestic troubles",
+  "claimed_by": "RT (Russian state media); earlier the Russian embassy in Warsaw",
+  "evidence": "Commentary",
+  "conflict": "The warnings came from several allied services, including NATO's commander, and US and German forces have separately tightened their own security. RT offers no evidence for its motive claim.",
+  "verdict": "Unsupported",
+  "verdict_note": "A motive claim with no supporting evidence that ignores the allied sources of the warnings."
+ },
+ {
+  "key": "2026-11-05|nato-aggressive",
+  "date": "2026-11-05",
+  "order": 6,
+  "claim": "NATO is an aggressive bloc preparing for war with Russia, while Russia and Belarus intend to attack no one",
+  "claimed_by": "Alexander Lukashenko at the Minsk security conference (Izvestia)",
+  "evidence": "Official statement",
+  "conflict": "NATO's public plans are built around deterring and repelling an attack. Lithuania's threat assessment judges that Russia could in the longer term carry out limited operations against NATO states, and Russia gave similar assurances before invading Ukraine in 2022.",
+  "verdict": "Misleading",
+  "verdict_note": "Turns allied defensive preparations into proof of aggression and offers assurances contradicted by recent history."
  }
 ]

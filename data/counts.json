@@ -238,5 +238,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; Russia's embassy in Warsaw dismissed the warnings and Medvedev's 1 November post was mocking rather than an explicit threat."
+ },
+ {
+  "key": "2026-11-05|airspace",
+  "date": "2026-11-05",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new drone or airspace violation was first reported since the previous edition."
+ },
+ {
+  "key": "2026-11-05|sabotage",
+  "date": "2026-11-05",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One: the arrest in Germany of a suspected organiser of the 23 September Starlink ground-station arson near Warsaw, announced on 3 November and not counted yesterday."
+ },
+ {
+  "key": "2026-11-05|jamming",
+  "date": "2026-11-05",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "No new official or major media report of GNSS interference; the interference itself remains persistent."
+ },
+ {
+  "key": "2026-11-05|border",
+  "date": "2026-11-05",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new incident since the Sępopol sighting counted yesterday."
+ },
+ {
+  "key": "2026-11-05|threats",
+  "date": "2026-11-05",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; Lukashenko's speech and RT's commentary contained no new explicit threat from a senior Russian official."
  }
 ]

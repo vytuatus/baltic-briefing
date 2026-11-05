@@ -328,5 +328,65 @@
   "evidence": "Analysis",
   "corroboration": "Reuters reporting relayed by FinChannel and the Moscow Times; no Baltic official commented on the record.",
   "analysis": "A ceasefire in Ukraine is the main development that could free Russian forces and shift the baseline's long-term risk closer; nothing so far suggests a deal is near. The gap between US calls for restraint and Polish and Baltic public warnings is a real policy difference, not a factual dispute."
+ },
+ {
+  "key": "2026-11-05|siemoniak-warning",
+  "date": "2026-11-05",
+  "order": 1,
+  "title": "Polish minister: a large provocation could be staged to blame Ukrainians",
+  "summary": "Tomasz Siemoniak, the minister coordinating Poland's special services, said on TVN24 on 4 November that something 'very massive' could happen on both sides of the border, with the aim of pinning the blame on Ukrainians. He called the warnings serious and said they concern both Poland and the Baltic states, but described the information as imprecise and said he could not confirm that the plan involved crossing from Kaliningrad. Regional police in Olsztyn said preventive operations continue in border counties.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Reported by infoSecurity24 from the TVN24 interview; consistent with Tusk's 3 November remarks and with the NATO commander's warning reported by Stars and Stripes. The intelligence itself is not public.",
+  "analysis": "A false-flag framing is plausible given past Russian information operations, and the baseline warns of preparation for disruptive operations. But this is a warning about intent, not evidence of an operation, and the minister himself stressed its imprecision. It should be read as Poland trying to inoculate the public in advance."
+ },
+ {
+  "key": "2026-11-05|starlink-arrest",
+  "date": "2026-11-05",
+  "order": 2,
+  "title": "Germany arrests suspected organiser of the Starlink arson near Warsaw",
+  "summary": "Stuttgart prosecutors said on 3 November that special police arrested a Turkish citizen in the Reutlingen district who is suspected of ordering the 23 September fire at a Starlink ground station in Wola Krobowska, south of Warsaw, and of hiring two other Turkish men to carry it out. A court ordered him held on strong suspicion of preparing a terrorist offence. Two men aged 38 and 34 were detained in October on Polish warrants. Warsaw blames Russian intelligence; Der Spiegel reports the trail leads to a Turkish organised-crime group that may have worked for Russian services.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Stuttgart prosecutors and the Baden-Württemberg police; Der Spiegel reporting relayed by Euromaidan Press. The Russian link rests on Polish official attribution and press reporting.",
+  "analysis": "This is the most concrete development of the day: a real arrest, with courts involved in three countries. It fits the baseline pattern of Russian services using hired criminals and proxies. The suspects are presumed innocent, and the Russian link has not been proven in court."
+ },
+ {
+  "key": "2026-11-05|force-protection",
+  "date": "2026-11-05",
+  "order": 3,
+  "title": "US and German forces in Europe tighten force protection",
+  "summary": "Stars and Stripes reports that NATO's top commander, General Alexus Grynkewich, was among those who warned Poland of possible provocations on its north-eastern border. US European Command launched a 'See Something, Do Something' campaign urging personnel to vary routes, disable fitness-app geotagging and limit posts about travel. A senior German commander said on 1 November that security at German bases has been increased, after the Bundeswehr raised its sabotage threat level in October.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Stars and Stripes; earlier German reporting on the Bundeswehr threat level (Süddeutsche Zeitung via Kyiv Post).",
+  "analysis": "Allied militaries are treating sabotage as a real and ongoing risk to their own people and bases, which is consistent with the hybrid part of the baseline. These are protective measures, not signs that allies expect a military attack."
+ },
+ {
+  "key": "2026-11-05|minsk-conference",
+  "date": "2026-11-05",
+  "order": 4,
+  "title": "Lukashenko calls NATO an aggressive bloc but says Minsk and Moscow will attack no one",
+  "summary": "Speaking at the Minsk conference on Eurasian security on 3 November, attended by Russian Foreign Minister Sergei Lavrov, Belarusian leader Alexander Lukashenko said NATO has become an aggressive bloc with offensive potential and that Western leaders, who he claims are preparing for war around 2030, do not grasp how large such a clash would be. He said Russia and Belarus have no intention of attacking anyone.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Izvestia (Russian state media); the conference is an annual Minsk–Moscow forum.",
+  "analysis": "Standard rhetoric for this forum: it mirrors the Western '2030' debate back as Western aggression. The promise not to attack anyone carries little weight, since the same was said before February 2022, and the baseline notes Belarus's territory is increasingly used for Russian military purposes."
+ },
+ {
+  "key": "2026-11-05|russian-narrative",
+  "date": "2026-11-05",
+  "order": 5,
+  "title": "Russian state media: Poland's border operation is a domestic distraction",
+  "summary": "RT argued that Tusk launched the counter-terrorism deployment to distract from Poland's power struggle over the Constitutional Tribunal, called his warnings unproven and recalled earlier Russian nuclear warnings over Kaliningrad. It offered no evidence about what happened at the border.",
+  "evidence": "Commentary",
+  "corroboration": "RT only; it echoes the Russian embassy's 'fake news' line reported yesterday.",
+  "analysis": "The piece shifts attention to Polish domestic politics and ignores that the warnings came from several allied services, including NATO's commander. It is a narrative, not counter-evidence. That Poland has not published its intelligence is a fair point, but it does not make the warnings false."
+ },
+ {
+  "key": "2026-11-05|watch-window",
+  "date": "2026-11-05",
+  "order": 6,
+  "title": "Context: the days to watch, from 6 to 11 November",
+  "summary": "Poland's operation runs until at least 8 November; Poland's Independence Day is 11 November, and a PISM analyst told Wirtualna Polska that Russia and Belarus could time sabotage or a blackout to coincide with it. US-brokered Russia–Ukraine talks are planned in Abu Dhabi on 10–11 November, and a Pentagon review of US troop options in Europe was due to reach the defence secretary by 6 November, according to an August Reuters report.",
+  "evidence": "Analysis",
+  "corroboration": "Wirtualna Polska (analyst); Kremlin confirmation of the talks via US News/Reuters; Defense News (Reuters, August).",
+  "analysis": "These dates matter for the baseline: a ceasefire could in time free Russian forces, and any reduction of US troops would weaken deterrence. Neither has happened. The analyst's warning about 11 November is a reasonable judgement, not intelligence."
  }
 ]

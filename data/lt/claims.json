@@ -383,5 +383,71 @@
   "conflict": "Pasak Tusko ir AP, įspėjimus nepriklausomai pateikė kelios tarnybos. Lenkija įrodymų nepaskelbė, tačiau ir Rusija savo neigimui jokių nepateikia.",
   "verdict": "Unsupported",
   "verdict_note": "Visuotinis neigimas be įrodymų, pateiktas vyriausybės, kurios ankstesnius sabotažo Lenkijoje neigimus paneigė Lenkijos tyrimai."
+ },
+ {
+  "key": "2026-11-05|sepopol-provocation",
+  "date": "2026-11-05",
+  "order": 1,
+  "claim": "Žmonės su žibintuvėliais prie Sępopolio bandė surengti Rusijos provokaciją",
+  "claimed_by": "Numanoma pagal Donaldo Tusko žodžius; Lenkijos ir Ukrainos žiniasklaidos antraštės",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Tuskas sakė negalintis būti tikras; Siemoniakas sakė negalintis patvirtinti, kad įspėjimuose minėtas planas apėmė sienos kirtimą iš Karaliaučiaus srities. Rusija įspėjimus vadina netikrais. Daugiau detalių nepaskelbta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Pastebėjimas tikras; jo tikslas tebėra nežinomas, naujų įrodymų neatsirado."
+ },
+ {
+  "key": "2026-11-05|armed-groups",
+  "date": "2026-11-05",
+  "order": 2,
+  "claim": "Lenkijos ir sąjungininkų žvalgyba įspėjo apie galimus ginkluotų žmonių įsiveržimus iš Karaliaučiaus srities pirmojoje lapkričio pusėje",
+  "claimed_by": "Donaldas Tuskas oficialiai; Stars and Stripes tarp įspėjusiųjų įvardija NATO vadą Alexusą Grynkewichą; Tomaszas Siemoniakas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Keli pareigūnai patvirtina, kad įspėjimai buvo pateikti, tačiau Siemoniakas juos vadina netiksliais. Patys žvalgybos duomenys nevieši, o Rusija juos vadina netikrais.",
+  "verdict": "Likely",
+  "verdict_note": "Tai, kad įspėjimai buvo pateikti, gerai pagrįsta; ar įsiveržimas iš tikrųjų buvo planuotas, iš viešų įrodymų spręsti neįmanoma."
+ },
+ {
+  "key": "2026-11-05|blame-ukrainians",
+  "date": "2026-11-05",
+  "order": 3,
+  "claim": "Planuojama provokacija Karaliaučiaus pasienyje būtų surežisuota taip, kad kaltė kristų ukrainiečiams",
+  "claimed_by": "Tomaszas Siemoniakas, Lenkijos specialiąsias tarnybas koordinuojantis ministras (TVN24)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Įrodymų nepaskelbta, o pats ministras informaciją pavadino netikslia. Rusijos žiniasklaida jau seniai skleidžia pasakojimus, kuriais dėl incidentų Lenkijoje ir Baltijos šalyse kaltinama Ukraina, todėl scenarijus tikėtinas, bet neįrodytas.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Rimtas oficialus įspėjimas apie galimus ketinimus, o ne operacijos įrodymas."
+ },
+ {
+  "key": "2026-11-05|starlink-russia",
+  "date": "2026-11-05",
+  "order": 4,
+  "claim": "Už rugsėjo 23 d. padegimo „Starlink“ antžeminėje stotyje netoli Varšuvos stovėjo Rusijos žvalgyba",
+  "claimed_by": "Lenkijos vyriausybė; Der Spiegel pranešimai apie tyrimą",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Baudžiamąją bylą paremia sulaikymai Vokietijoje ir kaltinimai keliose šalyse, tačiau ryšys su Rusija remiasi Lenkijos priskyrimu ir žiniasklaidos pranešimais apie Turkijos nusikalstamą grupuotę, kuri galėjo dirbti Rusijos tarnyboms. Rusija šios bylos nekomentavo.",
+  "verdict": "Likely",
+  "verdict_note": "Atitinka gerai dokumentuotą Rusijos sabotažo per tarpininkus modelį, tačiau teisme kol kas neįrodyta."
+ },
+ {
+  "key": "2026-11-05|distraction",
+  "date": "2026-11-05",
+  "order": 5,
+  "claim": "Lenkijos operacija Karaliaučiaus pasienyje – politinis dėmesio nukreipimas nuo Tusko vidaus problemų",
+  "claimed_by": "RT (Rusijos valstybinė žiniasklaida); anksčiau Rusijos ambasada Varšuvoje",
+  "evidence": "Komentaras",
+  "conflict": "Įspėjimai gauti iš kelių sąjungininkų tarnybų, įskaitant NATO vadą, o JAV ir Vokietijos pajėgos atskirai sugriežtino savo apsaugą. RT savo teiginiui apie motyvus jokių įrodymų nepateikia.",
+  "verdict": "Unsupported",
+  "verdict_note": "Teiginys apie motyvus be jokių įrodymų, ignoruojantis sąjungininkų įspėjimų šaltinius."
+ },
+ {
+  "key": "2026-11-05|nato-aggressive",
+  "date": "2026-11-05",
+  "order": 6,
+  "claim": "NATO yra agresyvus blokas, besiruošiantis karui su Rusija, o Rusija ir Baltarusija nieko neketina pulti",
+  "claimed_by": "Aliaksandras Lukašenka Minsko saugumo konferencijoje (Izvestija)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Vieši NATO planai grindžiami puolimo atgrasymu ir atrėmimu. Lietuvos grėsmių vertinime teigiama, kad ilguoju laikotarpiu Rusija galėtų vykdyti ribotas operacijas prieš NATO valstybes, o panašius užtikrinimus Rusija davė prieš įsiverždama į Ukrainą 2022 m.",
+  "verdict": "Misleading",
+  "verdict_note": "Sąjungininkų gynybinis pasirengimas paverčiamas agresijos įrodymu, o pateikiami užtikrinimai, kuriuos paneigia neseniai buvusi istorija."
  }
 ]
