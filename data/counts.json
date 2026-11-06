@@ -278,5 +278,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; Lukashenko's speech and RT's commentary contained no new explicit threat from a senior Russian official."
+ },
+ {
+  "key": "2026-11-06|airspace",
+  "date": "2026-11-06",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new drone or airspace violation was first reported since the previous edition."
+ },
+ {
+  "key": "2026-11-06|sabotage",
+  "date": "2026-11-06",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One: a Bucharest court's 2 November arrest order, reported on 5 November, for a man living in Russia accused of coordinating a 2024 plot against Romanian oil and gas sites; Poland's ABW arrests concern espionage and supplies to Russia's military, not sabotage, and are not counted."
+ },
+ {
+  "key": "2026-11-06|jamming",
+  "date": "2026-11-06",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 1,
+  "note": "One: Militarnyi's 4 November report of an ItaMilRadar map showing GNSS interference along the eastern flank on 3 November, published after yesterday's research and not counted then."
+ },
+ {
+  "key": "2026-11-06|border",
+  "date": "2026-11-06",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new incident since the Sępopol sighting counted on 4 November."
+ },
+ {
+  "key": "2026-11-06|threats",
+  "date": "2026-11-06",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None explicit; Shoigu's accusation and Zakharova's general reference to 'asymmetrical' responses are hostile rhetoric but not a direct threat against NATO or the Baltic states."
  }
 ]

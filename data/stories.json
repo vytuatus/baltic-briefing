@@ -388,5 +388,65 @@
   "evidence": "Analysis",
   "corroboration": "Wirtualna Polska (analyst); Kremlin confirmation of the talks via US News/Reuters; Defense News (Reuters, August).",
   "analysis": "These dates matter for the baseline: a ceasefire could in time free Russian forces, and any reduction of US troops would weaken deterrence. Neither has happened. The analyst's warning about 11 November is a reasonable judgement, not intelligence."
+ },
+ {
+  "key": "2026-11-06|vsd-expulsion",
+  "date": "2026-11-06",
+  "order": 1,
+  "title": "Lithuania expels three Ukrainians over paid tasks for hostile intelligence services",
+  "summary": "Lithuania's State Security Department told BNS on 5 November that three Ukrainian citizens had received paid tasks over Telegram and other messaging apps from hostile foreign intelligence services, such as filming particular sites and interviewing certain people. Their residence permits were revoked, they were declared a threat to national security and banned from returning for five years; the Migration Department confirmed they have left. Interior Minister Martynas Katelynas also commented. No criminal investigation was opened.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "LRT and BNS, quoting the VSD and the Migration Department. The VSD did not name the foreign services or say where the three went.",
+  "analysis": "This is exactly the recruitment pattern the 2026 threat assessment describes: low-cost, online tasking of people who need money. Expelling rather than prosecuting is a preventive tool, so the evidence has not been tested in court. That the people are Ukrainian is also a reminder that hostile services recruit from any community, and it should not be read as a judgement on Ukrainians in Lithuania."
+ },
+ {
+  "key": "2026-11-06|abw-arrests",
+  "date": "2026-11-06",
+  "order": 2,
+  "title": "Poland detains six over supplying Russia's military and espionage",
+  "summary": "Poland's Internal Security Agency (ABW) said it had detained five Polish citizens aged 25 to 52 and a 37-year-old Russian citizen after 21 searches between 21 October and 2 November in the Warmia-Masuria, Pomerania and Greater Poland regions. All are charged with taking part in an organised criminal group that allegedly sent Russia large quantities of military components used for ammunition and weapons; four are also suspected of espionage. A court ordered three months' custody. Minister Tomasz Siemoniak said nearly 100 people have been charged in espionage and sabotage cases since January 2024.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "LIGA.net, citing the ABW and the minister; court custody order confirms the case is active.",
+  "analysis": "A significant case, but about sanctions evasion and spying rather than an attack. It fits the baseline picture of Russian services working across the region through local networks. The suspects are presumed innocent."
+ },
+ {
+  "key": "2026-11-06|shoigu-claim",
+  "date": "2026-11-06",
+  "order": 3,
+  "title": "Shoigu accuses Poland and the Baltic states of training people to undermine Russia",
+  "summary": "At a press event for Russia's National Unity Day, Security Council Secretary Sergei Shoigu said Poland, the Baltic states and other countries are training people to work against Russia from within, often through NGOs and non-profits, and that the Security Council is dealing with it. Asked about this on 5 November, Foreign Ministry spokeswoman Maria Zakharova said Russia's foreign-policy concept allows 'symmetrical and asymmetrical' responses to unfriendly actions.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "TASS (Zakharova); Interia via Bytes Europe (Shoigu). No supporting evidence was offered.",
+  "analysis": "The accusation comes days after Poland and Lithuania went public about Russian sabotage and spying, and mirrors those charges back. It gives Moscow a ready narrative for restrictions at home and, potentially, a pretext for 'responses' abroad. It is not evidence of military planning, and Zakharova's formula is a standard phrase rather than a specific threat."
+ },
+ {
+  "key": "2026-11-06|romania-warrant",
+  "date": "2026-11-06",
+  "order": 4,
+  "title": "Romanian court orders arrest of alleged coordinator of 2024 energy-site sabotage plot",
+  "summary": "The Bucharest Court of Appeals, at the request of anti-terrorism prosecutors (DIICOT), on 2 November ordered the arrest in absentia of a 35-year-old Cuban man living in Russia. Prosecutors say he paid a former Colombian soldier in mid-2024 to travel to Romania, scout oil wells and a gas station near Bucharest and prepare attacks; that man was stopped by police and the Romanian Intelligence Service, and was sentenced to six years in 2025.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "AGERPRES via CiberCuba; earlier Romanian conviction of the accomplice. The Russian link rests on the prosecutors' case.",
+  "analysis": "Further evidence of the proxy model the baseline warns about: foreign nationals hired from a distance for sabotage. The suspect is in Russia, so the order is largely symbolic. Romania is outside the Baltic region, but the same networks have been linked to cases in Poland and Germany."
+ },
+ {
+  "key": "2026-11-06|gps-map",
+  "date": "2026-11-06",
+  "order": 5,
+  "title": "OSINT map shows GPS interference along almost the whole eastern flank",
+  "summary": "Militarnyi reported on 4 November that an ItaMilRadar map, built from AirNav Radar flight data, showed GNSS interference on 3 November from the Baltic Sea to the Black Sea, with the most intense disruption near Kaliningrad, over Lithuania and eastern Poland, and around Romania and Bulgaria.",
+  "evidence": "Imagery or documents",
+  "corroboration": "One OSINT source relayed by Militarnyi; consistent with earlier government and maritime monitoring.",
+  "analysis": "These maps show where aircraft report degraded navigation, not where jammers are; some interference comes from Russian air defence and from Ukraine-related electronic warfare. Even so, the pattern around Kaliningrad matches what Lithuania's assessment describes. Nothing in it suggests a new escalation."
+ },
+ {
+  "key": "2026-11-06|watch-window",
+  "date": "2026-11-06",
+  "order": 6,
+  "title": "Context: the days to watch, 6–11 November",
+  "summary": "Poland's Kaliningrad border operation runs until at least 8 November and Poland marks Independence Day on 11 November. The Kremlin has confirmed that a Russian delegation led by Vladimir Medinsky will attend trilateral talks with the US and Ukraine in Abu Dhabi on 10–11 November. The Pentagon's review of US forces in Europe was due to deliver options to the defence secretary around 6 November; no decision has been announced. The Robert Lansing Institute speculates that Moscow hopes to deal with Washington directly over European security after the US midterm elections.",
+  "evidence": "Analysis",
+  "corroboration": "APA (Kremlin confirmation); Breaking Defense commentary on the review; Lansing Institute (commentary, no named sources for its view of Kremlin intent).",
+  "analysis": "A ceasefire could in time free Russian forces and a large US drawdown would weaken deterrence; either would move the picture away from the baseline. Neither has happened. The Lansing piece is commentary and is not used for any rating."
  }
 ]

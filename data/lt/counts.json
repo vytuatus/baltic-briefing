@@ -278,5 +278,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra; Lukašenkos kalboje ir RT komentare nebuvo naujų aiškių aukšto Rusijos pareigūno grasinimų."
+ },
+ {
+  "key": "2026-11-06|airspace",
+  "date": "2026-11-06",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo pirmą kartą nepranešta apie jokį naują droną ar oro erdvės pažeidimą."
+ },
+ {
+  "key": "2026-11-06|sabotage",
+  "date": "2026-11-06",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "Vienas: lapkričio 2 d. Bukarešto teismo nutartis, apie kurią pranešta lapkričio 5 d., suimti Rusijoje gyvenantį vyrą, kaltinamą koordinavus 2024 m. planą prieš Rumunijos naftos ir dujų objektus; Lenkijos ABW sulaikymai susiję su šnipinėjimu ir tiekimu Rusijos kariuomenei, o ne su sabotažu, todėl neįskaičiuojami."
+ },
+ {
+  "key": "2026-11-06|jamming",
+  "date": "2026-11-06",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 1,
+  "note": "Vienas: lapkričio 4 d. Militarnyi pranešimas apie ItaMilRadar žemėlapį, rodantį GNSS trikdžius rytiniame flange lapkričio 3 d.; paskelbtas po vakarykščio tyrimo ir tada neįskaičiuotas."
+ },
+ {
+  "key": "2026-11-06|border",
+  "date": "2026-11-06",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; nuo lapkričio 4 d. įskaičiuoto pastebėjimo prie Sępopolio naujų incidentų nebuvo."
+ },
+ {
+  "key": "2026-11-06|threats",
+  "date": "2026-11-06",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Aiškių nėra; Šoigu kaltinimas ir bendra Zacharovos nuoroda į „asimetrinius“ atsakus yra priešiška retorika, bet ne tiesioginis grasinimas NATO ar Baltijos šalims."
  }
 ]

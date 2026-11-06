@@ -449,5 +449,71 @@
   "conflict": "Vieši NATO planai grindžiami puolimo atgrasymu ir atrėmimu. Lietuvos grėsmių vertinime teigiama, kad ilguoju laikotarpiu Rusija galėtų vykdyti ribotas operacijas prieš NATO valstybes, o panašius užtikrinimus Rusija davė prieš įsiverždama į Ukrainą 2022 m.",
   "verdict": "Misleading",
   "verdict_note": "Sąjungininkų gynybinis pasirengimas paverčiamas agresijos įrodymu, o pateikiami užtikrinimai, kuriuos paneigia neseniai buvusi istorija."
+ },
+ {
+  "key": "2026-11-06|shoigu-training",
+  "date": "2026-11-06",
+  "order": 1,
+  "claim": "Lenkija ir Baltijos šalys rengia žmones, kurie dirbtų Rusijos žlugimui iš vidaus",
+  "claimed_by": "Sergejus Šoigu, Rusijos Saugumo Tarybos sekretorius; pakartojo Marija Zacharova",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Jokių įrodymų nepateikta. Lenkija, Lietuva, Vokietija ir Rumunija paskelbė apie sulaikymus ir teismo bylas, rodančias priešingą srautą: Rusijos tarnybų užverbuotus žmones šnipinėjimui ir sabotažui Europoje.",
+  "verdict": "Unsupported",
+  "verdict_note": "Veidrodinis kaltinimas be įrodymų, paskelbtas po Lenkijos ir Lietuvos atskleistų faktų."
+ },
+ {
+  "key": "2026-11-06|vsd-hostile",
+  "date": "2026-11-06",
+  "order": 2,
+  "claim": "Trys Lietuvoje gyvenę ukrainiečiai vykdė apmokamas priešiškų užsienio žvalgybos tarnybų užduotis",
+  "claimed_by": "Lietuvos Valstybės saugumo departamentas (VSD)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "VSD neįvardijo tarnybų, nepradėjo baudžiamosios bylos ir nepaskelbė įrodymų; išvykę asmenys dabar negali to ginčyti Lietuvoje. Aprašytas metodas atitinka ankstesnes įrodytas bylas.",
+  "verdict": "Likely",
+  "verdict_note": "Patikima oficiali išvada, atitinkanti žinomą modelį, tačiau teisme nepatikrinta, o užsakovas neįvardytas."
+ },
+ {
+  "key": "2026-11-06|abw-espionage",
+  "date": "2026-11-06",
+  "order": 3,
+  "claim": "Šeši Lenkijoje sulaikyti asmenys tiekė Rusijai karinius komponentus, o keturi šnipinėjo Rusijai",
+  "claimed_by": "Lenkijos vidaus saugumo agentūra (ABW); ministras Tomaszas Siemoniakas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paremta kratomis ir teismo nutartimi dėl suėmimo; įrodymų detalės nevieši. Rusijos atsako nėra.",
+  "verdict": "Likely",
+  "verdict_note": "Aktyvi baudžiamoji byla, prižiūrima teismo; kaltė dar nenustatyta."
+ },
+ {
+  "key": "2026-11-06|romania-plot",
+  "date": "2026-11-06",
+  "order": 4,
+  "claim": "Rusijoje gyvenantis vyras koordinavo 2024 m. planą atakuoti Rumunijos naftos ir dujų objektus",
+  "claimed_by": "Rumunijos antiteroristiniai prokurorai (DIICOT); Bukarešto apeliacinis teismas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Pasamdytas bendrininkas nuteistas 2025 m., o tai patvirtina patį planą; koordinatoriaus vaidmuo ir ryšys su Rusija remiasi kaltinimo byla, nes jis Rumunijai nepasiekiamas.",
+  "verdict": "Likely",
+  "verdict_note": "Planas nustatytas teisme; koordinatoriaus kaltė ir užsakovas dar nepatikrinti."
+ },
+ {
+  "key": "2026-11-06|armed-groups",
+  "date": "2026-11-06",
+  "order": 5,
+  "claim": "Lenkijos ir sąjungininkų žvalgyba įspėjo apie galimus ginkluotų žmonių įsiveržimus iš Karaliaučiaus srities pirmojoje lapkričio pusėje",
+  "claimed_by": "Donaldas Tuskas; Tomaszas Siemoniakas; NATO vadas Alexusas Grynkewichas (pasak Stars and Stripes)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Po įspėjimų joks bandymas kirsti sieną nepatvirtintas; Lenkijos operacija tęsis bent iki lapkričio 8 d. Rusija įspėjimus vadina netikrais, o Šoigu dabar pačią Lenkiją kaltina rengiant diversantus.",
+  "verdict": "Likely",
+  "verdict_note": "Tai, kad įspėjimai buvo pateikti, gerai pagrįsta; ar įsiveržimas buvo planuotas, iš viešų įrodymų spręsti neįmanoma."
+ },
+ {
+  "key": "2026-11-06|gps-flank",
+  "date": "2026-11-06",
+  "order": 6,
+  "claim": "Lapkričio 3 d. GPS trikdžiai paveikė beveik visą NATO rytinį flangą",
+  "claimed_by": "ItaMilRadar (OSINT), pranešė Militarnyi",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Skrydžių duomenų žemėlapiai rodo, kur orlaiviai praranda tikslumą, o ne kas trukdo; dalis trikdžių kyla dėl karo Ukrainoje. Baltijos šalių vyriausybės jau seniai trikdžius Karaliaučiaus regione priskiria Rusijai.",
+  "verdict": "Likely",
+  "verdict_note": "Modelis gerai dokumentuotas; šis vienas žemėlapis prideda momentinį vaizdą, o ne naują priskyrimą."
  }
 ]

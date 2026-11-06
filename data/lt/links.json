@@ -1150,5 +1150,131 @@
   "perspective": "US and international",
   "title": "Pentagon's NATO review preparing troop options for Hegseth by November 6",
   "url": "https://www.defensenews.com/pentagon/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/"
+ },
+ {
+  "key": "2026-11-06|vsd-baseline",
+  "date": "2026-11-06",
+  "topic": "Lietuvos grėsmių nacionaliniam saugumui vertinimas (bazinė linija)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-06|lrt-vsd",
+  "date": "2026-11-06",
+  "topic": "Lietuva išsiuntė tris ukrainiečius (VSD)",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Three Ukrainians expelled from Lithuania before doing 'any actual damage' – VSD",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3105180/three-ukrainians-expelled-from-lithuania-before-doing-any-actual-damage-vsd"
+ },
+ {
+  "key": "2026-11-06|liga-abw",
+  "date": "2026-11-06",
+  "topic": "Lenkijos ABW sulaikymai dėl šnipinėjimo",
+  "outlet": "LIGA.net",
+  "perspective": "Ukrainian",
+  "title": "Five Poles and one Russian woman were detained in Poland: they may have been working for Russian intelligence",
+  "url": "https://news.liga.net/en/world/news/five-poles-and-one-russian-woman-were-detained-in-poland-they-may-have-been-working-for-russian-intelligence"
+ },
+ {
+  "key": "2026-11-06|finchannel-op",
+  "date": "2026-11-06",
+  "topic": "Lenkijos operacija Karaliaučiaus pasienyje",
+  "outlet": "FinChannel (citing Reuters and CBS)",
+  "perspective": "US and international",
+  "title": "Poland border operation expands after Kaliningrad incident and sabotage warnings",
+  "url": "https://finchannel.com/poland-deploys-more-forces-near-russian-border-after-unconfirmed-kaliningrad-incident/140568/world-2/2026/11/"
+ },
+ {
+  "key": "2026-11-06|tass-zakharova",
+  "date": "2026-11-06",
+  "topic": "Rusijos retorika Lenkijos ir Baltijos šalių atžvilgiu",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Russia has right to retaliate to unfriendly actions by other countries — Foreign Ministry",
+  "url": "https://tass.com/politics/2213515"
+ },
+ {
+  "key": "2026-11-06|interia-shoigu",
+  "date": "2026-11-06",
+  "topic": "Rusijos retorika Lenkijos ir Baltijos šalių atžvilgiu",
+  "outlet": "Bytes Europe (citing Interia)",
+  "perspective": "Central Europe",
+  "title": "Shoigu accuses Poland of training saboteurs — Interia",
+  "url": "https://www.byteseu.com/2500445/"
+ },
+ {
+  "key": "2026-11-06|cibercuba-romania",
+  "date": "2026-11-06",
+  "topic": "Rumunijos suėmimo nutartis dėl sabotažo plano",
+  "outlet": "CiberCuba (citing AGERPRES)",
+  "perspective": "US and international",
+  "title": "Romania orders the arrest of a Cuban accused of coordinating sabotage on behalf of Russia",
+  "url": "https://en.cibercuba.com/noticias/2026-11-05-u1-e208933-s27061-nid344945-rumania-ordena-arrestar-cubano-acusado-coordinar"
+ },
+ {
+  "key": "2026-11-06|united24-network",
+  "date": "2026-11-06",
+  "topic": "Sabotažo tinklai Vokietijoje ir Rumunijoje (kontekstas)",
+  "outlet": "UNITED24 Media",
+  "perspective": "Ukrainian",
+  "title": "Two Arrested in Germany as Suspected Russian Sabotage Plot Unravels",
+  "url": "https://united24media.com/world/two-arrested-in-germany-as-suspected-russian-sabotage-plot-unravels-23891"
+ },
+ {
+  "key": "2026-11-06|militarnyi-gps",
+  "date": "2026-11-06",
+  "topic": "GPS trikdžiai NATO rytiniame flange",
+  "outlet": "Militarnyi",
+  "perspective": "OSINT and trackers",
+  "title": "From the Baltic to the Black Sea: Large-Scale GPS Jamming Detected Along NATO Borders",
+  "url": "https://militarnyi.com/en/news/from-the-baltic-to-the-black-sea-large-scale-gps-jamming-detected-along-nato-borders/"
+ },
+ {
+  "key": "2026-11-06|apa-talks",
+  "date": "2026-11-06",
+  "topic": "Taikos derybos Abu Dabyje",
+  "outlet": "APA",
+  "perspective": "US and international",
+  "title": "Kremlin confirms Russia-US-Ukraine talks in Abu Dhabi on November 10–11",
+  "url": "https://en.apa.az/cis-countries/kremlin-confirms-russia-us-ukraine-talks-in-abu-dhabi-on-november-10-11-533734"
+ },
+ {
+  "key": "2026-11-06|breakingdefense-review",
+  "date": "2026-11-06",
+  "topic": "JAV pajėgų Europoje peržiūra",
+  "outlet": "Breaking Defense",
+  "perspective": "US and international",
+  "title": "The fiscal risks of bringing US troops out of Europe",
+  "url": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe/"
+ },
+ {
+  "key": "2026-11-06|commondef-rhetoric",
+  "date": "2026-11-06",
+  "topic": "JAV spaudimas dėl Baltijos šalių retorikos (kontekstas)",
+  "outlet": "Common Defense (relaying Reuters)",
+  "perspective": "US and international",
+  "title": "Pentagon Presses Europeans to Cool Russia Rhetoric, Sources Say",
+  "url": "https://www.commondef.com/2026/11/pentagon-presses-europeans-to-cool-russia-rhetoric-sources-say/"
+ },
+ {
+  "key": "2026-11-06|lansing-midterms",
+  "date": "2026-11-06",
+  "topic": "Kremliaus skaičiavimai po JAV vidurio kadencijos rinkimų",
+  "outlet": "Robert Lansing Institute",
+  "perspective": "Commentary",
+  "title": "The 2026 U.S. Midterm Elections: A New Balance of Power in Washington and the Kremlin's Strategic Calculations",
+  "url": "https://lansinginstitute.org/2026/11/05/the-2026-u-s-midterm-elections-a-new-balance-of-power-in-washington-and-the-kremlins-strategic-calculations/"
+ },
+ {
+  "key": "2026-11-06|euvsdisinfo-kaliningrad",
+  "date": "2026-11-06",
+  "topic": "Rusijos pasakojimai apie NATO puolimą prieš Karaliaučių",
+  "outlet": "EUvsDisinfo",
+  "perspective": "US and international",
+  "title": "Disinfo: The Gallant Boar 2026 drill prepares a NATO invasion of Kaliningrad",
+  "url": "https://euvsdisinfo.eu/report/the-gallant-boar-2026-drill-prepares-a-nato-invasion-of-kaliningrad/"
  }
 ]

@@ -449,5 +449,71 @@
   "conflict": "NATO's public plans are built around deterring and repelling an attack. Lithuania's threat assessment judges that Russia could in the longer term carry out limited operations against NATO states, and Russia gave similar assurances before invading Ukraine in 2022.",
   "verdict": "Misleading",
   "verdict_note": "Turns allied defensive preparations into proof of aggression and offers assurances contradicted by recent history."
+ },
+ {
+  "key": "2026-11-06|shoigu-training",
+  "date": "2026-11-06",
+  "order": 1,
+  "claim": "Poland and the Baltic states are training people to work for Russia's collapse from within",
+  "claimed_by": "Sergei Shoigu, Secretary of Russia's Security Council; echoed by Maria Zakharova",
+  "evidence": "Official statement",
+  "conflict": "No evidence offered. Poland, Lithuania, Germany and Romania have published arrests and court cases showing the reverse flow: people recruited by Russian services for spying and sabotage in Europe.",
+  "verdict": "Unsupported",
+  "verdict_note": "A mirror-image accusation with no evidence, timed after Polish and Lithuanian disclosures."
+ },
+ {
+  "key": "2026-11-06|vsd-hostile",
+  "date": "2026-11-06",
+  "order": 2,
+  "claim": "Three Ukrainians in Lithuania carried out paid tasks for hostile foreign intelligence services",
+  "claimed_by": "Lithuania's State Security Department (VSD)",
+  "evidence": "Official statement",
+  "conflict": "The VSD did not name the services, open a criminal case or publish evidence; the three cannot contest it in Lithuania now that they have left. The method described matches earlier proven cases.",
+  "verdict": "Likely",
+  "verdict_note": "A credible official finding matching a known pattern, but untested in court and with the sponsor unnamed."
+ },
+ {
+  "key": "2026-11-06|abw-espionage",
+  "date": "2026-11-06",
+  "order": 3,
+  "claim": "Six people detained in Poland supplied Russia with military components, and four spied for Russia",
+  "claimed_by": "Polish Internal Security Agency (ABW); minister Tomasz Siemoniak",
+  "evidence": "Official statement",
+  "conflict": "Backed by searches and a court custody order; details of the evidence are not public. No Russian response.",
+  "verdict": "Likely",
+  "verdict_note": "An active criminal case with judicial oversight; guilt not yet established."
+ },
+ {
+  "key": "2026-11-06|romania-plot",
+  "date": "2026-11-06",
+  "order": 4,
+  "claim": "A man living in Russia coordinated a 2024 plot to attack Romanian oil and gas sites",
+  "claimed_by": "Romanian anti-terrorism prosecutors (DIICOT); Bucharest Court of Appeals",
+  "evidence": "Official statement",
+  "conflict": "The hired accomplice was convicted in 2025, which supports the plot itself; the coordinator's role and the Russian connection rest on the prosecution's case, as he is beyond Romania's reach.",
+  "verdict": "Likely",
+  "verdict_note": "The plot is established in court; the coordinator's guilt and the sponsorship are not yet tested."
+ },
+ {
+  "key": "2026-11-06|armed-groups",
+  "date": "2026-11-06",
+  "order": 5,
+  "claim": "Polish and allied intelligence warned of possible incursions by armed people from Kaliningrad in the first half of November",
+  "claimed_by": "Donald Tusk; Tomasz Siemoniak; NATO commander Alexus Grynkewich (per Stars and Stripes)",
+  "evidence": "Official statement",
+  "conflict": "No confirmed crossing attempt since the warnings; Poland's operation continues until at least 8 November. Russia calls the warnings fake and Shoigu now accuses Poland itself of training saboteurs.",
+  "verdict": "Likely",
+  "verdict_note": "That the warnings were given is well established; whether an incursion was planned cannot be judged from public evidence."
+ },
+ {
+  "key": "2026-11-06|gps-flank",
+  "date": "2026-11-06",
+  "order": 6,
+  "claim": "GPS interference affected almost all of NATO's eastern flank on 3 November",
+  "claimed_by": "ItaMilRadar (OSINT), reported by Militarnyi",
+  "evidence": "Imagery or documents",
+  "conflict": "Flight-data maps show where aircraft lose accuracy, not who is jamming; part of the interference stems from the war in Ukraine. Baltic governments have long attributed the Kaliningrad-area interference to Russia.",
+  "verdict": "Likely",
+  "verdict_note": "The pattern is well documented; this single map adds a snapshot, not new attribution."
  }
 ]

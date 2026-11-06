@@ -388,5 +388,65 @@
   "evidence": "Analizė",
   "corroboration": "Wirtualna Polska (analitikas); Kremliaus patvirtinimas apie derybas per US News/Reuters; Defense News (Reuters, rugpjūtis).",
   "analysis": "Šios datos svarbios bazinei linijai: paliaubos ilgainiui galėtų atlaisvinti Rusijos pajėgas, o bet koks JAV karių mažinimas susilpnintų atgrasymą. Nei viena, nei kita neįvyko. Analitiko įspėjimas dėl lapkričio 11-osios yra pagrįstas vertinimas, o ne žvalgybos informacija."
+ },
+ {
+  "key": "2026-11-06|vsd-expulsion",
+  "date": "2026-11-06",
+  "order": 1,
+  "title": "Lietuva išsiuntė tris ukrainiečius dėl apmokamų priešiškų žvalgybos tarnybų užduočių",
+  "summary": "Lietuvos Valstybės saugumo departamentas lapkričio 5 d. BNS sakė, kad trys Ukrainos piliečiai per „Telegram“ ir kitas susirašinėjimo programėles gavo apmokamas priešiškų užsienio žvalgybos tarnybų užduotis, pavyzdžiui, filmuoti tam tikrus objektus ir apklausti tam tikrus žmones. Jų leidimai gyventi panaikinti, jie pripažinti grėsme nacionaliniam saugumui, jiems penkeriems metams uždrausta grįžti; Migracijos departamentas patvirtino, kad jie išvyko. Situaciją komentavo ir vidaus reikalų ministras Martynas Katelynas. Ikiteisminis tyrimas nepradėtas.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT ir BNS, cituojantys VSD ir Migracijos departamentą. VSD neįvardijo užsienio tarnybų ir nenurodė, kur išvyko šie trys asmenys.",
+  "analysis": "Tai būtent tas verbavimo modelis, kurį aprašo 2026 m. grėsmių vertinimas: pigus užduočių skyrimas internetu pinigų stokojantiems žmonėms. Išsiuntimas vietoj baudžiamojo persekiojimo yra prevencinė priemonė, todėl įrodymai teisme nepatikrinti. Tai, kad asmenys yra ukrainiečiai, primena, jog priešiškos tarnybos verbuoja iš bet kurios bendruomenės, ir tai neturėtų būti laikoma vertinimu apie Lietuvoje gyvenančius ukrainiečius."
+ },
+ {
+  "key": "2026-11-06|abw-arrests",
+  "date": "2026-11-06",
+  "order": 2,
+  "title": "Lenkija sulaikė šešis asmenis dėl tiekimo Rusijos kariuomenei ir šnipinėjimo",
+  "summary": "Lenkijos vidaus saugumo agentūra (ABW) pranešė, kad po 21 kratos spalio 21 – lapkričio 2 d. Varmijos-Mozūrų, Pamario ir Didžiosios Lenkijos vaivadijose sulaikė penkis 25–52 metų Lenkijos piliečius ir 37 metų Rusijos pilietį. Visi kaltinami dalyvavę organizuotoje nusikalstamoje grupėje, kuri, kaip įtariama, siuntė Rusijai didelius kiekius šaudmenims ir ginklams naudojamų karinių komponentų; keturi taip pat įtariami šnipinėjimu. Teismas skyrė trijų mėnesių suėmimą. Ministras Tomaszas Siemoniakas sakė, kad nuo 2024 m. sausio šnipinėjimo ir sabotažo bylose kaltinimai pateikti beveik 100 asmenų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LIGA.net, cituojantis ABW ir ministrą; teismo nutartis dėl suėmimo patvirtina, kad byla aktyvi.",
+  "analysis": "Reikšminga byla, tačiau ji susijusi su sankcijų apėjimu ir šnipinėjimu, o ne su išpuoliu. Tai atitinka bazinės linijos vaizdą, kai Rusijos tarnybos regione veikia per vietinius tinklus. Įtariamieji laikomi nekaltais."
+ },
+ {
+  "key": "2026-11-06|shoigu-claim",
+  "date": "2026-11-06",
+  "order": 3,
+  "title": "Šoigu kaltina Lenkiją ir Baltijos šalis rengiant žmones Rusijai silpninti",
+  "summary": "Rusijos vienybės dienos spaudos renginyje Saugumo Tarybos sekretorius Sergejus Šoigu sakė, kad Lenkija, Baltijos šalys ir kitos valstybės rengia žmones veikti prieš Rusiją iš vidaus, dažnai per NVO ir ne pelno organizacijas, ir kad Saugumo Taryba šiuo klausimu dirba. Paklausta apie tai lapkričio 5 d., Užsienio reikalų ministerijos atstovė Marija Zacharova sakė, kad Rusijos užsienio politikos koncepcija leidžia „simetriškai ir asimetriškai“ atsakyti į nedraugiškus veiksmus.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "TASS (Zacharova); Interia per Bytes Europe (Šoigu). Jokių patvirtinančių įrodymų nepateikta.",
+  "analysis": "Kaltinimas pasirodė praėjus kelioms dienoms po to, kai Lenkija ir Lietuva viešai prabilo apie Rusijos sabotažą ir šnipinėjimą, ir atspindi tuos kaltinimus atgal. Tai suteikia Maskvai paruoštą pasakojimą ribojimams šalies viduje ir galbūt pretekstą „atsakams“ užsienyje. Tai nėra karinio planavimo įrodymas, o Zacharovos formuluotė – standartinė frazė, o ne konkretus grasinimas."
+ },
+ {
+  "key": "2026-11-06|romania-warrant",
+  "date": "2026-11-06",
+  "order": 4,
+  "title": "Rumunijos teismas nurodė suimti tariamą 2024 m. energetikos objektų sabotažo plano koordinatorių",
+  "summary": "Bukarešto apeliacinis teismas antiteroristinių prokurorų (DIICOT) prašymu lapkričio 2 d. nurodė už akių suimti 35 metų Rusijoje gyvenantį Kubos pilietį. Prokurorų teigimu, 2024 m. viduryje jis sumokėjo buvusiam Kolumbijos kariui, kad šis atvyktų į Rumuniją, išžvalgytų naftos gręžinius ir degalinę netoli Bukarešto bei parengtų atakas; tą vyrą sustabdė policija ir Rumunijos žvalgybos tarnyba, o 2025 m. jis nuteistas šešeriems metams.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "AGERPRES per CiberCuba; ankstesnis bendrininko nuosprendis Rumunijoje. Ryšys su Rusija remiasi prokurorų byla.",
+  "analysis": "Dar vienas bazinėje linijoje aprašomo tarpininkų modelio įrodymas: užsieniečiai samdomi sabotažui iš toli. Įtariamasis yra Rusijoje, todėl nutartis daugiausia simbolinė. Rumunija nepriklauso Baltijos regionui, tačiau tie patys tinklai siejami su bylomis Lenkijoje ir Vokietijoje."
+ },
+ {
+  "key": "2026-11-06|gps-map",
+  "date": "2026-11-06",
+  "order": 5,
+  "title": "OSINT žemėlapis rodo GPS trikdžius beveik visame rytiniame flange",
+  "summary": "Militarnyi lapkričio 4 d. pranešė, kad ItaMilRadar žemėlapis, sudarytas pagal AirNav Radar skrydžių duomenis, lapkričio 3 d. parodė GNSS trikdžius nuo Baltijos iki Juodosios jūros, intensyviausius – prie Karaliaučiaus, virš Lietuvos ir rytų Lenkijos bei aplink Rumuniją ir Bulgariją.",
+  "evidence": "Vaizdai ar dokumentai",
+  "corroboration": "Vienas OSINT šaltinis, perduotas Militarnyi; atitinka ankstesnę valstybės institucijų ir jūrų stebėseną.",
+  "analysis": "Tokie žemėlapiai rodo, kur orlaiviai praneša apie pablogėjusią navigaciją, o ne kur yra trukdytuvai; dalis trikdžių kyla iš Rusijos oro gynybos ir su Ukraina susijusios radioelektroninės kovos. Vis dėlto modelis aplink Karaliaučių atitinka Lietuvos vertinime aprašytą. Niekas jame nerodo naujos eskalacijos."
+ },
+ {
+  "key": "2026-11-06|watch-window",
+  "date": "2026-11-06",
+  "order": 6,
+  "title": "Kontekstas: dienos, kurias verta stebėti, lapkričio 6–11 d.",
+  "summary": "Lenkijos operacija Karaliaučiaus pasienyje tęsis bent iki lapkričio 8 d., o lapkričio 11 d. Lenkija mini Nepriklausomybės dieną. Kremlius patvirtino, kad Vladimiro Medinskio vadovaujama Rusijos delegacija dalyvaus lapkričio 10–11 d. trišalėse derybose su JAV ir Ukraina Abu Dabyje. Pentagono JAV pajėgų Europoje peržiūros variantai gynybos sekretoriui turėjo būti pateikti apie lapkričio 6 d.; sprendimas nepaskelbtas. Roberto Lansingo institutas spėja, kad Maskva tikisi po JAV vidurio kadencijos rinkimų tiesiogiai tartis su Vašingtonu dėl Europos saugumo.",
+  "evidence": "Analizė",
+  "corroboration": "APA (Kremliaus patvirtinimas); Breaking Defense komentaras apie peržiūrą; Lansingo institutas (komentaras, be įvardytų šaltinių apie Kremliaus ketinimus).",
+  "analysis": "Paliaubos ilgainiui galėtų atlaisvinti Rusijos pajėgas, o didelis JAV karių mažinimas susilpnintų atgrasymą; bet kuris iš šių pokyčių nutolintų vaizdą nuo bazinės linijos. Nei vienas, nei kitas neįvyko. Lansingo straipsnis yra komentaras ir nenaudojamas jokiam vertinimui."
  }
 ]
