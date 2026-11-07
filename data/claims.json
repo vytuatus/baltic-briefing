@@ -515,5 +515,71 @@
   "conflict": "Flight-data maps show where aircraft lose accuracy, not who is jamming; part of the interference stems from the war in Ukraine. Baltic governments have long attributed the Kaliningrad-area interference to Russia.",
   "verdict": "Likely",
   "verdict_note": "The pattern is well documented; this single map adds a snapshot, not new attribution."
+ },
+ {
+  "key": "2026-11-07|iceye-rehearsal",
+  "date": "2026-11-07",
+  "order": 1,
+  "claim": "A Russian satellite rehearsed an attack on a Finnish ICEYE radar satellite",
+  "claimed_by": "Greg Gillinger (Integrity ISR) via Reuters; supported in tone by US Under Secretary Thomas DiNanno; repeated by the Robert Lansing Institute",
+  "evidence": "Imagery or documents",
+  "conflict": "Orbital data confirm unusual close approaches, but Germany's space commander says they could be inspection or interference and do not prove an attack plan; the Lansing piece itself says the data do not show preparations for a strike. Reported distances range from 26 metres to about a kilometre. Russia has not commented.",
+  "verdict": "Contested",
+  "verdict_note": "The manoeuvres are documented; the 'rehearsal' reading is plausible but not established."
+ },
+ {
+  "key": "2026-11-07|fitburg-deliberate",
+  "date": "2026-11-07",
+  "order": 2,
+  "claim": "The Fitburg's officers damaged Finland–Estonia undersea cables with the ship's anchor",
+  "claimed_by": "Helsinki District Court; Finnish prosecutors",
+  "evidence": "Official statement",
+  "conflict": "A first-instance conviction for aggravated criminal damage; an appeal is possible. The court did not find that the Russian state ordered it, and a separate court dismissed charges in the Eagle S case in October.",
+  "verdict": "Likely",
+  "verdict_note": "Tested in court, but not final, and state direction is not established."
+ },
+ {
+  "key": "2026-11-07|belarus-transit",
+  "date": "2026-11-07",
+  "order": 3,
+  "claim": "US officials pressed Lithuania to allow Belarusian fertiliser transit through Klaipėda",
+  "claimed_by": "Politico (relayed by LRT)",
+  "evidence": "Anonymous sources",
+  "conflict": "A presidential adviser did not deny an approach but called the report outdated; Foreign Minister Kęstutis Budrys denied that any such discussion is taking place. No US comment reported.",
+  "verdict": "Contested",
+  "verdict_note": "An approach may have happened, but the Lithuanian accounts differ and current talks are denied."
+ },
+ {
+  "key": "2026-11-07|petrozavodsk-artillery",
+  "date": "2026-11-07",
+  "order": 4,
+  "claim": "Satellite data show Russia partly replenishing self-propelled artillery near Petrozavodsk, about 185 km from Finland",
+  "claimed_by": "Robert Lansing Institute (citing an 'OCP monitoring system')",
+  "evidence": "Unverified claim",
+  "conflict": "No official, imagery publisher or quality outlet has confirmed it; the source of the data is not identified. The same piece says no strike group was assembled.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Commentary-tier claim with an unclear source; not used for any rating."
+ },
+ {
+  "key": "2026-11-07|kaliningrad-calmer",
+  "date": "2026-11-07",
+  "order": 5,
+  "claim": "Lithuania's border with Kaliningrad is calmer than Poland's",
+  "claimed_by": "Lithuanian Defence Minister Robertas Kaunas (via LRT)",
+  "evidence": "Official statement",
+  "conflict": "Consistent with Lithuania's interior minister saying earlier this week that the threat level had not changed, and with no reported incidents on the Lithuanian side; Poland remains on alert after the 3 November sighting.",
+  "verdict": "Likely",
+  "verdict_note": "Fits all public reporting; based on a short LRT item."
+ },
+ {
+  "key": "2026-11-07|armed-groups",
+  "date": "2026-11-07",
+  "order": 6,
+  "claim": "Polish and allied intelligence warned of possible incursions by armed people from Kaliningrad in the first half of November",
+  "claimed_by": "Donald Tusk; Tomasz Siemoniak; NATO commander Alexus Grynkewich (per Stars and Stripes)",
+  "evidence": "Official statement",
+  "conflict": "Still no confirmed crossing attempt; Poland's operation continues until at least 8 November. Russia calls the warnings fake.",
+  "verdict": "Likely",
+  "verdict_note": "That the warnings were given is well established; whether an incursion was planned cannot be judged from public evidence."
  }
 ]

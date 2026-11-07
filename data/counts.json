@@ -318,5 +318,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None explicit; Shoigu's accusation and Zakharova's general reference to 'asymmetrical' responses are hostile rhetoric but not a direct threat against NATO or the Baltic states."
+ },
+ {
+  "key": "2026-11-07|airspace",
+  "date": "2026-11-07",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new drone or airspace violation was first reported since the previous edition."
+ },
+ {
+  "key": "2026-11-07|sabotage",
+  "date": "2026-11-07",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One: the Helsinki District Court's 5 November verdict convicting two officers of the cargo ship Fitburg over the New Year's Eve damage to Finland–Estonia undersea cables."
+ },
+ {
+  "key": "2026-11-07|jamming",
+  "date": "2026-11-07",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; other outlets repeated the 3 November flight-data map already counted yesterday, which is not a new report."
+ },
+ {
+  "key": "2026-11-07|border",
+  "date": "2026-11-07",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new incident since the Sępopol sighting counted on 4 November."
+ },
+ {
+  "key": "2026-11-07|threats",
+  "date": "2026-11-07",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; no new explicit threat against NATO or the Baltic states by a senior Russian official was found."
  }
 ]

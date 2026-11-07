@@ -318,5 +318,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Aiškių nėra; Šoigu kaltinimas ir bendra Zacharovos nuoroda į „asimetrinius“ atsakus yra priešiška retorika, bet ne tiesioginis grasinimas NATO ar Baltijos šalims."
+ },
+ {
+  "key": "2026-11-07|airspace",
+  "date": "2026-11-07",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo pirmą kartą nepranešta apie jokį naują droną ar oro erdvės pažeidimą."
+ },
+ {
+  "key": "2026-11-07|sabotage",
+  "date": "2026-11-07",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "Vienas: lapkričio 5 d. Helsinkio apylinkės teismo nuosprendis, kuriuo du krovininio laivo „Fitburg“ karininkai nuteisti dėl Naujųjų metų išvakarėse pažeistų Suomijos ir Estijos povandeninių kabelių."
+ },
+ {
+  "key": "2026-11-07|jamming",
+  "date": "2026-11-07",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; kiti leidiniai pakartojo vakar jau įskaičiuotą lapkričio 3 d. skrydžių duomenų žemėlapį, o tai nėra naujas pranešimas."
+ },
+ {
+  "key": "2026-11-07|border",
+  "date": "2026-11-07",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; nuo lapkričio 4 d. įskaičiuoto pastebėjimo prie Sępopolio naujų incidentų nebuvo."
+ },
+ {
+  "key": "2026-11-07|threats",
+  "date": "2026-11-07",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; naujų aiškių aukšto Rusijos pareigūno grasinimų NATO ar Baltijos šalims nerasta."
  }
 ]

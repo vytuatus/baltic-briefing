@@ -1276,5 +1276,158 @@
   "perspective": "US and international",
   "title": "Disinfo: The Gallant Boar 2026 drill prepares a NATO invasion of Kaliningrad",
   "url": "https://euvsdisinfo.eu/report/the-gallant-boar-2026-drill-prepares-a-nato-invasion-of-kaliningrad/"
+ },
+ {
+  "key": "2026-11-07|vsd-baseline",
+  "date": "2026-11-07",
+  "topic": "Lietuvos grėsmių nacionaliniam saugumui vertinimas (bazinė linija)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-07|euronews-fitburg",
+  "date": "2026-11-07",
+  "topic": "„Fitburg“ kabelių pažeidimo nuosprendis",
+  "outlet": "Euronews",
+  "perspective": "US and international",
+  "title": "Finnish court jails Russian captain over Baltic Sea cable sabotage",
+  "url": "https://www.euronews.com/2026/11/05/finnish-court-jails-russian-captain-over-baltic-sea-cable-sabotage"
+ },
+ {
+  "key": "2026-11-07|mt-iceye",
+  "date": "2026-11-07",
+  "topic": "Rusijos palydovai ir ICEYE",
+  "outlet": "The Moscow Times",
+  "perspective": "Russian independent",
+  "title": "Russian Military May Have Rehearsed Attack on Finnish Satellite, Specialist Warns",
+  "url": "https://www.themoscowtimes.com/2026/11/05/russian-military-may-have-rehearsed-attack-on-finnish-satellite-specialist-warns-a94181"
+ },
+ {
+  "key": "2026-11-07|reuters-iceye",
+  "date": "2026-11-07",
+  "topic": "Rusijos palydovai ir ICEYE",
+  "outlet": "Reuters via Yahoo News",
+  "perspective": "US and international",
+  "title": "Russia may have rehearsed attack on satellite, specialist says, flagging another approach",
+  "url": "https://www.yahoo.com/news/us/articles/russia-may-rehearsed-attack-satellite-060447858.html"
+ },
+ {
+  "key": "2026-11-07|meduza-iceye",
+  "date": "2026-11-07",
+  "topic": "Rusijos palydovai ir ICEYE",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Four Russian military satellites came within 13 kilometers of a radar satellite operated by a Finnish company that supplies Ukraine with battlefield imagery",
+  "url": "https://meduza.io/en/cards/four-russian-military-satellites-came-within-13-kilometers-of-a-radar-satellite-operated-by-a-finnish-company-that-supplies-ukraine-with-battlefield-imagery-legitimate-targets-moscow-said-in-2022"
+ },
+ {
+  "key": "2026-11-07|militarnyi-iceye",
+  "date": "2026-11-07",
+  "topic": "Rusijos palydovai ir ICEYE",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Russian Satellite Kosmos-2612 Closes to Within 26 Meters of ICEYE-X36 During Pursuit",
+  "url": "https://militarnyi.com/en/news/russian-satellite-kosmos-2612-closes-to-within-26-meters-of-iceye-x36-during-pursuit/"
+ },
+ {
+  "key": "2026-11-07|lansing-iceye",
+  "date": "2026-11-07",
+  "topic": "Rusijos palydovai ir ICEYE (komentaras)",
+  "outlet": "Robert Lansing Institute",
+  "perspective": "Commentary",
+  "title": "Russia Tests the Limits of Space Deterrence: The Threat to ICEYE Satellites and a New Dimension of Confrontation with NATO",
+  "url": "https://lansinginstitute.org/2026/11/06/russia-tests-the-limits-of-space-deterrence-the-threat-to-iceye-satellites-and-a-new-dimension-of-confrontation-with-nato/"
+ },
+ {
+  "key": "2026-11-07|lrt-drills",
+  "date": "2026-11-07",
+  "topic": "NATO pratybos Lietuvoje",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "More than 6,000 NATO troops to take part in German-led exercises in Lithuania",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3106178/more-than-6-000-nato-troops-to-take-part-in-german-led-exercises-in-lithuania"
+ },
+ {
+  "key": "2026-11-07|militarnyi-drills",
+  "date": "2026-11-07",
+  "topic": "NATO pratybos Lietuvoje",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "NATO to Conduct Exercises in Lithuania Involving 6,000 Troops",
+  "url": "https://militarnyi.com/en/news/nato-exercises-lithuania-with-6000-troops/"
+ },
+ {
+  "key": "2026-11-07|lrt-ustroops",
+  "date": "2026-11-07",
+  "topic": "JAV kariai Lietuvoje",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Lithuania ready to host additional US troops, defence minister says",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3105072/lithuania-ready-to-host-additional-us-troops-defence-minister-says"
+ },
+ {
+  "key": "2026-11-07|byteseu-battalions",
+  "date": "2026-11-07",
+  "topic": "JAV kariai Lietuvoje",
+  "outlet": "Bytes Europe",
+  "perspective": "Baltic",
+  "title": "Lithuania to Host Two US Battalions Near Belarus Border",
+  "url": "https://www.byteseu.com/2501359/"
+ },
+ {
+  "key": "2026-11-07|lrt-newsletter",
+  "date": "2026-11-07",
+  "topic": "Pranešimas apie Baltarusijos trąšų tranzitą; Karaliaučiaus pasienis",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "LRT English: Minsk-Washington pressure",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3105417/lrt-english-minsk-washington-pressure"
+ },
+ {
+  "key": "2026-11-07|kyivpost-sikorski",
+  "date": "2026-11-07",
+  "topic": "Lenkija apie derybas ir Europos saugumą",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Poland Rejects Russia Security Deal Without Europe",
+  "url": "https://kyivpost.com/post/89407"
+ },
+ {
+  "key": "2026-11-07|rferl-abudhabi",
+  "date": "2026-11-07",
+  "topic": "Derybos Abu Dabyje",
+  "outlet": "RFE/RL",
+  "perspective": "US and international",
+  "title": "US, Russia, Ukraine To Resume Peace Talks Amid Doubts Over Breakthrough",
+  "url": "https://www.rferl.org/a/us-russia-ukraine-peace-talks-abu-dhabi-ceasefire/33889451.html"
+ },
+ {
+  "key": "2026-11-07|newsweek-acled",
+  "date": "2026-11-07",
+  "topic": "ACLED suskaičiuoti Rusijos hibridiniai įvykiai Lenkijoje",
+  "outlet": "Newsweek",
+  "perspective": "US and international",
+  "title": "Map shows how Russia has escalated sabotage attacks on NATO this year",
+  "url": "https://www.newsweek.com/map-shows-how-russia-has-escalated-sabotage-attacks-on-nato-this-year-12676129"
+ },
+ {
+  "key": "2026-11-07|izvestia-treaties",
+  "date": "2026-11-07",
+  "topic": "Rusijos valstybinė žiniasklaida apie Baltijos šalis",
+  "outlet": "Izvestia",
+  "perspective": "Russian state-aligned",
+  "title": "Poland and the Baltic states called on the EU to terminate investment agreements with Russia",
+  "url": "https://en.iz.ru/en/2196103/2026-11-04/poland-and-baltic-states-called-eu-terminate-investment-agreements-russia"
+ },
+ {
+  "key": "2026-11-07|finchannel-poland",
+  "date": "2026-11-07",
+  "topic": "Lenkijos operacija Karaliaučiaus pasienyje",
+  "outlet": "FinChannel (citing Reuters and CBS)",
+  "perspective": "US and international",
+  "title": "Poland border operation expands after Kaliningrad incident and sabotage warnings",
+  "url": "https://finchannel.com/poland-deploys-more-forces-near-russian-border-after-unconfirmed-kaliningrad-incident/140568/world-2/2026/11/"
  }
 ]

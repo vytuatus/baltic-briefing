@@ -515,5 +515,71 @@
   "conflict": "Skrydžių duomenų žemėlapiai rodo, kur orlaiviai praranda tikslumą, o ne kas trukdo; dalis trikdžių kyla dėl karo Ukrainoje. Baltijos šalių vyriausybės jau seniai trikdžius Karaliaučiaus regione priskiria Rusijai.",
   "verdict": "Likely",
   "verdict_note": "Modelis gerai dokumentuotas; šis vienas žemėlapis prideda momentinį vaizdą, o ne naują priskyrimą."
+ },
+ {
+  "key": "2026-11-07|iceye-rehearsal",
+  "date": "2026-11-07",
+  "order": 1,
+  "claim": "Rusijos palydovas repetavo ataką prieš Suomijos ICEYE radarinį palydovą",
+  "claimed_by": "Gregas Gillingeris (Integrity ISR) per Reuters; panašiu tonu pritarė JAV pasekretorius Thomas DiNanno; pakartojo Roberto Lansingo institutas",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Orbitų duomenys patvirtina neįprastus artimus priartėjimus, tačiau Vokietijos kosmoso pajėgų vadas sako, kad tai gali būti apžiūra ar trukdymas, ir tai neįrodo atakos plano; pačiame Lansingo straipsnyje teigiama, kad duomenys nerodo pasirengimo smūgiui. Nurodomi atstumai svyruoja nuo 26 metrų iki maždaug kilometro. Rusija nekomentavo.",
+  "verdict": "Contested",
+  "verdict_note": "Manevrai užfiksuoti; „repeticijos“ interpretacija tikėtina, bet nenustatyta."
+ },
+ {
+  "key": "2026-11-07|fitburg-deliberate",
+  "date": "2026-11-07",
+  "order": 2,
+  "claim": "„Fitburg“ karininkai laivo inkaru pažeidė Suomijos ir Estijos povandeninius kabelius",
+  "claimed_by": "Helsinkio apylinkės teismas; Suomijos prokurorai",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Pirmosios instancijos apkaltinamasis nuosprendis dėl sunkaus turto sugadinimo; galimas apeliacinis skundas. Teismas nenustatė, kad tai įsakė Rusijos valstybė, o kitas teismas spalį nutraukė kaltinimus „Eagle S“ byloje.",
+  "verdict": "Likely",
+  "verdict_note": "Patikrinta teisme, tačiau sprendimas neįsiteisėjęs, o valstybės nurodymas nenustatytas."
+ },
+ {
+  "key": "2026-11-07|belarus-transit",
+  "date": "2026-11-07",
+  "order": 3,
+  "claim": "JAV pareigūnai spaudė Lietuvą leisti Baltarusijos trąšų tranzitą per Klaipėdą",
+  "claimed_by": "Politico (perdavė LRT)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Prezidento patarėjas kreipimosi nepaneigė, bet pranešimą pavadino pasenusiu; užsienio reikalų ministras Kęstutis Budrys paneigė, kad tokia diskusija vyksta. JAV komentaro nepranešta.",
+  "verdict": "Contested",
+  "verdict_note": "Kreipimasis galėjo būti, tačiau Lietuvos pareigūnų versijos skiriasi, o šiuo metu vykstančios derybos paneigiamos."
+ },
+ {
+  "key": "2026-11-07|petrozavodsk-artillery",
+  "date": "2026-11-07",
+  "order": 4,
+  "claim": "Palydoviniai duomenys rodo, kad Rusija iš dalies papildo savaeigę artileriją netoli Petrozavodsko, maždaug 185 km nuo Suomijos",
+  "claimed_by": "Roberto Lansingo institutas (cituoja „OCP stebėsenos sistemą“)",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Jokie pareigūnai, vaizdų skelbėjai ar kokybiška žiniasklaida to nepatvirtino; duomenų šaltinis neįvardytas. Tame pačiame straipsnyje teigiama, kad smogiamoji grupė nesuformuota.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Komentarų lygmens teiginys su neaiškiu šaltiniu; jokiam vertinimui nenaudojamas."
+ },
+ {
+  "key": "2026-11-07|kaliningrad-calmer",
+  "date": "2026-11-07",
+  "order": 5,
+  "claim": "Lietuvos pasienyje su Karaliaučiaus sritimi ramiau nei Lenkijos",
+  "claimed_by": "Lietuvos krašto apsaugos ministras Robertas Kaunas (per LRT)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Atitinka šios savaitės Lietuvos vidaus reikalų ministro žodžius, kad grėsmės lygis nepasikeitė, ir tai, kad Lietuvos pusėje incidentų nepranešta; Lenkija po lapkričio 3 d. pastebėjimo lieka parengtyje.",
+  "verdict": "Likely",
+  "verdict_note": "Atitinka visus viešus pranešimus; remiasi trumpa LRT žinute."
+ },
+ {
+  "key": "2026-11-07|armed-groups",
+  "date": "2026-11-07",
+  "order": 6,
+  "claim": "Lenkijos ir sąjungininkų žvalgyba įspėjo apie galimus ginkluotų žmonių įsiveržimus iš Karaliaučiaus srities pirmojoje lapkričio pusėje",
+  "claimed_by": "Donaldas Tuskas; Tomaszas Siemoniakas; NATO vadas Alexusas Grynkewichas (pasak Stars and Stripes)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Vis dar nepatvirtintas joks bandymas kirsti sieną; Lenkijos operacija tęsis bent iki lapkričio 8 d. Rusija įspėjimus vadina netikrais.",
+  "verdict": "Likely",
+  "verdict_note": "Tai, kad įspėjimai buvo pateikti, gerai pagrįsta; ar įsiveržimas buvo planuotas, iš viešų įrodymų spręsti neįmanoma."
  }
 ]

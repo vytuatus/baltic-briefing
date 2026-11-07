@@ -448,5 +448,65 @@
   "evidence": "Analysis",
   "corroboration": "APA (Kremlin confirmation); Breaking Defense commentary on the review; Lansing Institute (commentary, no named sources for its view of Kremlin intent).",
   "analysis": "A ceasefire could in time free Russian forces and a large US drawdown would weaken deterrence; either would move the picture away from the baseline. Neither has happened. The Lansing piece is commentary and is not used for any rating."
+ },
+ {
+  "key": "2026-11-07|fitburg-verdict",
+  "date": "2026-11-07",
+  "order": 1,
+  "title": "Finnish court jails two officers of the Fitburg over Gulf of Finland cable damage",
+  "summary": "On 5 November the Helsinki District Court found the Russian captain of the cargo ship Fitburg and a senior crew member from Azerbaijan guilty of aggravated criminal damage, sentencing them to three years and six months and two years and ten months respectively. The St Vincent and the Grenadines-flagged ship, sailing from St Petersburg to Haifa, was detained on New Year's Eve; investigators say it dragged its anchor for several kilometres across undersea cables linking Finland and Estonia, including one owned by Elisa. Finnish customs had earlier found its steel cargo was under Russian sanctions.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Euronews report on the court ruling. The article does not say whether the verdict will be appealed, and no Russian reaction was reported.",
+  "analysis": "The first conviction in the recent run of Baltic cable cases, and a direct match for the baseline's warning about shadow-fleet incidents involving undersea infrastructure. Note what the court did and did not find: criminal damage by the crew, not a proven order from the Russian state. In October a separate Finnish court dismissed charges in the Eagle S case because intent could not be proved, so outcomes vary."
+ },
+ {
+  "key": "2026-11-07|iceye-satellites",
+  "date": "2026-11-07",
+  "order": 2,
+  "title": "Russian satellites move toward a second Finnish radar satellite",
+  "summary": "Reuters reported on 5 November that, after the Russian military satellite Cosmos 2612 came very close to ICEYE's X36 radar satellite in mid-October, two sibling Russian satellites are now drifting toward the orbit of another ICEYE satellite, X37. ICEYE, a Finnish company, supplies radar imagery to Western governments and to Ukraine. A US space analyst said the October approach looked like an attack rehearsal; the US Under Secretary of State for arms control, Thomas DiNanno, called it consistent with on-orbit weapons operations; Germany's space commander, Maj. Gen. Michael Traut, said such approaches can serve inspection or interference and are not by themselves proof of an attack plan. Russia's Defence Ministry did not comment.",
+  "evidence": "Imagery or documents",
+  "corroboration": "Reuters, carried by The Moscow Times and others (one wire story); orbital-tracking firms COMSPOC and Slingshot Aerospace; earlier coverage by Meduza and Militarnyi. Reported closest distances differ widely, from 26 metres (Militarnyi, using a satellite-map service) to about a kilometre (Reuters).",
+  "analysis": "A real and unusual pattern that touches the Nordic-Baltic region directly, since radar satellites can see Russian movements at night and through cloud. But public orbital data cannot show intent, and the Robert Lansing Institute's broader conclusions are commentary. Watch for an official Finnish or NATO statement."
+ },
+ {
+  "key": "2026-11-07|nato-drills",
+  "date": "2026-11-07",
+  "order": 3,
+  "title": "NATO begins six weeks of German-led drills in Lithuania",
+  "summary": "Two German-led exercises, Freedom Shield 26-II at Rūdninkai and Grand Eagle 26 at the Pabradė training area, began on 6 November and run until 3 December with more than 6,000 troops from Germany, the Netherlands, Norway, the Czech Republic, Croatia, Belgium, Luxembourg and Lithuania. The army warned of convoy traffic from the Kalvarija checkpoint on 6–7 November. Separately, Poland's foreign minister said about 2,000 Polish troops will join the KOALICJA 26.2 exercise from 9 to 22 November.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "LRT and Militarnyi, citing the Lithuanian army; Kyiv Post on the Polish exercise.",
+  "analysis": "Routine but large defensive training. It is not a threat indicator, but the timing, during Poland's Kaliningrad alert, means Russian state media may present it as provocation, as it did with earlier drills. Readers should expect more military traffic on Lithuanian roads."
+ },
+ {
+  "key": "2026-11-07|us-signals",
+  "date": "2026-11-07",
+  "order": 4,
+  "title": "Mixed US signals for Lithuania: more troops, but a reported push on Belarus transit",
+  "summary": "Defence Minister Robertas Kaunas said after meeting the US ambassador to NATO at the Berlin Security Conference that Lithuania is ready to host additional US forces, and that two US battalions with equipment will be based at Pabradė, about 10 km from Belarus. At the same time Politico reported that US officials had raised with Lithuanian diplomats letting Belarusian fertiliser transit through the port of Klaipėda; a presidential adviser called the report outdated, while Foreign Minister Kęstutis Budrys denied that any such talks are happening.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "LRT and BNS for the troop plans; Politico report relayed by LRT, with Lithuanian responses. The Pentagon's Europe posture review has not announced a decision.",
+  "analysis": "More US troops near the Suwałki corridor would strengthen deterrence, in line with what the baseline says is needed. The fertiliser report, if accurate, would show Washington testing a thaw with Minsk that Vilnius opposes; the denials do not fully match each other. No change to the threat picture yet."
+ },
+ {
+  "key": "2026-11-07|sikorski-abu-dhabi",
+  "date": "2026-11-07",
+  "order": 5,
+  "title": "Poland insists on 'ceasefire first' and a European seat ahead of Abu Dhabi talks",
+  "summary": "Speaking in Warsaw on 6 November, Polish Foreign Minister Radosław Sikorski said the order must be a ceasefire first, then talks on lasting peace, and only after that discussion of Europe's security architecture, which cannot happen without Europe and the eastern-flank states. He called for ending Schengen tourist visas for Russians and tougher action on the shadow fleet. The US is hosting Russia–Ukraine working-level talks in Abu Dhabi on 10–11 November; analysts expect no breakthrough.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Kyiv Post (Sikorski); RFE/RL on the talks, citing US envoys and analysts.",
+  "analysis": "The eastern-flank concern is that a US–Russia framework on European security could be agreed over their heads. A ceasefire could in time free Russian forces, the main way the baseline could shift; nothing so far suggests that is imminent."
+ },
+ {
+  "key": "2026-11-07|acled-poland",
+  "date": "2026-11-07",
+  "order": 6,
+  "title": "ACLED: 20 suspected Russian hybrid events in Poland this year",
+  "summary": "Newsweek, citing the Armed Conflict Location & Event Data project (ACLED), reported on 6 November that it has recorded 20 suspected Russian hybrid events in Poland in 2026, including sabotage, intrusions, drone surveillance and arson, half of them against transport or defence infrastructure. ACLED's analyst Maksym Beznosiuk expects more such activity in Poland over the next six months, especially in border regions.",
+  "evidence": "Analysis",
+  "corroboration": "ACLED data via Newsweek; consistent with Polish officials' statements that nearly 100 people have been charged in espionage and sabotage cases since January 2024.",
+  "analysis": "Useful independent counting, but 'suspected' is the key word: many cases are attributed to Russia by officials before any court ruling. The trend, not each case, is the reliable signal."
  }
 ]
