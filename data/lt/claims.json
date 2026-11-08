@@ -581,5 +581,60 @@
   "conflict": "Vis dar nepatvirtintas joks bandymas kirsti sieną; Lenkijos operacija tęsis bent iki lapkričio 8 d. Rusija įspėjimus vadina netikrais.",
   "verdict": "Likely",
   "verdict_note": "Tai, kad įspėjimai buvo pateikti, gerai pagrįsta; ar įsiveržimas buvo planuotas, iš viešų įrodymų spręsti neįmanoma."
+ },
+ {
+  "key": "2026-11-08|krakow-russia",
+  "date": "2026-11-08",
+  "order": 1,
+  "claim": "Šaudynės Krokuvoje buvo Rusijos vadovaujama operacija",
+  "claimed_by": "Spėlionės internete ir antraštės, išpuolį pateikiančios per baimę dėl Rusijos sabotažo (pvz., FinChannel); joks pareigūnas",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lenkijos pareigūnai sako, kad įtariamasis veikė vienas, ir nurodo radikalias, galbūt kraštutinių dešiniųjų pažiūras; joks užsienio ryšys, finansavimas ar tinklas nepaskelbtas. Rusijos ambasada tik pranešė, kad sužeistas Rusijos pilietis.",
+  "verdict": "Unsupported",
+  "verdict_note": "Niekas viešuose įrodymuose nepatvirtina ryšio su Rusija; tyrimas tęsiasi."
+ },
+ {
+  "key": "2026-11-08|krakow-farright",
+  "date": "2026-11-08",
+  "order": 2,
+  "claim": "Krokuvos šaulį skatino kraštutinių dešiniųjų ekstremistinės pažiūros",
+  "claimed_by": "Vidaus reikalų ministras Marcinas Kierwińskis",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Tai tik pirminiai duomenys; ministras sakė, kad tai dar reikia ištirti. Policija atmetė pranešimus apie bendrininką, o gynybos ministerija paneigė, kad jis buvo karys.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Preliminari oficiali nuoroda, o ne nustatytas motyvas."
+ },
+ {
+  "key": "2026-11-08|koalicja-aim",
+  "date": "2026-11-08",
+  "order": 3,
+  "claim": "Norinčiųjų koalicijos pratybos rodo, kad Londonas ir Paryžius siekia karinio Rusijos pralaimėjimo",
+  "claimed_by": "Marija Zacharova, Rusijos užsienio reikalų ministerija (per TASS)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lenkijos gynybos ministerijos pateiktos detalės aprašo dislokavimo pasibaigus karo veiksmams pratybas, vykstančias už NATO ribų ir be kovinių ar taikos palaikymo užduočių.",
+  "verdict": "Misleading",
+  "verdict_note": "Pratybos tikros; jų paskelbtas tikslas prieštarauja Zacharovos apibūdinimui."
+ },
+ {
+  "key": "2026-11-08|abu-dhabi-bad-faith",
+  "date": "2026-11-08",
+  "order": 4,
+  "claim": "Rusija nesiekia sąžiningų derybų Abu Dabyje",
+  "claimed_by": "ISW",
+  "evidence": "Analizė",
+  "conflict": "Remiamasi Rusijos delegacijos sudėtimi ir viešu saugumo garantijų bei Europos vaidmens atmetimu.",
+  "verdict": "Likely",
+  "verdict_note": "Atitinka oficialias Rusijos pozicijas, tačiau ketinimus bus galima įvertinti tik po derybų."
+ },
+ {
+  "key": "2026-11-08|armed-groups",
+  "date": "2026-11-08",
+  "order": 5,
+  "claim": "Lenkijos ir sąjungininkų žvalgyba įspėjo apie galimus ginkluotų žmonių įsiveržimus iš Karaliaučiaus srities pirmojoje lapkričio pusėje",
+  "claimed_by": "Donaldas Tuskas; Tomaszas Siemoniakas; NATO vadas Alexusas Grynkewichas (pasak Stars and Stripes)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Operacija pasiekė numatytą lapkričio 8 d. pabaigos datą be patvirtinto bandymo kirsti sieną; Rusija įspėjimus vadina netikrais.",
+  "verdict": "Likely",
+  "verdict_note": "Tai, kad įspėjimai buvo pateikti, gerai pagrįsta; ar įsiveržimas buvo planuotas, iš viešų įrodymų spręsti neįmanoma."
  }
 ]

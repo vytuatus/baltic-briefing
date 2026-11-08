@@ -581,5 +581,60 @@
   "conflict": "Still no confirmed crossing attempt; Poland's operation continues until at least 8 November. Russia calls the warnings fake.",
   "verdict": "Likely",
   "verdict_note": "That the warnings were given is well established; whether an incursion was planned cannot be judged from public evidence."
+ },
+ {
+  "key": "2026-11-08|krakow-russia",
+  "date": "2026-11-08",
+  "order": 1,
+  "claim": "The Kraków shooting was a Russian-directed operation",
+  "claimed_by": "Online speculation, and headlines framing the attack around Russian sabotage fears (e.g. FinChannel); no official",
+  "evidence": "Unverified claim",
+  "conflict": "Polish officials say the suspect acted alone and point to radical, possibly far-right views; no foreign link, financing or network has been announced. The Russian embassy only reported that a Russian citizen was injured.",
+  "verdict": "Unsupported",
+  "verdict_note": "Nothing in the public evidence supports a Russian link; the investigation is still open."
+ },
+ {
+  "key": "2026-11-08|krakow-farright",
+  "date": "2026-11-08",
+  "order": 2,
+  "claim": "The Kraków gunman was driven by far-right extremist views",
+  "claimed_by": "Interior Minister Marcin Kierwiński",
+  "evidence": "Official statement",
+  "conflict": "Early findings only; the minister said this still needs investigation. Police dismissed reports of an accomplice and the defence ministry denied he was a soldier.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A preliminary official indication, not yet an established motive."
+ },
+ {
+  "key": "2026-11-08|koalicja-aim",
+  "date": "2026-11-08",
+  "order": 3,
+  "claim": "The Coalition of the Willing drills show London and Paris seek Russia's military defeat",
+  "claimed_by": "Maria Zakharova, Russian Foreign Ministry (via TASS)",
+  "evidence": "Official statement",
+  "conflict": "Polish defence ministry details describe a post-hostilities deployment exercise, outside NATO and without combat or peacekeeping tasks.",
+  "verdict": "Misleading",
+  "verdict_note": "The drills are real; the stated purpose contradicts Zakharova's description."
+ },
+ {
+  "key": "2026-11-08|abu-dhabi-bad-faith",
+  "date": "2026-11-08",
+  "order": 4,
+  "claim": "Russia is not seeking good-faith talks in Abu Dhabi",
+  "claimed_by": "ISW",
+  "evidence": "Analysis",
+  "conflict": "Based on the make-up of Russia's delegation and its public rejection of security guarantees and a European role.",
+  "verdict": "Likely",
+  "verdict_note": "Consistent with Russia's on-the-record positions, but intent can only be judged after the talks."
+ },
+ {
+  "key": "2026-11-08|armed-groups",
+  "date": "2026-11-08",
+  "order": 5,
+  "claim": "Polish and allied intelligence warned of possible incursions by armed people from Kaliningrad in the first half of November",
+  "claimed_by": "Donald Tusk; Tomasz Siemoniak; NATO commander Alexus Grynkewich (per Stars and Stripes)",
+  "evidence": "Official statement",
+  "conflict": "The operation reached its scheduled end date of 8 November with no confirmed crossing attempt; Russia calls the warnings fake.",
+  "verdict": "Likely",
+  "verdict_note": "That the warnings were given is well established; whether an incursion was planned cannot be judged from public evidence."
  }
 ]

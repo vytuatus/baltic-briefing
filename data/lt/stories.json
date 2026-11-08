@@ -508,5 +508,65 @@
   "evidence": "Analizė",
   "corroboration": "ACLED duomenys per Newsweek; atitinka Lenkijos pareigūnų teiginius, kad nuo 2024 m. sausio šnipinėjimo ir sabotažo bylose kaltinimai pateikti beveik 100 asmenų.",
   "analysis": "Naudingas nepriklausomas skaičiavimas, tačiau esminis žodis – „įtariamų“: daugelį atvejų pareigūnai priskiria Rusijai dar iki teismo sprendimo. Patikimas signalas yra tendencija, o ne kiekvienas atskiras atvejis."
+ },
+ {
+  "key": "2026-11-08|krakow-shooting",
+  "date": "2026-11-08",
+  "order": 1,
+  "title": "Krokuvos Turgaus aikštėje šaulys nužudė šešis žmones; užsienio ryšys neįvardytas",
+  "summary": "Lapkričio 7 d. po pietų maždaug 25 metų lenkas iš automobilio atidengė ugnį Krokuvos Turgaus aikštėje, nužudė šešis žmones ir sužeidė mažiausiai 16, tarp jų penkis užsienio piliečius; jo namuose rasti dar trys kūnai, manoma, jo giminaičių. Policija jį peršovė ir sužeidė; pasak jos, jis veikė vienas. Vidaus reikalų ministras Marcinas Kierwińskis sakė, kad pirminiai duomenys rodo labai radikalias pažiūras ir galimą susižavėjimą kraštutinių dešiniųjų ideologija. Prezidentas Karolis Nawrockis paskelbė dviejų dienų nacionalinį gedulą. Rusijos ambasada pranešė, kad tarp sužeistųjų yra Rusijos pilietis.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "dpa (per Yahoo News) ir Krokuvos radijas ESKA, cituojantys Lenkijos pareigūnus ir Rusijos ambasadą; FinChannel, cituojantis Reuters ir BBC. Aukų skaičiai ankstyvuose pranešimuose šiek tiek skiriasi.",
+  "analysis": "Remiantis dabartiniais įrodymais, tai nėra Rusijos operacija: pareigūnai nurodo vidaus ekstremizmą ir nerado jokio užsienio finansavimo ar tinklo. Šiai apžvalgai tai svarbu, nes tokie išpuoliai yra derlinga dirva dezinformacijai abiem kryptimis – nuo teiginių apie Rusijos ranką iki Rusijos pasakojimų apie Lenkijos nestabilumą. Bet kokį tokį teiginį reikėtų laikyti nepagrįstu, kol tyrėjai nepasakys kitaip."
+ },
+ {
+  "key": "2026-11-08|zakharova-coalition",
+  "date": "2026-11-08",
+  "order": 2,
+  "title": "Maskva: Norinčiųjų koalicijos kariai Ukrainoje būtų „teisėti taikiniai“",
+  "summary": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova sakė, kad bet kokie į Ukrainą dislokuoti užsienio kariniai kontingentai būtų teisėti taikiniai, o Norinčiųjų koalicijos pratybos, prasidedančios prieš pat derybas Abu Dabyje, rodo, kad europiečiams nėra vietos prie derybų stalo. Ji tvirtino, kad Londonas ir Paryžius nori panaudoti tokias pajėgas siekdami karinio Rusijos pralaimėjimo.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "TASS (valstybinė žiniasklaida) dėl pareiškimo; ISW taip pat jį pažymi. „KOALICJA 26.2“ detalės – iš Lenkijos gynybos ministerijos, kaip pranešė UA.News.",
+  "analysis": "Grasinimas realus, bet ne naujas: tuos pačius žodžius Zacharova vartojo liepą. Jos pratybų apibūdinimas klaidinantis, nes pratybose repetuojamas dislokavimas pasibaigus karo veiksmams, veikiant už NATO ribų ir be taikos palaikymo ar kovinių užduočių. Estija ir Lietuva jose dalyvauja, todėl grasinimas apimtų ir Baltijos šalių pajėgas, jei jos kada nors būtų dislokuotos Ukrainoje."
+ },
+ {
+  "key": "2026-11-08|koalicja-drills",
+  "date": "2026-11-08",
+  "order": 3,
+  "title": "Norinčiųjų koalicija nuo lapkričio 9 d. rengia pirmąsias pratybas, daugiausia Lenkijoje",
+  "summary": "„KOALICJA 26.2“ vyks lapkričio 9–22 d.; jose dalyvauja apie 5 000 žmonių: maždaug 2 800 iš 11 šalių, įskaitant Prancūziją, JK, Vokietiją, Estiją ir Lietuvą, ir beveik 2 000 Lenkijos karių. Štabas – Paryžiuje, o jūrinė dalis vyksta Turkijoje. Tikrinama, kaip greitai daugiašalės pajėgos galėtų būti dislokuotos remti Ukrainą pasibaigus kovoms, įskaitant Juodosios jūros išminavimo planavimą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Lenkijos gynybos ministerijos duomenys per UA.News; šalių skaičius skirtinguose pranešimuose šiek tiek skiriasi.",
+  "analysis": "Vakarų pratybos, o ne Rusijos rodiklis, tačiau jos sutampa su Vokietijos vadovaujamomis pratybomis Lietuvoje ir derybomis Abu Dabyje, todėl galima tikėtis, kad Rusijos žiniasklaida jas pateiks kaip pasirengimą karui. Niekas viešame aprašyme to nepatvirtina."
+ },
+ {
+  "key": "2026-11-08|abu-dhabi-team",
+  "date": "2026-11-08",
+  "order": 4,
+  "title": "ISW: Rusijos delegacija Abu Dabyje nerodo sąžiningų derybų ženklų",
+  "summary": "Trišalės JAV, Rusijos ir Ukrainos derybos numatytos lapkričio 10–11 d. Abu Dabyje. ISW pažymi, kad Rusijos delegacijoje yra pareigūnų, anksčiau vilkinusių derybas, o Rusijos pareigūnai vėl atmetė saugumo garantijas Ukrainai ir siekė pašalinti europiečius.",
+  "evidence": "Analizė",
+  "corroboration": "ISW (Critical Threats), remiantis oficialiais Rusijos pareiškimais; atitinka TASS paskelbtus Zacharovos žodžius.",
+  "analysis": "ISW yra analitinis, Ukrainai palankus šaltinis, todėl jo ketinimų vertinimas yra nuomonė, o ne faktas; tačiau jo cituojamos viešos Rusijos pozicijos yra oficialiai užfiksuotos. Baltijos bazinei linijai paliaubos būtų pagrindinis būdas ilgainiui atlaisvinti Rusijos pajėgas, todėl rezultatas svarbus, net jei lūkesčiai žemi."
+ },
+ {
+  "key": "2026-11-08|russian-manpower",
+  "date": "2026-11-08",
+  "order": 5,
+  "title": "Jokių ženklų, kad Rusijos pajėgos perkeliamos NATO link; Ukrainoje pranešama apie personalo trūkumą",
+  "summary": "Lapkričio 7 d. ISW vertinime, cituojant Ukrainos karinį apžvalgininką, pranešama apie personalo trūkumą Rusijos 3-iojoje jungtinėje armijoje, sustabdžiusį jos puolimą Slovjansko ir Kramatorsko kryptimi. Pranešama, kad Baltarusijoje nieko reikšmingo nevyksta ir pajėgos Baltijos šalių ar kitos NATO teritorijos link neperkeliamos.",
+  "evidence": "Analizė",
+  "corroboration": "ISW (Critical Threats), iš dalies cituojant Ukrainos apžvalgininką; šiandien nepriklausomai Vakarų pareigūnų nepatvirtinta.",
+  "analysis": "Tai tokie įrodymai, kokių reikalauja bazinė linija: Rusijos pajėgos tebėra įsitraukusios Ukrainoje. Vieno fronto trūkumai mažai ką pasako apie ilgalaikį Rusijos pajėgų atkūrimą, kuris, Lietuvos vertinimu, tęsis."
+ },
+ {
+  "key": "2026-11-08|poland-border-window",
+  "date": "2026-11-08",
+  "order": 6,
+  "title": "Lenkijos parengtis Karaliaučiaus pasienyje baigiasi numatytu laiku be patvirtinto incidento",
+  "summary": "Lenkijos operacija Karaliaučiaus pasienyje, kurioje dalyvauja policija, pasieniečiai, antiteroristiniai pareigūnai ir kariai, turėjo tęstis bent iki lapkričio 8 d. Nuo lapkričio 3 d. pastebėtų žmonių su žibintuvėliais prie sienos joks sienos kirtimas nepatvirtintas. Kariuomenės atstovas kai kuriuos pranešimus apie specialiųjų pajėgų dislokavimą pavadino perdėtais.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "FinChannel, cituojantis Reuters, CBS News ir Lenkijos radiją; naujesnio oficialaus pranešimo nerasta.",
+  "analysis": "Incidento nebuvimas neįrodo, kad įspėjimai buvo klaidingi: matoma saugumo operacija pati gali atgrasyti. Lygiai taip pat tai neįrodo, kad įsiveržimas buvo planuotas. Verta stebėti oficialų sprendimą dėl operacijos pratęsimo."
  }
 ]

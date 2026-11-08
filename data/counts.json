@@ -358,5 +358,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; no new explicit threat against NATO or the Baltic states by a senior Russian official was found."
+ },
+ {
+  "key": "2026-11-08|airspace",
+  "date": "2026-11-08",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new drone or airspace violation was first reported since the previous edition."
+ },
+ {
+  "key": "2026-11-08|sabotage",
+  "date": "2026-11-08",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; the Kraków shooting is not counted because officials have named no Russian link and treat it as a domestic crime."
+ },
+ {
+  "key": "2026-11-08|jamming",
+  "date": "2026-11-08",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region was found."
+ },
+ {
+  "key": "2026-11-08|border",
+  "date": "2026-11-08",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new incident since the Sępopol sighting counted on 4 November."
+ },
+ {
+  "key": "2026-11-08|threats",
+  "date": "2026-11-08",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 1,
+  "note": "One: Maria Zakharova's 7 November statement that any Coalition of the Willing contingents in Ukraine would be legitimate military targets, a repeat of a July position aimed at troops in Ukraine rather than NATO territory."
  }
 ]

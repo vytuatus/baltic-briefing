@@ -508,5 +508,65 @@
   "evidence": "Analysis",
   "corroboration": "ACLED data via Newsweek; consistent with Polish officials' statements that nearly 100 people have been charged in espionage and sabotage cases since January 2024.",
   "analysis": "Useful independent counting, but 'suspected' is the key word: many cases are attributed to Russia by officials before any court ruling. The trend, not each case, is the reliable signal."
+ },
+ {
+  "key": "2026-11-08|krakow-shooting",
+  "date": "2026-11-08",
+  "order": 1,
+  "title": "Gunman kills six in Kraków's Main Square; no foreign link named",
+  "summary": "On the afternoon of 7 November a Polish man in his mid-20s opened fire from a car in Kraków's Main Square, killing six people and injuring at least 16, including five foreign nationals; three more bodies, believed to be his relatives, were found at his home. Police shot and wounded him and say he acted alone. Interior Minister Marcin Kierwiński said early findings point to very radical views and a possible fascination with far-right ideology. President Karol Nawrocki declared two days of national mourning. Russia's embassy said a Russian citizen was among the injured.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "dpa (via Yahoo News) and Kraków's Radio ESKA, citing Polish officials and the Russian embassy; FinChannel, citing Reuters and the BBC. Casualty figures vary slightly between early reports.",
+  "analysis": "This is not, on current evidence, a Russian operation: officials point to domestic extremism and have found no foreign financing or network. It matters for this briefing because such attacks are fertile ground for disinformation in both directions, from claims of a Russian hand to Russian narratives about Polish instability. Treat any such claim as unsupported until investigators say otherwise."
+ },
+ {
+  "key": "2026-11-08|zakharova-coalition",
+  "date": "2026-11-08",
+  "order": 2,
+  "title": "Moscow: Coalition of the Willing troops in Ukraine would be 'legitimate targets'",
+  "summary": "Russian Foreign Ministry spokeswoman Maria Zakharova said any foreign military contingents deployed to Ukraine would be legitimate targets and that the Coalition of the Willing's drills, starting just before the Abu Dhabi talks, show Europeans have no place at the table. She claimed London and Paris want to use such troops to seek Russia's military defeat.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "TASS (state media) for the statement; ISW also notes it. The KOALICJA 26.2 details come from Poland's defence ministry as reported by UA.News.",
+  "analysis": "The threat is real but not new: Zakharova used the same words in July. Her framing of the drills is misleading, because the exercise rehearses a deployment after hostilities end, operating outside NATO and without peacekeeping or combat tasks. Estonia and Lithuania take part, so Baltic forces are within the scope of the threat if they ever deploy to Ukraine."
+ },
+ {
+  "key": "2026-11-08|koalicja-drills",
+  "date": "2026-11-08",
+  "order": 3,
+  "title": "Coalition of the Willing holds its first exercise, mainly in Poland, from 9 November",
+  "summary": "KOALICJA 26.2 runs from 9 to 22 November with about 5,000 personnel: roughly 2,800 from 11 countries, including France, the UK, Germany, Estonia and Lithuania, plus nearly 2,000 Polish troops. The headquarters is in Paris and a maritime part runs in Turkey. It tests how fast a multinational force could deploy to support Ukraine after the fighting ends, including planning for Black Sea mine clearing.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Polish defence ministry figures via UA.News; the count of countries differs slightly between reports.",
+  "analysis": "A Western exercise, not a Russian indicator, but it overlaps with the German-led drills in Lithuania and the Abu Dhabi talks, so expect Russian media to present it as preparation for war. Nothing in the public description supports that."
+ },
+ {
+  "key": "2026-11-08|abu-dhabi-team",
+  "date": "2026-11-08",
+  "order": 4,
+  "title": "ISW: Russia's team for Abu Dhabi signals no good-faith talks",
+  "summary": "Trilateral US–Russia–Ukraine talks are set for 10–11 November in Abu Dhabi. ISW notes that Russia's delegation includes officials who previously stalled negotiations, and that Russian officials again rejected security guarantees for Ukraine and pushed to exclude Europeans.",
+  "evidence": "Analysis",
+  "corroboration": "ISW (Critical Threats), based on Russian official statements; consistent with Zakharova's remarks reported by TASS.",
+  "analysis": "ISW is an analytical, pro-Ukraine-leaning source, so its reading of intent is a judgement, not a fact; but the public Russian positions it cites are on the record. For the Baltic baseline, a ceasefire would be the main way Russian forces could be freed up in time, so the outcome matters even if expectations are low."
+ },
+ {
+  "key": "2026-11-08|russian-manpower",
+  "date": "2026-11-08",
+  "order": 5,
+  "title": "No sign of Russian forces shifting toward NATO; manpower strain reported in Ukraine",
+  "summary": "ISW's 7 November assessment reports personnel shortages in Russia's 3rd Combined Arms Army that have stalled its offensive toward Sloviansk and Kramatorsk, citing a Ukrainian military observer. It reports nothing significant in Belarus and no redeployments toward the Baltic states or other NATO territory.",
+  "evidence": "Analysis",
+  "corroboration": "ISW (Critical Threats), partly citing a Ukrainian observer; not independently confirmed by Western officials today.",
+  "analysis": "This is the kind of evidence the baseline asks for: Russian forces remain committed in Ukraine. A single front's shortages say little about Russia's long-term rebuilding, which the Lithuanian assessment expects to continue."
+ },
+ {
+  "key": "2026-11-08|poland-border-window",
+  "date": "2026-11-08",
+  "order": 6,
+  "title": "Poland's Kaliningrad border alert reaches its scheduled end without a confirmed incident",
+  "summary": "Poland's operation on the Kaliningrad border, with police, border guards, counter-terrorism officers and soldiers, was due to run until at least 8 November. Since the 3 November sighting of people with flashlights near the border, no crossing has been confirmed. A military spokesman called some reports of special-forces deployments exaggerated.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "FinChannel, citing Reuters, CBS News and Polish Radio; no newer official update found.",
+  "analysis": "The lack of an incident does not show the warnings were wrong: a visible security operation can itself deter. Equally, it does not prove an incursion was planned. Watch for an official decision on whether the operation is extended."
  }
 ]

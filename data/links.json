@@ -1429,5 +1429,104 @@
   "perspective": "US and international",
   "title": "Poland border operation expands after Kaliningrad incident and sabotage warnings",
   "url": "https://finchannel.com/poland-deploys-more-forces-near-russian-border-after-unconfirmed-kaliningrad-incident/140568/world-2/2026/11/"
+ },
+ {
+  "key": "2026-11-08|vsd-baseline",
+  "date": "2026-11-08",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-08|dpa-krakow",
+  "date": "2026-11-08",
+  "topic": "Kraków shooting",
+  "outlet": "Yahoo News (dpa)",
+  "perspective": "US and international",
+  "title": "Poland mourns Kraków shooting victims as police probe motive",
+  "url": "https://www.yahoo.com/news/world/articles/poland-mourns-krak-w-shooting-024822919.html"
+ },
+ {
+  "key": "2026-11-08|eska-krakow",
+  "date": "2026-11-08",
+  "topic": "Kraków shooting",
+  "outlet": "Radio ESKA Kraków",
+  "perspective": "Central Europe",
+  "title": "Atak w Krakowie. Obywatelka Rosji wśród rannych, jest komunikat ambasady",
+  "url": "https://krakow.eska.pl/atak-w-krakowie-obywatelka-rosji-wsrod-rannych-jest-komunikat-ambasady-aa-qgi5-6DcL-hUER.html"
+ },
+ {
+  "key": "2026-11-08|finchannel-krakow",
+  "date": "2026-11-08",
+  "topic": "Kraków shooting",
+  "outlet": "FinChannel (citing Reuters and BBC)",
+  "perspective": "US and international",
+  "title": "Krakow Shooting: Poland's Russia Sabotage Fears Intensify",
+  "url": "https://finchannel.com/krakow-shooting-puts-polands-russian-sabotage-threat-under-scrutiny-as-six-are-reported-killed/140866/world-2/europe/2026/11/"
+ },
+ {
+  "key": "2026-11-08|tass-zakharova",
+  "date": "2026-11-08",
+  "topic": "Russian rhetoric on the Coalition of the Willing",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Europeans have no place at Ukraine negotiating table — Russian MFA",
+  "url": "https://tass.com/politics/2214255"
+ },
+ {
+  "key": "2026-11-08|aa-zakharova-july",
+  "date": "2026-11-08",
+  "topic": "Russian rhetoric on the Coalition of the Willing",
+  "outlet": "Anadolu Agency",
+  "perspective": "US and international",
+  "title": "Russia warns coalition of willing forces in Ukraine would be 'legitimate military targets'",
+  "url": "https://www.aa.com.tr/en/eurasia/russia-warns-coalition-of-willing-forces-in-ukraine-would-be-legitimate-military-targets/3999467"
+ },
+ {
+  "key": "2026-11-08|uanews-koalicja",
+  "date": "2026-11-08",
+  "topic": "KOALICJA 26.2 exercise",
+  "outlet": "UA.News",
+  "perspective": "Ukrainian",
+  "title": "In Poland, nearly 5,000 military personnel will take part in the Coalition of the Willing",
+  "url": "https://ua.news/en/world/u-polshchi-maizhe-5-tisiach-viiskovikh-vizmut-uchast-u-navchanniakh-koalitsiyi-okhochikh"
+ },
+ {
+  "key": "2026-11-08|isw-nov7",
+  "date": "2026-11-08",
+  "topic": "Russian forces and the Abu Dhabi talks",
+  "outlet": "ISW (Critical Threats)",
+  "perspective": "OSINT and trackers",
+  "title": "Russian Offensive Campaign Assessment, November 7, 2026",
+  "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-7-2026-6aefc4cc503e5"
+ },
+ {
+  "key": "2026-11-08|finchannel-border",
+  "date": "2026-11-08",
+  "topic": "Poland's Kaliningrad border operation",
+  "outlet": "FinChannel (citing Reuters and CBS)",
+  "perspective": "US and international",
+  "title": "Poland border operation expands after Kaliningrad incident and sabotage warnings",
+  "url": "https://finchannel.com/poland-deploys-more-forces-near-russian-border-after-unconfirmed-kaliningrad-incident/140568/world-2/2026/11/"
+ },
+ {
+  "key": "2026-11-08|defencematters-latvia",
+  "date": "2026-11-08",
+  "topic": "Airspace incidents",
+  "outlet": "Defence Matters",
+  "perspective": "US and international",
+  "title": "NATO Fighters Activated After New Drone Alert in Latvia as Baltic Air Defence Faces Repeated Incursions",
+  "url": "https://defencematters.eu/nato-fighters-latvia-drone-alert-balvi-baltic-air-defence-november-2026/"
+ },
+ {
+  "key": "2026-11-08|gwara-factcheck",
+  "date": "2026-11-08",
+  "topic": "Fact-checks",
+  "outlet": "Gwara Media",
+  "perspective": "Ukrainian",
+  "title": "Debunking fake news about Ukraine: fact-checking",
+  "url": "https://gwaramedia.com/en/factcheck/"
  }
 ]

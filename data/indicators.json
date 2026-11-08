@@ -1285,5 +1285,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
   "evidence": "Single report (earlier)"
+ },
+ {
+  "key": "2026-11-08|troops",
+  "date": "2026-11-08",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland. ISW's 7 November assessment reports no redeployments toward NATO territory and describes personnel shortages in Russia's 3rd Combined Arms Army in eastern Ukraine. No new Robert Lansing Institute claim found.",
+  "evidence": "Analysis (ISW); no new reporting"
+ },
+ {
+  "key": "2026-11-08|kaliningrad",
+  "date": "2026-11-08",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of new Russian troop or ship movements in the exclave. Poland's police-led operation on the Kaliningrad border was due to run until at least 8 November; no confirmed crossing attempt has been reported since the 3 November sighting, and no extension had been announced at the time of research.",
+  "evidence": "Polish officials (earlier, via Reuters and CBS)"
+ },
+ {
+  "key": "2026-11-08|belarus",
+  "date": "2026-11-08",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "ISW reports nothing significant in Belarus. The Oreshnik deployment remains, as the baseline puts it, mainly a signalling tool.",
+  "evidence": "Analysis (ISW); Lithuanian threat assessment (baseline)"
+ },
+ {
+  "key": "2026-11-08|exercises",
+  "date": "2026-11-08",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. On the NATO side, German-led drills continue in Lithuania until 3 December, and the Coalition of the Willing's first exercise, KOALICJA 26.2, with about 5,000 troops from 11 countries including Estonia and Lithuania, runs mainly in Poland from 9 to 22 November. Moscow is already using it in its narrative.",
+  "evidence": "Official announcements (Polish defence ministry via UA.News); Russian MFA via TASS"
+ },
+ {
+  "key": "2026-11-08|gps",
+  "date": "2026-11-08",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new official or major media report of GNSS interference since the 3 November flight-data map. The persistent pattern around Kaliningrad, described in the baseline, has not changed.",
+  "evidence": "No new reporting; OSINT and baseline (earlier)"
+ },
+ {
+  "key": "2026-11-08|airspace",
+  "date": "2026-11-08",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new drone or airspace violation reported for a fourth day; the last was the 3 November drone that fell in Latvia's Balvi municipality near the Russian border.",
+  "evidence": "No new reporting; Latvian armed forces (earlier, via Defence Matters)"
+ },
+ {
+  "key": "2026-11-08|sabotage",
+  "date": "2026-11-08",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new Russia-linked sabotage case reported. The 7 November mass shooting in Kraków is being investigated as a domestic crime; officials cite the suspect's radical views and have named no link to Russia. Recent court cases (the Fitburg cable verdict in Finland) keep the rating High.",
+  "evidence": "Polish officials (via dpa); no new sabotage reporting"
+ },
+ {
+  "key": "2026-11-08|border",
+  "date": "2026-11-08",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new incident at Baltic, Polish or Finnish borders reported since the Sępopol sighting on 3 November.",
+  "evidence": "No new reporting"
+ },
+ {
+  "key": "2026-11-08|rhetoric",
+  "date": "2026-11-08",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Foreign Ministry spokeswoman Maria Zakharova said any Coalition of the Willing contingents in Ukraine would be legitimate military targets and that the KOALICJA drills show Europeans have no place at the Abu Dhabi talks. The threat repeats a line Moscow used in July, so the rating stays Elevated.",
+  "evidence": "Official statement (Russian MFA via TASS)"
+ },
+ {
+  "key": "2026-11-08|mobilization",
+  "date": "2026-11-08",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no new reporting on reservist call-ups aimed at the Baltic direction. ISW's report of personnel shortages points to continued strain on Russian manpower in Ukraine.",
+  "evidence": "No new reporting; analysis (ISW)"
+ },
+ {
+  "key": "2026-11-08|hospitals",
+  "date": "2026-11-08",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Single report, anonymous source (earlier)"
+ },
+ {
+  "key": "2026-11-08|blood",
+  "date": "2026-11-08",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "None reported"
+ },
+ {
+  "key": "2026-11-08|rail",
+  "date": "2026-11-08",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
+  "evidence": "Single report (earlier)"
  }
 ]
