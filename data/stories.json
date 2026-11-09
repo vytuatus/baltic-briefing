@@ -568,5 +568,75 @@
   "evidence": "Official statement, on the record",
   "corroboration": "FinChannel, citing Reuters, CBS News and Polish Radio; no newer official update found.",
   "analysis": "The lack of an incident does not show the warnings were wrong: a visible security operation can itself deter. Equally, it does not prove an incursion was planned. Watch for an official decision on whether the operation is extended."
+ },
+ {
+  "key": "2026-11-09|krakow-terror",
+  "date": "2026-11-09",
+  "order": 1,
+  "title": "Kraków attack treated as terrorism; officials point to a lone far-right attacker",
+  "summary": "Polish prosecutors opened a formal investigation on 8 November and intend to treat the 7 November shooting in Kraków's Main Square, which killed six people and wounded about 15, as a terrorist act. They say evidence so far shows no one else was involved. Interior Minister Marcin Kierwiński says the 24-year-old Polish suspect was drawn to ultranationalist, far-right ideology. Three relatives were found dead at his home; a British man was among those killed and five foreign nationals, including a Russian citizen, were injured.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "AP (via CBS News) and ABC News, citing the prosecutor and interior minister; consistent across outlets.",
+  "analysis": "The official picture is consistent: a domestic, far-right lone actor, with no foreign financing or network found. That makes claims of a Russian or Ukrainian hand unsupported. The investigation is still open, so details may change."
+ },
+ {
+  "key": "2026-11-09|krakow-disinfo",
+  "date": "2026-11-09",
+  "order": 2,
+  "title": "A wave of false claims follows Kraków, some pushed by Russia-linked accounts",
+  "summary": "Poland's research and cybersecurity institute NASK flagged more than 2,000 accounts, many automated and posting in several languages, spreading false narratives: that the government staged the attack, that the gunman was a soldier, or that he was Ukrainian. Some accounts carried Russian markers. Deputy Prime Minister Krzysztof Gawkowski called the surge not coincidental and warned of AI-altered images from the scene; Prime Minister Donald Tusk urged politicians not to exploit the tragedy.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "NASK data as reported by European Interest; TVP World on the government warning. The detailed NASK figures come from one outlet.",
+  "analysis": "This is the information-operations pattern the Lithuanian assessment describes. But NASK's data show amplification, not who ordered it: domestic far-right voices pushed some of the same claims. 'Russia-linked' here means account markers, not proven state direction."
+ },
+ {
+  "key": "2026-11-09|azov-fake",
+  "date": "2026-11-09",
+  "order": 3,
+  "title": "Fact-check: the 'Ukrainian fighter' story about the Kraków gunman is false",
+  "summary": "A claim that the gunman was linked to Ukraine's International Legion or pro-Azov fighters, based on a patch on his gear, appeared first on the Russian Telegram channel Shot and was spread by pro-Kremlin accounts. Polish authorities say he is a Polish citizen acting alone, and OKO.press identified the patch as a generic design sold online.",
+  "evidence": "Analysis",
+  "corroboration": "Fact-check by What the Fact (AI-assisted, citing OKO.press and Polskie Radio); consistent with official statements.",
+  "analysis": "A clear example of a Russian-origin narrative aimed at turning Poles against Ukraine. The fact-check is AI-generated from cited sources, so we rely on the official facts it cites rather than its own confidence score."
+ },
+ {
+  "key": "2026-11-09|koalicja-start",
+  "date": "2026-11-09",
+  "order": 4,
+  "title": "Coalition of the Willing drills begin; Moscow repeats its objections",
+  "summary": "KOALICJA 26.2 runs from 9 to 22 November, mainly at the Nowa Dęba training area about 100 km from Ukraine, with roughly 2,800 troops from 11 countries including Estonia and Lithuania, nearly 2,000 Polish soldiers, and a maritime element run from Turkey. Britain and France lead. The UK says it tests how to move, protect and supply a force to help rebuild Ukraine's army after the fighting ends. Maria Zakharova called any foreign contingent in Ukraine categorically unacceptable.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Military Times and EU Alive, citing the UK MoD, French and Polish officials and Zakharova's Telegram; Prensa Latina for the Russian statement.",
+  "analysis": "A Western exercise, not a Russian warning sign. The Russian reaction repeats earlier lines rather than adding a new threat. Expect Russian media to present the drills as war preparation; the public description does not support that."
+ },
+ {
+  "key": "2026-11-09|russian-losses",
+  "date": "2026-11-09",
+  "order": 5,
+  "title": "Russian losses outpace recruitment, ISW and leaked statistics suggest",
+  "summary": "ISW's 8 November assessment says Russian casualties have exceeded recruitment since July and that October was Russia's deadliest month of the war. A Rosstat dataset obtained by hacker groups and analysed by The Moscow Times suggests 390,000–450,000 war deaths, depending on method. The Moscow Times checked a sample of names but could not verify the whole dataset.",
+  "evidence": "Analysis",
+  "corroboration": "ISW (Critical Threats); The Moscow Times on leaked documents, roughly in line with an earlier British estimate.",
+  "analysis": "For the baseline this matters: Russia's forces remain heavily committed and strained in Ukraine, which keeps the near-term conventional threat to the Baltics low. It says little about Russia's long-term rebuilding, which the Lithuanian assessment expects to continue."
+ },
+ {
+  "key": "2026-11-09|refugee-recruitment",
+  "date": "2026-11-09",
+  "order": 6,
+  "title": "Ukrainian intelligence: Russia recruits Ukrainian refugees for sabotage in Europe",
+  "summary": "Ukraine's Foreign Intelligence Service says Russian services recruit vulnerable Ukrainian refugees through social media and messaging apps for sabotage in Europe, citing a September arson at a defence plant in Romania. It counts about 200 Russia-linked sabotage acts in Europe since 2022, with Poland the main target. Separately, ten people are on trial in Lithuania and Poland over GRU-linked parcel arson in 2024, according to Politico.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Ukrinform for the intelligence statement; UA.News citing Politico Europe for the trials. Lithuania expelled three Ukrainians over hostile-intelligence tasks last week.",
+  "analysis": "The recruitment pattern matches court cases and the baseline's warning about hostile services recruiting via Telegram. The figures come from a party to the war and are given without sources, so treat them as indicative. Using Ukrainians also helps Moscow stir anti-Ukrainian feeling, as the Kraków fakes show."
+ },
+ {
+  "key": "2026-11-09|oleshky-truce",
+  "date": "2026-11-09",
+  "order": 7,
+  "title": "Ukrainian claim: Russia used the Oleshky truce to reinforce, ahead of Abu Dhabi talks",
+  "summary": "A Ukrainian marine drone-unit commander told Radio Svoboda's Crimea.Realities that Russia used the recent local truce in Oleshky to move over 1,000 troops, artillery, drones and supplies to the left bank of Kherson region. ISW notes the claim but has not seen major Russian assaults there. US-mediated talks with Russia and Ukraine are due in Abu Dhabi on 10–11 November.",
+  "evidence": "Unverified claim",
+  "corroboration": "Militarnyi and Kyiv Post, both relaying Ukrainian military sources; ISW repeats the claim without independent confirmation.",
+  "analysis": "Unverified and from one side, but relevant: how Russia behaves during local truces is a test for any wider ceasefire. A ceasefire is the main way Russian forces could, in time, be freed up for other directions, including the Baltic."
  }
 ]

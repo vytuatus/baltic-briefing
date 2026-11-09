@@ -636,5 +636,93 @@
   "conflict": "Operacija pasiekė numatytą lapkričio 8 d. pabaigos datą be patvirtinto bandymo kirsti sieną; Rusija įspėjimus vadina netikrais.",
   "verdict": "Likely",
   "verdict_note": "Tai, kad įspėjimai buvo pateikti, gerai pagrįsta; ar įsiveržimas buvo planuotas, iš viešų įrodymų spręsti neįmanoma."
+ },
+ {
+  "key": "2026-11-09|krakow-ukraine-fake",
+  "date": "2026-11-09",
+  "order": 1,
+  "claim": "Krokuvos šaulys buvo susijęs su Ukrainos tarptautiniu legionu ar „Azov“ šalininkais",
+  "claimed_by": "Rusijos „Telegram“ kanalas „Shot“ ir prokremliškos paskyros X tinkle",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lenkijos prokurorai nustatė, kad tai vienas veikęs Lenkijos pilietis su kraštutinių dešiniųjų pažiūromis; minimas antsiuvas – internetu parduodamas bendrinis dizainas, o ne Ukrainos dalinio emblema.",
+  "verdict": "False",
+  "verdict_note": "Paneigta oficialių išvadų ir vizualaus antsiuvo patikrinimo."
+ },
+ {
+  "key": "2026-11-09|krakow-russia",
+  "date": "2026-11-09",
+  "order": 2,
+  "claim": "Šaudynės Krokuvoje buvo Rusijos vadovaujama operacija",
+  "claimed_by": "Spėlionės internete ir kai kurios antraštės; joks pareigūnas",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Prokurorai sako, kad iki šiol surinkti įrodymai rodo, jog niekas kitas nedalyvavo; pareigūnai nurodo kraštutinių dešiniųjų motyvą ir jokio užsienio ryšio.",
+  "verdict": "Unsupported",
+  "verdict_note": "Vis dar nėra viešų Rusijos vaidmens įrodymų; tyrimas tęsiasi."
+ },
+ {
+  "key": "2026-11-09|krakow-farright",
+  "date": "2026-11-09",
+  "order": 3,
+  "claim": "Krokuvos šaulys veikė vedamas kraštutinių dešiniųjų ekstremistinių motyvų",
+  "claimed_by": "Vidaus reikalų ministras Marcinas Kierwińskis; prokurorai",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Kai kurie kraštutinių dešiniųjų politikai internete ginčija šią etiketę arba be įrodymų teigia, kad motyvai buvo kairieji ar kitokie.",
+  "verdict": "Likely",
+  "verdict_note": "Dabar tai palaiko ir prokurorai, išpuolį laikantys terorizmu; galutinis motyvas paaiškės po tyrimo."
+ },
+ {
+  "key": "2026-11-09|krakow-bots",
+  "date": "2026-11-09",
+  "order": 4,
+  "claim": "Dezinformacijos antplūdis po Krokuvos buvo koordinuotas, dalyvaujant Rusijai",
+  "claimed_by": "Vicepremjeras Krzysztofas Gawkowskis; NASK duomenys (kaip pranešė European Interest)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "NASK rado daugiau nei 2 000 paskyrų, daugelis jų automatizuotos, kai kurios su rusiškais požymiais; tačiau kai kuriuos tuos pačius pasakojimus skleidė ir vietiniai kraštutiniai dešinieji, o joks valstybinis veikėjas oficialiai neįvardytas.",
+  "verdict": "Likely",
+  "verdict_note": "Koordinuotas išplatinimas gerai pagrįstas; Rusijos valstybės vadovavimas tikėtinas, bet viešai neįrodytas."
+ },
+ {
+  "key": "2026-11-09|refugee-recruitment",
+  "date": "2026-11-09",
+  "order": 5,
+  "claim": "Rusija verbuoja Ukrainos pabėgėlius sabotažui Europoje; nuo 2022 m. – apie 200 su Rusija susijusių sabotažo veiksmų",
+  "claimed_by": "Ukrainos užsienio žvalgybos tarnyba (per Ukrinform)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Atitinka Europos teismų bylas ir trijų ukrainiečių išsiuntimą iš Lietuvos; skaičiai pateikiami be detalizavimo ir yra kariaujančios šalies.",
+  "verdict": "Likely",
+  "verdict_note": "Modelis gerai dokumentuotas; tikslūs skaičiai nepatvirtinti."
+ },
+ {
+  "key": "2026-11-09|oleshky-reinforce",
+  "date": "2026-11-09",
+  "order": 6,
+  "claim": "Rusija pasinaudojo paliaubomis Oleškuose ir į kairįjį Chersono krantą permetė daugiau nei 1 000 karių bei techniką",
+  "claimed_by": "Ukrainos kariniai šaltiniai (per Militarnyi, Kyiv Post); pažymėjo ISW",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Nepatvirtino nei Rusija, nei nepriklausomi vaizdai; ISW kol kas nepraneša apie didelius Rusijos šturmus ten.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Vienos pusės teiginys; verta stebėti kaip išbandymą, kaip Rusija naudojasi paliaubomis."
+ },
+ {
+  "key": "2026-11-09|rosstat-deaths",
+  "date": "2026-11-09",
+  "order": 7,
+  "claim": "Nutekinti Rosstato duomenys rodo, kad kare žuvo 390 000–450 000 rusų",
+  "claimed_by": "Įsilaužėlių grupės „Belarus Cyber Partisans“ ir „Silent Crow“; išanalizavo The Moscow Times",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Dviejų grupių sumos skiriasi dėl metodo; The Moscow Times patikrino dalį pavardžių, bet ne visą duomenų rinkinį; apytiksliai atitinka ankstesnį britų įvertinimą.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina ir iš dalies patikrinta, tačiau duomenų rinkinio vientisumo kol kas patvirtinti negalima."
+ },
+ {
+  "key": "2026-11-09|koalicja-aim",
+  "date": "2026-11-09",
+  "order": 8,
+  "claim": "Užsienio kontingentai Ukrainoje būtų karinė intervencija ir placdarmas prieš Rusiją",
+  "claimed_by": "Marija Zacharova, Rusijos užsienio reikalų ministerija",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "JK ir Prancūzijos pareigūnai sako, kad pajėgos būtų dislokuotos tik po paliaubų, Kyjivo prašymu, be kovinio ar taikos palaikymo mandato ir už NATO ribų.",
+  "verdict": "Misleading",
+  "verdict_note": "Kartoja ankstesnį pateikimą; paskelbtas pajėgų tikslas jam prieštarauja."
  }
 ]

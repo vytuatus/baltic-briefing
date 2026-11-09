@@ -1528,5 +1528,185 @@
   "perspective": "Ukrainian",
   "title": "Debunking fake news about Ukraine: fact-checking",
   "url": "https://gwaramedia.com/en/factcheck/"
+ },
+ {
+  "key": "2026-11-09|l01",
+  "date": "2026-11-09",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-09|l02",
+  "date": "2026-11-09",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "Baltic Sentinel",
+  "perspective": "Baltic",
+  "title": "Lithuanian Intelligence Sounds the Alarm: Russia Is Trying to Spill Blood in NATO Countries",
+  "url": "https://balticsentinel.eu/8429403/lithuanian-intelligence-sounds-the-alarm-russia-is-trying-to-spill-blood-in-nato-countries"
+ },
+ {
+  "key": "2026-11-09|l03",
+  "date": "2026-11-09",
+  "topic": "Lithuanian security news",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "LRT English: Minsk-Washington pressure",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3105417/lrt-english-minsk-washington-pressure"
+ },
+ {
+  "key": "2026-11-09|l04",
+  "date": "2026-11-09",
+  "topic": "Kraków shooting",
+  "outlet": "CBS News (AP)",
+  "perspective": "US and international",
+  "title": "Poland mourns victims of Krakow mass shooting as terrorism probe launched",
+  "url": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/"
+ },
+ {
+  "key": "2026-11-09|l05",
+  "date": "2026-11-09",
+  "topic": "Kraków shooting",
+  "outlet": "ABC News",
+  "perspective": "US and international",
+  "title": "Deadly mass shooting in Poland investigated as terror act, prosecutor says",
+  "url": "https://abcnews.com/International/deadly-mass-shooting-poland-investigated-terror-act-prosecutor/story?id=137951543"
+ },
+ {
+  "key": "2026-11-09|l06",
+  "date": "2026-11-09",
+  "topic": "Kraków disinformation",
+  "outlet": "European Interest",
+  "perspective": "Central Europe",
+  "title": "Poland under disinformation attack after Kraków's massacre",
+  "url": "https://www.europeaninterest.eu/poland-under-disinformation-attack-after-krakows-massacre/"
+ },
+ {
+  "key": "2026-11-09|l07",
+  "date": "2026-11-09",
+  "topic": "Kraków disinformation",
+  "outlet": "TVP World",
+  "perspective": "Central Europe",
+  "title": "Government warns of fake news over Krakow shooting",
+  "url": "https://tvpworld.com/96368967/krakow-shooting-krzysztof-gawkowski-warns-of-disinformation"
+ },
+ {
+  "key": "2026-11-09|l08",
+  "date": "2026-11-09",
+  "topic": "Kraków disinformation",
+  "outlet": "What the Fact",
+  "perspective": "OSINT and trackers",
+  "title": "Fact check: Was the Krakow shooter linked to pro-Azov Ukrainian fighters or Ukraine's International Legion?",
+  "url": "https://whatthefact.app/fact-checks/2026-11-08-krakow-attacker-ukrainian-azov-link-claim"
+ },
+ {
+  "key": "2026-11-09|l09",
+  "date": "2026-11-09",
+  "topic": "Coalition of the Willing drills",
+  "outlet": "Military Times",
+  "perspective": "US and international",
+  "title": "European troops set to train in Poland for postwar Ukraine deployment",
+  "url": "https://www.militarytimes.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/"
+ },
+ {
+  "key": "2026-11-09|l10",
+  "date": "2026-11-09",
+  "topic": "Coalition of the Willing drills",
+  "outlet": "EU Alive",
+  "perspective": "US and international",
+  "title": "Russia rejects European role in Ukraine talks as Coalition of the Willing begins peace force rehearsals",
+  "url": "https://eualive.net/russia-rejects-european-role-in-ukraine-talks-as-coalition-of-the-willing-begins-peace-force-rehearsals"
+ },
+ {
+  "key": "2026-11-09|l11",
+  "date": "2026-11-09",
+  "topic": "Russian official rhetoric",
+  "outlet": "Prensa Latina",
+  "perspective": "Russian state-aligned",
+  "title": "Moscow asserts Europe has no place in talks on Ukraine",
+  "url": "https://www.plenglish.com/news/2026/11/08/moscow-asserts-europe-has-no-place-in-talks-on-ukraine/"
+ },
+ {
+  "key": "2026-11-09|l12",
+  "date": "2026-11-09",
+  "topic": "Russian forces and losses",
+  "outlet": "ISW (Critical Threats)",
+  "perspective": "OSINT and trackers",
+  "title": "Russian Offensive Campaign Assessment, November 8, 2026",
+  "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-8-2026"
+ },
+ {
+  "key": "2026-11-09|l13",
+  "date": "2026-11-09",
+  "topic": "Russian forces and losses",
+  "outlet": "The Moscow Times",
+  "perspective": "Russian independent",
+  "title": "Official Data Shows 450,000 Russians Killed in War, Death Rate Accelerating",
+  "url": "https://themoscowtimes.com/2026/11/08/official-data-shows-450000-russians-killed-in-war-death-rate-accelerating-leaks-a94200"
+ },
+ {
+  "key": "2026-11-09|l14",
+  "date": "2026-11-09",
+  "topic": "Sabotage and recruitment",
+  "outlet": "Ukrinform",
+  "perspective": "Ukrainian",
+  "title": "Russian intelligence services recruiting Ukrainian refugees for sabotage operations in Europe",
+  "url": "https://www.ukrinform.net/rubric-society/4182106-russian-intelligence-services-recruiting-ukrainian-refugees-for-sabotage-operations-in-europe-intelligence.html"
+ },
+ {
+  "key": "2026-11-09|l15",
+  "date": "2026-11-09",
+  "topic": "Sabotage and recruitment",
+  "outlet": "UA.News (citing Politico Europe)",
+  "perspective": "Ukrainian",
+  "title": "Lithuania and Poland try 10 suspects in GRU sabotage cases",
+  "url": "https://ua.news/en/dovkolo-svitu/u-litvi-ta-polshchi-sudiat-10-pidozriuvanikh-u-diversiiakh-na-korist-gru-politico-europe"
+ },
+ {
+  "key": "2026-11-09|l16",
+  "date": "2026-11-09",
+  "topic": "Oleshky truce and Abu Dhabi talks",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Truce in Oleshky Allowed Russia to Transfer More Than 1,000 Troops to Left Bank of Kherson Region",
+  "url": "https://militarnyi.com/en/news/truce-in-oleshky-allowed-russia-to-transfer-more-than-1-000-troops-to-left-bank-of-kherson-region/"
+ },
+ {
+  "key": "2026-11-09|l17",
+  "date": "2026-11-09",
+  "topic": "Oleshky truce and Abu Dhabi talks",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Russia Moved 1,000 Troops 20 Kilometers Closer to Kherson During Oleshky Ceasefire",
+  "url": "https://www.kyivpost.com/post/89373"
+ },
+ {
+  "key": "2026-11-09|l18",
+  "date": "2026-11-09",
+  "topic": "Oleshky truce and Abu Dhabi talks",
+  "outlet": "APA",
+  "perspective": "US and international",
+  "title": "Kremlin confirms Russia-US-Ukraine talks in Abu Dhabi on November 10–11",
+  "url": "https://en.apa.az/cis-countries/kremlin-confirms-russia-us-ukraine-talks-in-abu-dhabi-on-november-10-11-533734"
+ },
+ {
+  "key": "2026-11-09|l19",
+  "date": "2026-11-09",
+  "topic": "Commentary tier",
+  "outlet": "Robert Lansing Institute",
+  "perspective": "Commentary",
+  "title": "Russia Tests the Limits of Space Deterrence: The Threat to ICEYE Satellites and a New Dimension of Confrontation with NATO",
+  "url": "https://lansinginstitute.org/2026/11/06/russia-tests-the-limits-of-space-deterrence-the-threat-to-iceye-satellites-and-a-new-dimension-of-confrontation-with-nato/"
+ },
+ {
+  "key": "2026-11-09|l20",
+  "date": "2026-11-09",
+  "topic": "Kaliningrad border",
+  "outlet": "FinChannel (citing Reuters and CBS)",
+  "perspective": "US and international",
+  "title": "Poland border operation expands after Kaliningrad incident and sabotage warnings",
+  "url": "https://finchannel.com/poland-deploys-more-forces-near-russian-border-after-unconfirmed-kaliningrad-incident/140568/world-2/2026/11/"
  }
 ]

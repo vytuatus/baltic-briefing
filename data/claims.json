@@ -636,5 +636,93 @@
   "conflict": "The operation reached its scheduled end date of 8 November with no confirmed crossing attempt; Russia calls the warnings fake.",
   "verdict": "Likely",
   "verdict_note": "That the warnings were given is well established; whether an incursion was planned cannot be judged from public evidence."
+ },
+ {
+  "key": "2026-11-09|krakow-ukraine-fake",
+  "date": "2026-11-09",
+  "order": 1,
+  "claim": "The Kraków gunman was linked to Ukraine's International Legion or pro-Azov fighters",
+  "claimed_by": "Russian Telegram channel Shot and pro-Kremlin accounts on X",
+  "evidence": "Unverified claim",
+  "conflict": "Polish prosecutors identify a Polish citizen acting alone with far-right views; the patch cited is a generic design sold online, not a Ukrainian unit emblem.",
+  "verdict": "False",
+  "verdict_note": "Contradicted by official findings and by visual checks of the patch."
+ },
+ {
+  "key": "2026-11-09|krakow-russia",
+  "date": "2026-11-09",
+  "order": 2,
+  "claim": "The Kraków shooting was a Russian-directed operation",
+  "claimed_by": "Online speculation and some headlines; no official",
+  "evidence": "Unverified claim",
+  "conflict": "Prosecutors say evidence so far shows no one else was involved; officials name a far-right motive and no foreign link.",
+  "verdict": "Unsupported",
+  "verdict_note": "Still no public evidence of a Russian role; the investigation continues."
+ },
+ {
+  "key": "2026-11-09|krakow-farright",
+  "date": "2026-11-09",
+  "order": 3,
+  "claim": "The Kraków gunman acted from far-right extremist motives",
+  "claimed_by": "Interior Minister Marcin Kierwiński; prosecutors",
+  "evidence": "Official statement",
+  "conflict": "Some far-right politicians online dispute the label or claim left-wing or other motives, without evidence.",
+  "verdict": "Likely",
+  "verdict_note": "Now backed by prosecutors, who are treating the attack as terrorism; a final motive awaits the investigation."
+ },
+ {
+  "key": "2026-11-09|krakow-bots",
+  "date": "2026-11-09",
+  "order": 4,
+  "claim": "The disinformation surge after Kraków was coordinated, with Russian involvement",
+  "claimed_by": "Deputy PM Krzysztof Gawkowski; NASK data (as reported by European Interest)",
+  "evidence": "Official statement",
+  "conflict": "NASK found over 2,000 accounts, many automated, some with Russian markers; but domestic far-right figures pushed some of the same narratives, and no state actor has been formally named.",
+  "verdict": "Likely",
+  "verdict_note": "Coordinated amplification is well supported; Russian state direction is plausible but not proven publicly."
+ },
+ {
+  "key": "2026-11-09|refugee-recruitment",
+  "date": "2026-11-09",
+  "order": 5,
+  "claim": "Russia recruits Ukrainian refugees for sabotage in Europe; about 200 Russia-linked sabotage acts since 2022",
+  "claimed_by": "Ukraine's Foreign Intelligence Service (via Ukrinform)",
+  "evidence": "Official statement",
+  "conflict": "Fits European court cases and Lithuania's expulsion of three Ukrainians; the figures are given without a breakdown and come from a party to the war.",
+  "verdict": "Likely",
+  "verdict_note": "The pattern is well documented; the exact numbers are unconfirmed."
+ },
+ {
+  "key": "2026-11-09|oleshky-reinforce",
+  "date": "2026-11-09",
+  "order": 6,
+  "claim": "Russia used the Oleshky truce to move over 1,000 troops and equipment to the Kherson left bank",
+  "claimed_by": "Ukrainian military sources (via Militarnyi, Kyiv Post); noted by ISW",
+  "evidence": "Unverified claim",
+  "conflict": "Not confirmed by Russia or independent imagery; ISW reports no major Russian assaults there yet.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A single-side claim; worth watching as a test of how Russia uses truces."
+ },
+ {
+  "key": "2026-11-09|rosstat-deaths",
+  "date": "2026-11-09",
+  "order": 7,
+  "claim": "Leaked Rosstat data show 390,000–450,000 Russians killed in the war",
+  "claimed_by": "Hacker groups Belarus Cyber Partisans and Silent Crow; analysed by The Moscow Times",
+  "evidence": "Imagery or documents",
+  "conflict": "The two groups' totals differ by method; The Moscow Times verified a sample of names but not the full dataset; roughly in line with an earlier British estimate.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible and partly checked, but the dataset's integrity cannot yet be confirmed."
+ },
+ {
+  "key": "2026-11-09|koalicja-aim",
+  "date": "2026-11-09",
+  "order": 8,
+  "claim": "Foreign contingents in Ukraine would be military intervention and a foothold against Russia",
+  "claimed_by": "Maria Zakharova, Russian Foreign Ministry",
+  "evidence": "Official statement",
+  "conflict": "UK and French officials say the force would deploy only after a ceasefire, at Kyiv's request, with no combat or peacekeeping mandate and outside NATO.",
+  "verdict": "Misleading",
+  "verdict_note": "Repeats earlier framing; the stated purpose of the force contradicts it."
  }
 ]
