@@ -724,5 +724,82 @@
   "conflict": "UK and French officials say the force would deploy only after a ceasefire, at Kyiv's request, with no combat or peacekeeping mandate and outside NATO.",
   "verdict": "Misleading",
   "verdict_note": "Repeats earlier framing; the stated purpose of the force contradicts it."
+ },
+ {
+  "key": "2026-11-10|krakow-farright",
+  "date": "2026-11-10",
+  "order": 1,
+  "claim": "The Kraków gunman acted from far-right extremist motives",
+  "claimed_by": "Interior Minister Marcin Kierwiński (7–8 November)",
+  "evidence": "Official statement",
+  "conflict": "Prosecutors now say the motive is not established and found no symbols of political extremism; the opposition calls the far-right label a lie; unverified online claims of far-left views also circulate (Defence24).",
+  "verdict": "Contested",
+  "verdict_note": "Downgraded from Likely: the government's own prosecutors no longer support the label, and the gunman's death means no trial will test it."
+ },
+ {
+  "key": "2026-11-10|krakow-russia",
+  "date": "2026-11-10",
+  "order": 2,
+  "claim": "The Kraków shooting was a Russian-directed operation",
+  "claimed_by": "Online speculation and some headlines; no official",
+  "evidence": "Unverified claim",
+  "conflict": "The justice minister says investigators will check whether anyone helped or inspired the gunman, and a Russian link has reportedly not been excluded, but no evidence has been released.",
+  "verdict": "Unsupported",
+  "verdict_note": "Still no public evidence of a Russian role."
+ },
+ {
+  "key": "2026-11-10|krakow-staged",
+  "date": "2026-11-10",
+  "order": 3,
+  "claim": "The Polish government staged the Kraków attack, with EU help, to ban the Independence March",
+  "claimed_by": "Anonymous accounts and bot networks, including some Russian-language ones",
+  "evidence": "Unverified claim",
+  "conflict": "The prime minister and interior minister deny any plan to ban the march; the attack's victims, the gunman's death and the police response are documented.",
+  "verdict": "False",
+  "verdict_note": "No basis; rated false by the Global Security Centre and contradicted by the facts of the case."
+ },
+ {
+  "key": "2026-11-10|freezer-russia",
+  "date": "2026-11-10",
+  "order": 4,
+  "claim": "Russia-linked hackers were behind the supermarket freezer cyberattacks",
+  "claimed_by": "Pro-Russian hacker groups NoName057(16) and Z-Pentest Alliance (posts later deleted); researchers quoted by the FT",
+  "evidence": "Unverified claim",
+  "conflict": "The Kremlin calls the idea absurd; the EU calls the attacks deliberate but names no culprit; some analysts doubt the groups' claims.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible given earlier US cases, but no official attribution yet."
+ },
+ {
+  "key": "2026-11-10|taro-90",
+  "date": "2026-11-10",
+  "order": 5,
+  "claim": "Russia is behind about 90% of Estonia's internal security problems",
+  "claimed_by": "Estonian Interior Minister Igor Taro (to the FT)",
+  "evidence": "Official statement",
+  "conflict": "No breakdown given; consistent in direction with Estonian and Lithuanian intelligence reports, but the figure cannot be checked.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A senior official's estimate, not a published finding."
+ },
+ {
+  "key": "2026-11-10|baltic-peak",
+  "date": "2026-11-10",
+  "order": 6,
+  "claim": "Russia's military presence in the Baltic Sea has probably peaked for now",
+  "claimed_by": "Finnish Navy commander Rear Admiral Tuomas Tiilikainen (to Sky News)",
+  "evidence": "Official statement",
+  "conflict": "Sits alongside Polish warnings that Russian threats will grow; the two are compatible, since one concerns naval presence and the other hybrid pressure.",
+  "verdict": "Likely",
+  "verdict_note": "A credible frontline judgement, matched by the absence of new naval incidents."
+ },
+ {
+  "key": "2026-11-10|shoigu-infra",
+  "date": "2026-11-10",
+  "order": 7,
+  "claim": "Ukraine and Europe want to prolong the war, and Poland and the Baltic states are provocatively expanding NATO infrastructure",
+  "claimed_by": "Sergei Shoigu, Russian Security Council",
+  "evidence": "Official statement",
+  "conflict": "Ukraine calls for an immediate ceasefire, which Russia rejects; NATO's eastern-flank build-up is defensive and followed Russia's 2022 invasion.",
+  "verdict": "Misleading",
+  "verdict_note": "Reverses cause and effect; Russia itself rejects a general ceasefire."
  }
 ]

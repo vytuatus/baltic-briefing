@@ -438,5 +438,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Naujų nėra; lapkričio 8 d. Zacharovos pasisakymuose užsienio kariai Ukrainoje vadinami nepriimtinais, tačiau kartojamos jau įskaičiuotos pozicijos be naujo aiškaus grasinimo."
+ },
+ {
+  "key": "2026-11-10|airspace",
+  "date": "2026-11-10",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo pirmą kartą nepranešta apie jokį naują droną ar oro erdvės pažeidimą."
+ },
+ {
+  "key": "2026-11-10|sabotage",
+  "date": "2026-11-10",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Naujų nėra; Estijos ministras minėjo ankstesnį „Milrem“ padegimą, o apie prekybos centrų šaldiklių kibernetines atakas pirmą kartą pranešta dar iki vakarykščio leidimo ir pareigūnai jų nepriskyrė."
+ },
+ {
+  "key": "2026-11-10|jamming",
+  "date": "2026-11-10",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; naujų oficialių ar didžiosios žiniasklaidos pranešimų apie GNSS trikdžius Baltijos regione nerasta."
+ },
+ {
+  "key": "2026-11-10|border",
+  "date": "2026-11-10",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; nuo lapkričio 4 d. įskaičiuoto pastebėjimo prie Sępopolio naujų incidentų nebuvo."
+ },
+ {
+  "key": "2026-11-10|threats",
+  "date": "2026-11-10",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; lapkričio 9 d. Šoigu pasisakymuose Lenkija ir Baltijos šalys kaltinamos plečiant NATO infrastruktūrą, tačiau aiškaus grasinimo nėra."
  }
 ]

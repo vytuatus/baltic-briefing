@@ -438,5 +438,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None new; Zakharova's 8 November remarks call foreign troops in Ukraine unacceptable but repeat positions already counted, without a new explicit threat."
+ },
+ {
+  "key": "2026-11-10|airspace",
+  "date": "2026-11-10",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new drone or airspace violation was first reported since the previous edition."
+ },
+ {
+  "key": "2026-11-10|sabotage",
+  "date": "2026-11-10",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None new; Estonia's minister referred to the earlier Milrem arson, and the supermarket freezer cyberattacks were first reported before yesterday's edition and have not been attributed by officials."
+ },
+ {
+  "key": "2026-11-10|jamming",
+  "date": "2026-11-10",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region was found."
+ },
+ {
+  "key": "2026-11-10|border",
+  "date": "2026-11-10",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new incident since the Sępopol sighting counted on 4 November."
+ },
+ {
+  "key": "2026-11-10|threats",
+  "date": "2026-11-10",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; Shoigu's 9 November remarks accuse Poland and the Baltic states of expanding NATO infrastructure but contain no explicit threat."
  }
 ]

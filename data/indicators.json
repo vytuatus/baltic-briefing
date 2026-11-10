@@ -1571,5 +1571,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
   "evidence": "Single report (earlier)"
+ },
+ {
+  "key": "2026-11-10|troops",
+  "date": "2026-11-10",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland. No new Robert Lansing Institute claim on troop movements found.",
+  "evidence": "No new reporting"
+ },
+ {
+  "key": "2026-11-10|kaliningrad",
+  "date": "2026-11-10",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of new Russian troop or ship movements in the exclave, and no official update found on Poland's security operation on the Kaliningrad border. Finland's navy chief says Russia's overall Baltic Sea presence has probably peaked for now.",
+  "evidence": "Official statement (Finnish Navy, via Sky News); no new reporting on Kaliningrad"
+ },
+ {
+  "key": "2026-11-10|belarus",
+  "date": "2026-11-10",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new reports of Belarusian or Russian military moves in Belarus near NATO borders. The Oreshnik deployment remains, as the baseline puts it, mainly a signalling tool.",
+  "evidence": "No new reporting; Lithuanian threat assessment (baseline)"
+ },
+ {
+  "key": "2026-11-10|exercises",
+  "date": "2026-11-10",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. On the NATO side, the Coalition of the Willing's KOALICJA 26.2 drills continue in Poland until 22 November and German-led drills continue in Lithuania until 3 December.",
+  "evidence": "Official announcements (earlier)"
+ },
+ {
+  "key": "2026-11-10|gps",
+  "date": "2026-11-10",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new official or major media report of GNSS interference since the 3 November flight-data map. The persistent pattern around Kaliningrad, described in the baseline, has not changed.",
+  "evidence": "No new reporting; OSINT and baseline (earlier)"
+ },
+ {
+  "key": "2026-11-10|airspace",
+  "date": "2026-11-10",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new drone or airspace violation reported for a sixth day; the last was the 3 November drone that fell in Latvia's Balvi municipality near the Russian border.",
+  "evidence": "No new reporting"
+ },
+ {
+  "key": "2026-11-10|sabotage",
+  "date": "2026-11-10",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new Russia-linked sabotage case first reported. Estonia's interior minister told the Financial Times that such attacks amount to state terrorism, citing the August arson at a defence robotics firm. Cyberattacks that overheated supermarket freezers in several countries, including Finland and Sweden, remain unattributed by officials; pro-Russian hacker groups claimed them and Moscow denies involvement.",
+  "evidence": "Official statement (Estonian minister, via Kyiv Post citing FT); unverified claims by hacker groups"
+ },
+ {
+  "key": "2026-11-10|border",
+  "date": "2026-11-10",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new incident at Baltic, Polish or Finnish borders reported since the Sępopol sighting on 3 November. Latvia continues to build anti-tank ditches and concrete obstacles on its eastern border: about 4 of a planned 89 km of ditches are dug.",
+  "evidence": "Official reporting (LSM); no new incident"
+ },
+ {
+  "key": "2026-11-10|rhetoric",
+  "date": "2026-11-10",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Security Council secretary Sergei Shoigu said on 9 November that Ukraine and Europe are set on prolonging the war and accused Poland and the Baltic states of steadily expanding NATO infrastructure. In Abu Dhabi, Moscow's positions include a rollback of NATO deployments in Eastern Europe. Hostile, but no new explicit threat.",
+  "evidence": "Official statement (via UA.News, AP)"
+ },
+ {
+  "key": "2026-11-10|mobilization",
+  "date": "2026-11-10",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction. Earlier signs of strain (losses outpacing recruitment, per ISW) are unchanged.",
+  "evidence": "No new reporting; analysis (earlier)"
+ },
+ {
+  "key": "2026-11-10|hospitals",
+  "date": "2026-11-10",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Single report, anonymous source (earlier)"
+ },
+ {
+  "key": "2026-11-10|blood",
+  "date": "2026-11-10",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "None reported"
+ },
+ {
+  "key": "2026-11-10|rail",
+  "date": "2026-11-10",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
+  "evidence": "Single report (earlier)"
  }
 ]

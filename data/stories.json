@@ -638,5 +638,75 @@
   "evidence": "Unverified claim",
   "corroboration": "Militarnyi and Kyiv Post, both relaying Ukrainian military sources; ISW repeats the claim without independent confirmation.",
   "analysis": "Unverified and from one side, but relevant: how Russia behaves during local truces is a test for any wider ceasefire. A ceasefire is the main way Russian forces could, in time, be freed up for other directions, including the Baltic."
+ },
+ {
+  "key": "2026-11-10|abu-dhabi",
+  "date": "2026-11-10",
+  "order": 1,
+  "title": "Abu Dhabi talks open; Europe nearby but not at the table",
+  "summary": "The first trilateral talks between Russia, Ukraine and the US since February began in Abu Dhabi on 10 November and run for two days, with security issues first on the agenda. Russia's team is led by Vladimir Medinsky and includes the head of military intelligence; Ukraine's by Rustem Umerov. EU, British, French, German and NATO officials are in Abu Dhabi for separate meetings with the US envoys. Moscow still seeks Ukraine's withdrawal from four regions, no NATO membership and limits on its army, and rejects a general ceasefire.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "AP, Meduza, Al Jazeera and Euronews report the same delegations and agenda.",
+  "analysis": "For the Baltic states the key risk is not this round but the next: US envoy Jared Kushner wants Russia and Europe to discuss wider security 'in the near future', and Moscow has long demanded that NATO withdraw forces from the eastern flank. Poland's Radosław Sikorski warned against Western Europe dealing with Russia over Eastern Europe's head. Analysts quoted by Al Jazeera expect no peace accord this week."
+ },
+ {
+  "key": "2026-11-10|krakow-motive",
+  "date": "2026-11-10",
+  "order": 2,
+  "title": "Kraków gunman dies; prosecutors say the motive is still unclear",
+  "summary": "The 24-year-old gunman died in hospital early on 9 November. Nine people died in all: six in the square and three relatives at the family home. Prosecutors say the motive is not established, and a search of his room found no symbols of political extremism. The justice minister says investigators will establish whether anyone helped or inspired him. The interior minister had earlier described him as drawn to ultra-nationalist ideas.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Reported by AP-based outlets, IBTimes UK and Defence24; the opposition and right-leaning media present the prosecutors' remarks as a government climbdown, which overstates it: the government has urged restraint rather than retracted anything.",
+  "analysis": "The official story now has two strands: an interior minister who spoke early of far-right views, and prosecutors who say nothing proves any ideology yet. With the gunman dead, there will be no trial to settle it. Nothing public links the attack to Russia."
+ },
+ {
+  "key": "2026-11-10|krakow-march",
+  "date": "2026-11-10",
+  "order": 3,
+  "title": "Analysts expect more false claims before Poland's Independence March",
+  "summary": "A risk update from the Global Security Centre consultancy rates the risk of further disinformation in Poland as high through 11 November, when a large Independence March is planned in Warsaw. False claims so far include that the government staged the attack with EU help, that it was a pretext to ban the march, and that the gunman was Ukrainian. The most widely seen false story reached up to 200 million views, according to officials. NASK found Cyrillic traces in some bot posts, but officials have not attributed the campaign to any state.",
+  "evidence": "Analysis",
+  "corroboration": "Consistent with Tech Times' summary of NASK and OKO.press findings; both rest on the same official data.",
+  "analysis": "This is the information pattern the Lithuanian assessment describes: fast, multilingual amplification of divisive claims after a shock event. The evidence shows Russia-linked accounts joined in, not that Moscow started or directed it."
+ },
+ {
+  "key": "2026-11-10|taro-terror",
+  "date": "2026-11-10",
+  "order": 4,
+  "title": "Estonia: Russian sabotage is 'state terrorism'; freezer cyberattacks still unattributed",
+  "summary": "Estonian Interior Minister Igor Taro told the Financial Times that Europe should stop calling Russian attacks 'hybrid' and treat them as state-sponsored terrorism, citing the August arson at the defence firm Milrem Robotics, whose suspects he says were recruited by Russia. He estimated Russia is behind about 90% of Estonia's internal security problems. Separately, cyberattacks in early November overheated freezers in about 100 supermarkets in at least nine countries, including Finland and Sweden. Two pro-Russian hacker groups claimed them, then deleted the posts; Peskov called the suspicion absurd.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Kyiv Post on the FT interview; The Moscow Times and Liga.net on the freezer attacks, relaying the BBC, The Times and the FT.",
+  "analysis": "The shift in language matters politically, but the facts behind it are not new. The freezer attacks fit Russia-linked groups' earlier patterns, yet no government has formally attributed them; the 90% figure comes without a breakdown."
+ },
+ {
+  "key": "2026-11-10|finnish-navy",
+  "date": "2026-11-10",
+  "order": 5,
+  "title": "Finland's navy chief: Russia's Baltic presence has probably peaked",
+  "summary": "Rear Admiral Tuomas Tiilikainen told Sky News that Russia's military presence in the Baltic Sea has probably peaked for now, either because Moscow sees no need to grow it or because it has reached what it can sustain in peacetime. He says patrols are working, with no attacks on Finnish undersea infrastructure since NATO's Baltic Sentry began in January 2025, and sees ageing shadow-fleet tankers with inexperienced crews as the biggest risk.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Single interview, relayed by Ukrainian Shipping Magazine.",
+  "analysis": "A useful counterweight to alarmist coverage: a frontline navy sees a strained but stable picture at sea. It fits the baseline's view that the main maritime risks are shadow-fleet incidents rather than a naval build-up."
+ },
+ {
+  "key": "2026-11-10|shoigu",
+  "date": "2026-11-10",
+  "order": 6,
+  "title": "Shoigu accuses Poland and the Baltic states of expanding NATO infrastructure",
+  "summary": "Speaking to security officials of CIS countries on 9 November, Russian Security Council secretary Sergei Shoigu said Ukraine and its European partners want to prolong the war, called Europe's rearmament near Russia's borders provocative, and accused Poland and the Baltic states of steadily expanding NATO's military infrastructure.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "Reported by UA.News from Russian official statements.",
+  "analysis": "Timed for the Abu Dhabi talks, it casts eastern-flank defence as the problem, echoing Moscow's demand for a NATO pullback. Hostile, but no explicit threat."
+ },
+ {
+  "key": "2026-11-10|latvia-un",
+  "date": "2026-11-10",
+  "order": 7,
+  "title": "Latvia chairs a UN Security Council session on Ukraine and keeps fortifying its border",
+  "summary": "Latvia, holding the Security Council presidency for the first time, called an emergency session on Ukraine on 9 November, opened by Foreign Minister Baiba Braže. On its eastern border, the National Guard continues digging anti-tank ditches and placing concrete obstacles; about 4 of a planned 89 km of ditches are complete, and €303 million is set aside for border fortification by 2029.",
+  "evidence": "Official statement, on the record",
+  "corroboration": "LSM (Latvian public broadcaster).",
+  "analysis": "Both are defensive, long-term steps, consistent with the baseline's view that the threat is longer-term rather than imminent."
  }
 ]

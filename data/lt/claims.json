@@ -724,5 +724,82 @@
   "conflict": "JK ir Prancūzijos pareigūnai sako, kad pajėgos būtų dislokuotos tik po paliaubų, Kyjivo prašymu, be kovinio ar taikos palaikymo mandato ir už NATO ribų.",
   "verdict": "Misleading",
   "verdict_note": "Kartoja ankstesnį pateikimą; paskelbtas pajėgų tikslas jam prieštarauja."
+ },
+ {
+  "key": "2026-11-10|krakow-farright",
+  "date": "2026-11-10",
+  "order": 1,
+  "claim": "Krokuvos šaulys veikė vedamas kraštutinių dešiniųjų ekstremistinių motyvų",
+  "claimed_by": "Vidaus reikalų ministras Marcinas Kierwińskis (lapkričio 7–8 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Prokurorai dabar sako, kad motyvas nenustatytas, ir politinio ekstremizmo simbolių nerado; opozicija kraštutinių dešiniųjų etiketę vadina melu; internete taip pat sklando nepatikrinti teiginiai apie kraštutinių kairiųjų pažiūras (Defence24).",
+  "verdict": "Contested",
+  "verdict_note": "Vertinimas sumažintas nuo „Tikėtina“: pačios vyriausybės prokurorai šios etiketės nebepalaiko, o šauliui mirus, teismas jos nepatikrins."
+ },
+ {
+  "key": "2026-11-10|krakow-russia",
+  "date": "2026-11-10",
+  "order": 2,
+  "claim": "Šaudynės Krokuvoje buvo Rusijos vadovaujama operacija",
+  "claimed_by": "Spėlionės internete ir kai kurios antraštės; joks pareigūnas",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Teisingumo ministras sako, kad tyrėjai patikrins, ar kas nors padėjo šauliui ar jį įkvėpė, o ryšys su Rusija, pranešama, neatmestas, tačiau jokių įrodymų nepaskelbta.",
+  "verdict": "Unsupported",
+  "verdict_note": "Vis dar nėra viešų Rusijos vaidmens įrodymų."
+ },
+ {
+  "key": "2026-11-10|krakow-staged",
+  "date": "2026-11-10",
+  "order": 3,
+  "claim": "Lenkijos vyriausybė su ES pagalba surežisavo išpuolį Krokuvoje, kad uždraustų Nepriklausomybės eitynes",
+  "claimed_by": "Anoniminės paskyros ir botų tinklai, įskaitant kai kuriuos rusakalbius",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Premjeras ir vidaus reikalų ministras neigia bet kokį planą uždrausti eitynes; išpuolio aukos, šaulio mirtis ir policijos reakcija yra dokumentuotos.",
+  "verdict": "False",
+  "verdict_note": "Jokio pagrindo; „Global Security Centre“ įvertino kaip melagingą, o bylos faktai tam prieštarauja."
+ },
+ {
+  "key": "2026-11-10|freezer-russia",
+  "date": "2026-11-10",
+  "order": 4,
+  "claim": "Už prekybos centrų šaldiklių kibernetinių atakų stovėjo su Rusija susiję įsilaužėliai",
+  "claimed_by": "Prorusiškos įsilaužėlių grupės „NoName057(16)“ ir „Z-Pentest Alliance“ (įrašai vėliau ištrinti); FT cituojami tyrėjai",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Kremlius šią mintį vadina absurdiška; ES atakas vadina tyčinėmis, bet kaltininko neįvardija; kai kurie analitikai abejoja grupių teiginiais.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, atsižvelgiant į ankstesnes bylas JAV, tačiau oficialaus priskyrimo kol kas nėra."
+ },
+ {
+  "key": "2026-11-10|taro-90",
+  "date": "2026-11-10",
+  "order": 5,
+  "claim": "Rusija stovi už maždaug 90 % Estijos vidaus saugumo problemų",
+  "claimed_by": "Estijos vidaus reikalų ministras Igoris Taro (FT)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Detalizavimas nepateiktas; kryptis atitinka Estijos ir Lietuvos žvalgybos ataskaitas, tačiau paties skaičiaus patikrinti neįmanoma.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Aukšto pareigūno įvertis, o ne paskelbta išvada."
+ },
+ {
+  "key": "2026-11-10|baltic-peak",
+  "date": "2026-11-10",
+  "order": 6,
+  "claim": "Rusijos karinis buvimas Baltijos jūroje greičiausiai kol kas pasiekė piką",
+  "claimed_by": "Suomijos karinio jūrų laivyno vadas kontradmirolas Tuomas Tiilikainenas (Sky News)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Egzistuoja kartu su Lenkijos įspėjimais, kad Rusijos grėsmės augs; jie suderinami, nes vienas susijęs su buvimu jūroje, o kitas – su hibridiniu spaudimu.",
+  "verdict": "Likely",
+  "verdict_note": "Patikimas fronto linijos vertinimas, kurį patvirtina naujų jūrinių incidentų nebuvimas."
+ },
+ {
+  "key": "2026-11-10|shoigu-infra",
+  "date": "2026-11-10",
+  "order": 7,
+  "claim": "Ukraina ir Europa nori užtęsti karą, o Lenkija ir Baltijos šalys provokuojamai plečia NATO infrastruktūrą",
+  "claimed_by": "Sergejus Šoigu, Rusijos Saugumo Taryba",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Ukraina ragina nedelsiant sudaryti paliaubas, o Rusija jas atmeta; NATO rytinio flango stiprinimas yra gynybinis ir prasidėjo po Rusijos 2022 m. invazijos.",
+  "verdict": "Misleading",
+  "verdict_note": "Sukeičia priežastį ir pasekmę; pati Rusija atmeta visuotines paliaubas."
  }
 ]
