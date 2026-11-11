@@ -801,5 +801,93 @@
   "conflict": "Ukraina ragina nedelsiant sudaryti paliaubas, o Rusija jas atmeta; NATO rytinio flango stiprinimas yra gynybinis ir prasidėjo po Rusijos 2022 m. invazijos.",
   "verdict": "Misleading",
   "verdict_note": "Sukeičia priežastį ir pasekmę; pati Rusija atmeta visuotines paliaubas."
+ },
+ {
+  "key": "2026-11-11|drone-origin",
+  "date": "2026-11-11",
+  "order": 1,
+  "claim": "Lapkričio 10–11 d. į Lietuvos ir Latvijos oro erdvę įskridę dronai buvo rusiški",
+  "claimed_by": "Numanoma pagal Baltijos šalių ir NATO pareigūnus, kaltinančius Rusiją dėl incidentų; ginčijama prieštaringomis Kyjivo ir Maskvos versijomis",
+  "evidence": "Oficialūs pareiškimai (tik pavojai); paskelbto identifikavimo nėra",
+  "conflict": "Kyjivas sako, kad Rusijos trikdžiai nukreipia jo dronus nuo kurso; Maskva sako, kad Kyjivas naudoja NATO oro erdvę kaip priedangą; Baltijos šalių institucijos dar nepasakė, kieno tai buvo dronai.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Laikas sutampa su Ukrainos smūgiu Leningrado sričiai, o ankstesni šių metų nuklydę dronai daugiausia buvo ukrainietiški. Nei nuolaužų, nei oficialaus identifikavimo nepaskelbta."
+ },
+ {
+  "key": "2026-11-11|nato-cover",
+  "date": "2026-11-11",
+  "order": 2,
+  "claim": "Kyjivas naudoja Baltijos šalių ir NATO oro erdvę kaip priedangą dronų atakoms prieš Rusiją",
+  "claimed_by": "Rusijos pareigūnai (pakartota po lapkričio 10–11 d. pavojų)",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Baltijos šalių vyriausybės neigia leidžiančios naudotis savo oro erdve; ES užsienio politikos vadovė anksčiau šį teiginį pavadino nesąmone. Kyjivas dėl nuklydusių dronų kaltina Rusijos trikdžius.",
+  "verdict": "Unsupported",
+  "verdict_note": "Nepateikta jokių įrodymų, kad Baltijos šalys tai leidžia ar kad Ukraina planuoja maršrutus per NATO oro erdvę; nuklydimai atitinka trikdžius ir navigacijos klaidas."
+ },
+ {
+  "key": "2026-11-11|belarus-hybrid",
+  "date": "2026-11-11",
+  "order": 3,
+  "claim": "Iš Baltarusijos atskridęs balioną primenantis objektas, uždaręs Vilniaus ir Kauno oro uostus, yra Baltarusijos hibridinės atakos dalis",
+  "claimed_by": "Lietuvos institucijos",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Minskas ankstesnius kaltinimus neigė, o balionus pateikia kaip nusikaltėlių kontrabandą.",
+  "verdict": "Likely",
+  "verdict_note": "Skrydžiai kartojasi daugiau nei metus su tuo pačiu poveikiu oro uostams, o Baltarusija prieš juos nesiima veiksmų; ar kiekvienas paleidimas yra valstybės nurodytas, neįrodyta."
+ },
+ {
+  "key": "2026-11-11|krakow-farright",
+  "date": "2026-11-11",
+  "order": 4,
+  "claim": "Krokuvos šaulys veikė vedamas kraštutinių dešiniųjų ekstremistinių motyvų",
+  "claimed_by": "Vidaus reikalų ministras Marcinas Kierwińskis (lapkričio 7–8 d.); teisingumo ministras Waldemaras Żurekas (lapkričio 10 d.)",
+  "evidence": "Oficialūs pareiškimai; netiesioginiai įrodymai (naršymo istorija, vėliava)",
+  "conflict": "Nacionalinė prokuratūra sako, kad vėliava nesusijusi su kuria nors viena ideologija, o motyvas tebetiriamas, įskaitant galimą psichikos ligą.",
+  "verdict": "Contested",
+  "verdict_note": "Nauji netiesioginiai įrodymai palaiko hipotezę, tačiau prokurorai motyvo nepatvirtino."
+ },
+ {
+  "key": "2026-11-11|ryzhenkov-30000",
+  "date": "2026-11-11",
+  "order": 5,
+  "claim": "NATO Baltijos regione laiko iki 30 000 karių, o nauji teritorinės gynybos daliniai ten yra revanšistiniai ir judėtų į rytus",
+  "claimed_by": "Baltarusijos užsienio reikalų ministras Maksimas Ryženkovas (per TASS)",
+  "evidence": "Oficialus pareiškimas (šališkas)",
+  "conflict": "Sąjungininkų dislokavimas regione yra gynybinis ir viešas; Baltijos šalių ir Lenkijos teritorinės gynybos pajėgos yra savo krašto gynybos daliniai.",
+  "verdict": "Misleading",
+  "verdict_note": "Karių skaičius tikėtino masto, tačiau gynybinių dalinių vaizdavimas kaip revanšistinių neturi jokių įrodymų."
+ },
+ {
+  "key": "2026-11-11|leningrad-146",
+  "date": "2026-11-11",
+  "order": 6,
+  "claim": "Rusijos oro gynyba virš Leningrado srities numušė 146 dronus",
+  "claimed_by": "Leningrado srities gubernatorius Aleksandras Drozdenka",
+  "evidence": "Oficialus pareiškimas (šališkas)",
+  "conflict": "Tą patį pareigūną cituojantys leidiniai pateikia skirtingus skaičius (81, 92, 141, 146), o gaisrai Ust Lugoje ir Kirišuose rodo, kad dalis dronų prasiveržė.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Rusijos skelbiami numušimų skaičiai nepriklausomai nepatikrinami ir per naktį keitėsi."
+ },
+ {
+  "key": "2026-11-11|abu-dhabi-flex",
+  "date": "2026-11-11",
+  "order": 7,
+  "claim": "Rusija ir Ukraina neviešai parodė tam tikro lankstumo teritorijų klausimu",
+  "claimed_by": "Aukštas JAV pareigūnas, per JAV žiniasklaidą",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Viešai Maskva vis dar reikalauja, kad Ukraina paliktų visą Donecko sritį, o Kyjivas atmeta jo kontroliuojamų teritorijų atidavimą.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Vienas plačiai pakartotas anoniminis šaltinis; detalių nepateikta."
+ },
+ {
+  "key": "2026-11-11|poland-agents",
+  "date": "2026-11-11",
+  "order": 8,
+  "claim": "Du Lenkijoje sulaikyti Ukrainos piliečiai vykdė padegimus ir šnipinėjo Rusijos žvalgybos naudai",
+  "claimed_by": "Lenkijos specialiųjų tarnybų koordinatorius ir ABW",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Įtariamieji viešai nereagavo; kaltinimai teisme dar nepatikrinti.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Oficialūs kaltinimai rimti ir atitinka žinomą modelį, tačiau tebėra kaltinimai."
  }
 ]

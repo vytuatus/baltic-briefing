@@ -708,5 +708,75 @@
   "evidence": "Official statement, on the record",
   "corroboration": "LSM (Latvian public broadcaster).",
   "analysis": "Both are defensive, long-term steps, consistent with the baseline's view that the threat is longer-term rather than imminent."
+ },
+ {
+  "key": "2026-11-11|drone-night",
+  "date": "2026-11-11",
+  "order": 1,
+  "title": "Drone alerts across the Baltic states as Ukraine strikes Russia's Baltic ports",
+  "summary": "Overnight on 10–11 November, Ukraine attacked Russia's Leningrad region, hitting the Ust-Luga port area about 30 km from Estonia and the Kirishi refinery; the regional governor says 146 drones were downed and three port workers injured. Lithuania issued shelter warnings for Kaunas, Panevėžys and several districts, Latvia for ten municipalities, and Estonia for eight counties. NATO jets were scrambled. Latvia says two aircraft entered near Ludza and another crossed from Lithuania; Lithuania says a drone probably entered and later headed toward Latvia. No damage or injuries reported. Finland imposed temporary air and sea restrictions in the eastern Gulf of Finland as a precaution.",
+  "evidence": "Official statements (Baltic and Finnish armed forces and crisis centres); Reuters",
+  "corroboration": "Reported separately by LSM, LRT, ERR and Reuters from each country's own authorities, so the alerts themselves are well corroborated. Russian drone counts differ by outlet (81, 92, 141, 146).",
+  "analysis": "This is the familiar pattern of Ukrainian strikes on Russia's Baltic coast spilling over into allied airspace, now at a larger scale. The drones' origin has not been officially established; Kyiv blames Russian jamming for strays, Moscow says Kyiv hides behind NATO airspace. Either way, the disruption to Baltic civilians and airports is real."
+ },
+ {
+  "key": "2026-11-11|belarus-balloons",
+  "date": "2026-11-11",
+  "order": 2,
+  "title": "Object from Belarus shuts Vilnius and Kaunas airports",
+  "summary": "On the evening of 10 November, an unidentified object flying from Belarus, with navigation markers typical of smuggling balloons, prompted a probable air alert in Vilnius and Utena counties. Vilnius airport was restricted for about 35 minutes and Kaunas airport halted for about two hours. Lithuanian officials described it as part of Belarus's ongoing hybrid attack on Lithuanian aviation.",
+  "evidence": "Official statement (Lithuanian authorities, via LRT); NOTAM via Liveuamap",
+  "corroboration": "LRT and flight-tracking sources agree on the timing.",
+  "analysis": "Balloon flights from Belarus have repeatedly closed Lithuanian airports since 2025. They are cheap and deniable, and their effect depends on how often they force closures. Coming the same night as the drone alerts, they show how separate pressures can stack up."
+ },
+ {
+  "key": "2026-11-11|abu-dhabi",
+  "date": "2026-11-11",
+  "order": 3,
+  "title": "Abu Dhabi talks: 'constructive' first day, but no ceasefire and no European seat",
+  "summary": "The first trilateral US–Russia–Ukraine talks since February ran for nearly four hours on 10 November and continue on 11 November. President Zelensky called the first day constructive. US media, citing a senior US official, report that both sides showed some private flexibility on territory and that Washington discussed security guarantees for Ukraine modelled on NATO's Articles 4 and 5 and a possible revival of the NATO-Russia Council. Russia still rejects a truce, and the Kremlin's spokesman says Europeans have no seat at the table; EU, NATO and European officials are present in Abu Dhabi alongside the US team.",
+  "evidence": "Official statements; anonymous sources (senior US official)",
+  "corroboration": "Reported by AP, Euronews, RFE/RL and others; the territorial flexibility claim comes from one anonymous US official repeated by several outlets.",
+  "analysis": "For the Baltic states, the key question is whether any settlement touches NATO's posture on the eastern flank. Nothing reported so far does, but the talk of a wider security arrangement and a revived NATO-Russia Council is where that could arise."
+ },
+ {
+  "key": "2026-11-11|poland-arrests",
+  "date": "2026-11-11",
+  "order": 4,
+  "title": "Poland detains two men accused of spying and arson for Russia",
+  "summary": "Poland's intelligence services coordinator Tomasz Siemoniak and the ABW said on 10 November that two Ukrainian citizens, aged 24 and 25, were detained on suspicion of working for Russian intelligence. They are accused of photographing critical infrastructure and military sites, setting cars on fire and using Ukrainian military licence plates to avoid suspicion, and of being paid partly in cryptocurrency. They face 10 years to life and are held for three months.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Meduza, Militarnyi and Al Arabiya from the same official announcement, so effectively one source.",
+  "analysis": "The case fits the pattern the Lithuanian assessment describes: Russian services recruiting low-paid, often foreign, agents online for small acts of sabotage. The suspects have not been convicted."
+ },
+ {
+  "key": "2026-11-11|krakow",
+  "date": "2026-11-11",
+  "order": 5,
+  "title": "Kraków: justice minister sees far-right traces; prosecutors stay cautious",
+  "summary": "Justice Minister and Prosecutor General Waldemar Żurek said on 10 November that there are very strong traces of right-wing extremism in the gunman's activity, citing visits to websites about a Norwegian far-right mass killer and a flag found at his home. The National Prosecutor's Office said the flag is not tied to any one ideology and the motive is still being investigated, including possible mental illness. Officials also say a photo showing the gunman with the interior minister was AI-generated.",
+  "evidence": "Official statements",
+  "corroboration": "Reported by Notes from Poland, citing Radio Kraków and the prosecutor's office.",
+  "analysis": "The evidence is moving toward the far-right hypothesis but remains circumstantial, and the prosecutors' own caution should be weighed. There is still no public evidence of a Russian role. Disinformation from several directions continues as Poland marks Independence Day today."
+ },
+ {
+  "key": "2026-11-11|belarus-30000",
+  "date": "2026-11-11",
+  "order": 6,
+  "title": "Belarus's foreign minister says NATO keeps 30,000 troops in the Baltic region",
+  "summary": "Speaking at a security forum in Moscow on 10 November, Belarusian Foreign Minister Maxim Ryzhenkov said up to 30,000 NATO troops are permanently stationed in the Baltic region, that Poland, Lithuania and Latvia are arming on a large scale, and that new territorial defence units there hold revanchist views and would move east in a conflict.",
+  "evidence": "Official statement (via TASS)",
+  "corroboration": "Single source (Russian state media).",
+  "analysis": "The troop figure is in a plausible range for allied forces in the region, but presenting defensive units as revanchist and eastward-bound is a familiar Minsk–Moscow narrative used to justify their own build-up."
+ },
+ {
+  "key": "2026-11-11|nato-asw",
+  "date": "2026-11-11",
+  "order": 7,
+  "title": "NATO starts anti-submarine drills in the Baltic Sea",
+  "summary": "Eight NATO countries began a five-day anti-submarine exercise based in Sweden on 10 November, with several thousand personnel, German and Swedish submarines, surface ships and patrol aircraft. Officers warned about threats from underwater drones and from ships dragging anchors across undersea cables.",
+  "evidence": "Official statement (NATO officers, via AFP)",
+  "corroboration": "Reported by AFP via Arab News.",
+  "analysis": "A routine but relevant drill, given the shadow-fleet and undersea-infrastructure risks named in the baseline."
  }
 ]

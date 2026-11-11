@@ -478,5 +478,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; Shoigu's 9 November remarks accuse Poland and the Baltic states of expanding NATO infrastructure but contain no explicit threat."
+ },
+ {
+  "key": "2026-11-11|airspace",
+  "date": "2026-11-11",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 2,
+  "note": "Two: drones that entered Latvian airspace near Ludza from Russia, and a drone that probably crossed Lithuania and flew on over central Latvia, both on the night of 10–11 November; Estonian alerts are not counted because no entry was confirmed."
+ },
+ {
+  "key": "2026-11-11|sabotage",
+  "date": "2026-11-11",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One: Poland's 10 November announcement that two Ukrainian citizens were detained on suspicion of arson and spying for Russian intelligence."
+ },
+ {
+  "key": "2026-11-11|jamming",
+  "date": "2026-11-11",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; Kyiv's general statement that Russian jamming diverts its drones is not a new measured report."
+ },
+ {
+  "key": "2026-11-11|border",
+  "date": "2026-11-11",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 1,
+  "note": "One: the balloon-type object from Belarus that forced restrictions at Vilnius and Kaunas airports on the evening of 10 November."
+ },
+ {
+  "key": "2026-11-11|threats",
+  "date": "2026-11-11",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; the Kremlin's rejection of a European role in the talks and Moscow's accusations about NATO airspace contain no explicit threat."
  }
 ]

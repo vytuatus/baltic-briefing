@@ -1714,5 +1714,148 @@
   "trend": "Unchanged",
   "note": "Nepranešta apie technikos traukinius, judančius Baltijos šalių sienų link. Spalio 12 d. pranešimas apie Baltarusijos pasienio bazę, pritaikytą ilgiems kariniams traukiniams, naujos informacijos nesulaukė.",
   "evidence": "Vienas pranešimas (ankstesnis)"
+ },
+ {
+  "key": "2026-11-11|troops",
+  "date": "2026-11-11",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Karių judėjimas Baltijos šalių pasienio link",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Naujų pranešimų apie Rusijos pajėgų judėjimą Baltijos šalių, Lenkijos ar Suomijos link nėra. Naujų Roberto Lansingo instituto teiginių apie karių judėjimą nerasta; lapkričio 6 d. jo straipsnyje apie Rusijos palydovų manevrus cituojama stebėsenos ataskaita apie dalinį artilerijos papildymą netoli Petrozavodsko, nesuformavus smogiamosios grupės.",
+  "evidence": "Naujų pranešimų nėra; komentaras (Lansingo institutas)"
+ },
+ {
+  "key": "2026-11-11|kaliningrad",
+  "date": "2026-11-11",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Veikla Karaliaučiaus srityje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujų pranešimų apie Rusijos karių ar laivų judėjimą srityje nėra. NATO iš Švedijos Baltijos jūroje vykdo penkių dienų priešpovandenines pratybas, kuriose dalyvauja aštuoni sąjungininkai.",
+  "evidence": "Naujų pranešimų apie Karaliaučių nėra; oficialūs pranešimai (NATO pratybos, per AFP)"
+ },
+ {
+  "key": "2026-11-11|belarus",
+  "date": "2026-11-11",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Veikla Baltarusijoje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujų pranešimų apie Baltarusijos ar Rusijos karinį judėjimą Baltarusijoje prie NATO sienų nėra. Baltarusijos užsienio reikalų ministras Maskvos forume sakė, kad NATO Baltijos regione laiko iki 30 000 karių, o naujus teritorinės gynybos dalinius pavadino revanšistiniais. „Orešnik“ dislokavimas, kaip teigiama bazinėje linijoje, išlieka daugiausia signalizavimo priemone.",
+  "evidence": "Oficialus pareiškimas (Baltarusijos URM, per TASS); Lietuvos grėsmių vertinimas (bazinė linija)"
+ },
+ {
+  "key": "2026-11-11|exercises",
+  "date": "2026-11-11",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Paskelbtos pratybos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepaskelbta jokių didelių Rusijos ar Baltarusijos pratybų prie Baltijos šalių sienų. NATO pusėje aštuonių šalių priešpovandeninės pratybos Baltijos jūroje vyksta iki lapkričio 13 d., „KOALICJA 26.2“ Lenkijoje – iki lapkričio 22 d., o Vokietijos vadovaujamos pratybos Lietuvoje – iki gruodžio 3 d.",
+  "evidence": "Oficialūs pranešimai"
+ },
+ {
+  "key": "2026-11-11|gps",
+  "date": "2026-11-11",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS trikdymas ir klastojimas",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Naujų oficialių ar didžiosios žiniasklaidos pranešimų apie GNSS trikdžius Baltijos regione nėra. Kyjivas vėl teigia, kad Rusijos trikdžiai nukreipė kai kuriuos jo dronus nuo kurso, o tai sietų šį rodiklį su naktiniais pavojais, tačiau matavimų nepaskelbta. Bazinėje linijoje aprašytas modelis aplink Karaliaučių nepasikeitė.",
+  "evidence": "Oficialus pareiškimas (Ukraina, per Reuters); naujų matavimų nėra"
+ },
+ {
+  "key": "2026-11-11|airspace",
+  "date": "2026-11-11",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Oro erdvės pažeidimai ir dronai",
+  "status": "Elevated",
+  "trend": "Rising",
+  "note": "Lapkričio 10–11 d. naktį, Ukrainai atakuojant Ust Lugos uostą ir Kirišų naftos perdirbimo gamyklą, raginimai slėptis paskelbti Lietuvoje (Kauno, Panevėžio ir kituose rajonuose), dešimtyje Latvijos savivaldybių ir aštuoniose Estijos apskrityse. Latvija teigia, kad du orlaiviai įskrido netoli Ludzos, o dar vienas atskrido iš Lietuvos; Lietuva sako, kad dronas greičiausiai įskrido į jos teritoriją. Apie nukritimą ar numušimą nepranešta. Suomija įvedė laikinus oro ir jūros eismo apribojimus rytinėje Suomijos įlankos dalyje.",
+  "evidence": "Oficialūs pareiškimai (Latvijos kariuomenė per LSM, Lietuvos krizių valdymo centras, Estijos gynybos pajėgos per ERR, Suomijos gynybos pajėgos); Reuters"
+ },
+ {
+  "key": "2026-11-11|sabotage",
+  "date": "2026-11-11",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotažo incidentai",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Lenkijos ABW sulaikė du 24 ir 25 metų Ukrainos piliečius, kaltinamus fotografavus karinius objektus ir padeginėjus automobilius Rusijos žvalgybos užsakymu, už tai iš dalies gaunant atlygį kriptovaliuta; jie suimti trims mėnesiams. Kaltinimai teisme nepatikrinti.",
+  "evidence": "Oficialus pareiškimas (Lenkijos ministras ir ABW, per Meduza ir Militarnyi)"
+ },
+ {
+  "key": "2026-11-11|border",
+  "date": "2026-11-11",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Spaudimas Baltarusijos pasienyje",
+  "status": "Elevated",
+  "trend": "Rising",
+  "note": "Lapkričio 10 d. vakarą iš Baltarusijos atskridus objektui su kontrabandinių balionų požymiais, Lietuva maždaug 35 minutėms apribojo Vilniaus oro uosto veiklą ir maždaug dviem valandoms sustabdė Kauno oro uostą; pareigūnai tai vadina Baltarusijos hibridinės atakos dalimi. Apie naujus incidentus prie Lenkijos, Latvijos ar Suomijos sausumos sienų nepranešta.",
+  "evidence": "Oficialus pareiškimas (Lietuvos institucijos, per LRT); skrydžių sekimas (NOTAM)"
+ },
+ {
+  "key": "2026-11-11|rhetoric",
+  "date": "2026-11-11",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Oficiali Rusijos retorika",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Kremlius toliau atmeta Europos vaidmenį derybose Abu Dabyje; Dmitrijus Peskovas sako, kad Vašingtonas turi savų kanalų su Europa. Maskva vėl kaltina Kyjivą naudojant NATO oro erdvę kaip priedangą dronų atakoms. Priešiška, tačiau naujo aiškaus grasinimo NATO ar Baltijos šalims nerasta.",
+  "evidence": "Oficialūs pareiškimai (per Moscow Times, CDM, Reuters)"
+ },
+ {
+  "key": "2026-11-11|mobilization",
+  "date": "2026-11-11",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilizacija ir rezervistų šaukimas",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Mobilizacijos dekreto nėra ir pranešimų apie Baltijos kryptimi nukreiptą rezervistų šaukimą nėra. Ankstesni įtampos ženklai (pasak ISW, nuostoliai viršija verbavimą) nepasikeitė.",
+  "evidence": "Naujų pranešimų nėra; analizė (anksčiau)"
+ },
+ {
+  "key": "2026-11-11|hospitals",
+  "date": "2026-11-11",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Lauko ligoninės ir lovos ligoninėse",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujos informacijos nėra. Rugsėjo pranešimas apie 16 000–20 000 papildomų karinių lovų prie Baltijos šalių išlieka vieno, anoniminio šaltinio teiginiu. Apie lauko ligonines prie Baltijos šalių sienų nepranešta.",
+  "evidence": "Vienas pranešimas, anoniminis šaltinis (ankstesnis)"
+ },
+ {
+  "key": "2026-11-11|blood",
+  "date": "2026-11-11",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Kraujo atsargos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Viešai nepranešta apie kraujo atsargų gabenimą Baltijos šalių pasienio link. Pranešimų nebuvimas neįrodo, kad to nėra: šis ženklas paprastai paaiškėja vėlai, per Vakarų pareigūnus.",
+  "evidence": "Nepranešta"
+ },
+ {
+  "key": "2026-11-11|rail",
+  "date": "2026-11-11",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Technikos gabenimas geležinkeliu Baltijos kryptimi",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nepranešta apie technikos traukinius, judančius Baltijos šalių sienų link. Spalio 12 d. pranešimas apie Baltarusijos pasienio bazę, pritaikytą ilgiems kariniams traukiniams, naujos informacijos nesulaukė.",
+  "evidence": "Vienas pranešimas (ankstesnis)"
  }
 ]

@@ -708,5 +708,75 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "LSM (Latvijos visuomeninis transliuotojas).",
   "analysis": "Abu žingsniai yra gynybiniai ir ilgalaikiai, atitinkantys bazinės linijos požiūrį, kad grėsmė yra ilgalaikė, o ne neišvengiama artimiausiu metu."
+ },
+ {
+  "key": "2026-11-11|drone-night",
+  "date": "2026-11-11",
+  "order": 1,
+  "title": "Dronų pavojai visose Baltijos šalyse, Ukrainai smogiant Rusijos Baltijos uostams",
+  "summary": "Lapkričio 10–11 d. naktį Ukraina atakavo Rusijos Leningrado sritį, pataikydama į Ust Lugos uosto teritoriją maždaug už 30 km nuo Estijos ir Kirišų naftos perdirbimo gamyklą; srities gubernatoriaus teigimu, numušti 146 dronai, sužeisti trys uosto darbuotojai. Lietuva paskelbė raginimus slėptis Kaune, Panevėžyje ir keliuose rajonuose, Latvija – dešimtyje savivaldybių, Estija – aštuoniose apskrityse. Buvo pakelti NATO naikintuvai. Latvija teigia, kad du orlaiviai įskrido netoli Ludzos, o dar vienas atskrido iš Lietuvos; Lietuva sako, kad dronas greičiausiai įskrido ir vėliau nuskrido Latvijos link. Apie žalą ar sužeistuosius nepranešta. Suomija atsargumo sumetimais įvedė laikinus oro ir jūros eismo apribojimus rytinėje Suomijos įlankos dalyje.",
+  "evidence": "Oficialūs pareiškimai (Baltijos šalių ir Suomijos ginkluotosios pajėgos bei krizių centrai); Reuters",
+  "corroboration": "Atskirai pranešė LSM, LRT, ERR ir Reuters, remdamiesi kiekvienos šalies institucijomis, todėl patys pavojai gerai patvirtinti. Rusijos skelbiami dronų skaičiai skirtinguose leidiniuose skiriasi (81, 92, 141, 146).",
+  "analysis": "Tai pažįstamas modelis, kai Ukrainos smūgiai Rusijos Baltijos pakrantei persikelia į sąjungininkų oro erdvę, tik šįkart didesniu mastu. Dronų kilmė oficialiai nenustatyta; Kyjivas dėl nuklydusių dronų kaltina Rusijos trikdžius, o Maskva sako, kad Kyjivas slepiasi už NATO oro erdvės. Bet kuriuo atveju trikdžiai Baltijos šalių gyventojams ir oro uostams yra realūs."
+ },
+ {
+  "key": "2026-11-11|belarus-balloons",
+  "date": "2026-11-11",
+  "order": 2,
+  "title": "Iš Baltarusijos atskridęs objektas uždarė Vilniaus ir Kauno oro uostus",
+  "summary": "Lapkričio 10 d. vakarą iš Baltarusijos atskridęs neatpažintas objektas su kontrabandiniams balionams būdingais navigacijos žymekliais sukėlė tikėtiną oro pavojų Vilniaus ir Utenos apskrityse. Vilniaus oro uosto veikla buvo apribota maždaug 35 minutėms, o Kauno oro uostas sustabdytas maždaug dviem valandoms. Lietuvos pareigūnai tai apibūdino kaip besitęsiančios Baltarusijos hibridinės atakos prieš Lietuvos aviaciją dalį.",
+  "evidence": "Oficialus pareiškimas (Lietuvos institucijos, per LRT); NOTAM per Liveuamap",
+  "corroboration": "LRT ir skrydžių sekimo šaltiniai sutaria dėl laiko.",
+  "analysis": "Balionų skrydžiai iš Baltarusijos nuo 2025 m. ne kartą uždarė Lietuvos oro uostus. Jie pigūs ir paneigiami, o jų poveikis priklauso nuo to, kaip dažnai jie priverčia uždaryti oro uostus. Sutapę su dronų pavojais tą pačią naktį, jie rodo, kaip atskiri spaudimo šaltiniai gali susikaupti."
+ },
+ {
+  "key": "2026-11-11|abu-dhabi",
+  "date": "2026-11-11",
+  "order": 3,
+  "title": "Derybos Abu Dabyje: „konstruktyvi“ pirmoji diena, bet nei paliaubų, nei vietos Europai",
+  "summary": "Pirmosios nuo vasario trišalės JAV, Rusijos ir Ukrainos derybos lapkričio 10 d. truko beveik keturias valandas ir tęsiasi lapkričio 11 d. Prezidentas Zelenskis pirmąją dieną pavadino konstruktyvia. JAV žiniasklaida, cituodama aukštą JAV pareigūną, praneša, kad abi pusės neviešai parodė tam tikro lankstumo teritorijų klausimu, o Vašingtonas aptarė Ukrainai saugumo garantijas pagal NATO 4 ir 5 straipsnių modelį bei galimą NATO ir Rusijos tarybos atgaivinimą. Rusija vis dar atmeta paliaubas, o Kremliaus atstovas sako, kad europiečiams vietos prie stalo nėra; ES, NATO ir Europos pareigūnai Abu Dabyje dalyvauja šalia JAV komandos.",
+  "evidence": "Oficialūs pareiškimai; anoniminiai šaltiniai (aukštas JAV pareigūnas)",
+  "corroboration": "Praneša AP, Euronews, RFE/RL ir kiti; teiginys apie lankstumą teritorijų klausimu kilęs iš vieno anoniminio JAV pareigūno ir pakartotas kelių leidinių.",
+  "analysis": "Baltijos šalims esminis klausimas – ar koks nors susitarimas palies NATO pajėgų išdėstymą rytiniame flange. Iki šiol nieko tokio nepranešta, tačiau būtent kalbos apie platesnį saugumo susitarimą ir atgaivintą NATO ir Rusijos tarybą gali būti ta vieta, kur tai iškiltų."
+ },
+ {
+  "key": "2026-11-11|poland-arrests",
+  "date": "2026-11-11",
+  "order": 4,
+  "title": "Lenkija sulaikė du vyrus, kaltinamus šnipinėjimu ir padegimais Rusijai",
+  "summary": "Lenkijos specialiųjų tarnybų koordinatorius Tomaszas Siemoniakas ir ABW lapkričio 10 d. pranešė, kad du 24 ir 25 metų Ukrainos piliečiai sulaikyti įtariant juos dirbus Rusijos žvalgybai. Jie kaltinami fotografavę ypatingos svarbos infrastruktūrą ir karinius objektus, padeginėję automobilius ir, kad išvengtų įtarimų, naudoję Ukrainos kariuomenės numerius, o už tai iš dalies gavę atlygį kriptovaliuta. Jiems gresia nuo 10 metų iki laisvės atėmimo iki gyvos galvos; jie suimti trims mėnesiams.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė Meduza, Militarnyi ir Al Arabiya, remdamiesi tuo pačiu oficialiu pranešimu, todėl iš esmės tai vienas šaltinis.",
+  "analysis": "Byla atitinka Lietuvos vertinime aprašytą modelį: Rusijos tarnybos internetu verbuoja menkai apmokamus, dažnai užsienio, agentus smulkiems sabotažo veiksmams. Įtariamieji nenuteisti."
+ },
+ {
+  "key": "2026-11-11|krakow",
+  "date": "2026-11-11",
+  "order": 5,
+  "title": "Krokuva: teisingumo ministras mato kraštutinių dešiniųjų pėdsakų; prokurorai išlieka atsargūs",
+  "summary": "Teisingumo ministras ir generalinis prokuroras Waldemaras Żurekas lapkričio 10 d. sakė, kad šaulio veikloje yra labai stiprių dešiniojo ekstremizmo pėdsakų, nurodydamas apsilankymus interneto svetainėse apie Norvegijos kraštutinių dešiniųjų masinį žudiką ir jo namuose rastą vėliavą. Nacionalinė prokuratūra sakė, kad vėliava nesusijusi su kuria nors viena ideologija, o motyvas tebetiriamas, įskaitant galimą psichikos ligą. Pareigūnai taip pat teigia, kad nuotrauka, kurioje šaulys esą užfiksuotas su vidaus reikalų ministru, sugeneruota dirbtinio intelekto.",
+  "evidence": "Oficialūs pareiškimai",
+  "corroboration": "Pranešė Notes from Poland, cituodamas Krokuvos radiją ir prokuratūrą.",
+  "analysis": "Įrodymai krypsta kraštutinių dešiniųjų hipotezės link, tačiau išlieka netiesioginiai, o pačių prokurorų atsargumas turėtų būti įvertintas. Viešų Rusijos vaidmens įrodymų vis dar nėra. Lenkijai šiandien minint Nepriklausomybės dieną, dezinformacija iš kelių krypčių tęsiasi."
+ },
+ {
+  "key": "2026-11-11|belarus-30000",
+  "date": "2026-11-11",
+  "order": 6,
+  "title": "Baltarusijos užsienio reikalų ministras: NATO Baltijos regione laiko 30 000 karių",
+  "summary": "Lapkričio 10 d. kalbėdamas saugumo forume Maskvoje, Baltarusijos užsienio reikalų ministras Maksimas Ryženkovas sakė, kad Baltijos regione nuolat dislokuota iki 30 000 NATO karių, kad Lenkija, Lietuva ir Latvija ginkluojasi dideliu mastu, o nauji teritorinės gynybos daliniai ten laikosi revanšistinių pažiūrų ir konflikto atveju judėtų į rytus.",
+  "evidence": "Oficialus pareiškimas (per TASS)",
+  "corroboration": "Vienas šaltinis (Rusijos valstybinė žiniasklaida).",
+  "analysis": "Karių skaičius yra tikėtinose sąjungininkų pajėgų regione ribose, tačiau gynybinių dalinių pateikimas kaip revanšistinių ir judėsiančių į rytus yra pažįstamas Minsko ir Maskvos pasakojimas, naudojamas jų pačių pajėgų telkimui pateisinti."
+ },
+ {
+  "key": "2026-11-11|nato-asw",
+  "date": "2026-11-11",
+  "order": 7,
+  "title": "NATO Baltijos jūroje pradeda priešpovandenines pratybas",
+  "summary": "Lapkričio 10 d. aštuonios NATO šalys iš Švedijos pradėjo penkių dienų priešpovandenines pratybas, kuriose dalyvauja keli tūkstančiai žmonių, Vokietijos ir Švedijos povandeniniai laivai, antvandeniniai laivai ir patrulinius skrydžius vykdantys orlaiviai. Karininkai įspėjo apie grėsmes, kylančias iš povandeninių dronų ir laivų, inkarais velkančių per povandeninius kabelius.",
+  "evidence": "Oficialus pareiškimas (NATO karininkai, per AFP)",
+  "corroboration": "AFP pranešimas per Arab News.",
+  "analysis": "Įprastos, bet aktualios pratybos, atsižvelgiant į bazinėje linijoje įvardytas šešėlinio laivyno ir povandeninės infrastruktūros rizikas."
  }
 ]

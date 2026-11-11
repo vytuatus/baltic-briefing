@@ -801,5 +801,93 @@
   "conflict": "Ukraine calls for an immediate ceasefire, which Russia rejects; NATO's eastern-flank build-up is defensive and followed Russia's 2022 invasion.",
   "verdict": "Misleading",
   "verdict_note": "Reverses cause and effect; Russia itself rejects a general ceasefire."
+ },
+ {
+  "key": "2026-11-11|drone-origin",
+  "date": "2026-11-11",
+  "order": 1,
+  "claim": "The drones that entered Lithuanian and Latvian airspace on 10–11 November were Russian",
+  "claimed_by": "Implied by Baltic and NATO officials who blame Russia for the incidents; disputed by Kyiv's and Moscow's competing accounts",
+  "evidence": "Official statements (alerts only); no published identification",
+  "conflict": "Kyiv says Russian jamming pushes its drones off course; Moscow says Kyiv uses NATO airspace as cover; Baltic authorities have not yet said whose drones these were.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "The timing matches Ukraine's strike on the Leningrad region, and earlier strays this year were mostly Ukrainian. No wreckage or official identification has been published."
+ },
+ {
+  "key": "2026-11-11|nato-cover",
+  "date": "2026-11-11",
+  "order": 2,
+  "claim": "Kyiv uses Baltic and NATO airspace as cover for its drone attacks on Russia",
+  "claimed_by": "Russian officials (repeated after the 10–11 November alerts)",
+  "evidence": "Unverified claim",
+  "conflict": "Baltic governments deny allowing their airspace to be used; the EU's foreign policy chief earlier called the claim nonsense. Kyiv blames Russian jamming for strays.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence has been offered that the Baltic states allow or that Ukraine plans routes through NATO airspace; the strays are consistent with jamming and navigation errors."
+ },
+ {
+  "key": "2026-11-11|belarus-hybrid",
+  "date": "2026-11-11",
+  "order": 3,
+  "claim": "The balloon-type object from Belarus that closed Vilnius and Kaunas airports is part of a Belarusian hybrid attack",
+  "claimed_by": "Lithuanian authorities",
+  "evidence": "Official statement",
+  "conflict": "Minsk has denied earlier accusations and frames the balloons as smuggling by criminals.",
+  "verdict": "Likely",
+  "verdict_note": "The flights have repeated for over a year with the same effect on airports, and Belarus has not acted against them; whether each launch is state-directed is not proven."
+ },
+ {
+  "key": "2026-11-11|krakow-farright",
+  "date": "2026-11-11",
+  "order": 4,
+  "claim": "The Kraków gunman acted from far-right extremist motives",
+  "claimed_by": "Interior Minister Marcin Kierwiński (7–8 November); Justice Minister Waldemar Żurek (10 November)",
+  "evidence": "Official statements; circumstantial evidence (browsing history, a flag)",
+  "conflict": "The National Prosecutor's Office says the flag is not tied to any one ideology and the motive is still under investigation, including possible mental illness.",
+  "verdict": "Contested",
+  "verdict_note": "New circumstantial evidence supports the hypothesis, but prosecutors have not confirmed a motive."
+ },
+ {
+  "key": "2026-11-11|ryzhenkov-30000",
+  "date": "2026-11-11",
+  "order": 5,
+  "claim": "NATO keeps up to 30,000 troops in the Baltic region, and new territorial defence units there are revanchist and would move east",
+  "claimed_by": "Belarusian Foreign Minister Maxim Ryzhenkov (via TASS)",
+  "evidence": "Official statement (partisan)",
+  "conflict": "Allied deployments in the region are defensive and public; the Baltic and Polish territorial defence forces are home-defence units.",
+  "verdict": "Misleading",
+  "verdict_note": "The troop figure is plausible in scale, but the framing of defensive units as revanchist has no supporting evidence."
+ },
+ {
+  "key": "2026-11-11|leningrad-146",
+  "date": "2026-11-11",
+  "order": 6,
+  "claim": "Russian air defences downed 146 drones over the Leningrad region",
+  "claimed_by": "Leningrad region governor Aleksandr Drozdenko",
+  "evidence": "Official statement (partisan)",
+  "conflict": "Outlets quoting the same official report different totals (81, 92, 141, 146), and fires at Ust-Luga and Kirishi show some drones got through.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Russian intercept tallies are not independently verifiable and changed through the night."
+ },
+ {
+  "key": "2026-11-11|abu-dhabi-flex",
+  "date": "2026-11-11",
+  "order": 7,
+  "claim": "Russia and Ukraine have privately shown some flexibility on territory",
+  "claimed_by": "A senior US official, via US media",
+  "evidence": "Anonymous sources",
+  "conflict": "Publicly, Moscow still demands Ukraine leave all of Donetsk and Kyiv rejects ceding territory it holds.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Single anonymous source repeated widely; no details given."
+ },
+ {
+  "key": "2026-11-11|poland-agents",
+  "date": "2026-11-11",
+  "order": 8,
+  "claim": "Two Ukrainian citizens detained in Poland carried out arson and spying for Russian intelligence",
+  "claimed_by": "Poland's intelligence coordinator and the ABW",
+  "evidence": "Official statement",
+  "conflict": "No public response from the suspects; charges not yet tested in court.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Official charges are serious and fit a known pattern, but remain allegations."
  }
 ]
