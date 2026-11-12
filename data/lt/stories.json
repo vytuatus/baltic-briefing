@@ -778,5 +778,75 @@
   "evidence": "Oficialus pareiškimas (NATO karininkai, per AFP)",
   "corroboration": "AFP pranešimas per Arab News.",
   "analysis": "Įprastos, bet aktualios pratybos, atsižvelgiant į bazinėje linijoje įvardytas šešėlinio laivyno ir povandeninės infrastruktūros rizikas."
+ },
+ {
+  "key": "2026-11-12|nato-miss",
+  "date": "2026-11-12",
+  "order": 1,
+  "title": "NATO naikintuvai du kartus nepataikė į droną virš Lietuvos; raketos nuolaužos rastos Biržų rajone",
+  "summary": "Lietuvos pareigūnai lapkričio 11 d. sakė, kad sąjungininkų oro policijos naikintuvai du kartus bandė numušti naktį Lietuvą perskridusį droną ir abu kartus nesėkmingai. Naikintuvai jį aptiko virš Kauno, tačiau dėl pavojaus apačioje esantiems žmonėms nešaudė; vėliau netoli Biržų viena raketa nepataikė ir sprogo, o jos nuolaužos rastos miške. Netoliese gyvenantys žmonės pranešė girdėję garsų sprogimą ir matę blyksnį, o tai galėjo užfiksuoti ūkio kamera. Krašto apsaugos ministras sako, kad nuolaužos apsaugotos ir vyksta tyrimas, tačiau ne visos išvados bus paskelbtos viešai; kariuomenės vadas sako, kad nustatyti, kas nutiko, turi šalis, kurios naikintuvas šovė.",
+  "evidence": "Oficialūs pareiškimai (Lietuvos kariuomenė, krašto apsaugos ministras, kariuomenės vadas, per LRT)",
+  "corroboration": "Pranešė LRT, Reuters, AeroTime ir Militarnyi, remdamiesi tais pačiais Lietuvos pareigūnais, todėl iš esmės tai vienas oficialių šaltinių rinkinys; rastos nuolaužos yra fizinis įrodymas.",
+  "analysis": "Tai iki šiol aiškiausias Baltijos šalių oro policijos išbandymas prieš droną, ir jis pavyko prastai. Pilotų atsargumas virš miesto buvo pagrįstas, tačiau epizodas rodo, kaip sunku pigius dronus sustabdyti naikintuvais – todėl Latvija dabar rytinėje sienoje laiko dronų perėmėjų dalinius."
+ },
+ {
+  "key": "2026-11-12|drone-route",
+  "date": "2026-11-12",
+  "order": 2,
+  "title": "Lietuvos ir Lenkijos versijos apie drono maršrutą skiriasi",
+  "summary": "Lietuvos krizių valdymo centro vadovas sako, kad dronas įskrido iš Baltarusijos netoli Druskininkų, galbūt trumpam užskrido į Lenkiją, tada skrido į šiaurę per Lietuvą ir toliau į Latviją. Lenkijos operatyvinė vadavietė sako nepatvirtinanti jokio Lenkijos oro erdvės pažeidimo ir nurodo galimą oro sąlygų poveikį radarams, toliau analizuodama duomenis. Lietuvos premjeras sako, kad Baltarusija buvo įspėjusi Lietuvą apie artėjantį droną, o nepriklausoma Baltarusijos žiniasklaida praneša, kad Minskas tokius įspėjimus perdavė techniniu ryšio kanalu, nieko nesakydamas savo piliečiams.",
+  "evidence": "Oficialūs pareiškimai (Lietuvos krizių valdymo centras ir vyriausybė; Lenkijos operatyvinė vadavietė, per Defence24)",
+  "corroboration": "Dviejų sąjungininkių oficialių versijų prieštaravimas; apie Baltarusijos įspėjimą praneša Lietuvos premjeras ir Nasha Niva.",
+  "analysis": "Ankstyvieji radarų duomenys dažnai patikslinami, todėl Lenkijos atkarpa gali iš įrašų dingti. Baltarusijos įspėjimai verti dėmesio: jie rodo, kad Minskas nori atrodyti kaip atsakingas kaimynas, nors dronai skrenda būtent per jo teritoriją."
+ },
+ {
+  "key": "2026-11-12|latvia-finland",
+  "date": "2026-11-12",
+  "order": 3,
+  "title": "Latvija suskaičiavo tris įskridimus; Suomija įtaria penkių minučių pažeidimą",
+  "summary": "Latvijos ginkluotosios pajėgos teigia, kad lapkričio 10–11 d. į Latvijos oro erdvę įskrido trys dronai: du trumpam virš Ludzos ir vienas, atskridęs iš Lietuvos ir perskridęs šalį į šiaurę, kol jį prarado Estijos jutikliai. Jų vadas sako, kad radaras ne visada gali parodyti, iš kur atskrido objektas, ir kad materialių įrodymų apie tipą nėra. Suomijos gynybos ministerija teigia, kad įtariama, jog dronas po 2 val. nakties apie penkias minutes skraidė Suomijos oro erdvėje virš rytinės Suomijos įlankos dalies; pasienio apsaugos tarnyba atlieka tyrimą. Reuters praneša, kad tą naktį į Baltijos šalių oro erdvę įskrido mažiausiai keturi dronai.",
+  "evidence": "Oficialūs pareiškimai (Latvijos ginkluotosios pajėgos per LSM; Suomijos gynybos ministerija per Yle); Reuters",
+  "corroboration": "Kiekvienos šalies institucijos praneša apie savo oro erdvę, todėl tai nepriklausomi šaltiniai; nė viena dronų neidentifikavo.",
+  "analysis": "Įtariamas Suomijos pažeidimas reiškia, kad ta pati naktis palietė keturias NATO valstybes. Ir Latvija, ir Lietuva sako, kad šaudyti buvo nesaugu, todėl pagrindinė apsauga nuo nuklydusių dronų tebėra gyventojų perspėjimas."
+ },
+ {
+  "key": "2026-11-12|shelters",
+  "date": "2026-11-12",
+  "order": 4,
+  "title": "Lietuva automatizuos priedangų atidarymą ir centralizuos sirenas; įspėja apie dezinformaciją",
+  "summary": "Po lapkričio 11 d. Nacionalinio saugumo komisijos posėdžio premjeras Mindaugas Sinkevičius sakė, kad naktinio raudonojo pavojaus metu priedangos turi atsidaryti automatiškai, o ne laukti žmogaus su raktu, ir kad maždaug 1 000 Lietuvos sirenų valdymas bus centralizuotas 2027 m. Jis sakė, kad reagavimas veikė kaip numatyta, nors ir be sėkmės. Krizių valdymo centro vadovas įspėjo, kad įrašai, teigiantys, jog Lietuva praleidžia ukrainiečių dronus per savo oro erdvę, yra visiškai melagingi, o įrašai, raginantys ignoruoti perspėjimus, kelia žmonėms pavojų.",
+  "evidence": "Oficialūs pareiškimai (Lietuvos vyriausybė ir krizių valdymo centras, per LRT ir European Pravda)",
+  "corroboration": "Pranešė LRT ir European Pravda, remdamiesi tais pačiais pareigūnais.",
+  "analysis": "Civilinė sauga – sritis, kurioje bazinėje linijoje aprašyta hibridinė grėsmė paliečia paprastus žmones. Dezinformacijos banga atitinka Lietuvos vertinime aprašytą informacinių operacijų modelį: pakirsti pasitikėjimą perspėjimais ir pavaizduoti Baltijos šalis kaip kariaujančias puses."
+ },
+ {
+  "key": "2026-11-12|ust-luga",
+  "date": "2026-11-12",
+  "order": 5,
+  "title": "Ukraina teigia Ust Lugoje taip pat pataikiusi į Rusijos raketinį laivą",
+  "summary": "Ukrainos SBU teigia, kad lapkričio 10–11 d. smūgis Ust Lugai apgadino kelis naftos rezervuarus ir uosto įrangą, taip pat pataikė į „Bujan-M“ tipo mažąjį raketinį laivą, galintį nešti „Kalibr“ sparnuotąsias raketas. Leningrado srities gubernatorius patvirtino smūgius uosto teritorijai ir sako, kad numušta 150 dronų; Rusija jokios laivo žalos nepatvirtino. ISW pažymi nepatvirtintus pranešimus, kad medžiodama dronus netoli Sankt Peterburgo Rusija neteko iki trijų sraigtasparnių.",
+  "evidence": "Oficialūs teiginiai (SBU ir Ukrainos generalinis štabas; Leningrado gubernatorius)",
+  "corroboration": "Žalos duomenys gauti tik iš Ukrainos oficialių šaltinių; Rusija patvirtina smūgį uostui, bet ne laivui.",
+  "analysis": "Smūgiai taip arti Estijos ir toliau sukelia nuklydusius dronus virš Baltijos šalių. Jei Baltijos laivyno laivai dabar tampa taikiniais, Rusijos motyvas stiprinti radioelektroninę kovą regione didėja."
+ },
+ {
+  "key": "2026-11-12|abu-dhabi",
+  "date": "2026-11-12",
+  "order": 6,
+  "title": "Derybos Abu Dabyje baigėsi be susitarimo; JAV pasiuntiniai šiandien susitinka su Putinu",
+  "summary": "Antroji JAV, Rusijos ir Ukrainos derybų diena lapkričio 11 d. truko apie dvi valandas ir baigėsi nepaskelbus jokio susitarimo. Šalys aptarė apsikeitimą belaisviais po 1 000 ar 1 500. Rusijos derybininkas Vladimiras Medinskis sakė, kad šalys priartėjo prie taikos, o JAV pusė kalbėjo apie pasitikėjimo stoką. JAV pasiuntiniai Steve'as Witkoffas ir Jaredas Kushneris lapkričio 12 d. Maskvoje susitinka su Putinu, o vėliau Dubline – su Zelenskiu. Peskovas sako, kad Rusija nemato vaidmens europiečiams, o Lavrovas nori, kad pirmiausia būtų susitarta dėl naujos Europos saugumo sąrangos. FT, cituodamas Europos diplomatus, praneša, kad Europa pasirengusi su Rusija aptarti Šaltojo karo tipo konfliktų prevencijos mechanizmus, pavyzdžiui, raketų dislokavimo apribojimus.",
+  "evidence": "Oficialūs pareiškimai; anoniminiai šaltiniai (Europos diplomatai, per FT ir Meduza)",
+  "corroboration": "Plačiai pranešta (ABC, Kyiv Post, Meduza, ISW); FT informacija remiasi neįvardytais diplomatais.",
+  "analysis": "Baltijos šalims rizika – ne apsikeitimas belaisviais, o Lavrovo siekis įtraukti NATO buvimą rytuose į derybų darbotvarkę. Niekas iki šiol nerodo, kad Vašingtonas su tuo sutiktų."
+ },
+ {
+  "key": "2026-11-12|csto",
+  "date": "2026-11-12",
+  "order": 7,
+  "title": "KSSO viršūnių susitikimas: Maskva ir Minskas ragina stiprinti bendras pajėgas",
+  "summary": "Lapkričio 11 d. KSSO viršūnių susitikime Maskvoje Putinas kalbėjo apie bloko kolektyvines pajėgas, aviaciją ir mobilius oro gynybos dalinius, o Lukašenka ragino stiprinti bloko karinius pajėgumus ir mokytis iš dronų karo. Rastuose pranešimuose nė vienas lyderis neįvardijo NATO ar Baltijos šalių.",
+  "evidence": "Oficialūs pareiškimai (per TASS)",
+  "corroboration": "Vienas šaltinis (Rusijos valstybinė žiniasklaida), tačiau pareiškimai užfiksuoti oficialiai.",
+  "analysis": "Daugiausia deklaratyvu: KSSO retai veikė kartu. Tai atitinka bazinės linijos vaizdą, kai Baltarusija vis glaudžiau susiejama su Rusijos kariniu planavimu."
  }
 ]

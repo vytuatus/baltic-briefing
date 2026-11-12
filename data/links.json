@@ -2095,5 +2095,221 @@
   "perspective": "US and international",
   "title": "Russian Information War in the Baltic States: Mechanisms, Narratives, and Strategic Effects",
   "url": "https://www.realcleardefense.com/russia/links/russian-information-war-in-the-baltic-states-2026-11-02"
+ },
+ {
+  "key": "2026-11-12|l01",
+  "date": "2026-11-12",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-12|l02",
+  "date": "2026-11-12",
+  "topic": "Failed NATO interception",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Drone incursions trigger air alerts across Lithuania, NATO jets scrambled",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3111025/drone-incursions-trigger-air-alerts-across-lithuania-nato-jets-scrambled"
+ },
+ {
+  "key": "2026-11-12|l03",
+  "date": "2026-11-12",
+  "topic": "Failed NATO interception",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Sodybos kameros vaizdo įraše – galima droną persekiojusios raketos sprogimo akimirka",
+  "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3111371/sodybos-kameros-vaizdo-irase-galima-drona-persekiojusios-raketos-sprogimo-akimirka"
+ },
+ {
+  "key": "2026-11-12|l04",
+  "date": "2026-11-12",
+  "topic": "Civil protection",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Po drono skrydžio – Sinkevičiaus žodis: priedangų atrakinimas turės būti automatizuotas",
+  "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3111252/po-drono-skrydzio-sinkeviciaus-zodis-priedangu-atrakinimas-tures-buti-automatizuotas"
+ },
+ {
+  "key": "2026-11-12|l05",
+  "date": "2026-11-12",
+  "topic": "Drone incursions",
+  "outlet": "LSM",
+  "perspective": "Baltic",
+  "title": "Latvian armed forces outline reasons for multiple drone alerts",
+  "url": "https://eng.lsm.lv/article/society/defence/11.11.2026-latvian-armed-forces-outline-reasons-for-multiple-drone-alerts.a671452/"
+ },
+ {
+  "key": "2026-11-12|l06",
+  "date": "2026-11-12",
+  "topic": "Drone incursions",
+  "outlet": "Reuters (via Al-Monitor)",
+  "perspective": "US and international",
+  "title": "Baltic nations, Finland issue overnight drone warnings as Russia, Ukraine exchange strikes",
+  "url": "https://www.al-monitor.com/originals/2026/11/baltic-nations-finland-issue-overnight-drone-warnings-russia-ukraine-exchange"
+ },
+ {
+  "key": "2026-11-12|l07",
+  "date": "2026-11-12",
+  "topic": "Failed NATO interception",
+  "outlet": "AeroTime",
+  "perspective": "US and international",
+  "title": "NATO fighter jets miss drone as air-threat alerts sweep Baltic states",
+  "url": "https://www.aerotime.aero/articles/nato-fighter-misses-drone-baltic-air-alerts"
+ },
+ {
+  "key": "2026-11-12|l08",
+  "date": "2026-11-12",
+  "topic": "Failed NATO interception",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania",
+  "url": "https://militarnyi.com/en/news/nato-fighter-jets-twice-fail-to-shoot-down-unknown-drone-over-lithuania/"
+ },
+ {
+  "key": "2026-11-12|l09",
+  "date": "2026-11-12",
+  "topic": "Drone incursions",
+  "outlet": "Yle",
+  "perspective": "Nordic",
+  "title": "Military suspects drone entered airspace early on Wednesday",
+  "url": "https://yle.fi/a/74-20256373?origin=rss"
+ },
+ {
+  "key": "2026-11-12|l10",
+  "date": "2026-11-12",
+  "topic": "Drone incursions",
+  "outlet": "Daily Northern",
+  "perspective": "Nordic",
+  "title": "Finnish military restricts air and sea traffic in Gulf of Finland",
+  "url": "https://www.dailynorthern.com/38347/finnish-military-restricts-air-and-sea-traffic-in-gulf-of-finland/"
+ },
+ {
+  "key": "2026-11-12|l11",
+  "date": "2026-11-12",
+  "topic": "Drone route contradiction",
+  "outlet": "Defence24",
+  "perspective": "Central Europe",
+  "title": "Dron naruszył polską przestrzeń powietrzną? Sprzeczne głosy z Polski i Litwy",
+  "url": "https://defence24.pl/polityka-obronna/dron-naruszyl-polska-przestrzen-powietrzna-sprzeczne-glosy-z-polski-i-litwy"
+ },
+ {
+  "key": "2026-11-12|l12",
+  "date": "2026-11-12",
+  "topic": "Belarus",
+  "outlet": "Nasha Niva",
+  "perspective": "Central Europe",
+  "title": "Belarus does not notify citizens about drone flights, but shares information about them with neighboring countries",
+  "url": "https://nashaniva.com/en/409024"
+ },
+ {
+  "key": "2026-11-12|l13",
+  "date": "2026-11-12",
+  "topic": "Information operations",
+  "outlet": "European Pravda",
+  "perspective": "Ukrainian",
+  "title": "Lithuania warns Russia is exploiting drone incidents to spread disinformation",
+  "url": "https://www.eurointegration.com.ua/eng/news/2026/11/11/7249760/"
+ },
+ {
+  "key": "2026-11-12|l14",
+  "date": "2026-11-12",
+  "topic": "Kremlin narrative",
+  "outlet": "Lenta.ru",
+  "perspective": "Russian state-aligned",
+  "title": "Истребители НАТО не смогли сбить беспилотник ВСУ",
+  "url": "https://lenta.ru/news/2026/11/11/istrebiteli-nato-ne-smogli-sbit-bespilotnik-vsu-v-litve/"
+ },
+ {
+  "key": "2026-11-12|l15",
+  "date": "2026-11-12",
+  "topic": "Ust-Luga strike",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "SBU Confirms Ust-Luga Strike, Says Kalibr-Carrying Missile Ship Also Hit",
+  "url": "https://www.kyivpost.com/post/89842"
+ },
+ {
+  "key": "2026-11-12|l16",
+  "date": "2026-11-12",
+  "topic": "Abu Dhabi talks",
+  "outlet": "ISW (Critical Threats)",
+  "perspective": "OSINT and trackers",
+  "title": "Russian Offensive Campaign Assessment, November 11, 2026",
+  "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-11-2026"
+ },
+ {
+  "key": "2026-11-12|l17",
+  "date": "2026-11-12",
+  "topic": "Abu Dhabi talks",
+  "outlet": "ABC News",
+  "perspective": "US and international",
+  "title": "Russia-Ukraine talks end without breakthrough announcement amid barrage of drones",
+  "url": "https://abcnews.com/International/ukraine-russia-exchange-hundreds-drones-day-2-abu/story?id=138038984"
+ },
+ {
+  "key": "2026-11-12|l18",
+  "date": "2026-11-12",
+  "topic": "Abu Dhabi talks",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Ukraine, US and Russia End Second Day of Abu Dhabi Peace Talks as Key Territorial Disputes Remain",
+  "url": "https://www.kyivpost.com/post/89761"
+ },
+ {
+  "key": "2026-11-12|l19",
+  "date": "2026-11-12",
+  "topic": "Abu Dhabi talks",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "'They're bringing something': Kushner and Witkoff to meet Putin in Moscow day after Abu Dhabi peace talks",
+  "url": "https://meduza.io/en/news/2026/11/11/they-re-bringing-something-kushner-and-witkoff-to-meet-putin-in-moscow-day-after-abu-dhabi-peace-talks"
+ },
+ {
+  "key": "2026-11-12|l20",
+  "date": "2026-11-12",
+  "topic": "European security",
+  "outlet": "Meduza (citing FT)",
+  "perspective": "Russian independent",
+  "title": "Europe ready to discuss conflict-prevention mechanisms with Russia, including limits on missile deployments, FT reports",
+  "url": "https://meduza.io/en/news/2026/11/10/europe-ready-to-discuss-conflict-prevention-mechanisms-with-russia-including-limits-on-missile-deployments-ft-reports"
+ },
+ {
+  "key": "2026-11-12|l21",
+  "date": "2026-11-12",
+  "topic": "Belarus",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Lukashenko calls for boosting CSTO military potential",
+  "url": "https://tass.com/world/2216461"
+ },
+ {
+  "key": "2026-11-12|l22",
+  "date": "2026-11-12",
+  "topic": "CSTO summit",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "CSTO Collective Forces combat training, fight against epidemics: Putin's statements",
+  "url": "https://tass.com/politics/2216535"
+ },
+ {
+  "key": "2026-11-12|l23",
+  "date": "2026-11-12",
+  "topic": "Commentary tier",
+  "outlet": "Robert Lansing Institute",
+  "perspective": "Commentary",
+  "title": "Abu Dhabi as a Diplomatic Trap: Why U.S.–Ukraine–Russia Talks Risk Ending Without Results",
+  "url": "https://lansinginstitute.org/2026/11/11/abu-dhabi-as-a-diplomatic-trap-why-u-s-ukraine-russia-talks-risk-ending-without-results/"
+ },
+ {
+  "key": "2026-11-12|l24",
+  "date": "2026-11-12",
+  "topic": "Kaliningrad",
+  "outlet": "Arms Control Association",
+  "perspective": "US and international",
+  "title": "Russia Issues Nuclear Threats Over Kaliningrad",
+  "url": "https://www.armscontrol.org/act/2026-11/news/russia-issues-nuclear-threats-over-kaliningrad"
  }
 ]

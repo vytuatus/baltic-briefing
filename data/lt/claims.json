@@ -889,5 +889,82 @@
   "conflict": "Įtariamieji viešai nereagavo; kaltinimai teisme dar nepatikrinti.",
   "verdict": "Unconfirmed",
   "verdict_note": "Oficialūs kaltinimai rimti ir atitinka žinomą modelį, tačiau tebėra kaltinimai."
+ },
+ {
+  "key": "2026-11-12|drone-origin",
+  "date": "2026-11-12",
+  "order": 1,
+  "claim": "Lapkričio 10–11 d. Lietuvą perskridęs dronas buvo nuklydęs ukrainietiškas dronas",
+  "claimed_by": "Lietuvos kariuomenė (kaip galimybė); Rusijos valstybei palanki žiniasklaida (kaip faktas)",
+  "evidence": "Oficialus vertinimas; paskelbto identifikavimo ar nuolaužų nėra",
+  "conflict": "Lietuvos kariuomenės vadas Reuters sakė, kad nepatvirtinta, ar dronas buvo ukrainietiškas, ar rusiškas; Lenta.ru antraštėje jis vadinamas Ukrainos kariuomenės dronu; Kyjivas dėl nuklydimų kaltina Rusijos trikdžius.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Laikas ir maršrutas atitinka Ukrainos smūgį Leningrado sričiai, o ankstesni nuklydę dronai daugiausia buvo ukrainietiški, tačiau dronas nerastas, o identifikavimas nepaskelbtas."
+ },
+ {
+  "key": "2026-11-12|poland-entry",
+  "date": "2026-11-12",
+  "order": 2,
+  "claim": "Dronas trumpam įskrido į Lenkijos oro erdvę",
+  "claimed_by": "Lietuvos nacionalinio krizių valdymo centro vadovas",
+  "evidence": "Oficialus pareiškimas (radaro duomenys)",
+  "conflict": "Lenkijos operatyvinė vadavietė jokio pažeidimo nepatvirtina ir nurodo galimą oro sąlygų poveikį radarams; ji vis dar analizuoja duomenis.",
+  "verdict": "Contested",
+  "verdict_note": "Dviejų sąjungininkių oficialios versijos nesutampa; kol Lenkija nebaigs radarų duomenų peržiūros, Lenkijos atkarpa neturėtų būti laikoma nustatyta."
+ },
+ {
+  "key": "2026-11-12|nato-cover",
+  "date": "2026-11-12",
+  "order": 3,
+  "claim": "Lietuva ir jos kaimynės leidžia ukrainiečių dronams skristi per savo oro erdvę atakuoti Rusiją",
+  "claimed_by": "Rusijos pareigūnai (ne kartą); įrašai socialiniuose tinkluose po lapkričio 10–11 d. pavojų",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lietuvos krizių valdymo centro vadovas tai vadina visiškai melagingu; NATO naikintuvai du kartus bandė šį droną numušti, o Latvija sako, kad šaudyti buvo nesaugu, o ne nepageidaujama.",
+  "verdict": "False",
+  "verdict_note": "Bandymai sunaikinti droną tiesiogiai paneigia teiginį, kad jis buvo praleistas; jokių įrodymų apie kokį nors susitarimą nepateikta."
+ },
+ {
+  "key": "2026-11-12|missile-cause",
+  "date": "2026-11-12",
+  "order": 4,
+  "claim": "NATO perėmimas nepavyko dėl prastų oro sąlygų ir pavojaus civiliams",
+  "claimed_by": "Lietuvos kariuomenė ir krizių valdymo centras",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lietuvos kariuomenės vadas sako, kad šalis, kurios naikintuvas šovė, turi nustatyti, kas nutiko su jos raketa; LRT praneša, kad antrojo bandymo metu kilo papildomų problemų; Rusijos karinis apžvalgininkas šaiposi iš pilotų.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina ir atitinka praneštas sąlygas, tačiau tyrimas vyksta, o krašto apsaugos ministras sako, kad ne visos išvados bus paskelbtos."
+ },
+ {
+  "key": "2026-11-12|finland-violation",
+  "date": "2026-11-12",
+  "order": 5,
+  "claim": "Lapkričio 11 d. dronas pažeidė Suomijos oro erdvę virš rytinės Suomijos įlankos dalies",
+  "claimed_by": "Suomijos gynybos ministerija",
+  "evidence": "Oficialus pareiškimas (įtariamas pažeidimas)",
+  "conflict": "Prieštaravimų nėra; kilmė nenurodyta, pasienio apsaugos tarnyba atlieka tyrimą.",
+  "verdict": "Likely",
+  "verdict_note": "Oficiali išvada apie įtariamą maždaug penkių minučių pažeidimą tą pačią naktį, kai patvirtinti įskridimai Latvijoje ir Lietuvoje."
+ },
+ {
+  "key": "2026-11-12|belarus-hybrid",
+  "date": "2026-11-12",
+  "order": 6,
+  "claim": "Balionų skrydžiai iš Baltarusijos yra Baltarusijos hibridinės atakos dalis",
+  "claimed_by": "Lietuvos institucijos",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Minskas balionus pateikia kaip nusikalstamą kontrabandą; Lietuvos pasieniečiai vėl sulaikė tris cigarečių krovinius ir įtariamąjį – tai rodo, kad kontrabanda yra tikras motyvas.",
+  "verdict": "Likely",
+  "verdict_note": "Skrydžiai yra ir kontrabanda, ir spaudimo priemonė: Baltarusija jų nesustabdė nepaisant pakartotinių oro uostų uždarymų; ar kiekvienas paleidimas yra valstybės nurodytas, neįrodyta."
+ },
+ {
+  "key": "2026-11-12|abu-dhabi-progress",
+  "date": "2026-11-12",
+  "order": 7,
+  "claim": "Derybos Abu Dabyje priartino šalis prie taikos",
+  "claimed_by": "Rusijos derybininkas Vladimiras Medinskis; Ukrainos delegacijos narys kalbėjo apie gerą postūmį",
+  "evidence": "Oficialūs pareiškimai (šališki)",
+  "conflict": "JAV pusė nurodė pasitikėjimo stoką; Medinskis taip pat sako, kad Rusija užims „kiekvieną colį“ savo reikalaujamos žemės, o Lavrovas pakartoja 2024 m. reikalavimus; jokio susitarimo nepaskelbta.",
+  "verdict": "Contested",
+  "verdict_note": "Pažanga dėl apsikeitimo belaisviais tikėtina, tačiau esminiai teritoriniai ir saugumo ginčai lieka neišspręsti."
  }
 ]

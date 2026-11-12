@@ -518,5 +518,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; the Kremlin's rejection of a European role in the talks and Moscow's accusations about NATO airspace contain no explicit threat."
+ },
+ {
+  "key": "2026-11-12|airspace",
+  "date": "2026-11-12",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 1,
+  "note": "One: the drone Finland suspects flew in its airspace over the eastern Gulf of Finland for about five minutes early on 11 November, first reported by the defence ministry after yesterday's edition; new details on the Lithuanian and Latvian incursions concern events already counted."
+ },
+ {
+  "key": "2026-11-12|sabotage",
+  "date": "2026-11-12",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; no new Russia-linked sabotage incident, arrest or charge was first reported since yesterday's edition."
+ },
+ {
+  "key": "2026-11-12|jamming",
+  "date": "2026-11-12",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; the Lithuanian defence chief's remark that electronic warfare may have diverted the drones is not a new measured report."
+ },
+ {
+  "key": "2026-11-12|border",
+  "date": "2026-11-12",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; the latest balloon interceptions are routine smuggling cases and caused no closures."
+ },
+ {
+  "key": "2026-11-12|threats",
+  "date": "2026-11-12",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; Lavrov's and Medinsky's statements restate Russia's demands but contain no explicit threat against NATO or the Baltic states."
  }
 ]

@@ -778,5 +778,75 @@
   "evidence": "Official statement (NATO officers, via AFP)",
   "corroboration": "Reported by AFP via Arab News.",
   "analysis": "A routine but relevant drill, given the shadow-fleet and undersea-infrastructure risks named in the baseline."
+ },
+ {
+  "key": "2026-11-12|nato-miss",
+  "date": "2026-11-12",
+  "order": 1,
+  "title": "NATO jets twice miss a drone over Lithuania; missile debris found in Biržai district",
+  "summary": "Lithuanian officials said on 11 November that allied air-policing jets made two attempts to shoot down a drone that crossed Lithuania overnight, and both failed. The jets found it over Kaunas but did not fire because of the risk to people below; later, near Biržai, one missile missed and blew up, and its debris was found in a forest. Residents nearby reported a loud blast and a flash, and a farm camera may have recorded it. The defence minister says the debris is secured and an investigation is under way, and that not all findings will be made public; the army commander says the country whose jet fired must work out what went wrong.",
+  "evidence": "Official statements (Lithuanian Defence Staff, defence minister, army commander, via LRT)",
+  "corroboration": "Reported by LRT, Reuters, AeroTime and Militarnyi from the same Lithuanian officials, so effectively one set of official sources; the debris find is physical evidence.",
+  "analysis": "This is the clearest test so far of Baltic air policing against a drone, and it went badly. The pilots' caution over a city was sensible, but the episode shows how hard cheap drones are to stop with fighter jets, which is why Latvia now keeps interceptor-drone units on its eastern border."
+ },
+ {
+  "key": "2026-11-12|drone-route",
+  "date": "2026-11-12",
+  "order": 2,
+  "title": "Lithuania and Poland differ on the drone's route",
+  "summary": "Lithuania's crisis-management chief says the drone entered from Belarus near Druskininkai, may have briefly crossed into Poland, then flew north through Lithuania and on to Latvia. Poland's Operational Command says it does not confirm any violation of Polish airspace and suggests a weather effect on radar, while it keeps analysing the data. Lithuania's prime minister says Belarus had warned Lithuania about the incoming drone, and Belarusian independent media report that Minsk passed on such warnings through a technical line while telling its own citizens nothing.",
+  "evidence": "Official statements (Lithuanian crisis centre and government; Polish Operational Command, via Defence24)",
+  "corroboration": "Contradiction between two allies' official accounts; Belarus's warning is reported by Lithuania's prime minister and by Nasha Niva.",
+  "analysis": "Early radar tracks are often revised, so the Polish leg may disappear from the record. The Belarusian warnings are notable: they suggest Minsk wants to look like a responsible neighbour while its territory is the route the drones take."
+ },
+ {
+  "key": "2026-11-12|latvia-finland",
+  "date": "2026-11-12",
+  "order": 3,
+  "title": "Latvia counts three incursions; Finland suspects a five-minute violation",
+  "summary": "Latvia's armed forces say three drones entered Latvian airspace on 10–11 November: two briefly over Ludza and one that crossed from Lithuania and flew north across the country before Estonian sensors lost it. Its commander says radar cannot always show where an object came from and that there is no material evidence of the type. Finland's defence ministry says a drone is suspected of flying in Finnish airspace over the eastern Gulf of Finland for about five minutes after 2 a.m.; the border guard is investigating. Reuters reports at least four drones entered Baltic airspace that night.",
+  "evidence": "Official statements (Latvian armed forces via LSM; Finnish defence ministry via Yle); Reuters",
+  "corroboration": "Each country's own authorities report its own airspace, so these are independent sources; none has identified the drones.",
+  "analysis": "Finland's suspected violation means the same night touched four NATO states. Both Latvia and Lithuania say firing was unsafe, so the main defence against strays remains warning residents."
+ },
+ {
+  "key": "2026-11-12|shelters",
+  "date": "2026-11-12",
+  "order": 4,
+  "title": "Lithuania to automate shelter access and centralise sirens; warns of disinformation",
+  "summary": "After a National Security Commission meeting on 11 November, Prime Minister Mindaugas Sinkevičius said shelters must open automatically during a night-time red alert instead of waiting for someone with a key, and that control of Lithuania's roughly 1,000 sirens will be centralised during 2027. He said the response worked as designed, though without success. The crisis-management chief warned that posts claiming Lithuania lets Ukrainian drones through its airspace are completely false, and that posts urging people to ignore warnings put them at risk.",
+  "evidence": "Official statements (Lithuanian government and crisis centre, via LRT and European Pravda)",
+  "corroboration": "Reported by LRT and European Pravda from the same officials.",
+  "analysis": "Civil protection is where the hybrid threat in the baseline hits ordinary people. The disinformation push fits the information-operations pattern the Lithuanian assessment describes: undermine trust in warnings and paint the Baltic states as co-belligerents."
+ },
+ {
+  "key": "2026-11-12|ust-luga",
+  "date": "2026-11-12",
+  "order": 5,
+  "title": "Ukraine says it also hit a Russian missile ship at Ust-Luga",
+  "summary": "Ukraine's SBU says its strike on Ust-Luga on 10–11 November damaged several oil tanks and port equipment and also hit a Buyan-M small missile ship able to carry Kalibr cruise missiles. The Leningrad regional governor confirmed strikes on the port area and says 150 drones were downed; Russia has not confirmed any ship damage. ISW notes unconfirmed reports that Russia lost up to three helicopters while hunting drones near St Petersburg.",
+  "evidence": "Official claims (SBU and Ukrainian General Staff; Leningrad governor)",
+  "corroboration": "Damage figures come only from Ukrainian official sources; Russia confirms the port strike but not the ship.",
+  "analysis": "Strikes so close to Estonia keep producing stray drones over the Baltic states. If Baltic Fleet ships are now targets, Russia's motive to step up electronic warfare in the region grows."
+ },
+ {
+  "key": "2026-11-12|abu-dhabi",
+  "date": "2026-11-12",
+  "order": 6,
+  "title": "Abu Dhabi talks end without a deal; US envoys meet Putin today",
+  "summary": "The second day of US–Russia–Ukraine talks on 11 November lasted about two hours and ended with no announced agreement. The sides discussed a prisoner exchange of 1,000 or 1,500 each. Russian negotiator Vladimir Medinsky said the sides had moved closer to peace, while the US side spoke of a lack of trust. US envoys Steve Witkoff and Jared Kushner meet Putin in Moscow on 12 November, then Zelensky in Dublin. Peskov says Russia sees no role for Europeans, and Lavrov wants a new European security arrangement agreed first. The FT, citing European diplomats, reports Europe is open to discussing Cold War-style conflict-prevention mechanisms with Russia, such as missile-deployment limits.",
+  "evidence": "Official statements; anonymous sources (European diplomats, via FT and Meduza)",
+  "corroboration": "Widely reported (ABC, Kyiv Post, Meduza, ISW); the FT item rests on unnamed diplomats.",
+  "analysis": "For the Baltic states, the risk is not the prisoner swap but Lavrov's push to put NATO's eastern presence on the table. Nothing reported so far shows Washington agreeing to that."
+ },
+ {
+  "key": "2026-11-12|csto",
+  "date": "2026-11-12",
+  "order": 7,
+  "title": "CSTO summit: Moscow and Minsk call for stronger joint forces",
+  "summary": "At the CSTO summit in Moscow on 11 November, Putin spoke about the bloc's collective forces, aviation and mobile air-defence units, and Lukashenko called for strengthening the bloc's military capabilities and learning from drone warfare. Neither leader named NATO or the Baltic states in the reports found.",
+  "evidence": "Official statements (via TASS)",
+  "corroboration": "Single source (Russian state media), but the statements are on the record.",
+  "analysis": "Mostly declaratory: the CSTO has rarely acted together. It fits the baseline's picture of Belarus tied ever closer to Russian military planning."
  }
 ]

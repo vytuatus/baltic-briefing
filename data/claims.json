@@ -889,5 +889,82 @@
   "conflict": "No public response from the suspects; charges not yet tested in court.",
   "verdict": "Unconfirmed",
   "verdict_note": "Official charges are serious and fit a known pattern, but remain allegations."
+ },
+ {
+  "key": "2026-11-12|drone-origin",
+  "date": "2026-11-12",
+  "order": 1,
+  "claim": "The drone that crossed Lithuania on 10–11 November was a stray Ukrainian drone",
+  "claimed_by": "Lithuanian Defence Staff (as a possibility); Russian state-aligned media (as fact)",
+  "evidence": "Official assessment; no published identification or wreckage",
+  "conflict": "Lithuania's defence chief told Reuters it is unconfirmed whether the drone was Ukrainian or Russian; Lenta.ru's headline calls it a Ukrainian army drone; Kyiv blames Russian jamming for strays.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "The timing and route fit Ukraine's strike on the Leningrad region and earlier strays were mostly Ukrainian, but the drone was not recovered and no identification has been published."
+ },
+ {
+  "key": "2026-11-12|poland-entry",
+  "date": "2026-11-12",
+  "order": 2,
+  "claim": "The drone briefly entered Polish airspace",
+  "claimed_by": "Head of Lithuania's National Crisis Management Centre",
+  "evidence": "Official statement (radar track)",
+  "conflict": "Poland's Operational Command does not confirm any violation and suggests a weather effect on radar; it is still analysing data.",
+  "verdict": "Contested",
+  "verdict_note": "Two allied official accounts disagree; until Poland finishes its radar review, the Polish leg should not be treated as established."
+ },
+ {
+  "key": "2026-11-12|nato-cover",
+  "date": "2026-11-12",
+  "order": 3,
+  "claim": "Lithuania and its neighbours let Ukrainian drones fly through their airspace to attack Russia",
+  "claimed_by": "Russian officials (repeatedly); social-media posts after the 10–11 November alerts",
+  "evidence": "Unverified claim",
+  "conflict": "Lithuania's crisis-management chief calls it completely false; NATO jets tried twice to shoot this drone down, and Latvia says firing was unsafe, not unwanted.",
+  "verdict": "False",
+  "verdict_note": "The attempts to destroy the drone directly contradict the claim that it was allowed through; no evidence of any arrangement has been offered."
+ },
+ {
+  "key": "2026-11-12|missile-cause",
+  "date": "2026-11-12",
+  "order": 4,
+  "claim": "The NATO interception failed because of poor weather and the risk to civilians",
+  "claimed_by": "Lithuanian Defence Staff and crisis centre",
+  "evidence": "Official statement",
+  "conflict": "Lithuania's army commander says the country whose jet fired must establish what went wrong with its missile; LRT reports the second attempt had additional problems; a Russian military commentator mocks the pilots.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible and consistent with the conditions reported, but the investigation is open and the defence minister says not all findings will be published."
+ },
+ {
+  "key": "2026-11-12|finland-violation",
+  "date": "2026-11-12",
+  "order": 5,
+  "claim": "A drone violated Finnish airspace over the eastern Gulf of Finland on 11 November",
+  "claimed_by": "Finnish defence ministry",
+  "evidence": "Official statement (suspected violation)",
+  "conflict": "No contradiction; origin not stated, and the border guard is investigating.",
+  "verdict": "Likely",
+  "verdict_note": "An official finding of a suspected violation lasting about five minutes, on the same night as confirmed incursions in Latvia and Lithuania."
+ },
+ {
+  "key": "2026-11-12|belarus-hybrid",
+  "date": "2026-11-12",
+  "order": 6,
+  "claim": "Balloon flights from Belarus are part of a Belarusian hybrid attack",
+  "claimed_by": "Lithuanian authorities",
+  "evidence": "Official statement",
+  "conflict": "Minsk frames the balloons as criminal smuggling; Lithuanian border guards again intercepted three cigarette loads and detained a suspect, showing smuggling is a real motive.",
+  "verdict": "Likely",
+  "verdict_note": "The flights are both smuggling and a pressure tool: Belarus has not stopped them despite repeated airport closures; whether each launch is state-directed is not proven."
+ },
+ {
+  "key": "2026-11-12|abu-dhabi-progress",
+  "date": "2026-11-12",
+  "order": 7,
+  "claim": "The Abu Dhabi talks moved the sides closer to peace",
+  "claimed_by": "Russian negotiator Vladimir Medinsky; a Ukrainian delegate spoke of good momentum",
+  "evidence": "Official statements (partisan)",
+  "conflict": "The US side cited a lack of trust; Medinsky also says Russia will take 'every inch' it claims and Lavrov restates the 2024 demands; no agreement was announced.",
+  "verdict": "Contested",
+  "verdict_note": "Progress on prisoner exchanges is plausible, but the core territorial and security disputes remain open."
  }
 ]
