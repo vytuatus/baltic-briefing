@@ -558,5 +558,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; Lavrov's and Medinsky's statements restate Russia's demands but contain no explicit threat against NATO or the Baltic states."
+ },
+ {
+  "key": "2026-11-13|airspace",
+  "date": "2026-11-13",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new violation or drone incursion into Baltic, Polish or Finnish airspace was first reported since yesterday's edition."
+ },
+ {
+  "key": "2026-11-13|sabotage",
+  "date": "2026-11-13",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One: Poland's 12 November indictment of a Ukrainian man accused of helping Russian intelligence sabotage the Warsaw–Lublin railway in November 2025, a new charge in an older case."
+ },
+ {
+  "key": "2026-11-13|jamming",
+  "date": "2026-11-13",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region was found."
+ },
+ {
+  "key": "2026-11-13|border",
+  "date": "2026-11-13",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new provocation at Baltic, Polish or Finnish borders with Russia or Belarus was reported."
+ },
+ {
+  "key": "2026-11-13|threats",
+  "date": "2026-11-13",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; Putin's warning that Western troops in Ukraine after a deal would restart the war concerns Ukraine and repeats earlier statements, and is not an explicit threat against NATO or the Baltic states."
  }
 ]

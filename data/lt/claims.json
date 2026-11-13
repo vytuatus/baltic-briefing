@@ -966,5 +966,71 @@
   "conflict": "JAV pusė nurodė pasitikėjimo stoką; Medinskis taip pat sako, kad Rusija užims „kiekvieną colį“ savo reikalaujamos žemės, o Lavrovas pakartoja 2024 m. reikalavimus; jokio susitarimo nepaskelbta.",
   "verdict": "Contested",
   "verdict_note": "Pažanga dėl apsikeitimo belaisviais tikėtina, tačiau esminiai teritoriniai ir saugumo ginčai lieka neišspręsti."
+ },
+ {
+  "key": "2026-11-13|europe-in-talks",
+  "date": "2026-11-13",
+  "order": 1,
+  "claim": "Europos atstovai dalyvaus kitame taikos derybų raunde",
+  "claimed_by": "JAV pasiuntinys Steve'as Witkoffas",
+  "evidence": "Oficialus pareiškimas (vienos pusės)",
+  "conflict": "Kremliaus padėjėjas Jurijus Ušakovas to nepatvirtino ir Europos poziciją pavadino nesibaigiančio karo receptu; Rusijos derybininkas atsisakė tartis su europiečiais.",
+  "verdict": "Contested",
+  "verdict_note": "JAV sako, kad tai sutarta, Maskva to nepasakė, o data ar formatas nepaskelbti."
+ },
+ {
+  "key": "2026-11-13|non-aggression",
+  "date": "2026-11-13",
+  "order": 2,
+  "claim": "Dvišaliai nepuolimo paktai suteiktų NATO narėms papildomų Rusijos saugumo garantijų",
+  "claimed_by": "Aleksejus Drobininas, Rusijos užsienio reikalų ministerija",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estijos premjeras Maskvos saugumo darbotvarkę vadina spąstais; Kaja Kallas sako, kad problema ta, jog Rusija nesilaiko jau esamų susitarimų.",
+  "verdict": "Disputed",
+  "verdict_note": "Rusija sulaužė ankstesnius įsipareigojimus gerbti kaimynių sienas, įskaitant Ukrainos, todėl naujas pažadas suteikia mažai patikrinamo saugumo; pasiūlymas atskiroms valstybėms taip pat prieštarauja NATO kolektyvinei gynybai."
+ },
+ {
+  "key": "2026-11-13|eastern-flank",
+  "date": "2026-11-13",
+  "order": 3,
+  "claim": "Rusija siekia, kad NATO pajėgos būtų atitrauktos iš rytinio flango kaip susitarimo dalis",
+  "claimed_by": "Europos pareigūnai (per FT); Lietuvos ir Estijos lyderiai",
+  "evidence": "Oficialūs pareiškimai; anoniminiai šaltiniai",
+  "conflict": "Maskva tai pateikia kaip naują Europos „saugumo architektūrą“, o ne kaip reikalavimą atitraukti pajėgas, ir savo dokumento nepaskelbė.",
+  "verdict": "Likely",
+  "verdict_note": "Pats Rusijos derybininkas sako, kad saugumo sistema buvo pagrindinė tema, o reikalavimas atitinka 2021 m. Maskvos pasiūlymus, kuriuos šią savaitę pakartojo Lavrovas."
+ },
+ {
+  "key": "2026-11-13|fsb-network",
+  "date": "2026-11-13",
+  "order": 4,
+  "claim": "FSB Karaliaučiuje išardė Lenkijos žvalgybos tinklą",
+  "claimed_by": "Rusijos FSB",
+  "evidence": "Oficialus pareiškimas; FSB paskelbtas vaizdo įrašas",
+  "conflict": "Lenkijos specialiosios tarnybos tai vadina provokacija ir dezinformacija; Lenkijos faktų tikrintojai nurodo ženklus, kad medžiaga buvo surežisuota ar nufilmuota anksčiau.",
+  "verdict": "Disputed",
+  "verdict_note": "Vienintelis įrodymas – FSB paskelbta medžiaga; Lenkija ją dar tikrina ir jokių sulaikymų nepatvirtino."
+ },
+ {
+  "key": "2026-11-13|warship-hit",
+  "date": "2026-11-13",
+  "order": 5,
+  "claim": "Ukraina Suomijos įlankoje pataikė į Rusijos „Bujan-M“ tipo raketinį laivą",
+  "claimed_by": "Ukrainos SBU",
+  "evidence": "Oficialus pareiškimas; nepriklausomas oficialus smūgio patvirtinimas",
+  "conflict": "Rusija nekomentavo; Suomija patvirtina smūgį Rusijos karo laivui, bet ne jo tipą ar žalą.",
+  "verdict": "Likely",
+  "verdict_note": "Nepriklausomas Suomijos smūgio užfiksavimas daro teiginį patikimu; laivo tapatybė ir žalos mastas lieka nepatvirtinti."
+ },
+ {
+  "key": "2026-11-13|kaliningrad-plot",
+  "date": "2026-11-13",
+  "order": 6,
+  "claim": "NATO ir Lenkija ruošiasi izoliuoti ar užimti Karaliaučių",
+  "claimed_by": "Rusijos diplomatai ir pareigūnai (nuo rugsėjo); pateikimas, susijęs su FSB teiginiu",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "NATO generalinis sekretorius sako, kad jokia aljanso veikla negresia Rusijos teritorijai; Lenkijos pasienio operacija apibūdinama kaip gynybinė, nukreipta prieš sabotažą.",
+  "verdict": "Unsupported",
+  "verdict_note": "Be iš anksto paskelbtų NATO pratybų jokių įrodymų nepateikta; teiginys naudojamas Rusijos branduoliniams įspėjimams pateisinti."
  }
 ]

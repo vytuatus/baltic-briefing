@@ -848,5 +848,65 @@
   "evidence": "Oficialūs pareiškimai (per TASS)",
   "corroboration": "Vienas šaltinis (Rusijos valstybinė žiniasklaida), tačiau pareiškimai užfiksuoti oficialiai.",
   "analysis": "Daugiausia deklaratyvu: KSSO retai veikė kartu. Tai atitinka bazinės linijos vaizdą, kai Baltarusija vis glaudžiau susiejama su Rusijos kariniu planavimu."
+ },
+ {
+  "key": "2026-11-13|architecture",
+  "date": "2026-11-13",
+  "order": 1,
+  "title": "Rusija siūlo NATO valstybėms „nepuolimo paktus“; Baltijos šalių ir ES lyderiai jos saugumo darbotvarkę vadina spąstais",
+  "summary": "Rusijos vyriausiasis derybininkas sako, kad nauja Europos saugumo sistema buvo pagrindinė tema Abu Dabyje, o europiečiai Maskvos reikalavimus apibūdina kaip NATO plėtros ir pratybų apribojimus bei pajėgų atitraukimą iš rytinio flango. Lapkričio 12 d. Rusijos užsienio reikalų ministerijos užsienio politikos planavimo vadovas Aleksejus Drobininas pasiūlė dvišalius susitarimus su atskiromis NATO narėmis, kurie, jo žodžiais, prilygtų abipusiams nepuolimo paktams. Dublino viršūnių susitikime Estijos premjeras Kristenas Michalas kalbas apie saugumo architektūrą pavadino spąstais, Lietuvos prezidentas Gitanas Nausėda sakė, kad neturi būti įtakos sferų, o NATO pajėgos neturi palikti rytų, o ES užsienio politikos vadovė Kaja Kallas sakė, kad šis klausimas gali būti svarstomas tik po paliaubų ir taikos susitarimo.",
+  "evidence": "Oficialūs pareiškimai",
+  "corroboration": "Apie Rusijos pasiūlymą pranešė Militarnyi iš Maskvos forumo; apie Europos reakcijas – Euronews, LRT ir UA.NEWS (cituodamas FT); Lietuvos užsienio reikalų ministras tą patį sakė lapkričio 10 d.",
+  "analysis": "Tai ta derybų dėl Ukrainos dalis, kuri galėtų tiesiogiai pakeisti Baltijos šalių saugumą. Atskiri paktai su atskiromis narėmis susilpnintų NATO kolektyvinės gynybos logiką, o Baltijos šalys daugiausia prarastų dėl bet kokių sąjungininkų pajėgų apribojimų. Kol kas JAV Maskvos darbotvarkės nepalaikė, o Europos sostinės ją atmeta."
+ },
+ {
+  "key": "2026-11-13|moscow-talks",
+  "date": "2026-11-13",
+  "order": 2,
+  "title": "Po susitikimo su Putinu JAV pasiuntiniai sako, kad europiečiai prisijungs prie kito raundo; Kremlius to nepatvirtina",
+  "summary": "JAV pasiuntiniai Steve'as Witkoffas ir Jaredas Kushneris lapkričio 12 d. Maskvoje susitiko su Putinu, o vėliau netoli Dublino – su Zelenskiu. Witkoffas sakė, kad pasiekta pažanga, numatytas naujas trišalis susitikimas ir jame dalyvaus Europos atstovai. Reuters praneša, kad Kremliaus padėjėjas Jurijus Ušakovas Europos dalyvavimo nepatvirtino ir Europos poziciją pavadino nesibaigiančio karo receptu; Putinas sakė, kad Europa turi nuspręsti, ar nori taikos, ar karo, ir kad Vakarų kariai Ukrainoje po susitarimo paskatintų Rusiją atnaujinti karą. Kito raundo data nenurodyta.",
+  "evidence": "Oficialūs pareiškimai",
+  "corroboration": "JAV versiją pranešė Meduza, TASS ir Reuters; Kremliaus versiją – Reuters; Kyiv Independent patvirtina susitikimą Dubline.",
+  "analysis": "Abi versijos nesutampa, todėl Europos dalyvavimą reikėtų laikyti JAV lūkesčiu, o ne susitarimu. Putino pozicija dėl Vakarų karių nukreipta į Europos Norinčiųjų koaliciją, kurioje dalyvauja ir Baltijos šalys."
+ },
+ {
+  "key": "2026-11-13|finland-strike",
+  "date": "2026-11-13",
+  "order": 3,
+  "title": "Suomijos kariuomenė teigia užfiksavusi smūgį Rusijos karo laivui Suomijos įlankoje",
+  "summary": "Suomijos gynybos pajėgų atstovas Reuters sakė, kad kariuomenė lapkričio 11 d. užfiksavo smūgį Rusijos karo laivui Suomijos įlankos rajone, stebi situaciją ir nemato tiesioginės karinės grėsmės Suomijai. Ukrainos SBU teigia pataikiusi į „Bujan-M“ tipo mažąjį raketinį laivą „Naro-Fominsk“, galintį nešti „Kalibr“ sparnuotąsias raketas; analitikai ataką lokalizuoja netoli Suursaario (Goglando) salos. Estijos žiniasklaida rašo, kad laivas grįžo į Sankt Peterburgą. Rusija nekomentavo.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Suomijos pareiškimas per Reuters ir Moscow Times; Ukrainos teiginys per Militarnyi; žalos vaizdų nepaskelbta.",
+  "analysis": "Nepriklausomas NATO šalies patvirtinimas, kad smūgis įvyko, daro Ukrainos teiginį daug patikimesnį, nors žala nežinoma. Tai rodo, kad karas dabar pasiekia rytinę Baltijos jūros dalį, arti Suomijos ir Estijos vandenų, ir tai didina nuklydusių dronų ir incidentų riziką."
+ },
+ {
+  "key": "2026-11-13|fsb-claim",
+  "date": "2026-11-13",
+  "order": 4,
+  "title": "FSB teigia Karaliaučiuje išardžiusi Lenkijos šnipų tinklą; Lenkija tai vadina dezinformacija",
+  "summary": "Lapkričio 11 d., Lenkijos Nepriklausomybės dieną, FSB pranešė Karaliaučiuje sulaikiusi du asmenis, kuriuos apibūdino kaip Lenkijos karinės žvalgybos ir vidaus saugumo agentūros agentus, ir įspėjusi septynis Lenkijos bei tris Rusijos piliečius. Ji paskelbė vaizdo įrašą. Lenkijos specialiųjų tarnybų atstovas Jacekas Dobrzyńskis tai pavadino provokacija ir dezinformacijos aktu, o užsienio reikalų ministerija ragino būti itin atsargiems. OKO.press faktų tikrintojai atkreipė dėmesį į nenatūralią lenkų kalbą paskelbtose žinutėse ir vasaros lapiją vaizdo įraše.",
+  "evidence": "Oficialūs pareiškimai (abiejų pusių); analizė",
+  "corroboration": "Pranešė Notes from Poland; FSB medžiaga yra vienintelis teiginio įrodymas.",
+  "analysis": "Nė vienos pusės versija nepriklausomai nepatvirtinta. Buvęs Lenkijos saugumo tarnybų atstovas įspėja, kad Maskva gali panaudoti šį teiginį savo ankstesniam kaltinimui, jog NATO ruošiasi izoliuoti Karaliaučių, paremti – šį pasakojimą Rusija nuo rugsėjo derina su branduoliniais įspėjimais."
+ },
+ {
+  "key": "2026-11-13|rail-indictment",
+  "date": "2026-11-13",
+  "order": 5,
+  "title": "Lenkija pateikė kaltinimus vyrui, kaltinamam padėjus Rusijai 2025 m. įvykdyti geležinkelio sabotažą",
+  "summary": "Lenkijos nacionalinė prokuratūra lapkričio 12 d. pranešė pateikusi kaltinamąjį aktą ukrainiečiui, kaltinamam šnipinėjimu ir sabotažu Rusijos žvalgybos naudai. Prokurorų teigimu, jis žvalgė liniją, parinko sprogmenų padėjimo vietas ir įrengė įrašymo įrenginius 2025 m. lapkričio atakai prieš Varšuvos–Liublino geležinkelį, kai netoli Mikos buvo susprogdintas C4 užtaisas. Du pagrindiniai įtariamieji pabėgo į Baltarusiją ir yra ieškomi per Interpolą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Vienas oficialus šaltinis, pranešė Notes from Poland.",
+  "analysis": "Teismas kaltinimų dar nepatikrino. Byla atitinka Lietuvos vertinime aprašytą modelį, kai Rusijos tarnybos verbuoja užsienio tarpininkus trikdomosioms operacijoms, o Baltarusija tarnauja kaip saugus prieglobstis."
+ },
+ {
+  "key": "2026-11-13|rand-scenario",
+  "date": "2026-11-13",
+  "order": 6,
+  "title": "RAND Europe aprašo 2030 m. Rusijos puolimą prieš Estiją – kaip scenarijų, o ne prognozę",
+  "summary": "Meduza praneša apie RAND Europe tyrimą, kuriame įsivaizduojama Putino mirtis 2027 m., naujas griežtos linijos lyderis, įšaldytas karas Ukrainoje ir 2030 m. ribota Rusijos operacija šiaurės rytų Estijoje, kaip pretekstą panaudojant protestus Narvoje, o NATO taiko 5 straipsnį. Autoriai pabrėžia, kad tai vienas galimų kelių, o ne prognozė, tačiau sako, kad karas Europoje iki 2030 m. yra reali rizika.",
+  "evidence": "Analizė",
+  "corroboration": "Vieno analitinio centro ataskaita, pranešė Meduza.",
+  "analysis": "Naudinga kaip mąstymo priemonė ir atitinka Lietuvos bazinės linijos ilgalaikį įspėjimą apie ribotas operacijas prieš NATO valstybes, tačiau tai nėra žvalgybos informacija ir neturėtų būti laikoma dabartinių Rusijos planų įrodymu."
  }
 ]

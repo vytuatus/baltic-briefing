@@ -2000,5 +2000,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
   "evidence": "Single report (earlier)"
+ },
+ {
+  "key": "2026-11-13|troops",
+  "date": "2026-11-13",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland. The Robert Lansing Institute has published nothing new since its 11 November piece on the Abu Dhabi talks.",
+  "evidence": "No new reporting; commentary (Lansing Institute)"
+ },
+ {
+  "key": "2026-11-13|kaliningrad",
+  "date": "2026-11-13",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reported Russian troop or ship build-up in the exclave. The FSB says it detained two people it calls Polish agents in Kaliningrad (Poland calls it disinformation), and TASS reports a US-registered NATO reconnaissance plane circling near the region for the second time this week. Finland's military confirms it detected a strike on a Russian warship in the Gulf of Finland, the Baltic Fleet's other home area.",
+  "evidence": "Official claims (FSB, Polish officials); state media (TASS, unnamed source); official statement (Finnish Defence Forces, via Reuters)"
+ },
+ {
+  "key": "2026-11-13|belarus",
+  "date": "2026-11-13",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new Belarusian or Russian military moves near NATO borders reported. The two suspects wanted over the 2025 Polish rail sabotage are believed by Polish prosecutors to have fled to Belarus. The Oreshnik deployment remains, as the baseline puts it, mainly a signalling tool.",
+  "evidence": "No new reporting; official statement (Polish prosecutors, via Notes from Poland)"
+ },
+ {
+  "key": "2026-11-13|exercises",
+  "date": "2026-11-13",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. On the NATO side, the anti-submarine exercise in the Baltic Sea ends on 13 November, KOALICJA 26.2 drills continue in Poland until 22 November and German-led drills continue in Lithuania until 3 December.",
+  "evidence": "Official announcements (earlier)"
+ },
+ {
+  "key": "2026-11-13|gps",
+  "date": "2026-11-13",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new measured report of GNSS interference in the Baltic region since yesterday. The latest data point remains the 3 November OSINT map showing significant disruption over Lithuania, eastern Poland and around Kaliningrad. The pattern described in the baseline has not changed.",
+  "evidence": "Imagery or data (ItaMilRadar via Militarnyi, earlier); no new measurement"
+ },
+ {
+  "key": "2026-11-13|airspace",
+  "date": "2026-11-13",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "Elevated",
+  "trend": "Easing",
+  "note": "No new drone incursions or air alerts were found in the Baltic states, Poland or Finland for the nights of 11–12 and 12–13 November. The investigation into the 10–11 November drone and the failed NATO interception over Lithuania continues; no new official findings on the drone's origin have been published.",
+  "evidence": "No new reporting; official statements (earlier)"
+ },
+ {
+  "key": "2026-11-13|sabotage",
+  "date": "2026-11-13",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Polish prosecutors on 12 November indicted a Ukrainian man accused of helping Russian intelligence carry out the November 2025 explosive sabotage of the Warsaw–Lublin railway; the charges have not been tested in court. This is a new step in an old case, not a new attack.",
+  "evidence": "Official statement (Polish National Prosecutor's Office, via Notes from Poland)"
+ },
+ {
+  "key": "2026-11-13|border",
+  "date": "2026-11-13",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation at Baltic, Polish or Finnish borders found. Poland's reinforced police and military operation along the Kaliningrad border, launched in early November after sabotage warnings, continues. Balloon smuggling from Belarus continues at a lower level.",
+  "evidence": "No new reporting; official statements (earlier)"
+ },
+ {
+  "key": "2026-11-13|rhetoric",
+  "date": "2026-11-13",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Putin told the US envoys that Europe must decide whether it wants 'peace or war' and warned that Western troops in Ukraine after a deal would lead Russia to resume fighting; aide Yuri Ushakov called Europe's stance a recipe for endless war. A senior Russian diplomat, Alexei Drobinin, proposed bilateral non-aggression pacts with individual NATO states. Pressure on NATO's eastern flank continues, but no new explicit threat against NATO or the Baltic states was found.",
+  "evidence": "Official statements (via Reuters, Militarnyi)"
+ },
+ {
+  "key": "2026-11-13|mobilization",
+  "date": "2026-11-13",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction. Earlier signs of recruitment strain are unchanged.",
+  "evidence": "No new reporting; analysis (earlier)"
+ },
+ {
+  "key": "2026-11-13|hospitals",
+  "date": "2026-11-13",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Single report, anonymous source (earlier)"
+ },
+ {
+  "key": "2026-11-13|blood",
+  "date": "2026-11-13",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "None reported"
+ },
+ {
+  "key": "2026-11-13|rail",
+  "date": "2026-11-13",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
+  "evidence": "Single report (earlier)"
  }
 ]

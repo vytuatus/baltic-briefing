@@ -848,5 +848,65 @@
   "evidence": "Official statements (via TASS)",
   "corroboration": "Single source (Russian state media), but the statements are on the record.",
   "analysis": "Mostly declaratory: the CSTO has rarely acted together. It fits the baseline's picture of Belarus tied ever closer to Russian military planning."
+ },
+ {
+  "key": "2026-11-13|architecture",
+  "date": "2026-11-13",
+  "order": 1,
+  "title": "Russia offers NATO states 'non-aggression pacts'; Baltic and EU leaders call its security agenda a trap",
+  "summary": "Russia's chief negotiator says a new European security system was the central topic in Abu Dhabi, and Europeans describe Moscow's demands as limits on NATO enlargement and exercises and a pull-back of forces from the eastern flank. On 12 November Alexei Drobinin, head of foreign-policy planning at Russia's foreign ministry, proposed bilateral agreements with individual NATO members that he said amount to mutual non-aggression pacts. At the Dublin summit Estonia's prime minister Kristen Michal called the talk of security architecture a trap, Lithuania's president Gitanas Nausėda said there must be no spheres of influence and NATO forces must not leave the east, and EU foreign-policy chief Kaja Kallas said the subject can come only after a ceasefire and a peace deal.",
+  "evidence": "Official statements",
+  "corroboration": "Russian proposal reported by Militarnyi from a Moscow forum; European reactions reported by Euronews, LRT and UA.NEWS (citing the FT); Lithuania's foreign minister said the same on 10 November.",
+  "analysis": "This is the part of the Ukraine talks that could directly change Baltic security. Separate pacts with individual members would weaken NATO's collective defence logic, and the Baltic states have the most to lose from any cap on allied forces. For now the US has not endorsed Moscow's agenda and European capitals reject it."
+ },
+ {
+  "key": "2026-11-13|moscow-talks",
+  "date": "2026-11-13",
+  "order": 2,
+  "title": "After meeting Putin, US envoys say Europeans will join the next round; the Kremlin does not confirm",
+  "summary": "US envoys Steve Witkoff and Jared Kushner met Putin in Moscow on 12 November and then Zelensky near Dublin. Witkoff said progress was made, a new trilateral meeting has been set and European representatives will take part. Reuters reports that Kremlin aide Yuri Ushakov did not confirm European participation and called Europe's stance a recipe for endless war; Putin said Europe must decide whether it wants peace or war and that Western troops in Ukraine after a deal would lead Russia to resume the war. No date for the next round was given.",
+  "evidence": "Official statements",
+  "corroboration": "US account reported by Meduza, TASS and Reuters; the Kremlin side by Reuters; Kyiv Independent confirms the Dublin meeting.",
+  "analysis": "The two accounts do not match, so European participation should be treated as a US expectation, not an agreement. Putin's line on Western troops is aimed at the European 'coalition of the willing', in which the Baltic states take part."
+ },
+ {
+  "key": "2026-11-13|finland-strike",
+  "date": "2026-11-13",
+  "order": 3,
+  "title": "Finland's military says it detected a strike on a Russian warship in the Gulf of Finland",
+  "summary": "A Finnish Defence Forces spokesperson told Reuters that the military detected a strike on a Russian warship in the Gulf of Finland area on 11 November, is monitoring the situation and sees no immediate military threat to Finland. Ukraine's SBU says it hit the Buyan-M small missile ship Naro-Fominsk, which can carry Kalibr cruise missiles; analysts place the attack near Gogland Island. Estonian media say the ship returned to St Petersburg. Russia has not commented.",
+  "evidence": "Official statement",
+  "corroboration": "Finnish statement via Reuters and the Moscow Times; Ukrainian claim via Militarnyi; no imagery of the damage published.",
+  "analysis": "An independent NATO-country confirmation that a strike took place makes Ukraine's claim much more credible, though the damage is unknown. It shows the war now reaches into the eastern Baltic Sea, close to Finnish and Estonian waters, which raises the risk of stray drones and incidents."
+ },
+ {
+  "key": "2026-11-13|fsb-claim",
+  "date": "2026-11-13",
+  "order": 4,
+  "title": "FSB says it broke up a Polish spy network in Kaliningrad; Poland calls it disinformation",
+  "summary": "On 11 November, Poland's Independence Day, the FSB said it had detained two people it described as agents of Poland's military intelligence and internal security agency in Kaliningrad, and warned seven Polish and three Russian citizens. It published a video. A spokesman for Poland's security services, Jacek Dobrzyński, called it a provocation and an act of disinformation, and the foreign ministry urged extreme caution. Polish fact-checkers at OKO.press noted unnatural Polish wording in the published messages and summer foliage in the footage.",
+  "evidence": "Official statements (both sides); analysis",
+  "corroboration": "Reported by Notes from Poland; the FSB material is the only evidence for the claim.",
+  "analysis": "Neither side's account is independently confirmed. A former Polish security spokesman warns Moscow may use the claim to support its earlier accusation that NATO is preparing to isolate Kaliningrad, a narrative Russia has paired with nuclear warnings since September."
+ },
+ {
+  "key": "2026-11-13|rail-indictment",
+  "date": "2026-11-13",
+  "order": 5,
+  "title": "Poland indicts a man accused of helping Russia sabotage a railway in 2025",
+  "summary": "Poland's National Prosecutor's Office said on 12 November it has filed an indictment against a Ukrainian man accused of espionage and sabotage for Russian intelligence. Prosecutors say he scouted the line, chose where explosives would be placed and installed recording devices for the November 2025 attack on the Warsaw–Lublin railway, in which a C4 charge was detonated near Mika. The two main suspects fled to Belarus and are wanted by Interpol.",
+  "evidence": "Official statement",
+  "corroboration": "Single official source, reported by Notes from Poland.",
+  "analysis": "A court has not yet tested the charges. The case fits the pattern in the Lithuanian assessment of Russian services recruiting foreign proxies for disruptive operations, and of Belarus serving as a safe haven."
+ },
+ {
+  "key": "2026-11-13|rand-scenario",
+  "date": "2026-11-13",
+  "order": 6,
+  "title": "RAND Europe sketches a 2030 Russian attack on Estonia, as a scenario, not a forecast",
+  "summary": "Meduza reports a RAND Europe study that imagines Putin's death in 2027, a new hard-line leader, a frozen war in Ukraine, and a limited Russian operation in north-east Estonia in 2030 using protests in Narva as a pretext, with NATO invoking Article 5. The authors stress it is one possible path, not a prediction, but say a war in Europe by 2030 is a real risk.",
+  "evidence": "Analysis",
+  "corroboration": "Single think-tank report, reported by Meduza.",
+  "analysis": "Useful as a thinking tool and consistent with the Lithuanian baseline's longer-term warning about limited operations against NATO states, but it is not intelligence and should not be read as evidence of current Russian plans."
  }
 ]

@@ -966,5 +966,71 @@
   "conflict": "The US side cited a lack of trust; Medinsky also says Russia will take 'every inch' it claims and Lavrov restates the 2024 demands; no agreement was announced.",
   "verdict": "Contested",
   "verdict_note": "Progress on prisoner exchanges is plausible, but the core territorial and security disputes remain open."
+ },
+ {
+  "key": "2026-11-13|europe-in-talks",
+  "date": "2026-11-13",
+  "order": 1,
+  "claim": "European representatives will take part in the next round of peace talks",
+  "claimed_by": "US envoy Steve Witkoff",
+  "evidence": "Official statement (one side)",
+  "conflict": "Kremlin aide Yuri Ushakov did not confirm it and called Europe's stance a recipe for endless war; Russia's negotiator has refused to deal with Europeans.",
+  "verdict": "Contested",
+  "verdict_note": "The US says it is agreed, Moscow has not said so, and no date or format has been published."
+ },
+ {
+  "key": "2026-11-13|non-aggression",
+  "date": "2026-11-13",
+  "order": 2,
+  "claim": "Bilateral non-aggression pacts would give NATO members extra security guarantees from Russia",
+  "claimed_by": "Alexei Drobinin, Russian foreign ministry",
+  "evidence": "Official statement",
+  "conflict": "Estonia's prime minister calls Moscow's security agenda a trap; Kaja Kallas says the problem is that Russia does not keep the agreements that already exist.",
+  "verdict": "Disputed",
+  "verdict_note": "Russia broke earlier commitments to respect its neighbours' borders, including toward Ukraine, so a new pledge offers little verifiable security; the offer to individual states also cuts across NATO's collective defence."
+ },
+ {
+  "key": "2026-11-13|eastern-flank",
+  "date": "2026-11-13",
+  "order": 3,
+  "claim": "Russia is seeking a pull-back of NATO forces from the eastern flank as part of a settlement",
+  "claimed_by": "European officials (via the FT); Lithuanian and Estonian leaders",
+  "evidence": "Official statements; anonymous sources",
+  "conflict": "Moscow frames it as a new European 'security architecture' rather than a withdrawal demand, and has not published its paper.",
+  "verdict": "Likely",
+  "verdict_note": "Russia's own negotiator says the security system was the central topic, and the demand matches Moscow's 2021 proposals restated by Lavrov this week."
+ },
+ {
+  "key": "2026-11-13|fsb-network",
+  "date": "2026-11-13",
+  "order": 4,
+  "claim": "The FSB broke up a Polish intelligence network in Kaliningrad",
+  "claimed_by": "Russia's FSB",
+  "evidence": "Official statement; video released by the FSB",
+  "conflict": "Poland's security services call it a provocation and disinformation; Polish fact-checkers point to signs the material was staged or filmed earlier.",
+  "verdict": "Disputed",
+  "verdict_note": "The only evidence is material released by the FSB; Poland is still checking it and has not confirmed any arrests."
+ },
+ {
+  "key": "2026-11-13|warship-hit",
+  "date": "2026-11-13",
+  "order": 5,
+  "claim": "Ukraine hit a Russian Buyan-M missile ship in the Gulf of Finland",
+  "claimed_by": "Ukraine's SBU",
+  "evidence": "Official statement; independent official confirmation of a strike",
+  "conflict": "Russia has not commented; Finland confirms a strike on a Russian warship but not its type or damage.",
+  "verdict": "Likely",
+  "verdict_note": "Finland's independent detection of a strike makes the claim credible; the identity of the ship and the extent of damage remain unconfirmed."
+ },
+ {
+  "key": "2026-11-13|kaliningrad-plot",
+  "date": "2026-11-13",
+  "order": 6,
+  "claim": "NATO and Poland are preparing to isolate or seize Kaliningrad",
+  "claimed_by": "Russian diplomats and officials (since September); framing around the FSB claim",
+  "evidence": "Unverified claim",
+  "conflict": "NATO's secretary general says no alliance activity threatens Russian territory; Poland's border operation is described as defensive, against sabotage.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence has been offered beyond NATO exercises that are announced in advance; the claim serves to justify Russian nuclear warnings."
  }
 ]

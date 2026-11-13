@@ -558,5 +558,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra; Lavrovo ir Medinskio pareiškimuose pakartojami Rusijos reikalavimai, tačiau aiškaus grasinimo NATO ar Baltijos šalims nėra."
+ },
+ {
+  "key": "2026-11-13|airspace",
+  "date": "2026-11-13",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo vakarykščio leidimo pirmą kartą nepranešta apie jokį naują pažeidimą ar drono įskridimą į Baltijos šalių, Lenkijos ar Suomijos oro erdvę."
+ },
+ {
+  "key": "2026-11-13|sabotage",
+  "date": "2026-11-13",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "Viena: lapkričio 12 d. Lenkijos kaltinamasis aktas ukrainiečiui, kaltinamam padėjus Rusijos žvalgybai 2025 m. lapkritį įvykdyti Varšuvos–Liublino geležinkelio sabotažą – naujas kaltinimas senoje byloje."
+ },
+ {
+  "key": "2026-11-13|jamming",
+  "date": "2026-11-13",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; naujų oficialių ar didžiosios žiniasklaidos pranešimų apie GNSS trikdžius Baltijos regione nerasta."
+ },
+ {
+  "key": "2026-11-13|border",
+  "date": "2026-11-13",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; apie naujas provokacijas prie Baltijos šalių, Lenkijos ar Suomijos sienų su Rusija ar Baltarusija nepranešta."
+ },
+ {
+  "key": "2026-11-13|threats",
+  "date": "2026-11-13",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; Putino įspėjimas, kad Vakarų kariai Ukrainoje po susitarimo atnaujintų karą, susijęs su Ukraina ir kartoja ankstesnius pareiškimus, todėl nėra aiškus grasinimas NATO ar Baltijos šalims."
  }
 ]
