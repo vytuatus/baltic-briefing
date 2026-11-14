@@ -908,5 +908,65 @@
   "evidence": "Analysis",
   "corroboration": "Single think-tank report, reported by Meduza.",
   "analysis": "Useful as a thinking tool and consistent with the Lithuanian baseline's longer-term warning about limited operations against NATO states, but it is not intelligence and should not be read as evidence of current Russian plans."
+ },
+ {
+  "key": "2026-11-14|bild-demands",
+  "date": "2026-11-14",
+  "order": 1,
+  "title": "Bild: Russia's informal plan would take Finland out of NATO and keep NATO bases out of the Baltic states",
+  "summary": "Germany's Bild reported on 13 November that Russian representatives presented European officials with ideas for a 'new European security order' on the sidelines of the Abu Dhabi talks. According to Bild, these include Finland leaving NATO, no NATO military bases in Estonia, Latvia or Lithuania, all of Donbas for Russia, a neutral Ukraine, demilitarised Odesa and Mykolaiv ports and a federal Moldova. In return Russia would withdraw nuclear weapons from Belarus, not deploy intermediate-range missiles there and pull troops out of Transnistria. Bild says this is one of several informal proposals and that it is unclear whether Putin backs it.",
+  "evidence": "Anonymous sources",
+  "corroboration": "One report. Interfax-Ukraine, Kyiv Post, Militarnyi, BNN, Meduza, Yle and others all cite Bild, so this is one source, not many. The New York Times and El País describe related Russian papers seeking a NATO pull-back and a veto over exercises, which supports the general direction but not Bild's specific points.",
+  "analysis": "The general aim, limiting NATO in the east, is well documented on the record; the specific demands are not. Treat them as unconfirmed. If accurate, they would strike at the heart of Baltic security, which is why Baltic and Finnish reactions matter more than the leak itself."
+ },
+ {
+  "key": "2026-11-14|kremlin-denial",
+  "date": "2026-11-14",
+  "order": 2,
+  "title": "Kremlin denies asking Finland to leave NATO; Finland calls the idea outrageous",
+  "summary": "Kremlin spokesman Dmitry Peskov told reporters he was not aware of such a proposal and that it was 'not discussed'; his denial covered Finland, not the other points in Bild's report. Finland's defence minister Antti Häkkänen said demands to reduce NATO's presence near Russia are not negotiable, called the idea outrageous and said Russia is testing US and European resolve by widening its demands beyond Ukraine. Foreign Minister Elina Valtonen said Finland's membership is a matter for Finland and NATO alone.",
+  "evidence": "Official statement",
+  "corroboration": "Peskov's denial is reported by Meduza, Kyiv Post and Türkiye Today; Häkkänen's remarks by Bloomberg (via UNITED24 and Censor.net). No Baltic government statement on the Bild report itself was found.",
+  "analysis": "A narrow denial on Finland leaves the Baltic part of the report unanswered. Finland's response matches what Lithuania's president said on 12 November: no spheres of influence and no repeat of Russia's 2021 demands."
+ },
+ {
+  "key": "2026-11-14|europe-talks",
+  "date": "2026-11-14",
+  "order": 3,
+  "title": "Moscow sets a condition for European participation, contradicting the US account",
+  "summary": "US envoys said after meeting Putin on 12 November that Europeans would join the next round of talks. On 13 November Peskov said Europe must first show 'genuine' readiness to contribute to peace and that no decision on a wider format had been taken. EU foreign policy chief Kaja Kallas replied that Russia does not decide who represents the EU. Latvia's prime minister Andris Kulbergs called the process 'not real peace talks' and said Russia is in no position to make demands.",
+  "evidence": "Official statement",
+  "corroboration": "Reuters (via The Moscow Times) for Peskov and Kallas; LSM for Kulbergs. Ukraine's president also says Europe will take part as an equal participant.",
+  "analysis": "The US and Russia are giving incompatible accounts. Moscow appears to use access to the table as leverage over Europe, which fits the Russian narrative, tracked by EUvsDisinfo, that Europe is the obstacle to peace."
+ },
+ {
+  "key": "2026-11-14|gulf-finland",
+  "date": "2026-11-14",
+  "order": 4,
+  "title": "Gulf of Finland strike: Russia stays silent as Finland raises concerns with Kyiv",
+  "summary": "Russia has still not commented on the 11 November strike that Ukraine's SBU says hit the Buyan-M missile ship Naro-Fominsk near Gogland (Suursaari). Estonian media say the vessel returned to St Petersburg. The same night, drones damaged fuel tanks at the Ust-Luga port, injuring three workers according to the regional governor. Finland's defence minister said Helsinki raised the strike with Kyiv because of the narrow gulf's sensitivity for shipping and the environment, while stressing that the sea around Finland is safe.",
+  "evidence": "Official statement",
+  "corroboration": "Al Jazeera, Yle and Defense News; Finland's detection is independent of Ukraine's claim.",
+  "analysis": "The Baltic Fleet is being hit, not freed up, which is consistent with the baseline. The risk to watch is spillover: stray drones and Russian accusations that Baltic states or Finland help Ukraine, which Lithuania has already called false."
+ },
+ {
+  "key": "2026-11-14|disinfo",
+  "date": "2026-11-14",
+  "order": 5,
+  "title": "Fact-checkers map Russian messages around the talks; Poland braces for a sabotage-anniversary campaign",
+  "summary": "EUvsDisinfo, republished by StopFake on 13 November, lists the main pro-Kremlin lines around the Abu Dhabi talks: Europe is the warmonger and the obstacle to peace, Western peacekeepers would be occupiers, and the US should cut a deal without Europe. A Warsaw security firm rates disinformation risk in Poland as high and expects the 16 November anniversary of the 2025 rail sabotage to be used to blame Ukrainians. Lithuania's crisis management chief said on 11 November that online claims that Lithuania let Ukrainian drones through its airspace are completely false.",
+  "evidence": "Analysis",
+  "corroboration": "EUvsDisinfo/StopFake (EU-funded and Ukrainian fact-checkers), Global Security Centre (commercial), Lithuanian official via European Pravda.",
+  "analysis": "These are forecasts and narrative maps, not incidents. They are useful for readers: the same messages are aimed at the Baltic states, especially after any drone or sabotage event."
+ },
+ {
+  "key": "2026-11-14|kaliningrad-flights",
+  "date": "2026-11-14",
+  "order": 6,
+  "title": "Russian state media keeps a running count of NATO surveillance flights near Kaliningrad",
+  "summary": "TASS reports, citing an unnamed air-traffic source, that a US-registered NATO reconnaissance aircraft spent five hours near the Kaliningrad region on 13 November, its third such flight this week and more than 70 this year, flying over Polish and Lithuanian airspace and international waters.",
+  "evidence": "Unverified claim",
+  "corroboration": "Single anonymous source in Russian state media; flight-tracking of such aircraft is public, and the flights stay outside Russian airspace.",
+  "analysis": "Routine reconnaissance is not a provocation, but the steady reporting feeds Moscow's story that NATO is preparing to isolate Kaliningrad, which this briefing rates as unsupported."
  }
 ]

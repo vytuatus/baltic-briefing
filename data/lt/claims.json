@@ -1032,5 +1032,82 @@
   "conflict": "NATO generalinis sekretorius sako, kad jokia aljanso veikla negresia Rusijos teritorijai; Lenkijos pasienio operacija apibūdinama kaip gynybinė, nukreipta prieš sabotažą.",
   "verdict": "Unsupported",
   "verdict_note": "Be iš anksto paskelbtų NATO pratybų jokių įrodymų nepateikta; teiginys naudojamas Rusijos branduoliniams įspėjimams pateisinti."
+ },
+ {
+  "key": "2026-11-14|c1",
+  "date": "2026-11-14",
+  "order": 1,
+  "claim": "Rusija Abu Dabyje pasiūlė, kad Suomija išstotų iš NATO, o Estijoje, Latvijoje ir Lietuvoje nebūtų leidžiama turėti NATO bazių",
+  "claimed_by": "„Bild“ (anoniminiai šaltiniai), pakartojo daugelis leidinių",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Kremlius neigia Suomijos dalį; pats „Bild“ tai vadina vienu iš kelių neoficialių pasiūlymų ir nėra tikras, ar Putinas jį palaiko; nė vienos pusės pareigūnas Baltijos šalių dalies nepatvirtino.",
+  "verdict": "Contested",
+  "verdict_note": "Tikėtina, atsižvelgiant į oficialiai skelbiamus Rusijos tikslus, tačiau konkretūs reikalavimai remiasi vienu anoniminių šaltinių pranešimu ir oficialiu paneigimu."
+ },
+ {
+  "key": "2026-11-14|c2",
+  "date": "2026-11-14",
+  "order": 2,
+  "claim": "Rusija siekia, kad NATO pajėgos būtų atitrauktos iš rytinio flango kaip susitarimo dalis",
+  "claimed_by": "Europos pareigūnai (per FT ir NYT); Lietuvos, Estijos ir Suomijos lyderiai",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusija tai pateikia kaip naują „Europos saugumo architektūrą“; Peskovas neigia tik Suomijos elementą.",
+  "verdict": "Likely",
+  "verdict_note": "Pats Rusijos derybininkas saugumo sistemą vadina pagrindine tema, o Suomijos gynybos ministras dabar šį reikalavimą aprašo oficialiai."
+ },
+ {
+  "key": "2026-11-14|c3",
+  "date": "2026-11-14",
+  "order": 3,
+  "claim": "Europos atstovai dalyvaus kitame taikos derybų raunde",
+  "claimed_by": "JAV pasiuntiniai Steve'as Witkoffas ir Jaredas Kushneris; Ukrainos prezidentas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Peskovas sako, kad Europa pirmiausia turi parodyti pasirengimą prisidėti, o sprendimas nepriimtas.",
+  "verdict": "Contested",
+  "verdict_note": "JAV ir Ukraina sako, kad tai sutarta; Rusija sako, kad nenuspręsta. Data ar formatas nepaskelbti."
+ },
+ {
+  "key": "2026-11-14|c4",
+  "date": "2026-11-14",
+  "order": 4,
+  "claim": "Rusija išvestų branduolinius ginklus iš Baltarusijos mainais į NATO nuolaidas",
+  "claimed_by": "„Bild“; El País (anoniminiai šaltiniai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Nė vienas Rusijos ar Baltarusijos pareigūnas to nepatvirtino; Rusija viešai nesakė, kad jos ginklai Baltarusijoje yra derybų objektas.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Pranešta tik anoniminių šaltinių; jei tai tiesa, tai rodo, kad dislokavimai Baltarusijoje naudojami kaip derybų kozirai, kaip ir teigia bazinė linija."
+ },
+ {
+  "key": "2026-11-14|c5",
+  "date": "2026-11-14",
+  "order": 5,
+  "claim": "Ukraina Suomijos įlankoje pataikė į Rusijos „Bujan-M“ tipo raketinį laivą",
+  "claimed_by": "Ukrainos SBU",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusija nekomentavo; Suomija užfiksavo smūgį, bet laivo neidentifikavo.",
+  "verdict": "Likely",
+  "verdict_note": "Nepriklausomas Suomijos užfiksavimas ir Estijos pranešimai apie apgadintą laivą, grįžusį į Sankt Peterburgą, daro teiginį patikimu; žalos mastas nežinomas."
+ },
+ {
+  "key": "2026-11-14|c6",
+  "date": "2026-11-14",
+  "order": 6,
+  "claim": "FSB Karaliaučiuje išardė Lenkijos žvalgybos tinklą",
+  "claimed_by": "Rusijos FSB",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lenkijos pareigūnai tai vadina provokacija; nuo lapkričio 11 d. naujų detalių nepaskelbta.",
+  "verdict": "Disputed",
+  "verdict_note": "Vienintelis įrodymas – FSB paskelbta medžiaga; Lenkija jokių sulaikymų nepatvirtino."
+ },
+ {
+  "key": "2026-11-14|c7",
+  "date": "2026-11-14",
+  "order": 7,
+  "claim": "Lietuva ir jos kaimynės leidžia ukrainiečių dronams skristi per savo oro erdvę atakuoti Rusiją",
+  "claimed_by": "Prokremliški socialiniai tinklai ir komentatoriai",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lietuvos nacionalinis krizių valdymo centras tai vadina visiškai melagingu; NATO naikintuvai bandė numušti Lietuvą perskridusį droną.",
+  "verdict": "False",
+  "verdict_note": "Faktai rodo priešingai: Lietuva skelbė oro pavojus, o NATO bandė droną sunaikinti."
  }
 ]

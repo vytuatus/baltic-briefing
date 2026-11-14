@@ -598,5 +598,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra; Putino įspėjimas, kad Vakarų kariai Ukrainoje po susitarimo atnaujintų karą, susijęs su Ukraina ir kartoja ankstesnius pareiškimus, todėl nėra aiškus grasinimas NATO ar Baltijos šalims."
+ },
+ {
+  "key": "2026-11-14|airspace",
+  "date": "2026-11-14",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo vakarykščio leidimo pirmą kartą nepranešta apie jokį naują pažeidimą ar drono įskridimą į Baltijos šalių, Lenkijos ar Suomijos oro erdvę."
+ },
+ {
+  "key": "2026-11-14|sabotage",
+  "date": "2026-11-14",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; nuo vakarykščio leidimo Europoje pirmą kartą nepranešta apie jokį naują su Rusija susijusį sabotažo incidentą, sulaikymą ar kaltinimą."
+ },
+ {
+  "key": "2026-11-14|jamming",
+  "date": "2026-11-14",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; naujų oficialių ar didžiosios žiniasklaidos pranešimų apie GNSS trikdžius Baltijos regione nerasta."
+ },
+ {
+  "key": "2026-11-14|border",
+  "date": "2026-11-14",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; apie naujas provokacijas prie Baltijos šalių, Lenkijos ar Suomijos sienų su Rusija ar Baltarusija nepranešta."
+ },
+ {
+  "key": "2026-11-14|threats",
+  "date": "2026-11-14",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; praneštas Putino įspėjimas, kad Europos kariai Ukrainoje būtų teisėti taikiniai, susijęs su Ukraina ir kartoja ankstesnius pareiškimus, todėl nėra aiškus naujas grasinimas NATO ar Baltijos šalims."
  }
 ]

@@ -2482,5 +2482,212 @@
   "perspective": "Commentary",
   "title": "Robert Lansing Institute (latest publications)",
   "url": "https://lansinginstitute.org/"
+ },
+ {
+  "key": "2026-11-14|l01",
+  "date": "2026-11-14",
+  "topic": "Lietuvos grėsmių nacionaliniam saugumui vertinimas (bazinė linija)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-14|l02",
+  "date": "2026-11-14",
+  "topic": "Lietuvos reakcija į Rusijos reikalavimus",
+  "outlet": "Censor.net (citing LRT)",
+  "perspective": "Ukrainian",
+  "title": "No one in Europe will ever agree to Russia's demands regarding NATO's eastern flank, - Nausėda",
+  "url": "https://censor.net/en/news/4033344/nato-s-withdrawal-from-the-east-naus-da-rejects-russia-s-demands"
+ },
+ {
+  "key": "2026-11-14|l03",
+  "date": "2026-11-14",
+  "topic": "Lietuvos saugumo naujienos",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "LRT English Newsletter: Rethinking Lithuania's Taiwan pivot",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3112290/lrt-english-newsletter-rethinking-lithuania-s-taiwan-pivot"
+ },
+ {
+  "key": "2026-11-14|l04",
+  "date": "2026-11-14",
+  "topic": "Dezinformacija apie dronus",
+  "outlet": "European Pravda",
+  "perspective": "Ukrainian",
+  "title": "Lithuania warns Russia is exploiting drone incidents to spread disinformation",
+  "url": "https://www.eurointegration.com.ua/eng/news/2026/11/11/7249760/"
+ },
+ {
+  "key": "2026-11-14|l05",
+  "date": "2026-11-14",
+  "topic": "Latvijos požiūris į derybas",
+  "outlet": "LSM",
+  "perspective": "Baltic",
+  "title": "'We have to grow some bigger balls' recommends Latvian Prime Minister",
+  "url": "https://eng.lsm.lv/article/politics/diplomacy/13.11.2026-we-have-to-grow-some-bigger-balls-recommends-latvian-prime-minister.a671886/"
+ },
+ {
+  "key": "2026-11-14|l06",
+  "date": "2026-11-14",
+  "topic": "„Bild“ pranešimas apie Rusijos pasiūlymus",
+  "outlet": "BNN",
+  "perspective": "Baltic",
+  "title": "Newspaper: Russia proposes removing NATO bases from the Baltic states",
+  "url": "https://bnn-news.com/world/newspaper-russia-proposes-removing-nato-bases-from-the-baltic-states-fmkckm6"
+ },
+ {
+  "key": "2026-11-14|l07",
+  "date": "2026-11-14",
+  "topic": "„Bild“ pranešimas apie Rusijos pasiūlymus",
+  "outlet": "Interfax-Ukraine",
+  "perspective": "Ukrainian",
+  "title": "Russia demands entire Donetsk region, Moldova federalization, Finland's NATO exit at talks",
+  "url": "https://en.interfax.com.ua/news/general/1236014.html"
+ },
+ {
+  "key": "2026-11-14|l08",
+  "date": "2026-11-14",
+  "topic": "„Bild“ pranešimas apie Rusijos pasiūlymus",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Finland Leaving NATO, Troops Pulling Out of Baltics: Bild Reveals Russia's Demands in Abu Dhabi Talks",
+  "url": "https://militarnyi.com/en/news/finland-leave-nato-troops-out-of-baltics-russia-demands/"
+ },
+ {
+  "key": "2026-11-14|l09",
+  "date": "2026-11-14",
+  "topic": "„Bild“ pranešimas ir Kremliaus paneigimas",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Putin's 5 Demands to Reshape Europe: Finland Out of NATO, Baltic Bases Shut Down, Donbas to Russia",
+  "url": "https://www.kyivpost.com/post/90033"
+ },
+ {
+  "key": "2026-11-14|l10",
+  "date": "2026-11-14",
+  "topic": "Kremliaus paneigimas",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Russia demands Finland leave NATO, Bild reports. Moscow denies it, and Helsinki is outraged.",
+  "url": "https://meduza.io/en/news/2026/11/14/russia-demands-finland-leave-nato-bild-reports-moscow-denies-it-and-helsinki-is-outraged"
+ },
+ {
+  "key": "2026-11-14|l11",
+  "date": "2026-11-14",
+  "topic": "Kremliaus paneigimas",
+  "outlet": "Türkiye Today",
+  "perspective": "US and international",
+  "title": "Russia seeks Finland's NATO exit, Baltic military base ban in Ukraine talks: Report",
+  "url": "https://www.turkiyetoday.com/world/russia-seeks-finlands-nato-exit-baltic-military-base-ban-in-ukraine-talks-report-3232316"
+ },
+ {
+  "key": "2026-11-14|l12",
+  "date": "2026-11-14",
+  "topic": "Suomijos reakcija",
+  "outlet": "UNITED24 Media",
+  "perspective": "Ukrainian",
+  "title": "Finland Warns Moscow Is Testing Western Resolve Through NATO Demands",
+  "url": "https://united24media.com/world/russia-pushes-for-nato-rollback-finland-says-its-a-non-starter-24364"
+ },
+ {
+  "key": "2026-11-14|l13",
+  "date": "2026-11-14",
+  "topic": "Suomijos reakcija",
+  "outlet": "Censor.net",
+  "perspective": "Ukrainian",
+  "title": "Finland calls Russia's demands for its withdrawal from NATO unacceptable",
+  "url": "https://censor.net/en/news/4033652/finland-rejects-russian-demands-to-withdraw-from-nato"
+ },
+ {
+  "key": "2026-11-14|l14",
+  "date": "2026-11-14",
+  "topic": "Suomijos saugumo naujienos",
+  "outlet": "Yle",
+  "perspective": "Nordic",
+  "title": "Video: This week in Finland, 13 November 2026",
+  "url": "https://yle.fi/a/74-20256883?origin=rss"
+ },
+ {
+  "key": "2026-11-14|l15",
+  "date": "2026-11-14",
+  "topic": "Europos vaidmuo derybose",
+  "outlet": "The Moscow Times (Reuters)",
+  "perspective": "Russian independent",
+  "title": "Russia Says Europeans Can Join Ukraine Peace Talks if They Show 'Readiness to Contribute'",
+  "url": "https://www.themoscowtimes.com/2026/11/13/russia-says-europeans-can-join-ukraine-peace-talks-if-they-show-readiness-to-contribute-a94236"
+ },
+ {
+  "key": "2026-11-14|l16",
+  "date": "2026-11-14",
+  "topic": "Smūgis Suomijos įlankoje",
+  "outlet": "Al Jazeera",
+  "perspective": "US and international",
+  "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+  "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks"
+ },
+ {
+  "key": "2026-11-14|l17",
+  "date": "2026-11-14",
+  "topic": "Karaliaučius",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "NATO recon aircraft detected near Kaliningrad Region for third time this week",
+  "url": "https://tass.com/world/2217917"
+ },
+ {
+  "key": "2026-11-14|l18",
+  "date": "2026-11-14",
+  "topic": "Dezinformacijos pasakojimai",
+  "outlet": "StopFake (EUvsDisinfo)",
+  "perspective": "Ukrainian",
+  "title": "Peace on Moscow's Terms: Disinformation Ahead of the Abu Dhabi Talks",
+  "url": "https://www.stopfake.org/en/peace-on-moscow-s-terms-disinformation-ahead-of-the-abu-dhabi-talks/"
+ },
+ {
+  "key": "2026-11-14|l19",
+  "date": "2026-11-14",
+  "topic": "Dezinformacija Lenkijoje",
+  "outlet": "Global Security Centre",
+  "perspective": "Central Europe",
+  "title": "Disinformation in Poland: Risk Assessment, 13 Nov 2026",
+  "url": "https://www.gscentre.eu/post/disinformation-in-poland-risk-assessment-13-november-2026"
+ },
+ {
+  "key": "2026-11-14|l20",
+  "date": "2026-11-14",
+  "topic": "Dezinformacija Lenkijoje",
+  "outlet": "Global Security Centre",
+  "perspective": "Central Europe",
+  "title": "Disinformation in Poland: Risk Assessment, 12 Nov 2026",
+  "url": "https://www.gscentre.eu/post/disinformation-in-poland-risk-assessment-12-november-2026"
+ },
+ {
+  "key": "2026-11-14|l21",
+  "date": "2026-11-14",
+  "topic": "Oro erdvės incidentai",
+  "outlet": "Midgard OSINT Review",
+  "perspective": "OSINT and trackers",
+  "title": "The Jets Held, the Decoys Came Back: Europe's Drone Week, 5–11 November 2026",
+  "url": "https://gbunn.substack.com/p/the-jets-held-the-decoys-came-back"
+ },
+ {
+  "key": "2026-11-14|l22",
+  "date": "2026-11-14",
+  "topic": "Branduolinė retorika dėl Karaliaučiaus (kontekstas)",
+  "outlet": "Arms Control Association",
+  "perspective": "US and international",
+  "title": "Russia Issues Nuclear Threats Over Kaliningrad",
+  "url": "https://www.armscontrol.org/act/2026-11/news/russia-issues-nuclear-threats-over-kaliningrad"
+ },
+ {
+  "key": "2026-11-14|l23",
+  "date": "2026-11-14",
+  "topic": "Mobilizacija",
+  "outlet": "UA.NEWS",
+  "perspective": "Ukrainian",
+  "title": "Fears of a new mobilization in Russia have reached their highest level in three years",
+  "url": "https://ua.news/en/war-vs-rf/strakh-novoyi-mobilizatsiyi-v-rosiyi-dosiag-naivishchogo-rivnia-za-tri-roki"
  }
 ]

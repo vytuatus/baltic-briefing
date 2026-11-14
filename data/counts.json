@@ -598,5 +598,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; Putin's warning that Western troops in Ukraine after a deal would restart the war concerns Ukraine and repeats earlier statements, and is not an explicit threat against NATO or the Baltic states."
+ },
+ {
+  "key": "2026-11-14|airspace",
+  "date": "2026-11-14",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new violation or drone incursion into Baltic, Polish or Finnish airspace was first reported since yesterday's edition."
+ },
+ {
+  "key": "2026-11-14|sabotage",
+  "date": "2026-11-14",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; no new Russia-linked sabotage incident, arrest or charge in Europe was first reported since yesterday's edition."
+ },
+ {
+  "key": "2026-11-14|jamming",
+  "date": "2026-11-14",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region was found."
+ },
+ {
+  "key": "2026-11-14|border",
+  "date": "2026-11-14",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new provocation at Baltic, Polish or Finnish borders with Russia or Belarus was reported."
+ },
+ {
+  "key": "2026-11-14|threats",
+  "date": "2026-11-14",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; Putin's reported warning that European troops in Ukraine would be legitimate targets concerns Ukraine and repeats earlier statements, and is not an explicit new threat against NATO or the Baltic states."
  }
 ]

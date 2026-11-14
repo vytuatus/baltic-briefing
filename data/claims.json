@@ -1032,5 +1032,82 @@
   "conflict": "NATO's secretary general says no alliance activity threatens Russian territory; Poland's border operation is described as defensive, against sabotage.",
   "verdict": "Unsupported",
   "verdict_note": "No evidence has been offered beyond NATO exercises that are announced in advance; the claim serves to justify Russian nuclear warnings."
+ },
+ {
+  "key": "2026-11-14|c1",
+  "date": "2026-11-14",
+  "order": 1,
+  "claim": "Russia proposed in Abu Dhabi that Finland leave NATO and that no NATO bases be allowed in Estonia, Latvia and Lithuania",
+  "claimed_by": "Bild (anonymous sources), repeated by many outlets",
+  "evidence": "Anonymous sources",
+  "conflict": "The Kremlin denies the Finland part; Bild itself calls it one of several informal proposals and is unsure Putin backs it; no official on either side has confirmed the Baltic part.",
+  "verdict": "Contested",
+  "verdict_note": "Plausible given Russia's on-record aims, but the specific demands rest on one anonymous-source report and an official denial."
+ },
+ {
+  "key": "2026-11-14|c2",
+  "date": "2026-11-14",
+  "order": 2,
+  "claim": "Russia is seeking a pull-back of NATO forces from the eastern flank as part of a settlement",
+  "claimed_by": "European officials (via the FT and NYT); Lithuanian, Estonian and Finnish leaders",
+  "evidence": "Official statement",
+  "conflict": "Russia frames it as a new 'European security architecture'; Peskov denies only the Finland element.",
+  "verdict": "Likely",
+  "verdict_note": "Russia's own negotiator calls the security system the central topic, and Finland's defence minister now describes the demand on the record."
+ },
+ {
+  "key": "2026-11-14|c3",
+  "date": "2026-11-14",
+  "order": 3,
+  "claim": "European representatives will take part in the next round of peace talks",
+  "claimed_by": "US envoys Steve Witkoff and Jared Kushner; Ukraine's president",
+  "evidence": "Official statement",
+  "conflict": "Peskov says Europe must first show readiness to contribute and no decision has been made.",
+  "verdict": "Contested",
+  "verdict_note": "The US and Ukraine say it is agreed; Russia says it is not decided. No date or format has been published."
+ },
+ {
+  "key": "2026-11-14|c4",
+  "date": "2026-11-14",
+  "order": 4,
+  "claim": "Russia would withdraw nuclear weapons from Belarus in exchange for NATO concessions",
+  "claimed_by": "Bild; El País (anonymous sources)",
+  "evidence": "Anonymous sources",
+  "conflict": "No Russian or Belarusian official has confirmed it; Russia has not said publicly that its weapons in Belarus are on the table.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Reported only by anonymous sources; if real, it shows the Belarus deployments are being used as bargaining chips, as the baseline suggests."
+ },
+ {
+  "key": "2026-11-14|c5",
+  "date": "2026-11-14",
+  "order": 5,
+  "claim": "Ukraine hit a Russian Buyan-M missile ship in the Gulf of Finland",
+  "claimed_by": "Ukraine's SBU",
+  "evidence": "Official statement",
+  "conflict": "Russia has not commented; Finland detected a strike but has not identified the ship.",
+  "verdict": "Likely",
+  "verdict_note": "Finland's independent detection and Estonian reports of a damaged ship returning to St Petersburg make the claim credible; the extent of damage is unknown."
+ },
+ {
+  "key": "2026-11-14|c6",
+  "date": "2026-11-14",
+  "order": 6,
+  "claim": "The FSB broke up a Polish intelligence network in Kaliningrad",
+  "claimed_by": "Russia's FSB",
+  "evidence": "Unverified claim",
+  "conflict": "Polish officials call it a provocation; no new details have been released since 11 November.",
+  "verdict": "Disputed",
+  "verdict_note": "The only evidence is material released by the FSB; Poland has not confirmed any arrests."
+ },
+ {
+  "key": "2026-11-14|c7",
+  "date": "2026-11-14",
+  "order": 7,
+  "claim": "Lithuania and its neighbours let Ukrainian drones fly through their airspace to attack Russia",
+  "claimed_by": "Pro-Kremlin social media and commentators",
+  "evidence": "Unverified claim",
+  "conflict": "Lithuania's National Crisis Management Centre calls it completely false; NATO jets tried to shoot down the drone that crossed Lithuania.",
+  "verdict": "False",
+  "verdict_note": "The facts point the other way: Lithuania sounded air alerts and NATO tried to destroy the drone."
  }
 ]
