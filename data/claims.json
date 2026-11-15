@@ -1109,5 +1109,71 @@
   "conflict": "Lithuania's National Crisis Management Centre calls it completely false; NATO jets tried to shoot down the drone that crossed Lithuania.",
   "verdict": "False",
   "verdict_note": "The facts point the other way: Lithuania sounded air alerts and NATO tried to destroy the drone."
+ },
+ {
+  "key": "2026-11-15|c1",
+  "date": "2026-11-15",
+  "order": 1,
+  "claim": "Russia has put in writing a demand that NATO pull forces and bases back to 1997 positions, which would remove them from Poland, the Baltic states and Finland",
+  "claimed_by": "The New York Times and The Telegraph (leaked 10 November paper)",
+  "evidence": "Imagery or documents",
+  "conflict": "The paper is unsigned and unpublished; the Kremlin has not commented; earlier reports of this demand rested only on anonymous expectations.",
+  "verdict": "Likely",
+  "verdict_note": "Two major outlets describe the same dated paper, one with a copy confirmed by a second source; it matches Russia's 2021 demands."
+ },
+ {
+  "key": "2026-11-15|c2",
+  "date": "2026-11-15",
+  "order": 2,
+  "claim": "Russia wants Britain and France not to use their nuclear weapons to protect other European states",
+  "claimed_by": "The Telegraph; The New York Times",
+  "evidence": "Imagery or documents",
+  "conflict": "No Russian official has said this on the record; the UK government has not addressed the point directly.",
+  "verdict": "Likely",
+  "verdict_note": "Both outlets cite the same paper; it is a negotiating demand, not a threat."
+ },
+ {
+  "key": "2026-11-15|c3",
+  "date": "2026-11-15",
+  "order": 3,
+  "claim": "Russia asked that Finland leave NATO and that no NATO bases be allowed in Estonia, Latvia and Lithuania",
+  "claimed_by": "Bild (anonymous sources), repeated by many outlets",
+  "evidence": "Anonymous sources",
+  "conflict": "The Kremlin denies the Finland part; accounts of the 10 November paper by the NYT and The Telegraph mention the 1997 pull-back, which covers the Baltic states, but not Finland leaving NATO.",
+  "verdict": "Contested",
+  "verdict_note": "The Baltic part is consistent with the leaked paper; the Finland exit rests on one report and an official denial."
+ },
+ {
+  "key": "2026-11-15|c4",
+  "date": "2026-11-15",
+  "order": 4,
+  "claim": "European representatives will take part in the next round of peace talks",
+  "claimed_by": "US envoys; Ukraine's president; EU leaders",
+  "evidence": "Official statement",
+  "conflict": "Bloomberg (via ISW) says five countries and an EU representative were named for technical talks; Euronews reports no agreed EU envoy; the Kremlin says Europe must first show readiness to contribute.",
+  "verdict": "Contested",
+  "verdict_note": "Europe has organised its team, but Russia has not accepted it publicly and no date has been set."
+ },
+ {
+  "key": "2026-11-15|c5",
+  "date": "2026-11-15",
+  "order": 5,
+  "claim": "Ukraine hit a Russian Buyan-M missile ship in the Gulf of Finland",
+  "claimed_by": "Ukraine's SBU; Estonian Defence Forces",
+  "evidence": "Official statement",
+  "conflict": "Russia has not commented.",
+  "verdict": "Confirmed",
+  "verdict_note": "Estonia's military independently says the Naro-Fominsk was hit by several drones, with casualties, and had to be escorted to port."
+ },
+ {
+  "key": "2026-11-15|c6",
+  "date": "2026-11-15",
+  "order": 6,
+  "claim": "Ukraine is deliberately routing attack drones through Polish and Baltic airspace",
+  "claimed_by": "Pro-Kremlin social media and commentators",
+  "evidence": "Commentary",
+  "conflict": "Estonia says it never authorised such flights; Lithuania says Russian electronic warfare may have pushed a drone off course; NATO jets tried to shoot one down.",
+  "verdict": "Unsupported",
+  "verdict_note": "Drones have strayed into Baltic airspace, but no evidence shows deliberate routing or any Baltic consent."
  }
 ]

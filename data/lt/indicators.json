@@ -2286,5 +2286,148 @@
   "trend": "Unchanged",
   "note": "Nepranešta apie technikos traukinius, judančius Baltijos šalių sienų link. Spalio 12 d. pranešimas apie Baltarusijos pasienio bazę, pritaikytą ilgiems kariniams traukiniams, naujos informacijos nesulaukė.",
   "evidence": "Vienas pranešimas (ankstesnis)"
+ },
+ {
+  "key": "2026-11-15|troops",
+  "date": "2026-11-15",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Karių judėjimas Baltijos šalių pasienio link",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Naujų pranešimų apie Rusijos pajėgų judėjimą Baltijos šalių, Lenkijos ar Suomijos link nėra. Ukrainos dronų dalinio vadas sako, kad Rusija dabar naujai mobilizuotus vyrus į frontą siunčia per penkias–septynias dienas – tai ženklas, kad žmogiškuosius išteklius sugeria karas Ukrainoje.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-15|kaliningrad",
+  "date": "2026-11-15",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Veikla Karaliaučiaus srityje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Apie karių ar laivų telkimą srityje nepranešta. Rusijos karo laivai toliau lydi spalio pabaigoje ir lapkričio pradžioje iš Baltijsko išplaukusius sankcionuotus krovininius laivus, juos seka NATO laivynai. Nuo vakar naujų Rusijos pareigūnų pareiškimų apie Karaliaučių nėra.",
+  "evidence": "Vaizdai ar dokumentai"
+ },
+ {
+  "key": "2026-11-15|belarus",
+  "date": "2026-11-15",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Veikla Baltarusijoje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujų Baltarusijos ar Rusijos karinių judėjimų prie NATO sienų nėra; ISW apie Baltarusiją nieko reikšmingo nepraneša. Baltarusijos valstybinė televizija cituoja Lukašenką, sakiusį, kad Baltarusija ir Rusija nesirengia karui su NATO, kartu skųsdamasis NATO pratybomis prie Baltarusijos. Pranešami Rusijos pasiūlymai išvesti branduolinius ginklus iš Baltarusijos lieka nepatvirtinti.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-15|exercises",
+  "date": "2026-11-15",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Paskelbtos pratybos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepaskelbta jokių didelių Rusijos ar Baltarusijos pratybų prie Baltijos šalių sienų. NATO pusėje „KOALICJA 26.2“ Lenkijoje tęsiasi iki lapkričio 22 d., o Vokietijos vadovaujamos pratybos Lietuvoje – iki gruodžio 3 d.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-15|gps",
+  "date": "2026-11-15",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS trikdymas ir klastojimas",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Nuo vakar naujų išmatuotų pranešimų apie GNSS trikdžius Baltijos regione nėra. Naujausias duomenų taškas tebėra lapkričio 3 d. OSINT žemėlapis, rodantis reikšmingus trikdžius virš Lietuvos, rytų Lenkijos ir aplink Karaliaučių; bazinėje linijoje aprašytas modelis nepasikeitė.",
+  "evidence": "Vaizdai ar dokumentai"
+ },
+ {
+  "key": "2026-11-15|airspace",
+  "date": "2026-11-15",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Oro erdvės pažeidimai ir dronai",
+  "status": "Elevated",
+  "trend": "Easing",
+  "note": "Ketvirta naktis (lapkričio 14–15 d.) be naujų dronų įskridimų ar oro pavojų Baltijos šalyse, Lenkijoje ar Suomijoje. Estijos kariuomenė sako, kad lapkričio 11 d. trumpam į Estijos oro erdvę įskridę Ukrainos dronai nebuvo numušti, nes nuolaužos galėjo nukristi Rusijos teritorijoje; Estijos ambasadorius prie NATO sakė, kad naudotis jos oro erdve netinkamai nepriimtina. Lenkijos vidaus reikalų ministerija praneša apie didėjantį iš Baltarusijos atskrendančių balionų ir dronų skaičių, daugiausia kontrabandai.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-15|sabotage",
+  "date": "2026-11-15",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotažo incidentai",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Nuo vakar Europoje nerasta naujų su Rusija susijusių sabotažo bylų, sulaikymų ar kaltinimų. Rytoj minimos pirmosios 2025 m. lapkričio Varšuvos–Liublino geležinkelio sabotažo metinės; Lenkijos saugumo bendrovė tikisi, kad jos bus panaudotos dezinformacijai, kaltinant ukrainiečius.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-15|border",
+  "date": "2026-11-15",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Spaudimas Baltarusijos pasienyje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Naujų provokacijų prie Baltijos šalių, Lenkijos ar Suomijos sienų nerasta. Lenkijos vidaus reikalų ministerija planuoja 90 dienų, iki 2027 m. vasario 27 d., pratęsti uždarą zoną 78 km Baltarusijos sienos ruože, nurodydama 482 bandymus neteisėtai kirsti sieną šiais metais iki lapkričio 8 d. ir Baltarusijos, jos žodžiais, dirbtinai sukurtą spaudimą.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-15|rhetoric",
+  "date": "2026-11-15",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Oficiali Rusijos retorika",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Užsienio reikalų ministerijos atstovė Marija Zacharova TASS sakė, kad NATO kenkia Europos saugumui ir kad Europa be jos būtų saugesnė. Nutekintame lapkričio 10 d. dokumente, kaip jį aprašo NYT ir The Telegraph, NATO prašoma grįžti į 1997 m. pozicijas; Kremlius jo nekomentavo. Naujo aiškaus grasinimo NATO ar Baltijos šalims nėra.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-15|mobilization",
+  "date": "2026-11-15",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilizacija ir rezervistų šaukimas",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Mobilizacijos dekreto nėra ir pranešimų apie Baltijos kryptimi nukreiptą rezervistų šaukimą nėra. Ukrainos vado teiginys, kad mobilizuoti rusai frontą pasiekia per savaitę, rodo, kad žmogiškieji ištekliai keliauja į Ukrainą, o ne į naują frontą; tai nepatikrinta.",
+  "evidence": "Nepatikrintas teiginys"
+ },
+ {
+  "key": "2026-11-15|hospitals",
+  "date": "2026-11-15",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Lauko ligoninės ir lovos ligoninėse",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujos informacijos nėra. Rugsėjo pranešimas apie 16 000–20 000 papildomų karinių lovų prie Baltijos šalių išlieka vieno, anoniminio šaltinio teiginiu. Apie lauko ligonines prie Baltijos šalių sienų nepranešta.",
+  "evidence": "Anoniminiai šaltiniai"
+ },
+ {
+  "key": "2026-11-15|blood",
+  "date": "2026-11-15",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Kraujo atsargos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Viešai nepranešta apie kraujo atsargų gabenimą Baltijos šalių pasienio link. Pranešimų nebuvimas neįrodo, kad to nėra: šis ženklas paprastai paaiškėja vėlai, per Vakarų pareigūnus.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-15|rail",
+  "date": "2026-11-15",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Technikos gabenimas geležinkeliu Baltijos kryptimi",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nepranešta apie technikos traukinius, judančius Baltijos šalių sienų link. Spalio 12 d. pranešimas apie Baltarusijos pasienio bazę, pritaikytą ilgiems kariniams traukiniams, naujos informacijos nesulaukė.",
+  "evidence": "Nepatikrintas teiginys"
  }
 ]

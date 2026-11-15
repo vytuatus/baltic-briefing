@@ -968,5 +968,65 @@
   "evidence": "Unverified claim",
   "corroboration": "Single anonymous source in Russian state media; flight-tracking of such aircraft is public, and the flights stay outside Russian airspace.",
   "analysis": "Routine reconnaissance is not a provocation, but the steady reporting feeds Moscow's story that NATO is preparing to isolate Kaliningrad, which this briefing rates as unsupported."
+ },
+ {
+  "key": "2026-11-15|nonpaper",
+  "date": "2026-11-15",
+  "order": 1,
+  "title": "Leaked Russian paper: NATO back to 1997, no British or French nuclear umbrella for Europe",
+  "summary": "The New York Times reported on 13 November that Russian officials circulated an unsigned 'non-paper' dated 10 November at the Abu Dhabi talks. According to the NYT and outlets summarising it, it asks NATO to pull troops and bases back to 1997 positions, give up further enlargement and any military activity in Ukraine, Eastern Europe, the South Caucasus and Central Asia, end Western arms supplies to Ukraine, keep Ukraine out of the EU's common defence policy, and asks Britain and France not to use their nuclear weapons to protect other European states. The Telegraph on 14 November described a paper with the same date and highlighted the demand on Britain's deterrent.",
+  "evidence": "Imagery or documents",
+  "corroboration": "The NYT says it obtained a copy from a negotiator and a second source confirmed it is authentic; The Telegraph's account matches. The paper itself has not been published, and the Kremlin has not commented.",
+  "analysis": "Every Baltic state, Poland and Finland joined NATO after 1997, so this is a demand to remove allied forces from them. It is the most concrete evidence yet that Moscow links a Ukraine deal to rolling back Baltic security, as the Lithuanian assessment warns. It is still an opening position in talks, not an action."
+ },
+ {
+  "key": "2026-11-15|reactions",
+  "date": "2026-11-15",
+  "order": 2,
+  "title": "US, Finnish and European leaders reject the 1997 demand",
+  "summary": "US Senate intelligence committee chairman Tom Cotton called the idea of NATO members withdrawing from their own territory preposterous. A US official told reporters that the envoys reminded Moscow how much has changed since its 2021 demands. Finland's defence minister said the demands test US and European resolve. In Dublin, 43 European Political Community countries signed a declaration that European security is for Europeans to decide, and the UK prime minister said the same after the meeting.",
+  "evidence": "Official statement",
+  "corroboration": "Ukrinform (Cotton and the US official, citing the NYT), Euronews (EPC declaration), Euromaidan Press (UK reaction).",
+  "analysis": "Western rejection is broad and on the record. Accounts differ on Europe's seat: Bloomberg, via ISW, says five countries plus an EU representative were named for technical talks, while Euronews reports no agreement yet on an EU envoy, and Russia has not said it accepts them."
+ },
+ {
+  "key": "2026-11-15|naro-fominsk",
+  "date": "2026-11-15",
+  "order": 3,
+  "title": "Estonia: Russian missile ship hit several times, with dead and wounded",
+  "summary": "At a defence ministry briefing on 13 November, an Estonian Defence Forces colonel said more than three Ukrainian drones hit the Baltic Fleet corvette Naro-Fominsk on 11 November, causing deaths and injuries, and that it could not continue under its own power and was escorted toward St Petersburg. He said the same night's strike on Ust-Luga cut the port's oil throughput from about 700,000 to about 300,000 tonnes a day, and that a Russian helicopter was destroyed by its own air defence.",
+  "evidence": "Official statement",
+  "corroboration": "ERR, Kyiv Post and others report the same briefing; Ukraine's SBU made the original claim; Russia has still not commented.",
+  "analysis": "An independent NATO-country military now confirms the strike, so the claim moves to confirmed. The Baltic Fleet is losing ships and attention to Ukrainian attacks, which is the opposite of forces being freed for the Baltic direction."
+ },
+ {
+  "key": "2026-11-15|narratives",
+  "date": "2026-11-15",
+  "order": 4,
+  "title": "Moscow and Minsk: NATO is the threat, we are not preparing for war",
+  "summary": "Foreign ministry spokeswoman Maria Zakharova told TASS on 14 November that NATO undermines Europe's security like 'a bad tooth' and that Europe would be safer without it, replying to Germany's chancellor. On 11 November Belarusian state TV quoted Lukashenko telling a CSTO meeting that Belarus and Russia are not preparing for war with NATO or the EU by 2030 and accusing Europe of militarising.",
+  "evidence": "Official statement",
+  "corroboration": "Russian and Belarusian state media; no independent reporting needed for the fact that they said it.",
+  "analysis": "Both lines serve the same goal as the leaked paper: to present NATO's eastern presence as the problem. Denials of intent cannot be tested; the baseline judges that Russia is rebuilding capacity for possible limited operations in the longer term, regardless of what it says now."
+ },
+ {
+  "key": "2026-11-15|poland-zone",
+  "date": "2026-11-15",
+  "order": 5,
+  "title": "Poland plans to extend its closed zone on the Belarus border",
+  "summary": "Poland's interior ministry has drafted a regulation to extend the temporary ban on entering a strip along 78 km of the Belarus border for 90 days, from 30 November to 27 February 2027. It counts 482 attempted illegal crossings this year up to 8 November, calls the migration pressure artificially created by Belarus, and notes more balloons and drones from Belarus, mostly for smuggling, without ruling out destabilisation.",
+  "evidence": "Official statement",
+  "corroboration": "Defence24 reporting on the draft regulation.",
+  "analysis": "A steady, managed pressure rather than a new escalation. It matches the Baltic experience with balloons from Belarus and the baseline's description of hybrid pressure from Minsk."
+ },
+ {
+  "key": "2026-11-15|drone-routes",
+  "date": "2026-11-15",
+  "order": 6,
+  "title": "Commentators claim Ukraine is deliberately routing drones through NATO airspace",
+  "summary": "Pro-Kremlin and contrarian commentators, including a widely read Substack blog, argue that Ukraine deliberately sends drones through Polish and Baltic airspace to avoid Russian air defences, and repeat an unverified claim that a balloon from the Baltics delivered a bomb used in an attack in St Petersburg. Estonia's foreign minister says no state has been authorised to fly drones through Estonian airspace; Estonia's defence minister says most drones stayed in Russian airspace.",
+  "evidence": "Commentary",
+  "corroboration": "No official, investigative or imagery-based source supports deliberate routing or the balloon claim.",
+  "analysis": "Stray drones, likely knocked off course by Russian electronic warfare according to Lithuania's defence minister, are a real safety problem, but intent has not been shown. The narrative helps Moscow cast the Baltic states as co-belligerents."
  }
 ]

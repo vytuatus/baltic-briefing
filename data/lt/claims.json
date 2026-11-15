@@ -1109,5 +1109,71 @@
   "conflict": "Lietuvos nacionalinis krizių valdymo centras tai vadina visiškai melagingu; NATO naikintuvai bandė numušti Lietuvą perskridusį droną.",
   "verdict": "False",
   "verdict_note": "Faktai rodo priešingai: Lietuva skelbė oro pavojus, o NATO bandė droną sunaikinti."
+ },
+ {
+  "key": "2026-11-15|c1",
+  "date": "2026-11-15",
+  "order": 1,
+  "claim": "Rusija raštu pateikė reikalavimą, kad NATO atitrauktų pajėgas ir bazes į 1997 m. pozicijas – tai išvestų jas iš Lenkijos, Baltijos šalių ir Suomijos",
+  "claimed_by": "The New York Times ir The Telegraph (nutekintas lapkričio 10 d. dokumentas)",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Dokumentas nepasirašytas ir nepaskelbtas; Kremlius nekomentavo; ankstesni pranešimai apie šį reikalavimą rėmėsi tik anoniminiais lūkesčiais.",
+  "verdict": "Likely",
+  "verdict_note": "Du dideli leidiniai aprašo tą patį datuotą dokumentą, vienas – turėdamas kopiją, kurios autentiškumą patvirtino antras šaltinis; tai atitinka 2021 m. Rusijos reikalavimus."
+ },
+ {
+  "key": "2026-11-15|c2",
+  "date": "2026-11-15",
+  "order": 2,
+  "claim": "Rusija nori, kad Britanija ir Prancūzija nenaudotų savo branduolinių ginklų kitoms Europos valstybėms ginti",
+  "claimed_by": "The Telegraph; The New York Times",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Nė vienas Rusijos pareigūnas to oficialiai nepasakė; JK vyriausybė tiesiogiai šio punkto nekomentavo.",
+  "verdict": "Likely",
+  "verdict_note": "Abu leidiniai remiasi tuo pačiu dokumentu; tai derybinis reikalavimas, o ne grasinimas."
+ },
+ {
+  "key": "2026-11-15|c3",
+  "date": "2026-11-15",
+  "order": 3,
+  "claim": "Rusija prašė, kad Suomija išstotų iš NATO, o Estijoje, Latvijoje ir Lietuvoje nebūtų leidžiama turėti NATO bazių",
+  "claimed_by": "„Bild“ (anoniminiai šaltiniai), pakartojo daugelis leidinių",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Kremlius neigia Suomijos dalį; NYT ir The Telegraph lapkričio 10 d. dokumento aprašymuose minimas atitraukimas į 1997 m. pozicijas, apimantis Baltijos šalis, bet ne Suomijos išstojimas iš NATO.",
+  "verdict": "Contested",
+  "verdict_note": "Baltijos šalių dalis atitinka nutekintą dokumentą; Suomijos išstojimas remiasi vienu pranešimu ir oficialiu paneigimu."
+ },
+ {
+  "key": "2026-11-15|c4",
+  "date": "2026-11-15",
+  "order": 4,
+  "claim": "Europos atstovai dalyvaus kitame taikos derybų raunde",
+  "claimed_by": "JAV pasiuntiniai; Ukrainos prezidentas; ES lyderiai",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Bloomberg (per ISW) teigia, kad techninėms deryboms įvardytos penkios šalys ir ES atstovas; Euronews praneša, kad dėl ES pasiuntinio nesutarta; Kremlius sako, kad Europa pirmiausia turi parodyti pasirengimą prisidėti.",
+  "verdict": "Contested",
+  "verdict_note": "Europa sudarė savo komandą, tačiau Rusija viešai jos nepriėmė, o data nenustatyta."
+ },
+ {
+  "key": "2026-11-15|c5",
+  "date": "2026-11-15",
+  "order": 5,
+  "claim": "Ukraina Suomijos įlankoje pataikė į Rusijos „Bujan-M“ tipo raketinį laivą",
+  "claimed_by": "Ukrainos SBU; Estijos gynybos pajėgos",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusija nekomentavo.",
+  "verdict": "Confirmed",
+  "verdict_note": "Estijos kariuomenė nepriklausomai teigia, kad į „Naro-Fominsk“ pataikė keli dronai, yra žmonių nuostolių, o laivas turėjo būti palydėtas į uostą."
+ },
+ {
+  "key": "2026-11-15|c6",
+  "date": "2026-11-15",
+  "order": 6,
+  "claim": "Ukraina sąmoningai siunčia atakos dronus per Lenkijos ir Baltijos šalių oro erdvę",
+  "claimed_by": "Prokremliški socialiniai tinklai ir komentatoriai",
+  "evidence": "Komentaras",
+  "conflict": "Estija sako niekada neleidusi tokių skrydžių; Lietuva sako, kad droną nuo kurso galėjo nukreipti Rusijos radioelektroninė kova; NATO naikintuvai bandė vieną jų numušti.",
+  "verdict": "Unsupported",
+  "verdict_note": "Dronai yra nuklydę į Baltijos šalių oro erdvę, tačiau jokie įrodymai nerodo sąmoningo maršruto planavimo ar Baltijos šalių sutikimo."
  }
 ]
