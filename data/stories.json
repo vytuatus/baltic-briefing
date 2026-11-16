@@ -1028,5 +1028,75 @@
   "evidence": "Commentary",
   "corroboration": "No official, investigative or imagery-based source supports deliberate routing or the balloon claim.",
   "analysis": "Stray drones, likely knocked off course by Russian electronic warfare according to Lithuania's defence minister, are a real safety problem, but intent has not been shown. The narrative helps Moscow cast the Baltic states as co-belligerents."
+ },
+ {
+  "key": "2026-11-16|threod",
+  "date": "2026-11-16",
+  "order": 1,
+  "title": "Estonia foils GRU-linked arson attack on drone maker Threod Systems",
+  "summary": "Shortly after 3 a.m. on 14 November, attackers tried to break into the Threod Systems building in Viimsi, north of Tallinn, and pour in flammable liquid to cause a fire and explosion. The company's security team stopped them; no one was hurt and production was not affected. Estonia's security police and border guard detained eight residents of Latvia, and prosecutors asked a court to arrest five. KAPO's director general said counterintelligence had confirmed that Russia's GRU coordinated the attack, and that the GRU recruits EU residents from criminal circles or in financial difficulty because they can move freely in the Schengen area.",
+  "evidence": "Official statement",
+  "corroboration": "ERR, LSM, Ukrainian and international media report the same official account; Latvia's VDD separately confirms its role and the searches in Latvia.",
+  "analysis": "This is well supported on the facts: a physical attack, eight detentions and seizures in two countries. The GRU attribution comes from intelligence that has not been published, so it is a strong official judgement rather than a proven fact. It follows the August arson at Milrem Robotics, also blamed on Russia, and fits the baseline's warning about proxy sabotage against firms that supply Ukraine."
+ },
+ {
+  "key": "2026-11-16|latvia-vdd",
+  "date": "2026-11-16",
+  "order": 2,
+  "title": "Latvia's security service tipped off Estonia and found explosives at home",
+  "summary": "Latvia's State Security Service (VDD) says it received information about possible sabotage in Estonia and passed it to KAPO, after which both services acted together. On 14 November VDD searched nine sites in Latvia linked to the suspects and seized explosive devices, pyrotechnics, ammunition and many phones and storage devices. VDD said Russian-organised sabotage aims to raise tension and fear and to slow support for Ukraine.",
+  "evidence": "Official statement",
+  "corroboration": "LSM report on the VDD press release; KAPO publicly credited Latvian help.",
+  "analysis": "A second, independent national service backs the Estonian account, which makes the case stronger than a single-country attribution. The use of Latvian residents again shows Russia hiring people from neighbouring EU states rather than sending its own officers."
+ },
+ {
+  "key": "2026-11-16|estonia-border",
+  "date": "2026-11-16",
+  "order": 3,
+  "title": "Estonia to close road border crossings with Russia on 1 December",
+  "summary": "Prime Minister Kristen Michal asked the interior minister and the Government Office to prepare to close the border, saying Estonia must reduce risks if Russia continues hybrid attacks. The foreign ministry says the Narva, Luhamaa and Koidula road crossings will close to pedestrians and vehicles on 1 December; residents in Russia have two weeks to return. Foreign Minister Margus Tsahkna said hostile actions against Estonia come with consequences. The government will decide in the coming days whether the closure is temporary or indefinite.",
+  "evidence": "Official statement",
+  "corroboration": "ERR, TASS, The Irish Times (wire report) and ISW report the decision; the exact legal decision is still pending.",
+  "analysis": "A significant political step, following Finland's earlier full closure. It will mostly affect cross-border families and trade around Narva and gives Moscow material for a 'Russophobia' narrative, but it does not change the military picture."
+ },
+ {
+  "key": "2026-11-16|kremlin",
+  "date": "2026-11-16",
+  "order": 4,
+  "title": "Kremlin: talks on European security pointless if Europe does not want peace",
+  "summary": "On 15 November Kremlin spokesman Dmitry Peskov said discussing European security makes no sense unless Europeans really want peace, and that without prospects of agreement Russia would have to use force to reach its goals. He added that Europe's negotiators had not yet contacted Moscow. Separately, foreign ministry spokeswoman Maria Zakharova said Russia would check reports of Estonia's border plans and called them, if true, aggressive Russophobia. On 13 November Peskov had said that no withdrawal of current NATO members was discussed at the Abu Dhabi talks.",
+  "evidence": "Official statement",
+  "corroboration": "TASS reports both statements; Western media summarise them.",
+  "analysis": "The force remark is a general statement about Russia's war aims, not a new explicit threat against NATO. Peskov's denial that NATO withdrawals were discussed sits uneasily with the leaked 10 November paper, described by the NYT and The Telegraph, that asks NATO to return to 1997 positions; a pull-back of forces is not the same as members leaving, so both can be technically true."
+ },
+ {
+  "key": "2026-11-16|finland",
+  "date": "2026-11-16",
+  "order": 5,
+  "title": "Finland: Russian pull-back demands are not negotiable",
+  "summary": "Finland's defence minister Antti Häkkänen called the reported Russian demands for less NATO presence near its borders outrageous and not negotiable, and a test of US and European resolve. Bild's report that Moscow wants Finland to leave NATO is still denied by the Kremlin and is not in the accounts of the leaked paper.",
+  "evidence": "Official statement",
+  "corroboration": "Bloomberg, UPI and Meduza report the Finnish response.",
+  "analysis": "Helsinki's rejection is firm and on the record. The narrower Finland-exit claim remains contested; the broader 1997 demand, which would also cover the Baltic states, is better supported."
+ },
+ {
+  "key": "2026-11-16|black-sea",
+  "date": "2026-11-16",
+  "order": 6,
+  "title": "Drones hit ships in Romanian waters, including a NATO-flagged tanker",
+  "summary": "According to ISW, unidentified and possibly Russian drones struck four commercial vessels in Romanian waters between 13 and 15 November, three of them near Sulina, and Romania scrambled fighter jets twice. ISW says the Greek-flagged tanker Evia Petrol V is the first ship flying a NATO member's flag to be hit; Russian milbloggers claimed the ships carried cargo for Ukraine.",
+  "evidence": "Analysis",
+  "corroboration": "ISW summary of Romanian official statements; the attacker has not been officially named.",
+  "analysis": "Outside the Baltic region, but relevant: it shows Russia's war spilling into NATO waters in ways that stay below the threshold of an attack on an ally, the same grey-zone pattern seen with drones over the Baltic states."
+ },
+ {
+  "key": "2026-11-16|poland-anniversary",
+  "date": "2026-11-16",
+  "order": 7,
+  "title": "Poland marks a year since the rail sabotage amid disinformation",
+  "summary": "16 November is the first anniversary of the 2025 explosions on the Warsaw–Lublin line, which Poland blamed on Russian services; the state rail accident commission has confirmed both attacks were terrorist in nature. A Polish security consultancy reports disinformation claiming the state cannot protect citizens, and a wave of pro-UPA graffiti on monuments in several cities that may be paid work designed to stir anti-Ukrainian feeling; a 17-year-old Ukrainian was detained in the Tri-City area.",
+  "evidence": "Analysis",
+  "corroboration": "Single commercial monitor (Global Security Centre); the commission findings and the detention are official.",
+  "analysis": "The vandalism has not been attributed to Russia by Polish authorities, so it should not be counted as sabotage. It fits a known tactic of hiring people online for provocations, but that link is unproven."
  }
 ]

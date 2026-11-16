@@ -1175,5 +1175,71 @@
   "conflict": "Estija sako niekada neleidusi tokių skrydžių; Lietuva sako, kad droną nuo kurso galėjo nukreipti Rusijos radioelektroninė kova; NATO naikintuvai bandė vieną jų numušti.",
   "verdict": "Unsupported",
   "verdict_note": "Dronai yra nuklydę į Baltijos šalių oro erdvę, tačiau jokie įrodymai nerodo sąmoningo maršruto planavimo ar Baltijos šalių sutikimo."
+ },
+ {
+  "key": "2026-11-16|c1",
+  "date": "2026-11-16",
+  "order": 1,
+  "claim": "Rusijos GRU užsakė bandymą padegti „Threod Systems“ įmonę Estijoje",
+  "claimed_by": "Estijos KAPO ir premjeras; palaiko Latvijos VDD",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Priskyrimo pagrindu esanti žvalgybos informacija nepaskelbta; Rusija šios bylos nekomentavo, o panašų kaltinimą dėl rugpjūčio „Milrem“ gaisro pavadino nepagrįstu.",
+  "verdict": "Likely",
+  "verdict_note": "Dvi nacionalinės tarnybos nurodo tą pačią kryptį, sulaikymai ir paėmimai patvirtinti, o metodas atitinka ankstesnes įrodytas GRU tarpininkų bylas."
+ },
+ {
+  "key": "2026-11-16|c2",
+  "date": "2026-11-16",
+  "order": 2,
+  "claim": "Rusija raštu pateikė reikalavimą, kad NATO atitrauktų pajėgas ir bazes į 1997 m. pozicijas – tai išvestų jas iš Lenkijos, Baltijos šalių ir Suomijos",
+  "claimed_by": "The New York Times ir The Telegraph (nutekintas lapkričio 10 d. dokumentas)",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Peskovas lapkričio 13 d. sakė, kad NATO narių pasitraukimas nebuvo aptartas; dokumentas nepasirašytas ir nepaskelbtas.",
+  "verdict": "Likely",
+  "verdict_note": "Nuo vakar naujos informacijos nėra; Peskovo paneigimas susijęs su narių pasitraukimu iš NATO, o ne pajėgų atitraukimu, todėl dokumento neatmeta."
+ },
+ {
+  "key": "2026-11-16|c3",
+  "date": "2026-11-16",
+  "order": 3,
+  "claim": "Rusija prašė, kad Suomija išstotų iš NATO",
+  "claimed_by": "„Bild“ (anoniminiai šaltiniai)",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Kremlius tai neigia; Suomijos gynybos ministras atmeta bet kokias tokias sąlygas; nutekinto dokumento aprašymuose to nėra.",
+  "verdict": "Contested",
+  "verdict_note": "Vis dar remiasi vienu anoniminių šaltinių pranešimu prieš oficialų paneigimą."
+ },
+ {
+  "key": "2026-11-16|c4",
+  "date": "2026-11-16",
+  "order": 4,
+  "claim": "Estijos sienos uždarymas yra rusofobijos aktas",
+  "claimed_by": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estija uždarymą sieja su konkrečiu sabotažo bandymu, kurį dvi saugumo tarnybos priskiria Rusijai.",
+  "verdict": "Misleading",
+  "verdict_note": "Uždarymas yra deklaruotas atsakas į ataką, o ne nukreiptas prieš rusus kaip tokius; vis dėlto jis pakenks per sieną gyvenantiems žmonėms."
+ },
+ {
+  "key": "2026-11-16|c5",
+  "date": "2026-11-16",
+  "order": 5,
+  "claim": "Europa nenori taikos, todėl derybos dėl Europos saugumo gali būti beprasmės",
+  "claimed_by": "Kremliaus atstovas Dmitrijus Peskovas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Europos valstybės sudarė derybų komandą ir sako norinčios prisijungti prie derybų; pats Kremlius sako, kad Europa su juo dar nesusisiekė.",
+  "verdict": "Unsupported",
+  "verdict_note": "Pateikimas, perkeliantis kaltę dėl įstrigusių derybų Europai; įrodymų nepateikta."
+ },
+ {
+  "key": "2026-11-16|c6",
+  "date": "2026-11-16",
+  "order": 6,
+  "claim": "UPA šlovinantys grafičiai ant Lenkijos paminklų yra ukrainiečių nacionalistų darbas",
+  "claimed_by": "Lenkijos socialiniai tinklai; antiukrainietiški komentatoriai",
+  "evidence": "Analizė",
+  "conflict": "Sulaikytas ukrainietis paauglys, tačiau vietos portalas praneša apie „Telegram“ kanalą, mokantį 500 dolerių už darbą, o Ukrainos ambasada kaltina Rusijos hibridinę taktiką; Lenkijos institucijos kaltininko neįvardijo.",
+  "verdict": "Contested",
+  "verdict_note": "Kas tai padarė, nustatyta tik vienu atveju; kas už tai mokėjo, nežinoma."
  }
 ]

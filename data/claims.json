@@ -1175,5 +1175,71 @@
   "conflict": "Estonia says it never authorised such flights; Lithuania says Russian electronic warfare may have pushed a drone off course; NATO jets tried to shoot one down.",
   "verdict": "Unsupported",
   "verdict_note": "Drones have strayed into Baltic airspace, but no evidence shows deliberate routing or any Baltic consent."
+ },
+ {
+  "key": "2026-11-16|c1",
+  "date": "2026-11-16",
+  "order": 1,
+  "claim": "Russia's GRU ordered the attempted arson at Threod Systems in Estonia",
+  "claimed_by": "Estonia's KAPO and prime minister; supported by Latvia's VDD",
+  "evidence": "Official statement",
+  "conflict": "The intelligence behind the attribution has not been published; Russia has not commented on this case and called a similar accusation over the August Milrem fire baseless.",
+  "verdict": "Likely",
+  "verdict_note": "Two national services point the same way, detentions and seizures are confirmed, and the method matches earlier proven GRU proxy cases."
+ },
+ {
+  "key": "2026-11-16|c2",
+  "date": "2026-11-16",
+  "order": 2,
+  "claim": "Russia has put in writing a demand that NATO pull forces and bases back to 1997 positions, which would remove them from Poland, the Baltic states and Finland",
+  "claimed_by": "The New York Times and The Telegraph (leaked 10 November paper)",
+  "evidence": "Imagery or documents",
+  "conflict": "Peskov said on 13 November that no withdrawal of NATO members was discussed; the paper is unsigned and unpublished.",
+  "verdict": "Likely",
+  "verdict_note": "No new information since yesterday; Peskov's denial concerns members leaving NATO, not a pull-back of forces, so it does not rule out the paper."
+ },
+ {
+  "key": "2026-11-16|c3",
+  "date": "2026-11-16",
+  "order": 3,
+  "claim": "Russia asked that Finland leave NATO",
+  "claimed_by": "Bild (anonymous sources)",
+  "evidence": "Anonymous sources",
+  "conflict": "The Kremlin denies it; Finland's defence minister rejects any such terms; accounts of the leaked paper do not mention it.",
+  "verdict": "Contested",
+  "verdict_note": "Still rests on one anonymous-source report against an on-the-record denial."
+ },
+ {
+  "key": "2026-11-16|c4",
+  "date": "2026-11-16",
+  "order": 4,
+  "claim": "Estonia's border closure is an act of Russophobia",
+  "claimed_by": "Russian foreign ministry spokeswoman Maria Zakharova",
+  "evidence": "Official statement",
+  "conflict": "Estonia ties the closure to a specific sabotage attempt that two security services attribute to Russia.",
+  "verdict": "Misleading",
+  "verdict_note": "The closure is a stated response to an attack, not aimed at Russians as such; it will however hurt cross-border residents."
+ },
+ {
+  "key": "2026-11-16|c5",
+  "date": "2026-11-16",
+  "order": 5,
+  "claim": "Europe does not want peace, so talks on European security may be pointless",
+  "claimed_by": "Kremlin spokesman Dmitry Peskov",
+  "evidence": "Official statement",
+  "conflict": "European states have formed a negotiating team and say they want to join talks; the Kremlin itself says Europe has not yet contacted it.",
+  "verdict": "Unsupported",
+  "verdict_note": "A framing that shifts blame for stalled talks onto Europe; no evidence offered."
+ },
+ {
+  "key": "2026-11-16|c6",
+  "date": "2026-11-16",
+  "order": 6,
+  "claim": "The pro-UPA graffiti on Polish monuments is the work of Ukrainian nationalists",
+  "claimed_by": "Polish social media; anti-Ukrainian commentators",
+  "evidence": "Analysis",
+  "conflict": "A Ukrainian teenager was detained, but a local portal reports a Telegram channel paying 500 dollars per job, and Ukraine's embassy blames Russian hybrid tactics; Polish authorities have not attributed it.",
+  "verdict": "Contested",
+  "verdict_note": "Who did it is established in one case only; who paid for it is unknown."
  }
 ]

@@ -2842,5 +2842,167 @@
   "perspective": "Commentary",
   "title": "Russian Peace Terms Reportedly Revealed, as Ukraine Again Uses Baltic Airspace to Strike St. Petersburg",
   "url": "https://simplicius76.substack.com/p/russian-peace-terms-reportedly-revealed"
+ },
+ {
+  "key": "2026-11-16|l01",
+  "date": "2026-11-16",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-16|l02",
+  "date": "2026-11-16",
+  "topic": "Threod Systems arson attempt",
+  "outlet": "ERR",
+  "perspective": "Baltic",
+  "title": "8 detained after GRU-linked arson at Estonian drone company Threod Systems",
+  "url": "https://news.err.ee/1610196722/8-detained-after-attempted-arson-at-estonian-defense-company-threod-systems"
+ },
+ {
+  "key": "2026-11-16|l03",
+  "date": "2026-11-16",
+  "topic": "Estonian border closure",
+  "outlet": "ERR",
+  "perspective": "Baltic",
+  "title": "Estonia to close border crossings with Russia after GRU-linked sabotage attacks",
+  "url": "https://news.err.ee/1610196794/estonia-to-close-border-crossings-with-russia-after-gru-linked-sabotage-attacks"
+ },
+ {
+  "key": "2026-11-16|l04",
+  "date": "2026-11-16",
+  "topic": "Latvian role in Threod case",
+  "outlet": "LSM",
+  "perspective": "Baltic",
+  "title": "Eight Latvian nationals arrested over suspected Estonia drone arson plot",
+  "url": "https://eng.lsm.lv/article/society/crime/15.11.2026-eight-latvian-nationals-arrested-over-suspected-estonia-drone-arson-plot.a672001/"
+ },
+ {
+  "key": "2026-11-16|l05",
+  "date": "2026-11-16",
+  "topic": "Threod Systems arson attempt",
+  "outlet": "Ukrinform",
+  "perspective": "Ukrainian",
+  "title": "Eight people detained in Estonia over attempted arson attack on defense industry plant allegedly commissioned by Russia",
+  "url": "https://www.ukrinform.net/rubric-crime/4184944-eight-people-detained-in-estonia-over-attempted-arson-attack-on-defense-industry-plant-allegedly-commissioned-by-russia.html"
+ },
+ {
+  "key": "2026-11-16|l06",
+  "date": "2026-11-16",
+  "topic": "Estonian border closure",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Estonia Plans to Close Border With Russia After Sabotage Attempt Against Threod Systems",
+  "url": "https://militarnyi.com/en/news/estonia-plans-to-close-border-with-russia-after-sabotage-attempt-against-threod-systems/"
+ },
+ {
+  "key": "2026-11-16|l07",
+  "date": "2026-11-16",
+  "topic": "Estonian border closure",
+  "outlet": "The Irish Times",
+  "perspective": "US and international",
+  "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+  "url": "https://www.irishtimes.com/world/europe/2026/11/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker/"
+ },
+ {
+  "key": "2026-11-16|l08",
+  "date": "2026-11-16",
+  "topic": "Estonian border closure",
+  "outlet": "Al Jazeera",
+  "perspective": "US and international",
+  "title": "Estonia to close border crossings with Russia after attack on drone maker",
+  "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+ },
+ {
+  "key": "2026-11-16|l09",
+  "date": "2026-11-16",
+  "topic": "Russian reaction to border closure",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Russia to check information about Estonia's plans to close border crossings — diplomat",
+  "url": "https://tass.com/politics/2218399"
+ },
+ {
+  "key": "2026-11-16|l10",
+  "date": "2026-11-16",
+  "topic": "Kremlin on European security",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Kremlin says discussing European security pointless if Europeans do not want peace",
+  "url": "https://tass.com/russias-foreign-policy/2218327"
+ },
+ {
+  "key": "2026-11-16|l11",
+  "date": "2026-11-16",
+  "topic": "Kremlin denial on NATO withdrawals",
+  "outlet": "APA",
+  "perspective": "US and international",
+  "title": "Peskov: Russia has not demanded Finland's withdrawal from NATO",
+  "url": "https://en.apa.az/cis-countries/peskov-russia-has-not-demanded-finlands-withdrawal-from-nato-535926"
+ },
+ {
+  "key": "2026-11-16|l12",
+  "date": "2026-11-16",
+  "topic": "Finland's response",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Russia demands Finland leave NATO, Bild reports. Moscow denies it, and Helsinki is outraged.",
+  "url": "https://meduza.io/en/news/2026/11/14/russia-demands-finland-leave-nato-bild-reports-moscow-denies-it-and-helsinki-is-outraged"
+ },
+ {
+  "key": "2026-11-16|l13",
+  "date": "2026-11-16",
+  "topic": "Finland's response",
+  "outlet": "Bloomberg",
+  "perspective": "US and international",
+  "title": "Russian NATO Pullback Demands Are 'Not Negotiable,' Finland's Häkkänen Says",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-demands-of-nato-pullback-are-non-starter-finland-says"
+ },
+ {
+  "key": "2026-11-16|l14",
+  "date": "2026-11-16",
+  "topic": "Daily military assessment",
+  "outlet": "ISW",
+  "perspective": "OSINT and trackers",
+  "title": "Russian Offensive Campaign Assessment, November 15, 2026",
+  "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-15-2026"
+ },
+ {
+  "key": "2026-11-16|l15",
+  "date": "2026-11-16",
+  "topic": "Disinformation around Abu Dhabi talks",
+  "outlet": "StopFake",
+  "perspective": "Ukrainian",
+  "title": "Peace on Moscow's Terms: Disinformation Ahead of the Abu Dhabi Talks",
+  "url": "https://www.stopfake.org/en/peace-on-moscow-s-terms-disinformation-ahead-of-the-abu-dhabi-talks/"
+ },
+ {
+  "key": "2026-11-16|l16",
+  "date": "2026-11-16",
+  "topic": "Poland disinformation monitor",
+  "outlet": "Global Security Centre",
+  "perspective": "Central Europe",
+  "title": "Disinformation in Poland: Risk Assessment, 15 Nov 2026",
+  "url": "https://www.gscentre.eu/post/disinformation-in-poland-risk-assessment-15-november-2026"
+ },
+ {
+  "key": "2026-11-16|l17",
+  "date": "2026-11-16",
+  "topic": "Poland rail sabotage case",
+  "outlet": "Notes from Poland",
+  "perspective": "Central Europe",
+  "title": "Poland indicts Ukrainian man for assisting in rail sabotage on behalf of Russia",
+  "url": "https://notesfrompoland.com/2026/11/12/poland-indicts-ukrainian-man-for-assisting-in-rail-sabotage-on-behalf-of-russia/"
+ },
+ {
+  "key": "2026-11-16|l18",
+  "date": "2026-11-16",
+  "topic": "VSD expulsions (context)",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Three Ukrainians expelled from Lithuania before doing 'any actual damage' – VSD",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3105180/three-ukrainians-expelled-from-lithuania-before-doing-any-actual-damage-vsd"
  }
 ]

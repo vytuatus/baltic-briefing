@@ -678,5 +678,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; Zakharova's claim that Europe would be safer without NATO and the leaked negotiating paper are demands and rhetoric, not explicit new threats against NATO or the Baltic states."
+ },
+ {
+  "key": "2026-11-16|airspace",
+  "date": "2026-11-16",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new violation or drone incursion into Baltic, Polish or Finnish airspace was first reported since yesterday's edition (the Black Sea ship strikes off Romania are outside this metric)."
+ },
+ {
+  "key": "2026-11-16|sabotage",
+  "date": "2026-11-16",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 1,
+  "note": "One: the foiled 14 November arson attempt on the Threod Systems drone plant near Tallinn, which Estonia's KAPO attributes to Russia's GRU (eight residents of Latvia detained)."
+ },
+ {
+  "key": "2026-11-16|jamming",
+  "date": "2026-11-16",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region was found."
+ },
+ {
+  "key": "2026-11-16|border",
+  "date": "2026-11-16",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new provocation at Baltic, Polish or Finnish borders with Russia or Belarus was reported (Estonia's planned closure of crossings is a policy response, not an incident)."
+ },
+ {
+  "key": "2026-11-16|threats",
+  "date": "2026-11-16",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None counted; Peskov's remark that Russia would have to use force to reach its goals if Europe does not want peace concerns its war aims and names neither NATO nor the Baltic states."
  }
 ]
