@@ -1,0 +1,42 @@
+[
+ {
+  "key": "2026-11-17|organised",
+  "date": "2026-11-17",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 1,
+  "note": "Vienas: lapkričio 10 d. netoli Baltarusijos sienos Ludzos apylinkėse sustabdytas automobilis su septyniais neteisėtai sieną kirtusiais žmonėmis, kurį vairavo Baltarusijos pilietis."
+ },
+ {
+  "key": "2026-11-17|measures",
+  "date": "2026-11-17",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 2,
+  "note": "Dvi: lapkričio 12 d. Latvijos pasiūlymas pratęsti sustiprintą pasienio režimą iki 2027 m. birželio ir lapkričio 15 d. Estijos sprendimas nuo gruodžio 1 d. uždaryti kelių pasienio punktus su Rusija."
+ },
+ {
+  "key": "2026-11-17|eu",
+  "date": "2026-11-17",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "Šiuo laikotarpiu nėra; Komisijos ataskaita ir 2027 m. fondo pasiūlymas paskelbti lapkričio 6 d., anksčiau."
+ },
+ {
+  "key": "2026-11-17|transfers",
+  "date": "2026-11-17",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "Nepranešta."
+ },
+ {
+  "key": "2026-11-17|claims",
+  "date": "2026-11-17",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 2,
+  "note": "Du šiandienos teiginiai įvertinti kaip melagingi: kad ES paktas verčia Baltijos šalis priimti migrantus ir ankstesnis teiginys apie „10 000 per metus“ Latvijai."
+ }
+]

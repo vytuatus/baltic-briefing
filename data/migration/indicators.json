@@ -1,0 +1,112 @@
+[
+ {
+  "key": "2026-11-17|belarus-crossings",
+  "date": "2026-11-17",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Crossing attempts from Belarus",
+  "status": "Elevated",
+  "trend": "New",
+  "note": "Latvia: 12,857 people prevented from crossing by 10 November 2026, already more than the 12,046 in all of 2025 (5,388 in 2024); early-November daily figures of about 20–40. Lithuania turns back far fewer people, and attempts at Poland's border have fallen sharply since 2025. Pressure is concentrated on Latvia's 173 km border.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|smuggling",
+  "date": "2026-11-17",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Smuggling networks and organised crossings",
+  "status": "Elevated",
+  "trend": "New",
+  "note": "On 10 November Latvian border guards found seven people who had crossed from Belarus crammed into a small car driven by a Belarusian citizen. Latvia has opened 179 criminal cases this year for moving people illegally and has raised the maximum penalty to 12 years. Prosecutors say migrants are made to damage border equipment and suspect Belarusian border officials of involvement; tunnels have also been used.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|russia-border",
+  "date": "2026-11-17",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Russia border: Estonia, Latvia, Finland",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Estonia will close its Narva, Luhamaa and Koidula road crossings on 1 December after a sabotage attempt it blames on Russia; its prime minister says border guards are ready for a possible migration push. Finland's land border with Russia has been closed since 2023. No migrant surge at the Russian border has been reported.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|eu-solidarity",
+  "date": "2026-11-17",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "EU solidarity and relocation decisions",
+  "status": "Watch",
+  "trend": "New",
+  "note": "The Commission's report of 6 November classes Estonia, Latvia, Lithuania, Poland and Finland as at risk of migratory pressure, giving them priority EU support, and lets Estonia and five others ask for their 2027 contribution to be reduced. The size of the 2027 pool and each country's share are now being negotiated in the Council. Each country chooses between taking people, paying or other support.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|transfers",
+  "date": "2026-11-17",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Transfers back to the Baltic states",
+  "status": "Quiet",
+  "trend": "New",
+  "note": "No reports of other EU countries sending migrants to the Baltic states in larger numbers. Germany is resuming returns under the new rules to Italy and Greece. Within the Baltics, people who entered through Latvia and moved on through Lithuania are returned to Latvia within about 30 days under a three-country agreement.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-17|schengen-checks",
+  "date": "2026-11-17",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Border checks inside Schengen",
+  "status": "Elevated",
+  "trend": "New",
+  "note": "Poland extended its checks on the borders with Lithuania and Germany until 30 March 2027; since July 2025 nearly 1,300 people have been refused entry at the Lithuanian border. These checks slow travel and push some returns back toward Lithuania.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|onward-routes",
+  "date": "2026-11-17",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Onward routes through the Baltics",
+  "status": "Watch",
+  "trend": "New",
+  "note": "The main route runs from Belarus into Latvia, then through Lithuania and Poland toward Germany. Lithuanian border guards said irregular migration via Latvia more than doubled in 2025, and Polish checks have caught people who crossed from Lithuania. No new route has been reported this week.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|asylum-capacity",
+  "date": "2026-11-17",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Asylum claims and reception capacity",
+  "status": "Watch",
+  "trend": "New",
+  "note": "The EU asylum agency says Lithuania's asylum applications fell in 2025 compared with 2024. Lithuania is preparing extra accommodation, and experts warn that Latvia would struggle to receive and process a sudden large group in winter. No capacity crisis has been reported.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|law-rights",
+  "date": "2026-11-17",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Pushback law, courts and rights",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Lithuania says it will keep turning people back at the Belarus border under its state of emergency despite the EU Pact, and Latvia proposes to extend its enhanced border regime to 30 June 2027. Rights groups in Lithuania, Latvia and Poland call for pushbacks to be reviewed, and Polish activists who helped migrants still face prosecution.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-17|narratives",
+  "date": "2026-11-17",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Migration disinformation and rhetoric",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Fact-checkers have repeatedly debunked claims that the EU Pact forces the Baltic states to take large numbers of migrants. Moscow frames Estonia's border closure as hostility toward Russians. No new large campaign on migration in the Baltic states was found this week.",
+  "evidence": "Analysis"
+ }
+]

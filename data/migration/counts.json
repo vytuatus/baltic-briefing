@@ -1,0 +1,42 @@
+[
+ {
+  "key": "2026-11-17|organised",
+  "date": "2026-11-17",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 1,
+  "note": "One: the car stopped on 10 November near the Belarus border in Ludza region carrying seven people who had crossed illegally, driven by a Belarusian citizen."
+ },
+ {
+  "key": "2026-11-17|measures",
+  "date": "2026-11-17",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 2,
+  "note": "Two: Latvia's proposal of 12 November to extend its enhanced border regime to June 2027, and Estonia's 15 November decision to close its road crossings with Russia from 1 December."
+ },
+ {
+  "key": "2026-11-17|eu",
+  "date": "2026-11-17",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "None in this window; the Commission's report and 2027 pool proposal came out on 6 November, before it."
+ },
+ {
+  "key": "2026-11-17|transfers",
+  "date": "2026-11-17",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "None reported."
+ },
+ {
+  "key": "2026-11-17|claims",
+  "date": "2026-11-17",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 2,
+  "note": "Two claims in today's tracker were rated false: that the EU Pact forces the Baltic states to accept migrants, and the earlier '10,000 a year' claim about Latvia."
+ }
+]

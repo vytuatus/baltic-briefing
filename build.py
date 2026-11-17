@@ -3,8 +3,11 @@
 
 Usage: python3 build.py   (run from the repository root)
 
-English:    data/*.json     ->  index.html
-Lithuanian: data/lt/*.json  ->  lt/index.html
+Two tabs, each in two languages:
+Russia and NATO   data/*.json               ->  index.html
+                  data/lt/*.json            ->  lt/index.html
+Migration         data/migration/*.json     ->  migration.html
+                  data/lt/migration/*.json  ->  lt/migration.html
 
 Both language folders hold the same six files (editions, indicators, stories,
 claims, counts, links) with the same keys. Status, trend, verdict, group,
@@ -22,6 +25,13 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 POINTS = {"quiet": 0, "watch": 1, "elevated": 2, "high": 3}
 AREAS = ["Military", "Hybrid", "Political", "Logistics and medical"]
 AREA_COLORS = ["#2f6fdf", "#d9534f", "#8a63d2", "#1f9d74"]
+M_AREAS = ["Belarus and Russia", "EU and Schengen", "Domestic", "Information"]
+SECTIONS = {
+    "threat": {"sub": "", "out": "index.html", "areas": AREAS, "colors": AREA_COLORS, "pfx": "", "scale_each": False,
+               "cards": [("conventional", "conventional_note", "conv"), ("hybrid", "hybrid_note", "hyb")]},
+    "migration": {"sub": "migration", "out": "migration.html", "areas": M_AREAS, "colors": AREA_COLORS, "pfx": "m_", "scale_each": True,
+                  "cards": [("pressure", "pressure_note", "mp"), ("eu_risk", "eu_note", "me")]},
+}
 QUALITY = {"confirmed": "Supported", "likely": "Supported", "contested": "Open", "disputed": "Open",
            "unconfirmed": "Open", "misleading": "Rejected", "unsupported": "Rejected", "false": "Rejected"}
 QCOLORS = {"Supported": "var(--ok)", "Open": "var(--warn)", "Rejected": "var(--bad)"}
@@ -77,6 +87,25 @@ T = {
 <div class="card"><h3>Limits</h3><p>Built from the public web only: no dark-web, classified or paywalled material. Intelligence claims are reported as stated, not independently verified. Troop and logistics movements are only visible when someone publishes them, so a quiet indicator means nothing has been reported, not that nothing is happening. Not a substitute for official warnings from your government.</p></div>
 </div></section>""",
         "footer": "Compiled daily with Claude from public sources. Edition of {d}. Previous editions are kept in this site's data files.",
+        "tabs": ["Russia and NATO", "Migration"],
+        "m_kicker": "Daily briefing · Migration pressure on the Baltic states",
+        "m_meta_desc": "Daily fact-based briefing on migration pressure on Lithuania, Latvia and Estonia: Belarus and Russia, EU rules and transfers, border checks and false claims.",
+        "mp_h": "Pressure on Baltic borders", "mp_s": "Organised crossings from Belarus and Russia",
+        "me_h": "Risk of other EU states shifting migrants here", "me_s": "Relocation, transfers and EU decisions",
+        "m_ind_s": "The signs to watch for pressure on the Baltic states, from the Belarusian border to EU decisions, rated from public reporting.",
+        "m_sc_h": "Migration pressure score",
+        "m_sc_s": "Indicator points per area: Quiet 0, Watch 1, Elevated 2, High 3. Kept separate from the Russia threat score so each stays comparable over time.",
+        "m_cn_s": "New items first reported since the previous edition, last 30 days. Each row has its own scale.",
+        "m_hi_s": "Status of each migration indicator by day.",
+        "m_method": """<section class="method"><h2>How the migration tab works</h2><div class="grid">
+<div class="card"><h3>What it tracks</h3><ul>
+<li><b>Belarus and Russia:</b> crossing attempts, smuggling networks and organised pressure at the eastern border.</li>
+<li><b>EU and Schengen:</b> EU solidarity and relocation decisions, transfers of migrants back to the Baltic states, and border checks inside Schengen.</li>
+<li><b>Domestic:</b> asylum claims, reception capacity, laws and court rulings.</li>
+<li><b>Information:</b> false or misleading claims about migration.</li></ul></div>
+<div class="card"><h3>Sources and balance</h3><p>Border guards, interior ministries, prosecutors, the European Commission, the Council and the EU asylum agency come first, then Baltic, Polish and international media, fact-checkers and rights groups. Government figures and rights groups' concerns are both reported, so readers can weigh them.</p></div>
+<div class="card"><h3>Limits</h3><p>Crossing figures count prevented attempts, not people, and are published unevenly from day to day. Lawful returns between EU countries are kept apart from pressure organised by Belarus or Russia. Not legal advice.</p></div>
+</div></section>""",
         "enum": {},
     },
     "lt": {
@@ -125,6 +154,25 @@ T = {
 <div class="card"><h3>Ribojimai</h3><p>Sudaroma tik iš viešai prieinamų interneto šaltinių: be tamsiojo interneto, įslaptintos ar mokamos informacijos. Žvalgybos teiginiai pateikiami taip, kaip paskelbti, savarankiškai jų patikrinti neįmanoma. Karių ir logistikos judėjimas matomas tik tada, kai kas nors apie jį paskelbia, todėl ramus rodiklis reiškia, kad nieko nepranešta, o ne kad nieko nevyksta. Tai nepakeičia oficialių jūsų šalies valdžios įspėjimų.</p></div>
 </div></section>""",
         "footer": "Kasdien sudaroma su Claude iš viešų šaltinių. {d} leidimas. Ankstesni leidimai saugomi šios svetainės duomenų failuose.",
+        "tabs": ["Rusija ir NATO", "Migracija"],
+        "m_kicker": "Kasdienė apžvalga · Migracinis spaudimas Baltijos šalims",
+        "m_meta_desc": "Kasdienė faktais pagrįsta apžvalga apie migracinį spaudimą Lietuvai, Latvijai ir Estijai: Baltarusija ir Rusija, ES taisyklės ir perdavimai, pasienio patikros ir melagingi teiginiai.",
+        "mp_h": "Spaudimas Baltijos šalių sienoms", "mp_s": "Organizuotas sienos kirtimas iš Baltarusijos ir Rusijos",
+        "me_h": "Rizika, kad kitos ES šalys perkels migrantus čia", "me_s": "Perkėlimas, perdavimai ir ES sprendimai",
+        "m_ind_s": "Ženklai, rodantys spaudimą Baltijos šalims – nuo Baltarusijos pasienio iki ES sprendimų, įvertinti pagal viešus pranešimus.",
+        "m_sc_h": "Migracinio spaudimo balas",
+        "m_sc_s": "Rodiklių taškai pagal sritį: Ramu 0, Stebima 1, Padidėjusi 2, Aukšta 3. Laikomas atskirai nuo Rusijos grėsmės balo, kad abu išliktų palyginami laike.",
+        "m_cn_s": "Nauji įvykiai, apie kuriuos pirmą kartą pranešta nuo ankstesnio leidimo, paskutinės 30 dienų. Kiekviena eilutė turi savo skalę.",
+        "m_hi_s": "Kiekvieno migracijos rodiklio būklė pagal dieną.",
+        "m_method": """<section class="method"><h2>Kaip veikia migracijos skiltis</h2><div class="grid">
+<div class="card"><h3>Ką ji stebi</h3><ul>
+<li><b>Baltarusija ir Rusija:</b> bandymai kirsti sieną, kontrabandininkų tinklai ir organizuotas spaudimas rytinėje sienoje.</li>
+<li><b>ES ir Šengenas:</b> ES solidarumo ir perkėlimo sprendimai, migrantų grąžinimas į Baltijos šalis ir patikros Šengeno erdvės viduje.</li>
+<li><b>Vidaus reikalai:</b> prieglobsčio prašymai, priėmimo pajėgumai, įstatymai ir teismų sprendimai.</li>
+<li><b>Informacija:</b> melagingi ar klaidinantys teiginiai apie migraciją.</li></ul></div>
+<div class="card"><h3>Šaltiniai ir pusiausvyra</h3><p>Pirmiausia pasieniečiai, vidaus reikalų ministerijos, prokurorai, Europos Komisija, Taryba ir ES prieglobsčio agentūra, tada Baltijos šalių, Lenkijos ir tarptautinė žiniasklaida, faktų tikrintojai ir žmogaus teisių organizacijos. Pateikiami ir vyriausybių duomenys, ir žmogaus teisių gynėjų nuogąstavimai, kad skaitytojai galėtų juos pasverti.</p></div>
+<div class="card"><h3>Ribojimai</h3><p>Sienos kirtimo skaičiai rodo sustabdytus bandymus, o ne žmones, ir skelbiami netolygiai. Teisėtas grąžinimas tarp ES šalių atskiriamas nuo Baltarusijos ar Rusijos organizuojamo spaudimo. Tai nėra teisinė konsultacija.</p></div>
+</div></section>""",
         "enum": {
             "quiet": "Ramu", "watch": "Stebima", "elevated": "Padidėjusi", "high": "Aukšta",
             "low": "Žema", "moderate": "Vidutinė",
@@ -139,6 +187,12 @@ T = {
             "us and international": "JAV ir tarptautiniai", "russian independent": "Nepriklausoma Rusijos žiniasklaida",
             "russian state-aligned": "Rusijos valstybinė žiniasklaida", "osint and trackers": "OSINT ir stebėsenos projektai",
             "commentary": "Komentarai",
+            "belarus and russia": "Baltarusija ir Rusija", "eu and schengen": "ES ir Šengenas", "domestic": "Vidaus reikalai",
+            "information": "Informacija",
+            "organised crossing incidents": "Organizuoto sienos kirtimo atvejai", "new border measures": "Naujos pasienio priemonės",
+            "eu decisions affecting the baltic states": "ES sprendimai dėl Baltijos šalių",
+            "transfers to the baltic states": "Perdavimai Baltijos šalims", "misleading migration claims": "Klaidinantys teiginiai apie migraciją",
+            "eu institutions": "ES institucijos", "fact-checkers": "Faktų tikrintojai", "rights groups": "Žmogaus teisių organizacijos",
         },
     },
 }
@@ -176,9 +230,15 @@ def by_order(rows):
 
 
 class Page:
-    def __init__(self, lang):
+    def __init__(self, lang, section="threat"):
         self.lang = lang
         self.t = T[lang]
+        self.sec = SECTIONS[section]
+        self.section = section
+
+    def s(self, key):
+        """Section-specific text, falling back to the shared text."""
+        return self.t.get(self.sec["pfx"] + key, self.t[key])
 
     def tr(self, value):
         """Translate an English enum value for display."""
@@ -200,11 +260,12 @@ class Page:
     def score_chart(self, indicators, dates):
         W, H = 760, 250
         m = dict(top=12, right=200, bottom=26, left=34)
-        series = {a: [] for a in AREAS}
+        areas = self.sec["areas"]
+        series = {a: [] for a in areas}
         ymax = 3
         for d in dates:
             day = [r for r in indicators if r["date"] == d]
-            for a in AREAS:
+            for a in areas:
                 rows = [r for r in day if r.get("group") == a]
                 s = sum(POINTS.get(str(r.get("status", "")).lower(), 0) for r in rows)
                 series[a].append((d, s, len(rows) * 3))
@@ -218,7 +279,7 @@ class Page:
         def y(v):
             return m["top"] + (H - m["top"] - m["bottom"]) * (1 - v / ymax)
 
-        out = [f'<svg viewBox="0 0 {W} {H}" width="100%" role="img" aria-label="{e(self.t["sc_h"])}">']
+        out = [f'<svg viewBox="0 0 {W} {H}" width="100%" role="img" aria-label="{e(self.s("sc_h"))}">']
         for t in range(0, ymax + 1, 3):
             out.append(f'<line x1="{m["left"]}" x2="{W - m["right"]}" y1="{y(t):.1f}" y2="{y(t):.1f}" class="grid"/>')
             out.append(f'<text x="{m["left"] - 8}" y="{y(t):.1f}" dy="0.32em" text-anchor="end">{t}</text>')
@@ -227,9 +288,9 @@ class Page:
             if i % step == 0 or i == n - 1:
                 out.append(f'<text x="{x(i):.1f}" y="{H - 6}" text-anchor="middle">{e(self.fmt_short(d))}</text>')
         ends = []
-        for k, a in enumerate(AREAS):
+        for k, a in enumerate(areas):
             pts = series[a]
-            col = AREA_COLORS[k]
+            col = self.sec["colors"][k]
             name = self.tr(a)
             if n > 1:
                 path = " ".join(f'{"M" if i == 0 else "L"}{x(i):.1f},{y(s):.1f}' for i, (_, s, _) in enumerate(pts))
@@ -333,27 +394,31 @@ class Page:
         change = totals[-1][1] - totals[-2][1] if len(totals) > 1 else None
 
         sw_label, sw_href, sw_lang = t["switch"]
+        if self.section != "threat":
+            sw_href += self.sec["out"]
         P = []
         a = P.append
         a(f"""<!doctype html><html lang="{t['html_lang']}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{e(t['title'])}</title>
-<meta name="description" content="{e(t['meta_desc'])}">
+<title>{e(t['title'] + ('' if self.section == 'threat' else ' · ' + t['tabs'][1]))}</title>
+<meta name="description" content="{e(self.s('meta_desc'))}">
 <link rel="alternate" hreflang="{sw_lang}" href="{sw_href}">
 <style>{CSS}</style></head><body><div class="wrap">""")
-        a(f'<header class="head"><div class="topline"><p class="kicker">{e(t["kicker"])} · {e(self.fmt_long(last))}</p>'
+        tabs = "".join(
+            f'<a href="{"index.html" if k == "threat" else "migration.html"}"{" aria-current=\"page\"" if k == self.section else ""}>{e(lab)}</a>'
+            for k, lab in zip(["threat", "migration"], t["tabs"]))
+        a(f'<header class="head"><div class="topline"><p class="kicker">{e(self.s("kicker"))} · {e(self.fmt_long(last))}</p>'
           f'<a class="lang" href="{sw_href}" hreflang="{sw_lang}" lang="{sw_lang}">{e(sw_label)}</a></div>'
-          f'<h1>{e(t["title"])}</h1><p class="notice">{e(t["notice"])}</p><p class="lede">{e(ed.get("headline"))}</p></header>')
+          f'<h1>{e(t["title"])}</h1><nav class="tabs">{tabs}</nav><p class="notice">{e(t["notice"])}</p><p class="lede">{e(ed.get("headline"))}</p></header>')
         a('<div class="grid">')
-        a(f'<div class="card"><h3>{e(t["conv_h"])}</h3><p class="sub">{e(t["conv_s"])}</p>'
-          f'<p class="big lv-{level(ed.get("conventional"))}">{e(self.tr(ed.get("conventional")))}</p><p style="margin:0">{e(ed.get("conventional_note"))}</p></div>')
-        a(f'<div class="card"><h3>{e(t["hyb_h"])}</h3><p class="sub">{e(t["hyb_s"])}</p>'
-          f'<p class="big lv-{level(ed.get("hybrid"))}">{e(self.tr(ed.get("hybrid")))}</p><p style="margin:0">{e(ed.get("hybrid_note"))}</p></div>')
+        for lv, note, tk in self.sec["cards"]:
+            a(f'<div class="card"><h3>{e(t[tk + "_h"])}</h3><p class="sub">{e(t[tk + "_s"])}</p>'
+              f'<p class="big lv-{level(ed.get(lv))}">{e(self.tr(ed.get(lv)))}</p><p style="margin:0">{e(ed.get(note))}</p></div>')
         a(f'<div class="card"><h3>{e(t["chg_h"])}</h3><p class="sub">{e(t["chg_s"])}</p><p style="margin:0">{e(ed.get("changed"))}</p></div>')
         a("</div>")
         a(f'<section><h2>{e(t["crit_h"])}</h2><p class="sub">{e(t["crit_s"])}</p><p class="bottom">{e(ed.get("bottom_line"))}</p></section>')
 
-        a(f'<section><h2>{e(t["ind_h"])}</h2><p class="sub">{e(t["ind_s"])}</p><div class="scroll"><table><thead><tr>'
+        a(f'<section><h2>{e(t["ind_h"])}</h2><p class="sub">{e(self.s("ind_s"))}</p><div class="scroll"><table><thead><tr>'
           + "".join(f"<th>{e(c)}</th>" for c in t["ind_cols"]) + "</tr></thead><tbody>")
         for r in ind_today:
             a(f'<tr><td class="strong">{e(r.get("indicator"))}</td><td class="muted">{e(self.tr(r.get("group")))}</td>'
@@ -380,11 +445,11 @@ class Page:
         else:
             cls = "lv-high" if change > 0 else "lv-quiet" if change < 0 else ""
             chg = f'{e(t["change"])} <b class="{cls}">{"+" if change > 0 else ""}{change}</b>'
-        a(f'<div class="card span"><h3>{e(t["sc_h"])}</h3><p class="sub">{e(t["sc_s"])}</p>'
+        a(f'<div class="card span"><h3>{e(self.s("sc_h"))}</h3><p class="sub">{e(self.s("sc_s"))}</p>'
           f'<p class="big">{score}<span class="of"> {e(t["of"])} {smax}</span></p><p class="sub">{chg}</p>'
           f'{self.score_chart(indicators, ind_dates) if ind_dates else ""}</div>')
         c_dates = sorted({r["date"] for r in counts})[-30:]
-        a(f'<div class="card"><h3>{e(t["cn_h"])}</h3><p class="sub">{e(t["cn_s"])}</p>')
+        a(f'<div class="card"><h3>{e(t["cn_h"])}</h3><p class="sub">{e(self.s("cn_s"))}</p>')
         if c_dates:
             ymax = max([1] + [int(r.get("value", 0) or 0) for r in counts if r["date"] in c_dates])
             for mrow in by_order([r for r in counts if r["date"] == c_dates[-1]]):
@@ -393,7 +458,8 @@ class Page:
                     hit = [r for r in counts if r["date"] == d and r.get("metric") == mrow.get("metric")]
                     if hit:
                         pts.append((d, int(hit[0].get("value", 0) or 0), hit[0].get("note", "")))
-                a(f'<div class="crow"><span>{e(self.tr(mrow.get("metric")))}</span><span>{self.mini_bars(pts, ymax)}</span>'
+                mmax = max([1] + [p[1] for p in pts]) if self.sec["scale_each"] else ymax
+                a(f'<div class="crow"><span>{e(self.tr(mrow.get("metric")))}</span><span>{self.mini_bars(pts, mmax)}</span>'
                   f'<span class="cval">{int(mrow.get("value", 0) or 0)}</span></div>')
         a("</div>")
         q_dates = sorted({r["date"] for r in claims})[-30:]
@@ -405,7 +471,7 @@ class Page:
         a("</div></section>")
 
         h_dates = sorted({r["date"] for r in indicators})[-21:]
-        a(f'<section><h2>{e(t["hi_h"])}</h2><p class="sub">{e(t["hi_s"])}</p><div class="card hist"><table><thead><tr><th></th>')
+        a(f'<section><h2>{e(t["hi_h"])}</h2><p class="sub">{e(self.s("hi_s"))}</p><div class="card hist"><table><thead><tr><th></th>')
         a("".join(f"<th>{e(self.fmt_short(d))}</th>" for d in h_dates) + "</tr></thead><tbody>")
         lookup = {(r["date"], r.get("key", "").split("|")[-1]): r for r in indicators}
         for ind in ind_today:
@@ -432,7 +498,7 @@ class Page:
             a(f'<li><span class="ltopic">{e(r.get("topic"))} · {e(self.tr(r.get("perspective")))}</span>'
               f'<a{href} target="_blank" rel="noopener noreferrer">{e(r.get("title"))}</a> — {e(r.get("outlet"))}</li>')
         a("</ul></section>")
-        a(t["method"])
+        a(self.s("method"))
         a(f'<footer>{e(t["footer"].format(d=self.fmt_long(last)))}</footer>')
         a("</div></body></html>")
         os.makedirs(os.path.dirname(outpath), exist_ok=True)
@@ -451,6 +517,9 @@ h2{font-size:1.15rem;font-weight:600;margin:0 0 .25rem}h3{font-size:1rem;font-we
 .kicker{margin:0;font-size:.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
 .lang{font-size:.85rem;font-weight:600;color:var(--fg);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:3px 12px;background:var(--panel)}
 .lang:hover{border-color:var(--muted)}
+.tabs{display:flex;gap:4px;flex-wrap:wrap;margin:0 0 1rem;border-bottom:1px solid var(--line)}
+.tabs a{padding:8px 14px;color:var(--muted);text-decoration:none;font-weight:600;font-size:.95rem;border-bottom:3px solid transparent;margin-bottom:-1px}
+.tabs a:hover{color:var(--fg)}.tabs a[aria-current]{color:var(--fg);border-bottom-color:var(--accent)}
 .notice{margin:0 0 1rem;max-width:52rem;font-size:.82rem;color:var(--muted);border-left:3px solid var(--warn);padding:6px 0 6px 12px}
 .lede{font-size:1.12rem;max-width:52rem;margin:0}.head{padding-bottom:1.5rem;border-bottom:1px solid var(--line);margin-bottom:1.5rem}
 .sub{margin:0 0 1rem;color:var(--muted);font-size:.85rem;max-width:52rem}.card .sub{margin:.15rem 0 .6rem}
@@ -485,13 +554,21 @@ footer{margin-top:3rem;color:var(--muted);font-size:.8rem}"""
 
 
 def main():
-    d_en = Page("en").build("data", os.path.join(ROOT, "index.html"))
-    print(f"Built index.html for {d_en}")
-    if os.path.exists(os.path.join(ROOT, "data", "lt", "editions.json")):
-        d_lt = Page("lt").build(os.path.join("data", "lt"), os.path.join(ROOT, "lt", "index.html"))
-        print(f"Built lt/index.html for {d_lt}")
-        if d_lt != d_en:
-            print(f"WARNING: Lithuanian edition ({d_lt}) is behind English ({d_en})")
+    for section, cfg in SECTIONS.items():
+        en_dir = os.path.join("data", cfg["sub"]) if cfg["sub"] else "data"
+        lt_dir = os.path.join("data", "lt", cfg["sub"]) if cfg["sub"] else os.path.join("data", "lt")
+        if not os.path.exists(os.path.join(ROOT, en_dir, "editions.json")):
+            print(f"Skipped {cfg['out']}: no data yet")
+            continue
+        d_en = Page("en", section).build(en_dir, os.path.join(ROOT, cfg["out"]))
+        print(f"Built {cfg['out']} for {d_en}")
+        if os.path.exists(os.path.join(ROOT, lt_dir, "editions.json")):
+            d_lt = Page("lt", section).build(lt_dir, os.path.join(ROOT, "lt", cfg["out"]))
+            print(f"Built lt/{cfg['out']} for {d_lt}")
+            if d_lt != d_en:
+                print(f"WARNING: Lithuanian {section} edition ({d_lt}) is behind English ({d_en})")
+        else:
+            print(f"WARNING: no Lithuanian data for {section}")
 
 
 if __name__ == "__main__":

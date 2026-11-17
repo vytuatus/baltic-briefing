@@ -1,0 +1,62 @@
+[
+ {
+  "key": "2026-11-17|latvia-record",
+  "date": "2026-11-17",
+  "order": 1,
+  "title": "Latvia: crossing attempts from Belarus already above all of 2025",
+  "summary": "Latvia's border guard says 12,857 people were stopped trying to cross from Belarus between 1 January and 10 November 2026, compared with 12,046 in all of 2025, 5,388 in 2024 and 13,863 in 2023. On 12 November the interior ministry proposed extending the enhanced border regime in Ludza, Krāslava, Augšdaugava and Daugavpils areas until 30 June 2027, citing continued pressure, tunnels and damage to border equipment.",
+  "evidence": "Official statement",
+  "corroboration": "LETA figures via UA.NEWS and BNN; daily figures from LSM.",
+  "analysis": "The year-to-date figure counts prevented attempts, not people, so the same person may be counted more than once. Even so, the trend is clear and matches the Commission's view that pressure has shifted from Poland to Latvia."
+ },
+ {
+  "key": "2026-11-17|organised-pressure",
+  "date": "2026-11-17",
+  "order": 2,
+  "title": "Latvian prosecutors: migrants forced to damage border equipment",
+  "summary": "Latvian prosecutors say migrants waiting on the Belarusian side were told to damage Latvian border infrastructure or face violence if they could not pay about 5,000 dollars for a crossing, and that there are reasonable suspicions of involvement by Belarusian border officials. More than 60 cases of damage were recorded this year, against 23 last year. On 10 November border guards caught a Belarusian driver carrying seven people who had crossed illegally; Latvia has raised the maximum penalty for organising illegal migration to 12 years.",
+  "evidence": "Official statement",
+  "corroboration": "LSM and LTV De facto, via UA.NEWS; LSM report of 11 November.",
+  "analysis": "This is the clearest sign that pressure on Latvia is organised rather than spontaneous. Statements about Belarusian officials come from an ongoing investigation and have not been tested in court."
+ },
+ {
+  "key": "2026-11-17|eu-2027",
+  "date": "2026-11-17",
+  "order": 3,
+  "title": "EU solidarity: the Baltic states are at risk, and no one can be forced to take people",
+  "summary": "The Commission's annual report of 6 November lists Estonia, Latvia, Lithuania, Poland and Finland as at risk of migratory pressure, which gives them priority EU support, and allows Estonia and five other countries to ask for their 2027 contribution to be reduced. Greece, Cyprus, Italy and Spain are the countries under pressure that receive help. For 2026 the EU agreed 21,000 relocations or equivalent support and 420 million euros, and each country chooses how to contribute. The Council is now negotiating the 2027 pool.",
+  "evidence": "Official statement",
+  "corroboration": "European Commission report; Council of the EU; Euronews; Bytes Europe.",
+  "analysis": "The rules work against forced redistribution to the Baltic states. Euronews reports that fewer than 1,000 people will actually be relocated across the EU in 2026, with most countries paying instead."
+ },
+ {
+  "key": "2026-11-17|poland-checks",
+  "date": "2026-11-17",
+  "order": 4,
+  "title": "Poland keeps checks on the Lithuanian border until March 2027",
+  "summary": "On 1 October Poland extended its checks on the borders with Lithuania and Germany for six months, to 30 March 2027. It says nearly 1,300 people have been refused entry at the Lithuanian border since July 2025 and more than 130 detained for helping illegal crossings.",
+  "evidence": "Official statement",
+  "corroboration": "Polish interior ministry; Anadolu-based report.",
+  "analysis": "This is the main way neighbouring EU countries are pushing pressure back toward Lithuania. It is lawful under Schengen rules for a limited time, but it has now been renewed several times."
+ },
+ {
+  "key": "2026-11-17|estonia-closure",
+  "date": "2026-11-17",
+  "order": 5,
+  "title": "Estonia closes road crossings with Russia from 1 December",
+  "summary": "Estonia will close the Narva, Luhamaa and Koidula road crossings after a sabotage attempt it attributes to Russia. Its prime minister says border guards are prepared for a possible attempt to push migrants across, as happened at Finland's border in 2023.",
+  "evidence": "Official statement",
+  "corroboration": "ERR, Al Jazeera and others.",
+  "analysis": "The closure is a security response, but it raises the risk that Russia tries to send migrants toward the green border, as it did with Finland. No such movement has been reported yet."
+ },
+ {
+  "key": "2026-11-17|eu-returns",
+  "date": "2026-11-17",
+  "order": 6,
+  "title": "Returns under EU rules are aimed at Italy and Greece, not the Baltics",
+  "summary": "Germany says returns to Italy and Greece under the EU rules should resume for people who arrived after the Pact took effect on 12 June 2026. No reports were found of Germany or other western countries planning returns to the Baltic states. Within the region, Lithuania returns people who entered through Latvia under a three-country agreement.",
+  "evidence": "Official statement",
+  "corroboration": "Il Sole 24 Ore; LRT.",
+  "analysis": "People who first entered the EU through the Baltic states can lawfully be sent back there. This indicator will show if that starts to grow."
+ }
+]

@@ -1,0 +1,46 @@
+[
+ {
+  "key": "2026-11-17|forced-relocation",
+  "date": "2026-11-17",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states",
+  "evidence": "Unverified claim",
+  "conflict": "The Pact lets each country choose between taking people, paying or giving other support; Latvia and Lithuania have said they will not take relocated migrants, and fewer than 1,000 people are expected to be relocated across the whole EU in 2026.",
+  "verdict": "False",
+  "verdict_note": "The rules and the published pledges contradict it."
+ },
+ {
+  "key": "2026-11-17|latvia-10000",
+  "date": "2026-11-17",
+  "order": 2,
+  "claim": "Latvia will have to take 10,000 migrants a year or pay 200 million euros",
+  "claimed_by": "Latvian populist politicians before the 2024 European elections (fact-checked by Re:Baltica)",
+  "evidence": "Unverified claim",
+  "conflict": "Re:Baltica found the estimate for Latvia at the time was 99 people or 2 million euros; the agreed 2026 pool for the whole EU is 21,000 relocations or equivalent support.",
+  "verdict": "False",
+  "verdict_note": "An older claim that still circulates; the figures were wrong by about a hundred times."
+ },
+ {
+  "key": "2026-11-17|belarus-officials",
+  "date": "2026-11-17",
+  "order": 3,
+  "claim": "Belarusian border officials help organise illegal migration into Latvia",
+  "claimed_by": "Latvian prosecutors",
+  "evidence": "Official statement",
+  "conflict": "Belarus has not responded to this specific case; the evidence comes from an ongoing criminal investigation.",
+  "verdict": "Likely",
+  "verdict_note": "Consistent with documented state organisation of migration from Belarus since 2021, but not yet tested in court."
+ },
+ {
+  "key": "2026-11-17|forced-sabotage",
+  "date": "2026-11-17",
+  "order": 4,
+  "claim": "Migrants are forced to damage Latvian border equipment if they cannot pay smugglers",
+  "claimed_by": "Latvian prosecutors; LTV De facto",
+  "evidence": "Official statement",
+  "conflict": "Based on testimony gathered in an ongoing investigation; no independent confirmation yet.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Credible and specific, but still under investigation."
+ }
+]

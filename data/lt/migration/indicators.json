@@ -1,0 +1,112 @@
+[
+ {
+  "key": "2026-11-17|belarus-crossings",
+  "date": "2026-11-17",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Bandymai kirsti sieną iš Baltarusijos",
+  "status": "Elevated",
+  "trend": "New",
+  "note": "Latvija: iki 2026 m. lapkričio 10 d. sustabdyti 12 857 bandymai kirsti sieną – jau daugiau nei 12 046 per visus 2025 m. (5 388 – 2024 m.); lapkričio pradžioje – maždaug 20–40 per parą. Lietuva grąžina gerokai mažiau žmonių, o bandymų Lenkijos pasienyje nuo 2025 m. smarkiai sumažėjo. Spaudimas sutelktas į 173 km Latvijos sieną.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|smuggling",
+  "date": "2026-11-17",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Kontrabandininkų tinklai ir organizuotas sienos kirtimas",
+  "status": "Elevated",
+  "trend": "New",
+  "note": "Lapkričio 10 d. Latvijos pasieniečiai rado septynis iš Baltarusijos atvykusius žmones, sugrūstus į mažą automobilį, kurį vairavo Baltarusijos pilietis. Šiemet Latvija pradėjo 179 baudžiamąsias bylas dėl neteisėto žmonių gabenimo ir padidino didžiausią bausmę iki 12 metų. Prokurorai teigia, kad migrantai verčiami gadinti pasienio įrangą, ir įtaria Baltarusijos pasieniečių dalyvavimą; naudoti ir tuneliai.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|russia-border",
+  "date": "2026-11-17",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Siena su Rusija: Estija, Latvija, Suomija",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Estija gruodžio 1 d. uždarys Narvos, Luhamaa ir Koidulos kelių pasienio punktus po sabotažo bandymo, kurį priskiria Rusijai; jos premjeras sako, kad pasieniečiai pasirengę galimam migraciniam spaudimui. Suomijos sausumos siena su Rusija uždaryta nuo 2023 m. Apie migrantų antplūdį prie Rusijos sienos nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|eu-solidarity",
+  "date": "2026-11-17",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "ES solidarumo ir perkėlimo sprendimai",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Lapkričio 6 d. Komisijos ataskaitoje Estija, Latvija, Lietuva, Lenkija ir Suomija priskirtos migracinio spaudimo rizikos grupei, todėl joms pirmenybė teikiant ES paramą; Estija ir dar penkios šalys gali prašyti sumažinti 2027 m. įnašą. 2027 m. fondo dydis ir kiekvienos šalies dalis dabar derinami Taryboje. Kiekviena šalis renkasi: priimti žmones, mokėti ar teikti kitą paramą.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|transfers",
+  "date": "2026-11-17",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Perdavimai atgal į Baltijos šalis",
+  "status": "Quiet",
+  "trend": "New",
+  "note": "Nepranešta, kad kitos ES šalys didesniais mastais siųstų migrantus į Baltijos šalis. Vokietija pagal naujas taisykles atnaujina grąžinimą į Italiją ir Graikiją. Baltijos regione žmonės, atvykę per Latviją ir keliavę toliau per Lietuvą, pagal trišalį susitarimą grąžinami į Latviją maždaug per 30 dienų.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-17|schengen-checks",
+  "date": "2026-11-17",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Patikros Šengeno erdvės viduje",
+  "status": "Elevated",
+  "trend": "New",
+  "note": "Lenkija pratęsė patikras pasienyje su Lietuva ir Vokietija iki 2027 m. kovo 30 d.; nuo 2025 m. liepos Lietuvos pasienyje atsisakyta įleisti beveik 1 300 žmonių. Šios patikros lėtina keliones ir dalį grąžinamų žmonių nukreipia atgal Lietuvos link.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|onward-routes",
+  "date": "2026-11-17",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Tranzito maršrutai per Baltijos šalis",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Pagrindinis maršrutas eina iš Baltarusijos į Latviją, toliau per Lietuvą ir Lenkiją Vokietijos link. Lietuvos pasieniečių teigimu, neteisėta migracija per Latviją 2025 m. išaugo daugiau nei dvigubai, o Lenkijos patikros sulaikė žmonių, atvykusių iš Lietuvos. Šią savaitę apie naujus maršrutus nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|asylum-capacity",
+  "date": "2026-11-17",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Prieglobsčio prašymai ir priėmimo pajėgumai",
+  "status": "Watch",
+  "trend": "New",
+  "note": "ES prieglobsčio agentūros duomenimis, Lietuvos prieglobsčio prašymų 2025 m. sumažėjo, palyginti su 2024 m. Lietuva rengia papildomas apgyvendinimo vietas, o ekspertai įspėja, kad Latvijai būtų sunku žiemą priimti ir apdoroti staiga atvykusią didelę grupę. Apie pajėgumų krizę nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|law-rights",
+  "date": "2026-11-17",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Apgręžimo įstatymas, teismai ir teisės",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Lietuva sako, kad, nepaisant ES pakto, toliau apgręš žmones Baltarusijos pasienyje pagal ekstremaliąją padėtį, o Latvija siūlo pratęsti sustiprintą pasienio režimą iki 2027 m. birželio 30 d. Žmogaus teisių organizacijos Lietuvoje, Latvijoje ir Lenkijoje ragina peržiūrėti apgręžimo praktiką, o migrantams padėję Lenkijos aktyvistai vis dar persekiojami teisme.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-17|narratives",
+  "date": "2026-11-17",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Dezinformacija ir retorika apie migraciją",
+  "status": "Watch",
+  "trend": "New",
+  "note": "Faktų tikrintojai ne kartą paneigė teiginius, kad ES paktas verčia Baltijos šalis priimti daug migrantų. Maskva Estijos sienos uždarymą pateikia kaip priešiškumą rusams. Šią savaitę naujos didelės kampanijos apie migraciją Baltijos šalyse nerasta.",
+  "evidence": "Analizė"
+ }
+]

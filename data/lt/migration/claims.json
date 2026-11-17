@@ -1,0 +1,46 @@
+[
+ {
+  "key": "2026-11-17|forced-relocation",
+  "date": "2026-11-17",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir įrašai socialiniuose tinkluose Baltijos šalyse",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Paktas leidžia kiekvienai šaliai rinktis – priimti žmones, mokėti ar teikti kitą paramą; Latvija ir Lietuva pareiškė, kad perkeliamų migrantų nepriims, o 2026 m. visoje ES tikimasi perkelti mažiau nei 1 000 žmonių.",
+  "verdict": "False",
+  "verdict_note": "Taisyklės ir paskelbti įsipareigojimai tam prieštarauja."
+ },
+ {
+  "key": "2026-11-17|latvia-10000",
+  "date": "2026-11-17",
+  "order": 2,
+  "claim": "Latvija turės kasmet priimti 10 000 migrantų arba mokėti 200 mln. eurų",
+  "claimed_by": "Latvijos populistiniai politikai prieš 2024 m. Europos Parlamento rinkimus (patikrino Re:Baltica)",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Re:Baltica nustatė, kad tuo metu Latvijai skaičiuota 99 žmonės arba 2 mln. eurų; sutartas 2026 m. fondas visai ES – 21 000 perkėlimų ar lygiavertė parama.",
+  "verdict": "False",
+  "verdict_note": "Senesnis teiginys, kuris vis dar sklando; skaičiai buvo išpūsti maždaug šimtą kartų."
+ },
+ {
+  "key": "2026-11-17|belarus-officials",
+  "date": "2026-11-17",
+  "order": 3,
+  "claim": "Baltarusijos pasieniečiai padeda organizuoti neteisėtą migraciją į Latviją",
+  "claimed_by": "Latvijos prokurorai",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Baltarusija į šią konkrečią bylą neatsakė; įrodymai gauti vykstant baudžiamajam tyrimui.",
+  "verdict": "Likely",
+  "verdict_note": "Atitinka nuo 2021 m. dokumentuotą valstybės organizuojamą migraciją iš Baltarusijos, tačiau teisme dar nepatikrinta."
+ },
+ {
+  "key": "2026-11-17|forced-sabotage",
+  "date": "2026-11-17",
+  "order": 4,
+  "claim": "Migrantai, negalintys sumokėti kontrabandininkams, verčiami gadinti Latvijos pasienio įrangą",
+  "claimed_by": "Latvijos prokurorai; LTV „De facto“",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Remiamasi vykstančio tyrimo metu surinktais parodymais; nepriklausomo patvirtinimo kol kas nėra.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Patikima ir konkretu, tačiau dar tiriama."
+ }
+]
