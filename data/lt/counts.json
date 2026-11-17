@@ -718,5 +718,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Neįskaičiuota; Peskovo pastaba, kad Rusija turėtų panaudoti jėgą savo tikslams pasiekti, jei Europa nenori taikos, susijusi su jos karo tikslais ir neįvardija nei NATO, nei Baltijos šalių."
+ },
+ {
+  "key": "2026-11-17|airspace",
+  "date": "2026-11-17",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo vakarykščio leidimo pirmą kartą nepranešta apie jokį naują pažeidimą ar drono įskridimą į Baltijos šalių, Lenkijos ar Suomijos oro erdvę."
+ },
+ {
+  "key": "2026-11-17|sabotage",
+  "date": "2026-11-17",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; „Threod Systems“ byla įskaičiuota vakar, o Lenkijoje sulaikytiems trims paaugliams dėl tariamo neonacių plano ryšys su Rusija nenurodomas."
+ },
+ {
+  "key": "2026-11-17|jamming",
+  "date": "2026-11-17",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Baltijos regione nėra; lapkričio 15 d. atskleisti įtariami trikdžiai prie Amsterdamo Schipholio oro uosto yra už regiono ribų ir nepriskirti."
+ },
+ {
+  "key": "2026-11-17|border",
+  "date": "2026-11-17",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; apie naujas provokacijas prie Baltijos šalių, Lenkijos ar Suomijos sienų su Rusija ar Baltarusija nepranešta."
+ },
+ {
+  "key": "2026-11-17|threats",
+  "date": "2026-11-17",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Neįskaičiuota; Peskovo pastaba, kad sienos niekada nieko gero jų statytojams neatnešė, yra užmaskuotas įspėjimas, o ne aiškus grasinimas NATO ar Baltijos šalims."
  }
 ]

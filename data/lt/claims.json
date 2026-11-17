@@ -1241,5 +1241,82 @@
   "conflict": "Sulaikytas ukrainietis paauglys, tačiau vietos portalas praneša apie „Telegram“ kanalą, mokantį 500 dolerių už darbą, o Ukrainos ambasada kaltina Rusijos hibridinę taktiką; Lenkijos institucijos kaltininko neįvardijo.",
   "verdict": "Contested",
   "verdict_note": "Kas tai padarė, nustatyta tik vienu atveju; kas už tai mokėjo, nežinoma."
+ },
+ {
+  "key": "2026-11-17|c1",
+  "date": "2026-11-17",
+  "order": 1,
+  "claim": "Rusijos GRU užsakė bandymą padegti „Threod Systems“ įmonę Estijoje",
+  "claimed_by": "Estijos KAPO, generalinis prokuroras ir užsienio reikalų ministras; palaiko Latvijos VDD",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Kremlius dabar aiškiai vadina kaltinimą visiškai nepagrįstu; nė viena pusė savo įrodymų nepaskelbė.",
+  "verdict": "Likely",
+  "verdict_note": "Sulaikymai, teismui pateikti prašymai suimti ir paėmimai dviejose šalyse palaiko Estijos versiją; paneigimas nepateikia jokio alternatyvaus paaiškinimo."
+ },
+ {
+  "key": "2026-11-17|c2",
+  "date": "2026-11-17",
+  "order": 2,
+  "claim": "Estijos kaltinimai Rusijai dėl sabotažo yra visiškai nepagrįsti",
+  "claimed_by": "Kremliaus atstovas Dmitrijus Peskovas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estija ir Latvija nurodo fizinius įrodymus ir sulaikymus; Rusija neigė ankstesnius priskyrimus, kuriuos vėliau patvirtino Europos teismai.",
+  "verdict": "Unsupported",
+  "verdict_note": "Visuotinis paneigimas be įrodymų ar alternatyvaus paaiškinimo."
+ },
+ {
+  "key": "2026-11-17|c3",
+  "date": "2026-11-17",
+  "order": 3,
+  "claim": "Estijos sienos uždarymas yra rusofobija ir siena, kuri pakenks ją statantiems",
+  "claimed_by": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova; Kremliaus atstovas Dmitrijus Peskovas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estija uždarymą sieja su konkrečiu sabotažo bandymu ir sankcijų apėjimu, o ne su rusais kaip tokiais.",
+  "verdict": "Misleading",
+  "verdict_note": "Uždarymas yra deklaruotas saugumo atsakas; jis pakenks per sieną gyvenantiems žmonėms, ir šis pateikimas tuo naudojasi."
+ },
+ {
+  "key": "2026-11-17|c4",
+  "date": "2026-11-17",
+  "order": 4,
+  "claim": "Rusija raštu pateikė reikalavimą, kad NATO atitrauktų pajėgas ir bazes į 1997 m. pozicijas – tai išvestų jas iš Lenkijos, Baltijos šalių ir Suomijos",
+  "claimed_by": "The New York Times, The Economist ir The Telegraph (nutekintas dokumentas); pakartojo Al Jazeera",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Peskovas lapkričio 13 d. sakė, kad NATO narių pasitraukimas nebuvo aptartas; dokumentas nepasirašytas ir nepaskelbtas.",
+  "verdict": "Likely",
+  "verdict_note": "Keli leidiniai aprašo tą patį dokumentą, o vyriausiasis Rusijos derybininkas viešai naują Europos saugumo sistemą vadina pagrindine tema; Peskovo paneigimas neapima pajėgų atitraukimo."
+ },
+ {
+  "key": "2026-11-17|c5",
+  "date": "2026-11-17",
+  "order": 5,
+  "claim": "Estija sunaikino mažiausiai 140 sovietinių karo paminklų – tai istorinis vandalizmas",
+  "claimed_by": "Rusijos laikinasis reikalų patikėtinis Taline per RIA Novosti; pakartojo Izvestija, RT ir kiti",
+  "evidence": "Analizė",
+  "conflict": "„Propastop“ pažymi, kad Estija suregistravo 322 paminklus ir 244 numatė pašalinti ar pakeisti, o karių kapai prižiūrimi; skaičius 140 nepaaiškintas.",
+  "verdict": "Misleading",
+  "verdict_note": "Sovietinių paminklų šalinimas yra reali politika, tačiau teiginys ją sumaišo su karių kapais ir atminimu, kad sudarytų įspūdį apie išpuolį prieš mirusiuosius."
+ },
+ {
+  "key": "2026-11-17|c6",
+  "date": "2026-11-17",
+  "order": 6,
+  "claim": "Lenkijos sabotažo grėsmė buvo išgalvota, kad būtų pateisinta griežtesnė kontrolė",
+  "claimed_by": "Antivyriausybinės ir Rusijai palankios socialinių tinklų paskyros Lenkijoje (pasak Varšuvos saugumo bendrovės stebėsenos)",
+  "evidence": "Analizė",
+  "conflict": "Lenkijos prokurorai patvirtino 2025 m. lapkričio geležinkelio sabotažą ir kitus veiksmus, yra sulaikymų ir kaltinimų.",
+  "verdict": "False",
+  "verdict_note": "Sabotažas Lenkijoje dokumentuotas tyrimais ir teismų bylomis; šis pasakojimas jį menkina."
+ },
+ {
+  "key": "2026-11-17|c7",
+  "date": "2026-11-17",
+  "order": 7,
+  "claim": "UPA šlovinantys grafičiai ant Lenkijos paminklų yra ukrainiečių nacionalistų darbas",
+  "claimed_by": "Lenkijos socialiniai tinklai; antiukrainietiški komentatoriai",
+  "evidence": "Analizė",
+  "conflict": "Trimiestyje kaltinimai pateikti vienam ukrainiečiui paaugliui; kiti nežinomi, o Varšuvoje niekas nesulaikytas. Ukrainos ambasada kaltina Rusiją, ko Lenkijos institucijos nepatvirtino.",
+  "verdict": "Contested",
+  "verdict_note": "Kas tai padarė, nustatyta tik vienu atveju; kas už tai mokėjo, nežinoma."
  }
 ]

@@ -1098,5 +1098,75 @@
   "evidence": "Analysis",
   "corroboration": "Single commercial monitor (Global Security Centre); the commission findings and the detention are official.",
   "analysis": "The vandalism has not been attributed to Russia by Polish authorities, so it should not be counted as sabotage. It fits a known tactic of hiring people online for provocations, but that link is unproven."
+ },
+ {
+  "key": "2026-11-17|kremlin-denial",
+  "date": "2026-11-17",
+  "order": 1,
+  "title": "Kremlin calls Estonia's GRU accusation baseless",
+  "summary": "On 16 November Kremlin spokesman Dmitry Peskov said Moscow rejects Estonia's claim that Russian military intelligence ordered the attempted arson at Threod Systems, calling it entirely baseless. He described Estonia's planned border closure as building a wall and said walls have never done their builders any good. A day earlier the foreign ministry spokeswoman said Russia would check the reports and would see a closure as Russophobia.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by the Moscow Times, Meduza, RT and TASS; the wording matches across Russian state and independent outlets.",
+  "analysis": "This sets up a direct contradiction: Estonia says it has clear evidence, Russia says there is none. Moscow offers no alternative explanation for the detentions and seized materials, and it has denied every earlier European sabotage attribution, including cases later proven in court. The denial does not weaken the Estonian case, but the evidence on both sides remains unpublished."
+ },
+ {
+  "key": "2026-11-17|threod-investigation",
+  "date": "2026-11-17",
+  "order": 2,
+  "title": "Threod case: suspects held, Estonia presses Latvia",
+  "summary": "Estonian prosecutors asked a court to remand five of the eight residents of Latvia detained over the 14 November arson attempt; Meduza reports five have been arrested. The prosecutor general said investigators now want to establish how the attack was organised and who else was involved. In an interview with ERR, the head of Estonia's security police thanked Latvian colleagues but said he hoped Latvia would take sufficient measures, implying that a full Estonian border closure might make it sensible for Latvia to follow.",
+  "evidence": "Official statement",
+  "corroboration": "RTE and LSM report the same official account; Meduza adds the arrest figure.",
+  "analysis": "The investigation is moving through the courts, which is the right test of the GRU attribution. The remarks about Latvia point to a quiet strain among the Baltic states over how to stop proxies recruited in one country from attacking in another."
+ },
+ {
+  "key": "2026-11-17|lithuania-border",
+  "date": "2026-11-17",
+  "order": 3,
+  "title": "Lithuania's president: closing the Russian border is an option",
+  "summary": "On 16 November President Gitanas Nausėda called Estonia's decision appropriate and said Lithuania could take similar steps if attempts to destabilise the region continue. He said Lithuania must weigh its role as the transit country to Kaliningrad, and argued that Russia does not understand when its actions get no response.",
+  "evidence": "Official statement",
+  "corroboration": "LRT and European Pravda report the same remarks.",
+  "analysis": "This is a conditional statement, not a decision. Closing Lithuania's border would collide with the 2002 EU–Russia arrangement on Kaliningrad transit, which Moscow treats as highly sensitive, so any real move would raise tension far more than Estonia's closure."
+ },
+ {
+  "key": "2026-11-17|us-battalions",
+  "date": "2026-11-17",
+  "order": 4,
+  "title": "Two US Army battalions arrive in Lithuania",
+  "summary": "A heavy battalion and an engineer battalion of the US 1st Infantry Division were welcomed at the Pabradė training area on 16 November. The engineers will help with obstacle building and the Baltic Defence Line. Defence Minister Robertas Kaunas called the US presence an important deterrent, and Lithuania has submitted a proposal to Washington for a permanent US base.",
+  "evidence": "Official statement",
+  "corroboration": "LRT, based on Lithuanian defence ministry information.",
+  "analysis": "After a summer when only about 100 US troops remained in Lithuania during a US force review, this restores the rotational presence announced in September. It is a planned allied deployment, not a response to a new Russian move."
+ },
+ {
+  "key": "2026-11-17|estonia-continuity",
+  "date": "2026-11-17",
+  "order": 5,
+  "title": "Estonia's closure: who it hits, and plans to run the state from abroad",
+  "summary": "Estonia's three road crossings handle 1,300–1,800 people a day and are among the last land routes between Russia and the EU. Yle reports that Russians living in Finland will lose their quickest route home, and Narva businesses expect to lose trade. The cabinet will decide this week whether the closure is temporary or indefinite. Separately, Politico reports that Estonia plans to move state digital services to cloud storage abroad so they keep running if the country is occupied or data centres are destroyed.",
+  "evidence": "Official statement",
+  "corroboration": "Meduza summarises Estonian officials, Yle and Politico; Daily Northern summarises Yle.",
+  "analysis": "Some headlines present the cloud plan as a doomsday plan; it extends Estonia's long-standing data embassy in Luxembourg and is contingency planning, not a sign of an expected invasion. The social cost of the closure falls largely on Russian-speaking residents, which Moscow is likely to use in its messaging."
+ },
+ {
+  "key": "2026-11-17|eu-shadow-fleet",
+  "date": "2026-11-17",
+  "order": 6,
+  "title": "EU adds sanctions and boards a falsely flagged tanker",
+  "summary": "EU foreign ministers agreed 113 new sanctions listings on 16 November aimed at the money behind Russia's war. EU foreign-policy chief Kaja Kallas said the EU naval mission IRINI had boarded the tanker MV MIDAG in the Mediterranean on 13 November and confirmed it was sailing under a false flag, and that the EU will keep disrupting Russia's shadow fleet.",
+  "evidence": "Official statement",
+  "corroboration": "TheJournal.ie and Euromaidan Press report the listings and the boarding; Militarnyi and others repeat the same EU statement.",
+  "analysis": "The boarding happened outside the Baltic, but it matters there: the baseline links shadow-fleet ships to damage to undersea infrastructure, and Russia warned on 10 November of retaliatory ship seizures if the EU stops its tankers. Watch for Russian naval escorts in the Baltic Sea in response."
+ },
+ {
+  "key": "2026-11-17|memorials-propaganda",
+  "date": "2026-11-17",
+  "order": 7,
+  "title": "Coordinated Russian campaign over Estonia's Soviet memorials",
+  "summary": "Estonia's Propastop says that between 10 and 14 November Russia's chargé d'affaires in Tallinn told RIA Novosti that at least 140 Soviet war memorials had been destroyed in Estonia, and RIA, Izvestia, RT and other outlets repeated it in near-identical wording, with Telegram channels adding outrage. Estonia's government catalogued 322 Soviet monuments, of which 244 were marked for removal or replacement; war graves are kept.",
+  "evidence": "Analysis",
+  "corroboration": "One Estonian monitor's analysis; the identical wording across Russian outlets is visible in its examples.",
+  "analysis": "The pattern of diplomats setting the line, agencies spreading it and Telegram amplifying it is a textbook example of the information operations the Lithuanian assessment describes. It also lands just as Moscow seeks to portray Estonia's border closure as hostility toward Russians."
  }
 ]

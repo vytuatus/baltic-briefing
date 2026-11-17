@@ -1098,5 +1098,75 @@
   "evidence": "Analizė",
   "corroboration": "Vienas komercinis stebėtojas (Global Security Centre); komisijos išvados ir sulaikymas – oficialūs.",
   "analysis": "Lenkijos institucijos vandalizmo Rusijai nepriskyrė, todėl jis neturėtų būti skaičiuojamas kaip sabotažas. Tai atitinka žinomą taktiką samdyti žmones internetu provokacijoms, tačiau šis ryšys neįrodytas."
+ },
+ {
+  "key": "2026-11-17|kremlin-denial",
+  "date": "2026-11-17",
+  "order": 1,
+  "title": "Kremlius Estijos kaltinimą dėl GRU vadina nepagrįstu",
+  "summary": "Lapkričio 16 d. Kremliaus atstovas Dmitrijus Peskovas sakė, kad Maskva atmeta Estijos teiginį, jog Rusijos karinė žvalgyba užsakė bandymą padegti „Threod Systems“, ir pavadino jį visiškai nepagrįstu. Planuojamą Estijos sienos uždarymą jis apibūdino kaip sienos statymą ir sakė, kad sienos niekada nieko gero jų statytojams neatnešė. Dieną anksčiau užsienio reikalų ministerijos atstovė sakė, kad Rusija patikrins pranešimus ir uždarymą laikytų rusofobija.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė The Moscow Times, Meduza, RT ir TASS; formuluotės Rusijos valstybinėje ir nepriklausomoje žiniasklaidoje sutampa.",
+  "analysis": "Tai sukuria tiesioginį prieštaravimą: Estija sako turinti aiškių įrodymų, Rusija – kad jų nėra. Maskva nepateikia jokio alternatyvaus sulaikymų ir paimtos medžiagos paaiškinimo, ir ji neigė kiekvieną ankstesnį Europos sabotažo priskyrimą, įskaitant vėliau teismuose įrodytus atvejus. Paneigimas nesusilpnina Estijos bylos, tačiau abiejų pusių įrodymai lieka nepaskelbti."
+ },
+ {
+  "key": "2026-11-17|threod-investigation",
+  "date": "2026-11-17",
+  "order": 2,
+  "title": "„Threod“ byla: įtariamieji sulaikyti, Estija spaudžia Latviją",
+  "summary": "Estijos prokurorai paprašė teismo suimti penkis iš aštuonių Latvijos gyventojų, sulaikytų dėl lapkričio 14 d. padegimo bandymo; Meduza praneša, kad penki suimti. Generalinis prokuroras sakė, kad tyrėjai dabar nori nustatyti, kaip ataka buvo organizuota ir kas dar dalyvavo. Interviu ERR Estijos saugumo policijos vadovas padėkojo Latvijos kolegoms, tačiau sakė tikįsis, kad Latvija imsis pakankamų priemonių, užsimindamas, kad visiškai uždarius Estijos sieną Latvijai būtų protinga pasekti tuo pavyzdžiu.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "RTE ir LSM praneša tą pačią oficialią versiją; Meduza prideda suimtųjų skaičių.",
+  "analysis": "Tyrimas juda per teismus – tai tinkamas priskyrimo GRU išbandymas. Pastabos apie Latviją rodo tylią įtampą tarp Baltijos šalių dėl to, kaip sustabdyti vienoje šalyje užverbuotus tarpininkus, atakuojančius kitoje."
+ },
+ {
+  "key": "2026-11-17|lithuania-border",
+  "date": "2026-11-17",
+  "order": 3,
+  "title": "Lietuvos prezidentas: Rusijos sienos uždarymas yra galimybė",
+  "summary": "Lapkričio 16 d. prezidentas Gitanas Nausėda Estijos sprendimą pavadino tinkamu ir sakė, kad Lietuva galėtų imtis panašių žingsnių, jei bandymai destabilizuoti regioną tęsis. Jis sakė, kad Lietuva turi įvertinti savo, kaip tranzito į Karaliaučių šalies, vaidmenį, ir teigė, kad Rusija nesupranta, kai jos veiksmai nesulaukia atsako.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT ir European Pravda praneša tuos pačius žodžius.",
+  "analysis": "Tai sąlyginis pareiškimas, o ne sprendimas. Lietuvos sienos uždarymas susidurtų su 2002 m. ES ir Rusijos susitarimu dėl Karaliaučiaus tranzito, kurį Maskva laiko labai jautriu, todėl bet koks realus žingsnis padidintų įtampą kur kas labiau nei Estijos uždarymas."
+ },
+ {
+  "key": "2026-11-17|us-battalions",
+  "date": "2026-11-17",
+  "order": 4,
+  "title": "Į Lietuvą atvyko du JAV kariuomenės batalionai",
+  "summary": "Lapkričio 16 d. Pabradės poligone sutikti JAV 1-osios pėstininkų divizijos sunkusis ir inžinerijos batalionai. Inžinieriai padės statyti kliūtis ir kurti Baltijos gynybos liniją. Krašto apsaugos ministras Robertas Kaunas JAV buvimą pavadino svarbiu atgrasymo veiksniu, o Lietuva pateikė Vašingtonui pasiūlymą dėl nuolatinės JAV bazės.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT, remiantis Krašto apsaugos ministerijos informacija.",
+  "analysis": "Po vasaros, kai JAV pajėgų peržiūros metu Lietuvoje liko tik apie 100 JAV karių, tai atkuria rugsėjį paskelbtą rotacinį buvimą. Tai planuotas sąjungininkų dislokavimas, o ne atsakas į naują Rusijos žingsnį."
+ },
+ {
+  "key": "2026-11-17|estonia-continuity",
+  "date": "2026-11-17",
+  "order": 5,
+  "title": "Estijos uždarymas: ką jis paveiks ir planai valdyti valstybę iš užsienio",
+  "summary": "Trys Estijos kelių pasienio punktai per dieną aptarnauja 1 300–1 800 žmonių ir yra vieni paskutinių sausumos maršrutų tarp Rusijos ir ES. Yle praneša, kad Suomijoje gyvenantys rusai neteks greičiausio kelio namo, o Narvos verslai tikisi prarasti prekybą. Vyriausybė šią savaitę nuspręs, ar uždarymas bus laikinas, ar neterminuotas. Atskirai Politico praneša, kad Estija planuoja perkelti valstybės skaitmenines paslaugas į debesijos saugyklas užsienyje, kad jos veiktų, jei šalis būtų okupuota ar duomenų centrai sunaikinti.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Meduza apibendrina Estijos pareigūnų, Yle ir Politico informaciją; Daily Northern apibendrina Yle.",
+  "analysis": "Kai kurios antraštės debesijos planą pateikia kaip pasaulio pabaigos planą; tai ilgalaikės Estijos duomenų ambasados Liuksemburge plėtra ir atsarginis planavimas, o ne laukiamos invazijos ženklas. Socialinė uždarymo kaina daugiausia teks rusakalbiams gyventojams, ką Maskva greičiausiai išnaudos savo žinutėse."
+ },
+ {
+  "key": "2026-11-17|eu-shadow-fleet",
+  "date": "2026-11-17",
+  "order": 6,
+  "title": "ES prideda sankcijų ir įlipa į su netikra vėliava plaukiojantį tanklaivį",
+  "summary": "ES užsienio reikalų ministrai lapkričio 16 d. sutarė dėl 113 naujų sankcijų įrašų, nukreiptų prieš Rusijos karą finansuojančius pinigus. ES užsienio politikos vadovė Kaja Kallas sakė, kad ES jūrų misija IRINI lapkričio 13 d. Viduržemio jūroje įlipo į tanklaivį „MV MIDAG“ ir patvirtino, kad jis plaukė su netikra vėliava, ir kad ES toliau trikdys Rusijos šešėlinio laivyno veiklą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "TheJournal.ie ir Euromaidan Press praneša apie įrašus ir įlipimą; Militarnyi ir kiti kartoja tą patį ES pareiškimą.",
+  "analysis": "Įlipimas įvyko už Baltijos regiono ribų, tačiau jis svarbus ir čia: bazinė linija sieja šešėlinio laivyno laivus su povandeninės infrastruktūros pažeidimais, o Rusija lapkričio 10 d. įspėjo apie atsakomuosius laivų sulaikymus, jei ES stabdys jos tanklaivius. Stebėkite, ar Rusija atsakydama nepradės lydėti laivų kariniais laivais Baltijos jūroje."
+ },
+ {
+  "key": "2026-11-17|memorials-propaganda",
+  "date": "2026-11-17",
+  "order": 7,
+  "title": "Koordinuota Rusijos kampanija dėl sovietinių paminklų Estijoje",
+  "summary": "Estijos „Propastop“ teigia, kad lapkričio 10–14 d. Rusijos laikinasis reikalų patikėtinis Taline RIA Novosti sakė, jog Estijoje sunaikinta mažiausiai 140 sovietinių karo paminklų, o RIA, Izvestija, RT ir kiti leidiniai tai pakartojo beveik identiškomis formuluotėmis, „Telegram“ kanalams kurstant pasipiktinimą. Estijos vyriausybė suregistravo 322 sovietinius paminklus, iš kurių 244 numatyta pašalinti arba pakeisti; karių kapai išsaugomi.",
+  "evidence": "Analizė",
+  "corroboration": "Vieno Estijos stebėtojo analizė; identiškos formuluotės Rusijos leidiniuose matomos jo pavyzdžiuose.",
+  "analysis": "Modelis, kai diplomatai nustato liniją, agentūros ją platina, o „Telegram“ sustiprina, yra vadovėlinis Lietuvos vertinime aprašytų informacinių operacijų pavyzdys. Jis taip pat sutampa su laiku, kai Maskva siekia pavaizduoti Estijos sienos uždarymą kaip priešiškumą rusams."
  }
 ]

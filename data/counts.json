@@ -718,5 +718,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None counted; Peskov's remark that Russia would have to use force to reach its goals if Europe does not want peace concerns its war aims and names neither NATO nor the Baltic states."
+ },
+ {
+  "key": "2026-11-17|airspace",
+  "date": "2026-11-17",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new violation or drone incursion into Baltic, Polish or Finnish airspace was first reported since yesterday's edition."
+ },
+ {
+  "key": "2026-11-17|sabotage",
+  "date": "2026-11-17",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; the Threod Systems case was counted yesterday, and the Polish arrests of three teenagers over an alleged neo-Nazi plot have no alleged Russian link."
+ },
+ {
+  "key": "2026-11-17|jamming",
+  "date": "2026-11-17",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None in the Baltic region; the suspected jamming near Amsterdam's Schiphol airport disclosed on 15 November is outside the region and unattributed."
+ },
+ {
+  "key": "2026-11-17|border",
+  "date": "2026-11-17",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new provocation at Baltic, Polish or Finnish borders with Russia or Belarus was reported."
+ },
+ {
+  "key": "2026-11-17|threats",
+  "date": "2026-11-17",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None counted; Peskov's remark that walls bring nothing good to those who build them is a veiled warning, not an explicit threat against NATO or the Baltic states."
  }
 ]

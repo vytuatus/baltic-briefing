@@ -1241,5 +1241,82 @@
   "conflict": "A Ukrainian teenager was detained, but a local portal reports a Telegram channel paying 500 dollars per job, and Ukraine's embassy blames Russian hybrid tactics; Polish authorities have not attributed it.",
   "verdict": "Contested",
   "verdict_note": "Who did it is established in one case only; who paid for it is unknown."
+ },
+ {
+  "key": "2026-11-17|c1",
+  "date": "2026-11-17",
+  "order": 1,
+  "claim": "Russia's GRU ordered the attempted arson at Threod Systems in Estonia",
+  "claimed_by": "Estonia's KAPO, prosecutor general and foreign minister; supported by Latvia's VDD",
+  "evidence": "Official statement",
+  "conflict": "The Kremlin now explicitly calls the accusation entirely baseless; neither side has published its evidence.",
+  "verdict": "Likely",
+  "verdict_note": "Detentions, court custody requests and seizures in two countries back the Estonian account; the denial offers no alternative explanation."
+ },
+ {
+  "key": "2026-11-17|c2",
+  "date": "2026-11-17",
+  "order": 2,
+  "claim": "Estonia's accusations of Russian sabotage are entirely baseless",
+  "claimed_by": "Kremlin spokesman Dmitry Peskov",
+  "evidence": "Official statement",
+  "conflict": "Estonia and Latvia point to physical evidence and detentions; Russia has denied earlier attributions later supported in European courts.",
+  "verdict": "Unsupported",
+  "verdict_note": "A blanket denial with no evidence or counter-explanation."
+ },
+ {
+  "key": "2026-11-17|c3",
+  "date": "2026-11-17",
+  "order": 3,
+  "claim": "Estonia's border closure is Russophobia, and a wall that will harm those who build it",
+  "claimed_by": "Russian foreign ministry spokeswoman Maria Zakharova; Kremlin spokesman Dmitry Peskov",
+  "evidence": "Official statement",
+  "conflict": "Estonia ties the closure to a specific sabotage attempt and to sanctions evasion, not to Russians as such.",
+  "verdict": "Misleading",
+  "verdict_note": "The closure is a stated security response; it will hurt cross-border residents, which the framing exploits."
+ },
+ {
+  "key": "2026-11-17|c4",
+  "date": "2026-11-17",
+  "order": 4,
+  "claim": "Russia has put in writing a demand that NATO pull forces and bases back to 1997 positions, which would remove them from Poland, the Baltic states and Finland",
+  "claimed_by": "The New York Times, The Economist and The Telegraph (leaked paper); repeated by Al Jazeera",
+  "evidence": "Imagery or documents",
+  "conflict": "Peskov said on 13 November that no withdrawal of NATO members was discussed; the paper is unsigned and unpublished.",
+  "verdict": "Likely",
+  "verdict_note": "Several outlets describe the same document, and Russia's chief negotiator publicly calls a new European security system the central topic; Peskov's denial does not cover a pull-back of forces."
+ },
+ {
+  "key": "2026-11-17|c5",
+  "date": "2026-11-17",
+  "order": 5,
+  "claim": "Estonia has destroyed at least 140 Soviet war memorials in an act of historical vandalism",
+  "claimed_by": "Russia's chargé d'affaires in Tallinn, via RIA Novosti; repeated by Izvestia, RT and others",
+  "evidence": "Analysis",
+  "conflict": "Propastop notes Estonia catalogued 322 monuments and marked 244 for removal or replacement, while war graves are maintained; the figure of 140 is not explained.",
+  "verdict": "Misleading",
+  "verdict_note": "Removing Soviet monuments is a real policy, but the claim merges it with war graves and remembrance to suggest an attack on the dead."
+ },
+ {
+  "key": "2026-11-17|c6",
+  "date": "2026-11-17",
+  "order": 6,
+  "claim": "The Polish sabotage threat was invented to justify tighter controls",
+  "claimed_by": "Anti-government and Russia-friendly social media accounts in Poland (per a Warsaw security firm's monitoring)",
+  "evidence": "Analysis",
+  "conflict": "Polish prosecutors have confirmed the November 2025 rail sabotage and other acts, with detentions and charges.",
+  "verdict": "False",
+  "verdict_note": "Sabotage in Poland is documented by investigations and court cases; the narrative minimises them."
+ },
+ {
+  "key": "2026-11-17|c7",
+  "date": "2026-11-17",
+  "order": 7,
+  "claim": "The pro-UPA graffiti on Polish monuments is the work of Ukrainian nationalists",
+  "claimed_by": "Polish social media; anti-Ukrainian commentators",
+  "evidence": "Analysis",
+  "conflict": "One Ukrainian teenager has been charged in the Tri-City; others are unknown, and no one has been detained in Warsaw. Ukraine's embassy blames Russia, which Polish authorities have not confirmed.",
+  "verdict": "Contested",
+  "verdict_note": "Who did it is established in one case only; who paid for it is unknown."
  }
 ]
