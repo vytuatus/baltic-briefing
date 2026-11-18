@@ -1168,5 +1168,65 @@
   "evidence": "Analysis",
   "corroboration": "One Estonian monitor's analysis; the identical wording across Russian outlets is visible in its examples.",
   "analysis": "The pattern of diplomats setting the line, agencies spreading it and Telegram amplifying it is a textbook example of the information operations the Lithuanian assessment describes. It also lands just as Moscow seeks to portray Estonia's border closure as hostility toward Russians."
+ },
+ {
+  "key": "2026-11-18|estonia-closure-debate",
+  "date": "2026-11-18",
+  "order": 1,
+  "title": "Estonia's president: border closure cannot be an emotional decision",
+  "summary": "On 17 November President Ülle Madise said the decision to close Estonia's road crossings with Russia should rest on an analysis of its economic, humanitarian, diplomatic and security effects, and said a closure would not have prevented the attacks on Milrem Robotics or Threod Systems. She favoured stopping ordinary tourist and shopping trips while keeping diplomatic and humanitarian travel. The foreign minister had announced a closure from 1 December, and the prime minister told Delfi it should be indefinite; the cabinet has not yet formally decided.",
+  "evidence": "Official statement",
+  "corroboration": "ERR and Meduza report the president's remarks; TASS reported the prime minister's interview.",
+  "analysis": "This is a debate about whether the measure fits the threat, not about who is behind the attacks: the Threod suspects were residents of Latvia recruited at a distance, so a road closure would not have stopped them, although it would cut travel that the baseline links to recruitment and sanctions evasion. Expect Russian outlets to present the debate as a split in Tallinn."
+ },
+ {
+  "key": "2026-11-18|latvia-border-checks",
+  "date": "2026-11-18",
+  "order": 2,
+  "title": "Estonian parties split on checks at the Latvian border",
+  "summary": "The Centre Party and EKRE want checks restored on Estonia's border with Latvia, citing saboteurs and illegal migrants who came through Latvia; Isamaa is open to them if other measures fail. Reform, the Social Democrats and Eesti 200 oppose the idea. Interior Minister Igor Taro said the government is far from considering it and estimated the cost at about 300 million euros.",
+  "evidence": "Official statement",
+  "corroboration": "ERR, based on party leaders' statements.",
+  "analysis": "The debate follows the security police chief's public hope that Latvia will take sufficient measures. It shows strain among the Baltic states over threats that move freely inside Schengen, but no government is proposing checks for now."
+ },
+ {
+  "key": "2026-11-18|kapo-ten-firms",
+  "date": "2026-11-18",
+  "order": 3,
+  "title": "Estonian security police: about ten defence firms are Russian targets",
+  "summary": "In an ERR interview, Estonia's security police chief Margo Palloson said Russia is targeting about ten Estonian defence industry companies, including Threod Systems, that Estonia had information about the planned Threod attack in advance, and that Russian services recruit through criminal networks, social media and people travelling to Russia, sometimes paying only a few hundred euros.",
+  "evidence": "Official statement",
+  "corroboration": "ERR interview, summarised by United24; consistent with the Lithuanian and Estonian assessments of proxy sabotage.",
+  "analysis": "This explains why Estonia treats the Threod case as part of a campaign rather than a one-off. It is an official assessment without published evidence, but it is consistent with the earlier, formally attributed Milrem arson in August."
+ },
+ {
+  "key": "2026-11-18|belarus-inspection",
+  "date": "2026-11-18",
+  "order": 4,
+  "title": "Belarus orders snap readiness check of border-guard units",
+  "summary": "On 16 November Belarus's Security Council secretary announced a snap combat-readiness inspection of State Border Committee units, focused on rapid-response groups. The drills include marches and repelling simulated sabotage and reconnaissance groups, with results reported to Alexander Lukashenko. No location or duration was given.",
+  "evidence": "Official statement",
+  "corroboration": "Kyiv Independent, citing the Belarusian state agency Belta; ISW reported nothing significant in Belarus the next day.",
+  "analysis": "Snap inspections of this kind are common in Belarus and this one involves border guards, not army units. It is worth watching because Belarusian border structures are suspected of helping organise migrant crossings, but there is no reported movement toward NATO borders."
+ },
+ {
+  "key": "2026-11-18|lavrov-2021",
+  "date": "2026-11-18",
+  "order": 5,
+  "title": "Lavrov restates 2021 demands; Rutte says Putin wants to weaken Europe",
+  "summary": "On 17 November Russian Foreign Minister Sergei Lavrov accused European officials of trying to squeeze into negotiations to build a European security system aimed at Russia and said Moscow remains committed to its 2021 demands on NATO; deputy minister Sergei Ryabkov said there is no discussion of European participation in talks. The same day NATO Secretary General Mark Rutte told the Ukraine Defense Contact Group that Putin aims to weaken Europe by generating insecurity and sowing division.",
+  "evidence": "Official statement",
+  "corroboration": "ISW's 17 November assessment summarises the Russian statements; Kyiv Post reports Rutte's remarks.",
+  "analysis": "The 2021 demands included pulling NATO forces back from member states that joined after 1997, which covers the Baltic states, so the statement matches the leaked paper reported last week. ISW notes it contradicts US envoys' proposals. It reveals long-term aims, not military preparation."
+ },
+ {
+  "key": "2026-11-18|lithuania-air-defence",
+  "date": "2026-11-18",
+  "order": 6,
+  "title": "Lithuanian army chief: US troops a relief, drone defence still a gap",
+  "summary": "Lithuania's armed forces commander Raimundas Vaikšnoras said the arrival of the two US battalions brought relief and that he expects more than a one-off rotation. He said radar coverage has improved but identifying and neutralising drones, especially at night, remains a gap until Lithuania acquires its own capabilities.",
+  "evidence": "Official statement",
+  "corroboration": "LRT interview.",
+  "analysis": "A frank admission that matches the November drone alerts, when NATO jets could not shoot down a drone. It points to air defence as the main near-term vulnerability, which fits the hybrid rather than conventional threat picture."
  }
 ]

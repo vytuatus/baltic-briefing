@@ -58,5 +58,45 @@
   "evidence": "Official statement",
   "corroboration": "Il Sole 24 Ore; LRT.",
   "analysis": "People who first entered the EU through the Baltic states can lawfully be sent back there. This indicator will show if that starts to grow."
+ },
+ {
+  "key": "2026-11-18|lithuania-solidarity",
+  "date": "2026-11-18",
+  "order": 1,
+  "title": "Lithuania moves to pay rather than take relocated migrants",
+  "summary": "On 16 November Interior Minister Martynas Katelynas said a government commission had approved his proposal that Lithuania contribute to the EU solidarity pool by paying rather than accepting relocated migrants; the government still has to approve it, and the amount is not yet clear. In December 2025 Lithuania had planned to accept half of its share and pay for the rest, and in May 2026 it agreed to take 58 asylum seekers from Cyprus and pay 1.4 million euros, followed by a memorandum with Cyprus in June.",
+  "evidence": "Official statement",
+  "corroboration": "LRT; the Cyprus agreement was reported by LRT and Cyprus Mail.",
+  "analysis": "The change shows the scheme working as designed: each country chooses how to contribute. It is not clear whether any of the 58 people have already arrived or what happens to that pledge; this edition will track it."
+ },
+ {
+  "key": "2026-11-18|estonia-latvia-checks",
+  "date": "2026-11-18",
+  "order": 2,
+  "title": "Estonia debates checks on its Latvian border",
+  "summary": "Estonian opposition parties Centre and EKRE want checks on the border with Latvia, citing saboteurs and illegal migrants who came through Latvia; Isamaa is conditionally open. The governing Reform and Eesti 200 parties and the Social Democrats oppose them. Interior Minister Igor Taro said the government is far from considering checks, which he estimated would cost about 300 million euros, and the president said she sees no reason for them.",
+  "evidence": "Official statement",
+  "corroboration": "ERR; earlier police figures reported by Reform.news.",
+  "analysis": "Estonian police detained 149 people for illegal migration in the first half of 2026, many believed to have come via Belarus and Latvia, so the concern is real, but checks inside the Baltics would mostly slow onward movement rather than stop pressure at the external border."
+ },
+ {
+  "key": "2026-11-18|belarus-border-figures",
+  "date": "2026-11-18",
+  "order": 3,
+  "title": "Belarus border: Lithuania's turn-backs already above 2025, Poland extends its buffer zone",
+  "summary": "Lithuania's border guard service had turned back 1,896 people from Belarus by 7 November, more than the 1,652 in all of 2025 and the 1,002 in 2024, though far below Latvia's figures. Poland recorded 482 attempts at its Belarus border by 8 November, and its interior ministry published a draft on 14 November to extend the restricted zone along part of the border until 27 February 2027, citing balloons and drones from Belarus used for smuggling.",
+  "evidence": "Official statement",
+  "corroboration": "Lithuanian figures via BNS and regional media; Polish figures via Defence24.",
+  "analysis": "These are catch-up figures from early November, not new events. They show pressure spread across all three countries, with Latvia the main target and Poland now much quieter than in 2021–2024."
+ },
+ {
+  "key": "2026-11-18|rwanda-hub",
+  "date": "2026-11-18",
+  "order": 4,
+  "title": "Five EU states plan a Rwanda return hub; Estonia backs it but stays out",
+  "summary": "Germany, Austria, the Netherlands, Denmark and Greece announced on 16 November that they are working with Rwanda on a hub for people who have no right to stay in Europe and have exhausted appeals, with about 100 people to be sent at first from 2027 under the EU's new return rules. Estonia supports the initiative but will not join it. Rights groups and some MEPs criticise the plan and expect court challenges.",
+  "evidence": "Official statement",
+  "corroboration": "ERR, the Dutch government and Euronews.",
+  "analysis": "This concerns returns outside the EU, not moving people between EU states, so it does not shift migrants onto the Baltic states."
  }
 ]

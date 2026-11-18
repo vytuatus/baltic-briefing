@@ -3184,5 +3184,149 @@
   "perspective": "Commentary",
   "title": "Robert Lansing Institute (latest analyses)",
   "url": "https://lansinginstitute.org/"
+ },
+ {
+  "key": "2026-11-18|l01",
+  "date": "2026-11-18",
+  "topic": "Lietuvos grėsmių nacionaliniam saugumui vertinimas (bazinė linija)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-18|l02",
+  "date": "2026-11-18",
+  "topic": "Diskusija dėl Estijos sienos uždarymo",
+  "outlet": "ERR News",
+  "perspective": "Baltic",
+  "title": "President: Closing Estonian-Russian border cannot be an emotional decision",
+  "url": "https://news.err.ee/1610198689/president-closing-estonian-russian-border-cannot-be-an-emotional-decision"
+ },
+ {
+  "key": "2026-11-18|l03",
+  "date": "2026-11-18",
+  "topic": "Patikros Estijos ir Latvijos pasienyje",
+  "outlet": "ERR News",
+  "perspective": "Baltic",
+  "title": "Estonian parties take different views on restoring border control with Latvia",
+  "url": "https://news.err.ee/1610198746/estonian-parties-take-different-views-on-restoring-border-control-with-latvia"
+ },
+ {
+  "key": "2026-11-18|l04",
+  "date": "2026-11-18",
+  "topic": "JAV kariai ir oro gynyba Lietuvoje",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Lithuania breathes easy after US troop arrival, says army chief",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3117122/lithuania-breathes-easy-after-us-troop-arrival-says-army-chief"
+ },
+ {
+  "key": "2026-11-18|l05",
+  "date": "2026-11-18",
+  "topic": "Diskusija dėl Estijos sienos uždarymo",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Estonia's president urges government to weigh consequences of closing Russian border",
+  "url": "https://meduza.io/en/news/2026/11/17/estonia-s-president-urges-government-to-weigh-consequences-of-closing-russian-border"
+ },
+ {
+  "key": "2026-11-18|l06",
+  "date": "2026-11-18",
+  "topic": "Estijos premjeras apie neribotą uždarymą",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Estonia's PM proposes closing border with Russia indefinitely — news website",
+  "url": "https://tass.com/world/2218645"
+ },
+ {
+  "key": "2026-11-18|l07",
+  "date": "2026-11-18",
+  "topic": "Sabotažo grėsmė Estijos gynybos įmonėms",
+  "outlet": "United24 Media",
+  "perspective": "Ukrainian",
+  "title": "Russia Has 10 Estonian Defense Firms in Its Sights as Sabotage Threat Grows, KAPO Chief Says",
+  "url": "https://united24media.com/world/russia-has-10-estonian-defense-firms-in-its-sights-as-sabotage-threat-grows-kapo-chief-says-24415"
+ },
+ {
+  "key": "2026-11-18|l08",
+  "date": "2026-11-18",
+  "topic": "„Threod“ byla ir diplomatinis atsakas",
+  "outlet": "Kyiv Independent",
+  "perspective": "Ukrainian",
+  "title": "Estonia summons Russian diplomat following accusations of Russian sabotage attempt on drone manufacturer",
+  "url": "https://kyivindependent.com/estonia-summons-russian-diplomat-over-sabotage-attempt-on-drone-manufacturer/"
+ },
+ {
+  "key": "2026-11-18|l09",
+  "date": "2026-11-18",
+  "topic": "Veikla Baltarusijoje",
+  "outlet": "Kyiv Independent",
+  "perspective": "Ukrainian",
+  "title": "Lukashenko orders unscheduled combat-readiness inspection of Belarusian border guard units",
+  "url": "https://kyivindependent.com/lukashenko-orders-unscheduled-combat-readiness-inspection-of-belarusian-border-guard-units/"
+ },
+ {
+  "key": "2026-11-18|l10",
+  "date": "2026-11-18",
+  "topic": "ISW dienos vertinimas",
+  "outlet": "ISW (Critical Threats)",
+  "perspective": "OSINT and trackers",
+  "title": "Russian Offensive Campaign Assessment, November 17, 2026",
+  "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-november-17-2026"
+ },
+ {
+  "key": "2026-11-18|l11",
+  "date": "2026-11-18",
+  "topic": "NATO požiūris į Rusijos tikslus",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Rutte urges continued military aid to Ukraine to strengthen its position in peace talks.",
+  "url": "https://www.kyivpost.com/post/90417"
+ },
+ {
+  "key": "2026-11-18|l12",
+  "date": "2026-11-18",
+  "topic": "ES ir Baltijos šalių ministrai apie sankcijas ir derybas",
+  "outlet": "Euronews",
+  "perspective": "US and international",
+  "title": "Europe's Sisyphean task: Staying ahead of Moscow's menace",
+  "url": "https://www.euronews.com/2026/11/17/europes-sisyphean-task-staying-ahead-of-moscows-menace"
+ },
+ {
+  "key": "2026-11-18|l13",
+  "date": "2026-11-18",
+  "topic": "Grūdų patikros ir sienų uždarymas Baltijos šalyse",
+  "outlet": "Demócrata",
+  "perspective": "US and international",
+  "title": "The Baltic states reinforce controls on Russian cereal",
+  "url": "https://www.democrata.es/en/international/the-baltic-countries-tighten-border-control-and-restrict-the-entry-of-russian-and-belarusian-grain/"
+ },
+ {
+  "key": "2026-11-18|l14",
+  "date": "2026-11-18",
+  "topic": "Dezinformacijos pasakojimai Lenkijoje",
+  "outlet": "Global Security Centre",
+  "perspective": "Central Europe",
+  "title": "Disinformation in Poland: Risk Assessment, 17 Nov 2026",
+  "url": "https://www.gscentre.eu/post/disinformation-in-poland-risk-assessment-17-november-2026"
+ },
+ {
+  "key": "2026-11-18|l15",
+  "date": "2026-11-18",
+  "topic": "Kremliaus reakcija",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "Kremlin reminds Estonia of sad history of building 'walls'",
+  "url": "https://tass.com/politics/2218617"
+ },
+ {
+  "key": "2026-11-18|l16",
+  "date": "2026-11-18",
+  "topic": "Komentarų lygmens patikra",
+  "outlet": "Robert Lansing Institute",
+  "perspective": "Commentary",
+  "title": "From Sanctions to Maritime Interdiction: How the EU Operation Against the MIDAG Tanker Is Changing the Rules of Countering Russia's Shadow Fleet",
+  "url": "https://lansinginstitute.org/2026/11/16/from-sanctions-to-maritime-interdiction-how-the-eu-operation-against-the-midag-tanker-is-changing-the-rules-of-countering-russias-shadow-fleet/"
  }
 ]

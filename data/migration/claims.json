@@ -42,5 +42,49 @@
   "conflict": "Based on testimony gathered in an ongoing investigation; no independent confirmation yet.",
   "verdict": "Unconfirmed",
   "verdict_note": "Credible and specific, but still under investigation."
+ },
+ {
+  "key": "2026-11-18|forced-relocation",
+  "date": "2026-11-18",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states",
+  "evidence": "Unverified claim",
+  "conflict": "New: Lithuania is moving from taking a small group to paying only, which the rules allow; each country chooses between taking people, paying or other support.",
+  "verdict": "False",
+  "verdict_note": "The rules and Lithuania's own choices contradict it."
+ },
+ {
+  "key": "2026-11-18|lithuania-zero",
+  "date": "2026-11-18",
+  "order": 2,
+  "claim": "Lithuania will not accept a single migrant under the EU solidarity mechanism",
+  "claimed_by": "Lithuanian Interior Minister Martynas Katelynas",
+  "evidence": "Official statement",
+  "conflict": "The government has not yet approved the proposal, and Lithuania agreed in May to take 58 people from Cyprus; it is unclear whether that pledge is cancelled.",
+  "verdict": "Likely",
+  "verdict_note": "Backed by a government commission, but not final."
+ },
+ {
+  "key": "2026-11-18|via-latvia",
+  "date": "2026-11-18",
+  "order": 3,
+  "claim": "Saboteurs and hundreds of illegal migrants have entered Estonia through Latvia",
+  "claimed_by": "EKRE chairman Martin Helme; Centre Party chairman Mihhail Kõlvart",
+  "evidence": "Unverified claim",
+  "conflict": "The Threod suspects were residents of Latvia; Estonian police detained 149 people for illegal migration in the first half of 2026, many believed to have come via Latvia. The government says this does not justify border checks.",
+  "verdict": "Likely",
+  "verdict_note": "Broadly matches police figures and the Threod case, but no full-year figure for arrivals via Latvia has been published."
+ },
+ {
+  "key": "2026-11-18|estonia-migration-push",
+  "date": "2026-11-18",
+  "order": 4,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian Prime Minister Kristen Michal",
+  "evidence": "Official statement",
+  "conflict": "No migrant movement toward the Estonian border has been reported; the precedent is Russia's 2023 push at the Finnish border.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A reasonable contingency warning, not evidence of a planned push."
  }
 ]

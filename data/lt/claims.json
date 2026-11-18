@@ -1318,5 +1318,60 @@
   "conflict": "Trimiestyje kaltinimai pateikti vienam ukrainiečiui paaugliui; kiti nežinomi, o Varšuvoje niekas nesulaikytas. Ukrainos ambasada kaltina Rusiją, ko Lenkijos institucijos nepatvirtino.",
   "verdict": "Contested",
   "verdict_note": "Kas tai padarė, nustatyta tik vienu atveju; kas už tai mokėjo, nežinoma."
+ },
+ {
+  "key": "2026-11-18|c1",
+  "date": "2026-11-18",
+  "order": 1,
+  "claim": "Rusijos GRU įsakė surengti padegimo bandymą „Threod Systems“ įmonėje Estijoje",
+  "claimed_by": "Estijos saugumo policija, generalinis prokuroras ir užsienio reikalų ministras; tai palaiko Latvijos VDD",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Kremlius kaltinimą vadina nepagrįstu; nė viena pusė savo įrodymų nepaskelbė. Nauja: Estijos saugumo policija sako iš anksto turėjusi žvalgybos informacijos apie išpuolį.",
+  "verdict": "Likely",
+  "verdict_note": "Sulaikymai, teismo skirtas suėmimas ir poėmiai dviejose šalyse patvirtina Estijos versiją; neigimas nesiūlo jokio kito paaiškinimo."
+ },
+ {
+  "key": "2026-11-18|c2",
+  "date": "2026-11-18",
+  "order": 2,
+  "claim": "Estijos sienos su Rusija uždarymas nebūtų užkirtęs kelio „Milrem“ ir „Threod“ išpuoliams",
+  "claimed_by": "Estijos prezidentė Ülle Madise",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Užsienio reikalų ministras uždarymą tiesiogiai susiejo su „Threod“ išpuoliu, sakydamas, kad Rusijos priešiški veiksmai turi kainą; premjeras nori, kad uždarymas būtų neribotas.",
+  "verdict": "Likely",
+  "verdict_note": "„Threod“ byloje įtariamieji gyveno Latvijoje ir buvo užverbuoti nuotoliu, todėl kelių uždarymas jų nebūtų sustabdęs; uždarymu siekiama kitų tikslų, pavyzdžiui, apriboti keliones, naudojamas verbuoti."
+ },
+ {
+  "key": "2026-11-18|c3",
+  "date": "2026-11-18",
+  "order": 3,
+  "claim": "Rusija raštu pareikalavo, kad NATO atitrauktų pajėgas ir bazes į 1997 m. pozicijas, o tai reikštų jų pašalinimą iš Lenkijos, Baltijos šalių ir Suomijos",
+  "claimed_by": "„The New York Times“, „The Economist“ ir „The Telegraph“ (nutekintas dokumentas)",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Peskovas lapkričio 13 d. sakė, kad NATO narių atitraukimas nebuvo svarstomas; lapkričio 17 d. Lavrovas sakė, kad Maskva tebesilaiko 2021 m. reikalavimų, kurie apėmė tokį atitraukimą.",
+  "verdict": "Likely",
+  "verdict_note": "Viešas Lavrovo pareiškimas patvirtina esmę; pats dokumentas vis dar nepaskelbtas."
+ },
+ {
+  "key": "2026-11-18|c4",
+  "date": "2026-11-18",
+  "order": 4,
+  "claim": "Europa bando įsisprausti į taikos derybas, kad sukurtų prieš Rusiją nukreiptą saugumo sistemą",
+  "claimed_by": "Rusijos užsienio reikalų ministras Sergejus Lavrovas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "ES vyriausybės sako siekiančios vaidmens, nes kyla grėsmė pačios Europos saugumui; NATO generalinis sekretorius sako, kad būtent Rusija bando susilpninti Europą.",
+  "verdict": "Misleading",
+  "verdict_note": "Bet koks susitarimas tiesiogiai paliečia Europos valstybes; jų dalyvavimo pateikimas kaip sąmokslo prieš Rusiją apverčia tai, kas reikalauja keisti Europos saugumą."
+ },
+ {
+  "key": "2026-11-18|c5",
+  "date": "2026-11-18",
+  "order": 5,
+  "claim": "Sabotažo grėsmė Lenkijoje buvo išgalvota ar perdėta, siekiant pateisinti griežtesnę kontrolę",
+  "claimed_by": "Antivyriausybinės ir Rusijai palankios socialinių tinklų paskyros Lenkijoje (pagal Varšuvos saugumo bendrovės stebėseną)",
+  "evidence": "Analizė",
+  "conflict": "Nauja: stebėtojų lapkričio 17 d. ataskaitoje nurodyti keturi patvirtinti sabotažo aktai, 15 sulaikymų ir du išpuoliai, priskirti terorizmui, su laukiančiais teismo procesais; pažymima, kad grėsmei sumenkinti naudojamas posakis „tik keturi aktai“.",
+  "verdict": "False",
+  "verdict_note": "Sabotažas Lenkijoje dokumentuotas tyrimais ir kaltinimais; šis pasakojimas jį menkina."
  }
 ]

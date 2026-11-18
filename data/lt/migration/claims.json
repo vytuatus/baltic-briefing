@@ -42,5 +42,49 @@
   "conflict": "Remiamasi vykstančio tyrimo metu surinktais parodymais; nepriklausomo patvirtinimo kol kas nėra.",
   "verdict": "Unconfirmed",
   "verdict_note": "Patikima ir konkretu, tačiau dar tiriama."
+ },
+ {
+  "key": "2026-11-18|forced-relocation",
+  "date": "2026-11-18",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Nauja: Lietuva ketina pereiti nuo nedidelės grupės priėmimo prie vien mokėjimo, ką taisyklės leidžia; kiekviena šalis renkasi tarp žmonių priėmimo, mokėjimo ar kitos paramos.",
+  "verdict": "False",
+  "verdict_note": "Tai paneigia ir taisyklės, ir pačios Lietuvos pasirinkimai."
+ },
+ {
+  "key": "2026-11-18|lithuania-zero",
+  "date": "2026-11-18",
+  "order": 2,
+  "claim": "Lietuva pagal ES solidarumo mechanizmą nepriims nė vieno migranto",
+  "claimed_by": "Lietuvos vidaus reikalų ministras Martynas Katelynas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Vyriausybė siūlymui dar nepritarė, o Lietuva gegužę sutiko priimti 58 žmones iš Kipro; neaišku, ar šis įsipareigojimas atšaukiamas.",
+  "verdict": "Likely",
+  "verdict_note": "Pritarė vyriausybės komisija, bet sprendimas dar nėra galutinis."
+ },
+ {
+  "key": "2026-11-18|via-latvia",
+  "date": "2026-11-18",
+  "order": 3,
+  "claim": "Per Latviją į Estiją pateko sabotuotojai ir šimtai neteisėtų migrantų",
+  "claimed_by": "EKRE pirmininkas Martinas Helme; Centro partijos pirmininkas Michailas Kõlvartas",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "„Threod“ byloje įtariamieji gyveno Latvijoje; Estijos policija per pirmąjį 2026 m. pusmetį sulaikė 149 žmones dėl neteisėtos migracijos, ir manoma, kad daugelis jų atvyko per Latviją. Vyriausybė sako, kad tai nepateisina patikrų pasienyje.",
+  "verdict": "Likely",
+  "verdict_note": "Iš esmės atitinka policijos duomenis ir „Threod“ bylą, tačiau viso metų skaičiaus apie atvykusiuosius per Latviją nepaskelbta."
+ },
+ {
+  "key": "2026-11-18|estonia-migration-push",
+  "date": "2026-11-18",
+  "order": 4,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos premjeras Kristenas Michalas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Nepranešta apie migrantų judėjimą Estijos sienos link; precedentas – 2023 m. Rusijos stūmimas prie Suomijos sienos.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Pagrįstas įspėjimas apie galimą scenarijų, bet ne planuojamo stūmimo įrodymas."
  }
 ]

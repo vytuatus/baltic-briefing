@@ -38,5 +38,45 @@
   "metric": "Misleading migration claims",
   "value": 2,
   "note": "Du šiandienos teiginiai įvertinti kaip melagingi: kad ES paktas verčia Baltijos šalis priimti migrantus ir ankstesnis teiginys apie „10 000 per metus“ Latvijai."
+ },
+ {
+  "key": "2026-11-18|organised",
+  "date": "2026-11-18",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo nepranešta apie naują lydimą grupę, kontrabandininkų transporto priemonę, tunelį ar pasienio įrangos sugadinimą."
+ },
+ {
+  "key": "2026-11-18|measures",
+  "date": "2026-11-18",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "Naujų nėra; Lenkijos projektas pratęsti buferinę zoną pasienyje su Baltarusija paskelbtas lapkričio 14 d. ir vakar buvo praleistas, todėl neįskaičiuotas, o patikros Estijos pasienyje su Latvija tik svarstomos."
+ },
+ {
+  "key": "2026-11-18|eu",
+  "date": "2026-11-18",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "Nėra; Lietuvos planas mokėti, o ne perkelti, yra nacionalinis pasirinkimas, o Ruandos centras – penkių šalių iniciatyva, ne ES sprendimas."
+ },
+ {
+  "key": "2026-11-18|transfers",
+  "date": "2026-11-18",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "Nepranešta."
+ },
+ {
+  "key": "2026-11-18|claims",
+  "date": "2026-11-18",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo nė vienas šiandienos sąraše klaidinančiu, nepagrįstu ar melagingu įvertintas teiginys nepasirodė pirmą kartą ir naujai neišplito."
  }
 ]

@@ -1168,5 +1168,65 @@
   "evidence": "Analizė",
   "corroboration": "Vieno Estijos stebėtojo analizė; identiškos formuluotės Rusijos leidiniuose matomos jo pavyzdžiuose.",
   "analysis": "Modelis, kai diplomatai nustato liniją, agentūros ją platina, o „Telegram“ sustiprina, yra vadovėlinis Lietuvos vertinime aprašytų informacinių operacijų pavyzdys. Jis taip pat sutampa su laiku, kai Maskva siekia pavaizduoti Estijos sienos uždarymą kaip priešiškumą rusams."
+ },
+ {
+  "key": "2026-11-18|estonia-closure-debate",
+  "date": "2026-11-18",
+  "order": 1,
+  "title": "Estijos prezidentė: sienos uždarymas negali būti emocinis sprendimas",
+  "summary": "Lapkričio 17 d. prezidentė Ülle Madise sakė, kad sprendimas uždaryti Estijos kelių pasienio punktus su Rusija turi remtis jo ekonominio, humanitarinio, diplomatinio ir saugumo poveikio analize, ir pažymėjo, kad uždarymas nebūtų užkirtęs kelio išpuoliams prieš „Milrem Robotics“ ar „Threod Systems“. Ji pasisakė už įprastų turistinių ir apsipirkimo kelionių nutraukimą, paliekant diplomatines ir humanitarines keliones. Užsienio reikalų ministras buvo paskelbęs apie uždarymą nuo gruodžio 1 d., o premjeras „Delfi“ sakė, kad jis turėtų būti neribotas; vyriausybė oficialiai dar nenusprendė.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Prezidentės žodžius praneša ERR ir „Meduza“; premjero interviu pranešė TASS.",
+  "analysis": "Tai diskusija apie tai, ar priemonė atitinka grėsmę, o ne apie tai, kas stovi už išpuolių: „Threod“ byloje įtariamieji gyveno Latvijoje ir buvo užverbuoti nuotoliu, todėl kelių uždarymas jų nebūtų sustabdęs, nors jis nutrauktų keliones, kurias bazinė linija sieja su verbavimu ir sankcijų apėjimu. Tikėtina, kad Rusijos žiniasklaida diskusiją pateiks kaip skilimą Taline."
+ },
+ {
+  "key": "2026-11-18|latvia-border-checks",
+  "date": "2026-11-18",
+  "order": 2,
+  "title": "Estijos partijos nesutaria dėl patikrų pasienyje su Latvija",
+  "summary": "Centro partija ir EKRE nori atkurti patikras Estijos pasienyje su Latvija, remdamosi per Latviją atvykusiais sabotuotojais ir neteisėtais migrantais; „Isamaa“ jas palaikytų, jei kitos priemonės nepasiteisintų. Reformų partija, socialdemokratai ir „Eesti 200“ idėjai prieštarauja. Vidaus reikalų ministras Igoris Taro sakė, kad vyriausybė toli gražu to nesvarsto, ir kainą įvertino maždaug 300 mln. eurų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ERR, remiantis partijų lyderių pareiškimais.",
+  "analysis": "Diskusija kilo po to, kai saugumo policijos vadovas viešai išreiškė viltį, kad Latvija imsis pakankamų priemonių. Ji rodo įtampą tarp Baltijos šalių dėl grėsmių, laisvai judančių Šengeno erdvėje, tačiau šiuo metu nė viena vyriausybė patikrų nesiūlo."
+ },
+ {
+  "key": "2026-11-18|kapo-ten-firms",
+  "date": "2026-11-18",
+  "order": 3,
+  "title": "Estijos saugumo policija: Rusijos taikiniai – maždaug dešimt gynybos įmonių",
+  "summary": "Interviu ERR Estijos saugumo policijos vadovas Margo Palloson sakė, kad Rusija taikosi į maždaug dešimt Estijos gynybos pramonės įmonių, tarp jų „Threod Systems“, kad Estija iš anksto turėjo informacijos apie planuotą išpuolį prieš „Threod“ ir kad Rusijos tarnybos verbuoja per nusikalstamus tinklus, socialinius tinklus ir į Rusiją keliaujančius žmones, kartais mokėdamos vos kelis šimtus eurų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ERR interviu, apibendrintas „United24“; atitinka Lietuvos ir Estijos tarpininkų sabotažo vertinimus.",
+  "analysis": "Tai paaiškina, kodėl Estija „Threod“ bylą laiko kampanijos dalimi, o ne pavieniu atveju. Tai oficialus vertinimas be paskelbtų įrodymų, tačiau jis dera su ankstesniu, oficialiai priskirtu rugpjūčio „Milrem“ padegimu."
+ },
+ {
+  "key": "2026-11-18|belarus-inspection",
+  "date": "2026-11-18",
+  "order": 4,
+  "title": "Baltarusija paskelbė netikėtą pasieniečių parengties patikrinimą",
+  "summary": "Lapkričio 16 d. Baltarusijos saugumo tarybos sekretorius paskelbė netikėtą Valstybinio pasienio komiteto padalinių kovinės parengties patikrinimą, daugiausia dėmesio skiriant greitojo reagavimo grupėms. Pratybos apima žygius ir imituojamų diversinių žvalgybos grupių atrėmimą, o rezultatai pranešami Aliaksandrui Lukašenkai. Vieta ir trukmė nenurodytos.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Kyiv Independent“, remdamasis Baltarusijos valstybine agentūra „Belta“; ISW kitą dieną Baltarusijoje nieko reikšmingo nepastebėjo.",
+  "analysis": "Tokie netikėti patikrinimai Baltarusijoje dažni, o šis apima pasieniečius, ne kariuomenės dalinius. Jį verta stebėti, nes Baltarusijos pasienio struktūros įtariamos padedančios organizuoti migrantų sienos kirtimą, tačiau nepranešta apie jokį judėjimą NATO sienų link."
+ },
+ {
+  "key": "2026-11-18|lavrov-2021",
+  "date": "2026-11-18",
+  "order": 5,
+  "title": "Lavrovas pakartoja 2021 m. reikalavimus; Rutte sako, kad Putinas nori susilpninti Europą",
+  "summary": "Lapkričio 17 d. Rusijos užsienio reikalų ministras Sergejus Lavrovas apkaltino Europos pareigūnus bandymu įsisprausti į derybas, kad sukurtų prieš Rusiją nukreiptą Europos saugumo sistemą, ir pasakė, kad Maskva tebesilaiko savo 2021 m. reikalavimų NATO; viceministras Sergejus Riabkovas sakė, kad Europos dalyvavimas derybose nesvarstomas. Tą pačią dieną NATO generalinis sekretorius Markas Rutte Ukrainos gynybos kontaktinei grupei sakė, kad Putinas siekia susilpninti Europą kurdamas nesaugumą ir sėdamas susiskaldymą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ISW lapkričio 17 d. vertinime apibendrinti Rusijos pareiškimai; Rutte žodžius praneša „Kyiv Post“.",
+  "analysis": "2021 m. reikalavimai apėmė NATO pajėgų atitraukimą iš valstybių, įstojusių po 1997 m., įskaitant Baltijos šalis, todėl pareiškimas atitinka praėjusią savaitę aprašytą nutekintą dokumentą. ISW pažymi, kad jis prieštarauja JAV pasiuntinių pasiūlymams. Jis atskleidžia ilgalaikius tikslus, o ne karinį pasirengimą."
+ },
+ {
+  "key": "2026-11-18|lithuania-air-defence",
+  "date": "2026-11-18",
+  "order": 6,
+  "title": "Lietuvos kariuomenės vadas: JAV kariai – palengvėjimas, apsauga nuo dronų – vis dar spraga",
+  "summary": "Lietuvos kariuomenės vadas Raimundas Vaikšnoras sakė, kad dviejų JAV batalionų atvykimas atnešė palengvėjimą ir kad jis tikisi daugiau nei vienkartinės rotacijos. Pasak jo, radarų aprėptis pagerėjo, tačiau dronų atpažinimas ir neutralizavimas, ypač naktį, lieka spraga, kol Lietuva neįsigis savų pajėgumų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT interviu.",
+  "analysis": "Atviras pripažinimas, atitinkantis lapkričio dronų pavojus, kai NATO naikintuvai negalėjo numušti drono. Jis rodo, kad oro gynyba yra pagrindinis artimiausio laikotarpio pažeidžiamumas, o tai dera su hibridiniu, o ne konvenciniu grėsmės vaizdu."
  }
 ]

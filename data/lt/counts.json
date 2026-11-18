@@ -758,5 +758,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Neįskaičiuota; Peskovo pastaba, kad sienos niekada nieko gero jų statytojams neatnešė, yra užmaskuotas įspėjimas, o ne aiškus grasinimas NATO ar Baltijos šalims."
+ },
+ {
+  "key": "2026-11-18|airspace",
+  "date": "2026-11-18",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo vakarykščio leidimo nepranešta apie naują Baltijos šalių, Lenkijos ar Suomijos oro erdvės pažeidimą ar dronų įsiveržimą. Rusijos dronai virš Moldovos lapkričio 17 d. yra už regiono ribų."
+ },
+ {
+  "key": "2026-11-18|sabotage",
+  "date": "2026-11-18",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; saugumo policijos vadovo įspėjimas apie dešimt taikinyje esančių Estijos įmonių yra grėsmės vertinimas, o ne naujas atvejis."
+ },
+ {
+  "key": "2026-11-18|jamming",
+  "date": "2026-11-18",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; nėra naujo oficialaus ar didžiosios žiniasklaidos pranešimo apie GNSS trikdžius Baltijos regione."
+ },
+ {
+  "key": "2026-11-18|border",
+  "date": "2026-11-18",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; netikėtas Baltarusijos savo pasieniečių patikrinimas nėra provokacija prie NATO sienos."
+ },
+ {
+  "key": "2026-11-18|threats",
+  "date": "2026-11-18",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nesuskaičiuota; Lavrovo pakartoti 2021 m. reikalavimai ir išpuolis prieš Europos vaidmenį derybose yra priešiška retorika, o ne aiški grėsmė NATO ar Baltijos šalims."
  }
 ]

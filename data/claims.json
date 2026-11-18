@@ -1318,5 +1318,60 @@
   "conflict": "One Ukrainian teenager has been charged in the Tri-City; others are unknown, and no one has been detained in Warsaw. Ukraine's embassy blames Russia, which Polish authorities have not confirmed.",
   "verdict": "Contested",
   "verdict_note": "Who did it is established in one case only; who paid for it is unknown."
+ },
+ {
+  "key": "2026-11-18|c1",
+  "date": "2026-11-18",
+  "order": 1,
+  "claim": "Russia's GRU ordered the attempted arson at Threod Systems in Estonia",
+  "claimed_by": "Estonia's security police, prosecutor general and foreign minister; supported by Latvia's VDD",
+  "evidence": "Official statement",
+  "conflict": "The Kremlin calls the accusation baseless; neither side has published its evidence. New: Estonia's security police says it had advance intelligence of the attack.",
+  "verdict": "Likely",
+  "verdict_note": "Detentions, court custody and seizures in two countries back the Estonian account; the denial offers no alternative explanation."
+ },
+ {
+  "key": "2026-11-18|c2",
+  "date": "2026-11-18",
+  "order": 2,
+  "claim": "Closing Estonia's border with Russia would not have prevented the Milrem and Threod attacks",
+  "claimed_by": "Estonian President Ülle Madise",
+  "evidence": "Official statement",
+  "conflict": "The foreign minister tied the closure directly to the Threod attack, saying Russia's hostile acts come at a cost; the prime minister wants the closure to be indefinite.",
+  "verdict": "Likely",
+  "verdict_note": "The Threod suspects were residents of Latvia recruited remotely, so a road closure would not have stopped them; the closure targets other risks, such as travel used for recruitment."
+ },
+ {
+  "key": "2026-11-18|c3",
+  "date": "2026-11-18",
+  "order": 3,
+  "claim": "Russia has put in writing a demand that NATO pull forces and bases back to 1997 positions, which would remove them from Poland, the Baltic states and Finland",
+  "claimed_by": "The New York Times, The Economist and The Telegraph (leaked paper)",
+  "evidence": "Imagery or documents",
+  "conflict": "Peskov said on 13 November that no withdrawal of NATO members was discussed; on 17 November Lavrov said Moscow remains committed to its 2021 demands, which included such a pull-back.",
+  "verdict": "Likely",
+  "verdict_note": "Lavrov's on-record statement supports the substance; the document itself is still unpublished."
+ },
+ {
+  "key": "2026-11-18|c4",
+  "date": "2026-11-18",
+  "order": 4,
+  "claim": "Europe is trying to squeeze into peace talks to build a security system aimed against Russia",
+  "claimed_by": "Russian Foreign Minister Sergei Lavrov",
+  "evidence": "Official statement",
+  "conflict": "EU governments say they seek a role because Europe's own security is at stake; NATO's secretary general says Russia is the one trying to weaken Europe.",
+  "verdict": "Misleading",
+  "verdict_note": "European states are directly affected by any settlement; presenting their participation as a plot against Russia reverses who is demanding changes to European security."
+ },
+ {
+  "key": "2026-11-18|c5",
+  "date": "2026-11-18",
+  "order": 5,
+  "claim": "The Polish sabotage threat was invented or exaggerated to justify tighter controls",
+  "claimed_by": "Anti-government and Russia-friendly social media accounts in Poland (per a Warsaw security firm's monitoring)",
+  "evidence": "Analysis",
+  "conflict": "New: the monitor's 17 November report lists four confirmed acts of sabotage, 15 detentions and two attacks classed as terrorism, with trials pending, and notes an 'only four acts' line used to play the threat down.",
+  "verdict": "False",
+  "verdict_note": "Sabotage in Poland is documented by investigations and charges; the narrative minimises it."
  }
 ]
