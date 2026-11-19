@@ -798,5 +798,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nesuskaičiuota; Lavrovo pakartoti 2021 m. reikalavimai ir išpuolis prieš Europos vaidmenį derybose yra priešiška retorika, o ne aiški grėsmė NATO ar Baltijos šalims."
+ },
+ {
+  "key": "2026-11-19|airspace",
+  "date": "2026-11-19",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; nuo vakarykščio leidimo nepranešta apie naują Baltijos šalių, Lenkijos ar Suomijos oro erdvės pažeidimą ar dronų įsiveržimą."
+ },
+ {
+  "key": "2026-11-19|sabotage",
+  "date": "2026-11-19",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Neįskaičiuota; pranešimas apie išpuolio po svetima vėliava planą prie Karaliaučiaus sienos yra anoniminiais šaltiniais grįstas pasakojimas apie sužlugdytą planą be sulaikymų ar kaltinimų, o lapkričio 18 d. pranešti JAV kaltinimai šnipinėjimu yra už Europos ribų."
+ },
+ {
+  "key": "2026-11-19|jamming",
+  "date": "2026-11-19",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; nėra naujo oficialaus ar didžiosios žiniasklaidos pranešimo apie GNSS trikdžius Baltijos regione."
+ },
+ {
+  "key": "2026-11-19|border",
+  "date": "2026-11-19",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; pranešimas apie išpuolį po svetima vėliava susijęs su lapkričio pradžios pavojumi prie Lenkijos ir Karaliaučiaus sienos, apie kurį pranešta jau tuo metu."
+ },
+ {
+  "key": "2026-11-19|threats",
+  "date": "2026-11-19",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; per šį laikotarpį nė vienas aukšto rango Rusijos pareigūnas nepareiškė naujos aiškios grėsmės NATO ar Baltijos šalims."
  }
 ]

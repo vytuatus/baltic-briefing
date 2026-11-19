@@ -78,5 +78,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "None; no claim in today's tracker rated misleading, unsupported or false was first seen or newly spread since the previous edition."
+ },
+ {
+  "key": "2026-11-19|organised",
+  "date": "2026-11-19",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "None; no new escorted group, smuggling vehicle, tunnel or damage to border equipment was first reported since the previous edition. The Estonian conviction concerns an older case."
+ },
+ {
+  "key": "2026-11-19|measures",
+  "date": "2026-11-19",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "None new; Estonia's first-reading vote advances a closure already announced, and Lithuania's extension of Kaliningrad border patrols was announced on 16 November, before the previous edition."
+ },
+ {
+  "key": "2026-11-19|eu",
+  "date": "2026-11-19",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "None; no new EU-level decision, proposal or vote affecting Baltic obligations was reported."
+ },
+ {
+  "key": "2026-11-19|transfers",
+  "date": "2026-11-19",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "None reported."
+ },
+ {
+  "key": "2026-11-19|claims",
+  "date": "2026-11-19",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "None; no claim in today's tracker rated misleading, unsupported or false was first seen or newly spread since the previous edition."
  }
 ]

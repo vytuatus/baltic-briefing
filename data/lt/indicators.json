@@ -2858,5 +2858,148 @@
   "trend": "Unchanged",
   "note": "Nepranešta apie technikos traukinius Baltijos šalių pasienio link. Spalio 12 d. pranešimas apie Baltarusijos pasienio bazę, pritaikytą ilgiems kariniams traukiniams, tolesnės informacijos nesulaukė.",
   "evidence": "Nepatikrintas teiginys"
+ },
+ {
+  "key": "2026-11-19|troops",
+  "date": "2026-11-19",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Karių judėjimas Baltijos šalių pasienio link",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nauja informacija apie Rusijos pajėgų judėjimą Baltijos šalių, Lenkijos ar Suomijos link negauta. Ukrainos karinė žvalgyba lapkričio 18 d. sakė, kad Rusijos sausumos pajėgos lieka sutelktos į Ukrainą, todėl tiesioginį išpuolį prieš Baltijos šalis ar Lenkiją ji laiko mažai tikėtinu.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|kaliningrad",
+  "date": "2026-11-19",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Veikla Karaliaučiaus srityje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nepranešta apie karių ar laivų telkimą eksklave. „Bloomberg“ ir „The New York Times“ praneša, kad Rusijos derybų dokumente siūloma sumažinti karinį buvimą Karaliaučiuje ir Baltarusijoje, jei NATO grįš į 1997 m. padėtį; ką tai reikštų, neaišku. Ukrainos karinė žvalgyba teigia, kad Rusija regione įrengia papildomus šaudmenų ir degalų sandėlius, įrodymų nepaskelbusi. Lietuva pratęsė kariuomenės patruliavimą pasienyje su Karaliaučiaus sritimi iki lapkričio pabaigos ir vadina jį prevenciniu.",
+  "evidence": "Anoniminiai šaltiniai"
+ },
+ {
+  "key": "2026-11-19|belarus",
+  "date": "2026-11-19",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Veikla Baltarusijoje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Ukrainos karinė žvalgyba praneša apie daugiau Rusijos operacinių-taktinių raketų sistemų Baltarusijoje ir naujus sandėlius bei lauko ryšių mazgus; vietų ar skaičių ji nenurodė, ir teiginys nepatvirtintas nepriklausomai. Lapkričio 16 d. paskelbtas netikėtas Baltarusijos pasieniečių parengties patikrinimas jokio judėjimo NATO sienų link nesukėlė.",
+  "evidence": "Nepatikrintas teiginys"
+ },
+ {
+  "key": "2026-11-19|exercises",
+  "date": "2026-11-19",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Paskelbtos pratybos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepaskelbta jokių didelių Rusijos ar Baltarusijos karinių pratybų prie Baltijos šalių sienų. NATO pratybos Lenkijoje tęsiasi iki lapkričio 22 d., Lietuvoje – iki gruodžio 3 d.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|gps",
+  "date": "2026-11-19",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS trikdymas ir klastojimas",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Nuo vakar nėra naujo išmatuoto pranešimo apie GNSS trikdžius Baltijos regione. Įvertinimas lieka aukštas, nes trikdžiai iš Karaliaučiaus srities yra nuolatiniai, kaip aprašyta bazinėje linijoje; naujų pranešimų nebuvimas atspindi pranešimų spragas, o ne patvirtintą sumažėjimą.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|airspace",
+  "date": "2026-11-19",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Oro erdvės pažeidimai ir dronai",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Nuo ankstesnio leidimo Baltijos šalyse, Lenkijoje ir Suomijoje nebuvo naujo dronų įsiveržimo ar oro pavojaus – jau aštuntą dieną iš eilės. Paskutiniai pavojai lapkričio 10–11 d. naktį buvo paskelbti per Ukrainos smūgius Leningrado sričiai.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|sabotage",
+  "date": "2026-11-19",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotažo incidentai",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Naujo atvejo nėra. „Rzeczpospolita“, remdamasi anoniminiais aukšto rango šaltiniais, praneša, kad Rusijos žvalgyba spalio pabaigoje ar lapkričio pradžioje planavo daug aukų pareikalausiantį sabotažo išpuolį prie Lenkijos ir Karaliaučiaus sienos, dėl kurio būtų apkaltinta Ukraina, ir kad sąjungininkų tarnybos įspėjo Varšuvą. Lenkijos specialiųjų tarnybų koordinatorius detalių nepatvirtino, bet sakė, kad grėsmė buvo įvertinta kaip reali. „Threod“ tyrimas Estijoje tęsiamas.",
+  "evidence": "Anoniminiai šaltiniai"
+ },
+ {
+  "key": "2026-11-19|border",
+  "date": "2026-11-19",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Spaudimas Baltarusijos pasienyje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Baltijos šalių, Lenkijos ar Suomijos pasienyje naujų provokacijų nebuvo. Lapkričio 18 d. Estijos parlamentas pirmuoju svarstymu 37 balsais prieš 2 pritarė opozicijos įstatymo projektui uždaryti pasienio punktus su Rusija prieš planuojamą gruodžio 1 d. uždarymą. Lietuva iki lapkričio pabaigos palieka apie 100 karių, padedančių pasieniečiams prie Karaliaučiaus sienos; kariuomenės vadas pasiūlė ten įrengti fizinius barjerus.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|rhetoric",
+  "date": "2026-11-19",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Oficiali Rusijos retorika",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Naujos aiškios grėsmės nerasta. Pranešimai apie Rusijos derybų dokumentą rodo, kad Maskva vis dar nori, jog NATO pajėgos būtų atitrauktos į 1997 m. pozicijas, o Europa nustotų laikyti Rusiją grėsme, mainais siūlydama sumažinti savo karinį buvimą prie Baltijos šalių. Užsienio reikalų ministerija anksčiau Estijos sienos uždarymą pavadino rusofobijos ženklu.",
+  "evidence": "Anoniminiai šaltiniai"
+ },
+ {
+  "key": "2026-11-19|mobilization",
+  "date": "2026-11-19",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilizacija ir rezervistų šaukimas",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nėra mobilizacijos dekreto ir pranešimų apie rezervistų šaukimą Baltijos kryptimi. Lietuvos pareigūnai sako, kad patruliavimas prie Karaliaučiaus sienos iš dalies skirtas apsisaugoti nuo vengiančių šaukimo, jei Rusija po parlamento rinkimų paskelbtų mobilizaciją; tai atsargumo priemonė, grįsta viešais pranešimais, o ne žvalgybos duomenimis.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|hospitals",
+  "date": "2026-11-19",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Lauko ligoninės ir lovos ligoninėse",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujos informacijos nėra. Rugsėjo pranešimas apie 16 000–20 000 papildomų karinių lovų prie Baltijos šalių lieka vienintelis, anoniminiais šaltiniais grįstas teiginys. Lauko ligoninių prie Baltijos šalių sienų nepranešta.",
+  "evidence": "Anoniminiai šaltiniai"
+ },
+ {
+  "key": "2026-11-19|blood",
+  "date": "2026-11-19",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Kraujo atsargos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Viešų pranešimų apie kraujo atsargų gabenimą Baltijos šalių pasienio link nėra. Pranešimų nebuvimas nėra įrodymas, kad to nevyksta: šis ženklas paprastai išryškėja vėlai, per Vakarų pareigūnus.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|rail",
+  "date": "2026-11-19",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Technikos gabenimas geležinkeliu Baltijos kryptimi",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nepranešta apie technikos traukinius Baltijos šalių pasienio link. Ukrainos karinė žvalgyba teigia, kad Rusija stiprina logistiką Maskvos ir Leningrado karinėse apygardose, Karaliaučiuje ir Baltarusijoje, įskaitant šaudmenų ir degalų sandėlius; ji nepaskelbė vaizdų ar vietų, todėl įvertinimas nesikeičia.",
+  "evidence": "Nepatikrintas teiginys"
  }
 ]

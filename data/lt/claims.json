@@ -1373,5 +1373,60 @@
   "conflict": "Nauja: stebėtojų lapkričio 17 d. ataskaitoje nurodyti keturi patvirtinti sabotažo aktai, 15 sulaikymų ir du išpuoliai, priskirti terorizmui, su laukiančiais teismo procesais; pažymima, kad grėsmei sumenkinti naudojamas posakis „tik keturi aktai“.",
   "verdict": "False",
   "verdict_note": "Sabotažas Lenkijoje dokumentuotas tyrimais ir kaltinimais; šis pasakojimas jį menkina."
+ },
+ {
+  "key": "2026-11-19|c1",
+  "date": "2026-11-19",
+  "order": 1,
+  "claim": "Rusijos žvalgyba spalio pabaigoje ar lapkričio pradžioje planavo daug aukų pareikalausiantį išpuolį po svetima vėliava prie Lenkijos ir Karaliaučiaus sienos, dėl kurio būtų apkaltinta Ukraina",
+  "claimed_by": "„Rzeczpospolita“, remdamasi anoniminiais aukšto rango šaltiniais, artimais Lenkijos kariuomenei ir saugumo tarnyboms; pakartojo „The Telegraph“, „Evropeiska pravda“, „Kyiv Post“ ir „Meduza“",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Visi pranešimai kyla iš vieno dienraščio šaltinių. Versijos skiriasi: „Rzeczpospolita“ aprašo operaciją Lenkijos teritorijoje, o „The Telegraph“ perpasakojime teigiama, kad aukomis būtų tapę Rusijos civiliai Karaliaučiaus srityje. Lenkijos specialiųjų tarnybų koordinatorius Tomaszas Siemoniakas detalių nei patvirtino, nei paneigė ir tik sakė, kad grėsmė buvo įvertinta kaip reali. Rusijos reakcijos nerasta; Maskva pati anksčiau kaltino Ukrainą planuojant išpuolius po svetima vėliava Lenkijoje.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, atsižvelgiant į lapkričio pradžios pavojų pasienyje ir sustiprintas pajėgas, tačiau remiasi anoniminiais šaltiniais be oficialaus patvirtinimo; vienas leidinys, pakartotas daugelio, laikomas vienu šaltiniu."
+ },
+ {
+  "key": "2026-11-19|c2",
+  "date": "2026-11-19",
+  "order": 2,
+  "claim": "Rusija pasiūlė sumažinti savo karinį buvimą Karaliaučiuje ir Baltarusijoje, jei NATO grįš į 1997 m. padėtį",
+  "claimed_by": "„Bloomberg“ ir „The New York Times“, remdamiesi šaltiniais ir Maskvos derybinę poziciją išdėstančiu dokumentu; „Kyiv Post“ antraštėje teigiama, kad Rusija išvestų karius iš Karaliaučiaus",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Du dideli leidiniai aprašo tą patį dokumentą, tačiau nė vienas pareigūnas jo nepatvirtino. „Meduza“ pažymi, kad neaišku, ką toks sumažinimas reikštų; „Kyiv Post“ antraštė apie karių išvedimą eina toliau nei pranešimai. Pranešama, kad Europos vyriausybės sako, jog Rusija pirmiausia turi nutraukti kovas Ukrainoje, ir tik tada galima kalbėti apie NATO.",
+  "verdict": "Likely",
+  "verdict_note": "Atitinka viešus Maskvos 2021 m. reikalavimus ir šią savaitę Lavrovo pakartotą poziciją; siūlomo sumažinimo mastas ir reikšmė nežinomi."
+ },
+ {
+  "key": "2026-11-19|c3",
+  "date": "2026-11-19",
+  "order": 3,
+  "claim": "Rusija įrengia papildomus šaudmenų ir degalų sandėlius bei lauko ryšių mazgus Karaliaučiuje, Baltarusijoje ir savo Maskvos bei Leningrado karinėse apygardose",
+  "claimed_by": "Ukrainos karinės žvalgybos (HUR) atstovas Jevhenas Jerinas, lapkričio 18 d. Kyjive pristatydamas ataskaitą",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Vietų, skaičių ar vaizdų nepaskelbta, ir šiandien jokia kita vyriausybė ar atvirųjų šaltinių analitikas to nepatvirtino. Tai dera su Lietuvos bazinės linijos aprašytu ilgalaikiu Rusijos pajėgų atkūrimu prie NATO, o pati HUR tiesioginį išpuolį kol kas laiko mažai tikėtinu.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Viešas karo šalies žvalgybos tarnybos teiginys be paskelbtų įrodymų; tikėtinas, bet nepatikrintas."
+ },
+ {
+  "key": "2026-11-19|c4",
+  "date": "2026-11-19",
+  "order": 4,
+  "claim": "Kol tęsiasi karas Ukrainoje, tiesioginis Rusijos karinis išpuolis prieš Baltijos šalis ar Lenkiją mažai tikėtinas",
+  "claimed_by": "Ukrainos karinė žvalgyba (lapkričio 18 d.); Lietuvos 2026 m. grėsmių nacionaliniam saugumui vertinimas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Nė vienas šiandienos šaltinis šiam artimiausio laikotarpio vertinimui neprieštarauja. Lietuvos vertinime priduriama, kad ilgesniu laikotarpiu Rusija galėtų vykdyti ribotas operacijas prieš NATO valstybes, o HUR įspėja apie provokacijas prieš karinius ir logistikos objektus.",
+  "verdict": "Likely",
+  "verdict_note": "Du nepriklausomi žvalgybos vertinimai sutampa, ir joks rodiklis nerodo pajėgų judėjimo Baltijos šalių link."
+ },
+ {
+  "key": "2026-11-19|c5",
+  "date": "2026-11-19",
+  "order": 5,
+  "claim": "Estijos sienos uždarymą lemia rusofobija, o ne reali saugumo grėsmė",
+  "claimed_by": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova; Rusijos valstybinė žiniasklaida",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estija uždarymą sieja su GRU priskiriamu sabotažu prieš jos gynybos įmones, patvirtintu sulaikymais ir teismo skirtu suėmimu. Estijos kritikai, tarp jų Narvos meras ir prezidentė, abejoja kaina ir tuo, ar priemonė atitinka grėsmę, bet ne saugumo priežastimis.",
+  "verdict": "Misleading",
+  "verdict_note": "Uždarymas yra saugumo priemonė, taikoma visiems keliautojams ir priimta po dokumentuoto sabotažo; jo humanitarinė kaina šeimoms reali, tačiau rusofobijos vaizdinys nutyli nurodytas priežastis."
  }
 ]

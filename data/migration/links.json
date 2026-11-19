@@ -322,5 +322,86 @@
   "perspective": "Baltic",
   "title": "National Threat Assessment 2026",
   "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-19|m01",
+  "date": "2026-11-19",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-19|m02",
+  "date": "2026-11-19",
+  "topic": "Lithuania and the EU solidarity pool",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Minister rejects xenophobia accusations after refusing to accept migrants under EU scheme",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3118343/minister-rejects-xenophobia-accusations-after-refusing-to-accept-migrants-under-eu-scheme"
+ },
+ {
+  "key": "2026-11-19|m03",
+  "date": "2026-11-19",
+  "topic": "Crossing attempts from Belarus",
+  "outlet": "Bytes Europe",
+  "perspective": "US and international",
+  "title": "Lithuania Records No Attempts to Illegally Cross Border for Third Consecutive Day",
+  "url": "https://www.byteseu.com/2531901/"
+ },
+ {
+  "key": "2026-11-19|m04",
+  "date": "2026-11-19",
+  "topic": "Estonia–Latvia border checks",
+  "outlet": "ERR News",
+  "perspective": "Baltic",
+  "title": "Closing Estonia's southern border with Latvia would cost €65 million",
+  "url": "https://news.err.ee/1610198978/closing-estonia-s-southern-border-with-latvia-would-cost-65-million"
+ },
+ {
+  "key": "2026-11-19|m05",
+  "date": "2026-11-19",
+  "topic": "Estonia–Latvia border checks",
+  "outlet": "LSM",
+  "perspective": "Baltic",
+  "title": "Estonia estimates costs of introducing border controls with Latvia",
+  "url": "https://eng.lsm.lv/article/society/defence/18.11.2026-estonia-estimates-costs-of-introducing-border-controls-with-latvia.a672427/"
+ },
+ {
+  "key": "2026-11-19|m06",
+  "date": "2026-11-19",
+  "topic": "Smuggling and onward routes",
+  "outlet": "ERR News",
+  "perspective": "Baltic",
+  "title": "Egyptian citizen faces 1 year in prison for transporting migrants from Latvia to Estonia",
+  "url": "https://news.err.ee/1610197364/egyptian-citizen-faces-1-year-in-prison-for-transporting-migrants-from-latvia-to-estonia"
+ },
+ {
+  "key": "2026-11-19|m07",
+  "date": "2026-11-19",
+  "topic": "Russia border: Estonia",
+  "outlet": "APA",
+  "perspective": "US and international",
+  "title": "Estonian parliament approves bill to close border with Russia in first reading",
+  "url": "https://en.apa.az/europe/estonian-parliament-approves-bill-to-close-border-with-russia-in-first-reading-536992"
+ },
+ {
+  "key": "2026-11-19|m08",
+  "date": "2026-11-19",
+  "topic": "Russian state media on Estonia's closure",
+  "outlet": "TASS",
+  "perspective": "Russian state-aligned",
+  "title": "IN BRIEF: What is known about Estonia's plans to close border with Russia",
+  "url": "https://tass.com/world/2220427"
+ },
+ {
+  "key": "2026-11-19|m09",
+  "date": "2026-11-19",
+  "topic": "Lithuania's Kaliningrad border",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Lithuania's military chief suggests building physical barriers along Kaliningrad border",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3117079/lithuania-s-military-chief-suggests-building-physical-barriers-along-kaliningrad-border"
  }
 ]

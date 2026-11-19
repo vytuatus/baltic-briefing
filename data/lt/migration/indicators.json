@@ -218,5 +218,115 @@
   "trend": "Unchanged",
   "note": "Nuo vakar nerasta naujo plintančio melagingo teiginio apie migraciją. Estijos opozicijos lyderiai sako, kad per Latviją atvyko sabotuotojai ir šimtai neteisėtų migrantų, – tai partinis teiginys, iš esmės atitinkantis policijos duomenis.",
   "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|belarus-crossings",
+  "date": "2026-11-19",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Bandymai kirsti sieną iš Baltarusijos",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Lietuvos valstybės sienos apsaugos tarnyba lapkričio 15–17 d. neužfiksavo nė vieno bandymo, o lapkričio 14 d. – septynis; jos 2026 m. suma – 1 962, palyginti su 1 652 per visus 2025 m. Lapkričio 14–17 d. Latvija sustabdė 12, 41, 29 ir 6 bandymus ir lieka pagrindinis taikinys. Skaičiuojami bandymai, o ne žmonės, ir duomenys skelbiami nevienodai.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|smuggling",
+  "date": "2026-11-19",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Kontrabandininkų tinklai ir organizuotas sienos kirtimas",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Nuo ankstesnio leidimo naujų organizuoto sienos kirtimo incidentų nepranešta. Lapkričio 16 d. ERR pranešė, kad Estijos teismas rugpjūtį pagal prisipažinimo susitarimą nuteisė 24 metų užsienietį, neregistruotu furgonu iš Latvijos į Estiją pervežusį penkis migrantus; pareigūnai šį srautą sieja su hibridine ataka iš Baltarusijos.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|russia-border",
+  "date": "2026-11-19",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Siena su Rusija: Estija, Latvija, Suomija",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Lapkričio 18 d. Estijos parlamentas pirmuoju svarstymu 37 balsais prieš 2 pritarė įstatymo projektui uždaryti visus pasienio punktus su Rusija prieš gruodžio 1 d. uždarymą; vidaus reikalų ministerija sako, kad tarnybos pasirengusios galimam Rusijos atsakui neteisėtos migracijos priemonėmis. Lietuva pratęsė kariuomenės patruliavimą pasienyje su Karaliaučiaus sritimi iki lapkričio pabaigos, be kita ko, prieš kontrabandą ir šaukimo vengimą. Suomijos sausumos siena su Rusija lieka uždaryta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|eu-solidarity",
+  "date": "2026-11-19",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "ES solidarumo ir perkėlimo sprendimai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Lapkričio 18 d. Lietuvos vidaus reikalų ministras atmetė kaltinimus ksenofobija ir sakė, kad kitais metais mokėti į solidarumo fondą per maždaug penkerius metus būtų pigiau nei priimti perkeliamus žmones; mokėjimo suma dar nenustatyta. Šiais metais Lietuva sutiko priimti 58 žmones iš Kipro ir sumokėti 1,4 mln. eurų. Lenkija ir Estija atleistos. Dėl 2027 m. fondo Taryboje vis dar deramasi.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|transfers",
+  "date": "2026-11-19",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Perdavimai atgal į Baltijos šalis",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepranešta, kad kitos ES šalys siųstų migrantus į Baltijos šalis ar turėtų naujų planų ar susitarimų tai daryti.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|schengen-checks",
+  "date": "2026-11-19",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Patikros Šengeno erdvės viduje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Lenkijos patikros pasienyje su Lietuva ir Vokietija tęsiasi iki 2027 m. kovo 30 d. Estijos vidaus reikalų ministerijos kancleris patikrų atkūrimo pasienyje su Latvija kainą įvertino maždaug 65 mln. eurų, sakė, kad dabar saugumo poreikio joms nėra ir kad prireikus policija galėtų jas greitai atkurti. Tai skiriasi nuo anksčiau diskusijoje minėtos maždaug 300 mln. eurų sumos; nė viename įvertinime nenurodyta, kokiam laikotarpiui jis skaičiuotas.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|onward-routes",
+  "date": "2026-11-19",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Tranzito maršrutai per Baltijos šalis",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujo maršruto nepranešta. Lapkričio 16 d. paskelbtas Estijos teismo nuosprendis dėl kontrabandos ir Estijos policijos duomenys rodo, kad iš Baltarusijos į Latviją patekę žmonės keliauja į šiaurę per Estiją, dažnai į Suomiją ir Vakarų Europą.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-19|asylum-capacity",
+  "date": "2026-11-19",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Prieglobsčio prašymai ir priėmimo pajėgumai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Baltijos šalyse pajėgumų problemų nepranešta. Lapkričio 17 d. Lietuvos transporto sektorius paprašė didesnių kvotų užsienio darbuotojams – tai darbo migracijos klausimas, nesusijęs su prieglobsčiu.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|law-rights",
+  "date": "2026-11-19",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Apgręžimo įstatymas, teismai ir teisės",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujo teismo sprendimo ar įstatymo pakeitimo nerasta. Lietuva toliau apgręžia žmones pasienyje su Baltarusija pagal ekstremaliosios padėties režimą; žmogaus teisių organizacijų raginimai peržiūrėti apgręžimą tebegalioja. Kritikai apkaltino Lietuvos vyriausybę ksenofobija dėl jos solidarumo pasirinkimo; LRT nenurodė, kas pateikė šį kaltinimą.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-19|narratives",
+  "date": "2026-11-19",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Dezinformacija ir retorika apie migraciją",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nuo vakar nerasta naujo plintančio melagingo teiginio apie migraciją. Rusijos valstybinė žiniasklaida, nušviesdama Estijos sienos uždarymą, pabrėžia Narvos prieštaravimus ir mero argumentą, kad norint sustabdyti neteisėtą migraciją reikėtų uždaryti ir sieną su Latvija.",
+  "evidence": "Analizė"
  }
 ]

@@ -86,5 +86,60 @@
   "conflict": "No migrant movement toward the Estonian border has been reported; the precedent is Russia's 2023 push at the Finnish border.",
   "verdict": "Unconfirmed",
   "verdict_note": "A reasonable contingency warning, not evidence of a planned push."
+ },
+ {
+  "key": "2026-11-19|forced-relocation",
+  "date": "2026-11-19",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "Lithuania's interior minister again said on 18 November that member states may choose to accept people or pay instead, and Lithuania is choosing to pay; Estonia and Poland are exempt from contributing.",
+  "verdict": "False",
+  "verdict_note": "The Pact lets each state choose relocation, payment or other support; no Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-19|lithuania-zero",
+  "date": "2026-11-19",
+  "order": 2,
+  "claim": "Lithuania will not accept a single migrant under the EU solidarity mechanism next year",
+  "claimed_by": "Lithuanian Interior Minister Martynas Katelynas",
+  "evidence": "Official statement",
+  "conflict": "The minister repeated the plan on 18 November; a government commission approved it, but formal government approval and the payment amount have not been reported.",
+  "verdict": "Likely",
+  "verdict_note": "Stated on the record twice this week; still awaiting a formal government decision."
+ },
+ {
+  "key": "2026-11-19|paying-cheaper",
+  "date": "2026-11-19",
+  "order": 3,
+  "claim": "Paying into the EU solidarity pool is cheaper for Lithuania than accepting relocated migrants",
+  "claimed_by": "Lithuanian Interior Minister Martynas Katelynas, citing an estimate over about five years",
+  "evidence": "Official statement",
+  "conflict": "No calculation has been published and the payment amount is not yet set; this year Lithuania combined both, agreeing to take 58 people and pay €1.4 million.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A plausible on-the-record estimate that cannot be checked until the figures are published."
+ },
+ {
+  "key": "2026-11-19|latvia-checks-cost",
+  "date": "2026-11-19",
+  "order": 4,
+  "claim": "Restoring checks on Estonia's border with Latvia would cost about €65 million",
+  "claimed_by": "Estonian Interior Ministry secretary general Tarmo Miilits (18 November)",
+  "evidence": "Official statement",
+  "conflict": "Earlier in the week a figure of roughly €300 million was reported in the Estonian debate; neither estimate says whether it is one-off or annual or what it includes.",
+  "verdict": "Contested",
+  "verdict_note": "Both figures come from Estonian officials, but the published estimates do not match and have not been explained."
+ },
+ {
+  "key": "2026-11-19|estonia-migration-push",
+  "date": "2026-11-19",
+  "order": 5,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian officials and security agencies",
+  "evidence": "Official statement",
+  "conflict": "Estonia's interior ministry says agencies are prepared for such retaliation; no movement of migrants toward the Estonian border has been reported, and Russia has not commented.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A contingency Estonia is planning for, in line with Finland's 2023 experience, not an observed event."
  }
 ]

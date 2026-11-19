@@ -98,5 +98,45 @@
   "evidence": "Official statement",
   "corroboration": "ERR, the Dutch government and Euronews.",
   "analysis": "This concerns returns outside the EU, not moving people between EU states, so it does not shift migrants onto the Baltic states."
+ },
+ {
+  "key": "2026-11-19|lithuania-solidarity-cost",
+  "date": "2026-11-19",
+  "order": 1,
+  "title": "Lithuanian minister rejects xenophobia accusations over refusing relocations",
+  "summary": "On 18 November Interior Minister Martynas Katelynas rejected accusations of xenophobia and racism after announcing that Lithuania will accept no migrants under the EU solidarity mechanism next year and pay into the bloc's fund instead. He said the decision is political and financial and that paying would be cheaper over an estimated five years; the amount has not been set. This year Lithuania agreed to take 58 people from Cyprus and pay €1.4 million.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by LRT; the government commission's approval was reported on 16 November.",
+  "analysis": "The move is lawful under the Pact and is a national choice, not something imposed by Brussels. The cost argument cannot be checked yet, and the shift from a mixed approach this year to payment only next year is a political decision that rights groups are likely to contest."
+ },
+ {
+  "key": "2026-11-19|belarus-border-figures",
+  "date": "2026-11-19",
+  "order": 2,
+  "title": "Quiet days in Lithuania, dozens of attempts in Latvia",
+  "summary": "Lithuania's border guard service recorded no attempts to cross from Belarus outside official points on 15–17 November, the third day in a row, after turning back seven people on 14 November; its total for 2026 is 1,962, above the 1,652 for all of 2025. Latvia's border guard reported 12 attempts on 14 November, 41 on 15 November, 29 on 16 November and 6 on 17 November.",
+  "evidence": "Official statement",
+  "corroboration": "Figures from the two border guard services, reported by BNS and LSM and summarised by Bytes Europe.",
+  "analysis": "Latvia remains the main pressure point. A few quiet days in Lithuania do not show a lasting change: the numbers swing with weather and with where organisers send groups, and they count attempts, not people."
+ },
+ {
+  "key": "2026-11-19|estonia-latvia-cost",
+  "date": "2026-11-19",
+  "order": 3,
+  "title": "Estonia: Latvian border checks would cost €65 million and are not needed now",
+  "summary": "Estonia's Interior Ministry secretary general Tarmo Miilits said on 18 November that restoring checks on the Latvian border would cost about €65 million, that there is no security need for them today and that the police could restore them fairly quickly if needed. He argued the money would be better spent doubling patrols and strengthening counterintelligence, and said agencies are prepared for possible Russian retaliation through illegal migration once the eastern crossings close. The same day parliament backed the bill to close crossings with Russia in first reading, 37 to 2.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by ERR, LSM, APA and TASS.",
+  "analysis": "The government position weakens the case made by opposition parties for checks inside Schengen, but the gap between this figure and the roughly €300 million cited earlier in the week shows the cost debate is not yet settled."
+ },
+ {
+  "key": "2026-11-19|estonia-smuggling-case",
+  "date": "2026-11-19",
+  "order": 4,
+  "title": "Estonian court case shows the onward route from Latvia",
+  "summary": "ERR reported on 16 November that Harju County Court convicted a 24-year-old Egyptian man in August, under a plea bargain, for driving five migrants from Bangladesh and Algeria from Latvia into Estonia in an unregistered van with false plates. He admitted being paid, and was sentenced to one year in prison, expulsion and a six-year entry ban. Officials link such cases to the hybrid attack on the Belarus–Latvia border.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by ERR from court information.",
+  "analysis": "A single, older case, but it illustrates the onward movement behind the Estonian debate on checks at the Latvian border. Such transport within Schengen is a criminal matter for police, separate from returns of migrants between EU states."
  }
 ]

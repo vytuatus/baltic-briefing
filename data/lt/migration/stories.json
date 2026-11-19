@@ -98,5 +98,45 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "ERR, Nyderlandų vyriausybė ir „Euronews“.",
   "analysis": "Tai susiję su grąžinimu už ES ribų, o ne su žmonių perkėlimu tarp ES valstybių, todėl migrantų į Baltijos šalis tai neperkelia."
+ },
+ {
+  "key": "2026-11-19|lithuania-solidarity-cost",
+  "date": "2026-11-19",
+  "order": 1,
+  "title": "Lietuvos ministras atmeta kaltinimus ksenofobija dėl atsisakymo perkelti migrantus",
+  "summary": "Lapkričio 18 d. vidaus reikalų ministras Martynas Katelynas atmetė kaltinimus ksenofobija ir rasizmu po to, kai paskelbė, kad kitais metais Lietuva pagal ES solidarumo mechanizmą nepriims nė vieno migranto, o vietoj to mokės į bendrijos fondą. Jis sakė, kad sprendimas politinis ir finansinis ir kad per maždaug penkerius metus mokėti būtų pigiau; suma nenustatyta. Šiais metais Lietuva sutiko priimti 58 žmones iš Kipro ir sumokėti 1,4 mln. eurų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė LRT; vyriausybės komisijos pritarimas paskelbtas lapkričio 16 d.",
+  "analysis": "Žingsnis teisėtas pagal paktą ir yra nacionalinis pasirinkimas, o ne Briuselio primestas sprendimas. Argumento dėl kainos kol kas patikrinti negalima, o perėjimas nuo šių metų mišraus požiūrio prie vien mokėjimo kitais metais yra politinis sprendimas, kurį žmogaus teisių organizacijos tikriausiai ginčys."
+ },
+ {
+  "key": "2026-11-19|belarus-border-figures",
+  "date": "2026-11-19",
+  "order": 2,
+  "title": "Ramios dienos Lietuvoje, dešimtys bandymų Latvijoje",
+  "summary": "Lietuvos valstybės sienos apsaugos tarnyba lapkričio 15–17 d. trečią dieną iš eilės neužfiksavo nė vieno bandymo kirsti sieną iš Baltarusijos ne per oficialius punktus, o lapkričio 14 d. apgręžė septynis žmones; jos 2026 m. suma – 1 962, daugiau nei 1 652 per visus 2025 m. Latvijos pasieniečiai lapkričio 14 d. pranešė apie 12 bandymų, lapkričio 15 d. – 41, lapkričio 16 d. – 29, lapkričio 17 d. – 6.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Abiejų pasieniečių tarnybų duomenys, pranešti BNS ir LSM ir apibendrinti „Bytes Europe“.",
+  "analysis": "Latvija lieka pagrindinis spaudimo taškas. Kelios ramios dienos Lietuvoje nerodo ilgalaikio pokyčio: skaičiai svyruoja priklausomai nuo oro ir nuo to, kur organizatoriai siunčia grupes, be to, skaičiuojami bandymai, o ne žmonės."
+ },
+ {
+  "key": "2026-11-19|estonia-latvia-cost",
+  "date": "2026-11-19",
+  "order": 3,
+  "title": "Estija: patikros pasienyje su Latvija kainuotų 65 mln. eurų ir dabar nereikalingos",
+  "summary": "Lapkričio 18 d. Estijos vidaus reikalų ministerijos kancleris Tarmo Miilitsas sakė, kad patikrų atkūrimas pasienyje su Latvija kainuotų apie 65 mln. eurų, kad šiandien saugumo poreikio joms nėra ir kad prireikus policija galėtų jas atkurti gana greitai. Jis tvirtino, kad pinigus geriau skirti patrulių padvigubinimui ir kontržvalgybos stiprinimui, ir sakė, kad tarnybos pasirengusios galimam Rusijos atsakui neteisėtos migracijos priemonėmis, kai bus uždaryti rytiniai pasienio punktai. Tą pačią dieną parlamentas pirmuoju svarstymu 37 balsais prieš 2 pritarė pasienio punktų su Rusija uždarymo projektui.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė ERR, LSM, APA ir TASS.",
+  "analysis": "Vyriausybės pozicija silpnina opozicinių partijų argumentus už patikras Šengeno erdvės viduje, tačiau skirtumas tarp šios sumos ir savaitės pradžioje minėtų maždaug 300 mln. eurų rodo, kad diskusija dėl kainos dar neišspręsta."
+ },
+ {
+  "key": "2026-11-19|estonia-smuggling-case",
+  "date": "2026-11-19",
+  "order": 4,
+  "title": "Estijos teismo byla atskleidžia tolesnį maršrutą iš Latvijos",
+  "summary": "Lapkričio 16 d. ERR pranešė, kad Harju apskrities teismas rugpjūtį pagal prisipažinimo susitarimą nuteisė 24 metų Egipto pilietį, kuris neregistruotu furgonu su netikrais numeriais iš Latvijos į Estiją pervežė penkis migrantus iš Bangladešo ir Alžyro. Jis prisipažino gavęs atlygį ir buvo nuteistas metus kalėti, išsiųstas iš šalies ir jam uždrausta atvykti šešerius metus. Pareigūnai tokias bylas sieja su hibridine ataka Baltarusijos ir Latvijos pasienyje.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė ERR, remdamasis teismo informacija.",
+  "analysis": "Tai pavienė, senesnė byla, tačiau ji iliustruoja tolesnį judėjimą, kuris skatina Estijos diskusiją dėl patikrų pasienyje su Latvija. Toks pervežimas Šengeno erdvėje yra baudžiamasis policijos reikalas, nesusijęs su migrantų grąžinimu tarp ES valstybių."
  }
 ]

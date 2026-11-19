@@ -86,5 +86,60 @@
   "conflict": "Nepranešta apie migrantų judėjimą Estijos sienos link; precedentas – 2023 m. Rusijos stūmimas prie Suomijos sienos.",
   "verdict": "Unconfirmed",
   "verdict_note": "Pagrįstas įspėjimas apie galimą scenarijų, bet ne planuojamo stūmimo įrodymas."
+ },
+ {
+  "key": "2026-11-19|forced-relocation",
+  "date": "2026-11-19",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 18 d. Lietuvos vidaus reikalų ministras dar kartą pasakė, kad valstybės narės gali rinktis priimti žmones arba mokėti, o Lietuva renkasi mokėti; Estija ir Lenkija atleistos nuo įnašų.",
+  "verdict": "False",
+  "verdict_note": "Paktas leidžia kiekvienai valstybei rinktis perkėlimą, mokėjimą ar kitą paramą; nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-19|lithuania-zero",
+  "date": "2026-11-19",
+  "order": 2,
+  "claim": "Kitais metais Lietuva pagal ES solidarumo mechanizmą nepriims nė vieno migranto",
+  "claimed_by": "Lietuvos vidaus reikalų ministras Martynas Katelynas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Ministras planą pakartojo lapkričio 18 d.; jam pritarė vyriausybės komisija, tačiau apie oficialų vyriausybės pritarimą ir mokėjimo sumą nepranešta.",
+  "verdict": "Likely",
+  "verdict_note": "Šią savaitę du kartus viešai pareikšta; vis dar laukiama oficialaus vyriausybės sprendimo."
+ },
+ {
+  "key": "2026-11-19|paying-cheaper",
+  "date": "2026-11-19",
+  "order": 3,
+  "claim": "Lietuvai mokėti į ES solidarumo fondą pigiau nei priimti perkeliamus migrantus",
+  "claimed_by": "Lietuvos vidaus reikalų ministras Martynas Katelynas, remdamasis maždaug penkerių metų įvertinimu",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Skaičiavimų nepaskelbta, o mokėjimo suma dar nenustatyta; šiais metais Lietuva derino abu būdus – sutiko priimti 58 žmones ir sumokėti 1,4 mln. eurų.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtinas viešas įvertinimas, kurio negalima patikrinti, kol nepaskelbti skaičiai."
+ },
+ {
+  "key": "2026-11-19|latvia-checks-cost",
+  "date": "2026-11-19",
+  "order": 4,
+  "claim": "Patikrų atkūrimas Estijos pasienyje su Latvija kainuotų apie 65 mln. eurų",
+  "claimed_by": "Estijos vidaus reikalų ministerijos kancleris Tarmo Miilitsas (lapkričio 18 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Savaitės pradžioje Estijos diskusijoje buvo minima maždaug 300 mln. eurų suma; nė viename įvertinime nenurodyta, ar tai vienkartinės, ar metinės išlaidos ir ką jos apima.",
+  "verdict": "Contested",
+  "verdict_note": "Abu skaičiai kilę iš Estijos pareigūnų, tačiau paskelbti įvertinimai nesutampa ir nepaaiškinti."
+ },
+ {
+  "key": "2026-11-19|estonia-migration-push",
+  "date": "2026-11-19",
+  "order": 5,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos pareigūnai ir saugumo tarnybos",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estijos vidaus reikalų ministerija sako, kad tarnybos tokiam atsakui pasirengusios; migrantų judėjimo Estijos sienos link nepranešta, o Rusija nekomentavo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Scenarijus, kuriam Estija ruošiasi, atsižvelgdama į Suomijos 2023 m. patirtį, o ne užfiksuotas įvykis."
  }
 ]

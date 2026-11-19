@@ -2858,5 +2858,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. The 12 October report of a Belarusian border base fitted for long military trains has not been followed up.",
   "evidence": "Unverified claim"
+ },
+ {
+  "key": "2026-11-19|troops",
+  "date": "2026-11-19",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland. Ukraine's military intelligence said on 18 November that Russia's ground forces remain focused on Ukraine, which is why it judges a direct attack on the Baltic states or Poland unlikely.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|kaliningrad",
+  "date": "2026-11-19",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reported troop or ship build-up in the exclave. Bloomberg and the New York Times report that Russia's negotiating paper offers to reduce its military presence in Kaliningrad and Belarus if NATO returns to its 1997 footprint; what this would involve is unclear. Ukraine's military intelligence says Russia is adding ammunition and fuel depots in the region, without published evidence. Lithuania extended army patrols on its Kaliningrad border to the end of November and calls them preventive.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-19|belarus",
+  "date": "2026-11-19",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Ukraine's military intelligence reports more Russian operational-tactical missile systems in Belarus and new depots and field communication hubs there; it gave no locations or numbers and the claim is not independently confirmed. Belarus's snap readiness check of its border-guard units, announced on 16 November, has produced no reported movement toward NATO borders.",
+  "evidence": "Unverified claim"
+ },
+ {
+  "key": "2026-11-19|exercises",
+  "date": "2026-11-19",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian military exercise near Baltic borders announced. NATO drills continue in Poland until 22 November and in Lithuania until 3 December.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|gps",
+  "date": "2026-11-19",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new measured report of GNSS interference in the Baltic region since yesterday. The rating stays High because interference from the Kaliningrad area is persistent, as the baseline describes; the lack of fresh reports reflects gaps in reporting, not a confirmed drop.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|airspace",
+  "date": "2026-11-19",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new drone incursion or air alert in the Baltic states, Poland or Finland since the previous edition, the eighth day in a row. The last alerts, on the night of 10–11 November, came during Ukrainian strikes on Russia's Leningrad region.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|sabotage",
+  "date": "2026-11-19",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new case. Rzeczpospolita reports, citing anonymous senior sources, that Russian intelligence planned a sabotage attack with mass casualties near the Polish–Kaliningrad border in late October or early November, to be blamed on Ukraine, and that allied services warned Warsaw. Poland's special-services coordinator would not confirm details but said the threat was judged real. The Threod investigation in Estonia continues.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-19|border",
+  "date": "2026-11-19",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation at Baltic, Polish or Finnish borders. Estonia's parliament backed an opposition bill to close the crossings with Russia in first reading on 18 November, 37 to 2, ahead of the planned 1 December closure. Lithuania keeps about 100 soldiers helping border guards on the Kaliningrad border until the end of November; its army chief proposed physical barriers there.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|rhetoric",
+  "date": "2026-11-19",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new explicit threat found. Reporting on Russia's negotiating paper shows Moscow still wants NATO forces pulled back to 1997 positions and Europe to stop treating Russia as a threat, offering in return to ease its own military presence near the Baltic states. The Foreign Ministry had earlier called Estonia's border closure a sign of Russophobia.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-19|mobilization",
+  "date": "2026-11-19",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction. Lithuanian officials say their Kaliningrad border patrols partly guard against draft evasion if Russia mobilises after its parliamentary elections, a precaution based on public reports, not intelligence.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|hospitals",
+  "date": "2026-11-19",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-19|blood",
+  "date": "2026-11-19",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|rail",
+  "date": "2026-11-19",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. Ukraine's military intelligence says Russia is strengthening logistics in the Moscow and Leningrad military districts, Kaliningrad and Belarus, including ammunition and fuel depots; it published no imagery or locations, so the rating does not change.",
+  "evidence": "Unverified claim"
  }
 ]

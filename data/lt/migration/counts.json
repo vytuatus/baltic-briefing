@@ -78,5 +78,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "Nėra; nuo ankstesnio leidimo nė vienas šiandienos sąraše klaidinančiu, nepagrįstu ar melagingu įvertintas teiginys nepasirodė pirmą kartą ir naujai neišplito."
+ },
+ {
+  "key": "2026-11-19|organised",
+  "date": "2026-11-19",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo nepranešta apie naują lydimą grupę, kontrabandininkų transporto priemonę, tunelį ar pasienio įrangos sugadinimą. Estijos nuosprendis susijęs su senesne byla."
+ },
+ {
+  "key": "2026-11-19|measures",
+  "date": "2026-11-19",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "Naujų nėra; Estijos balsavimas pirmuoju svarstymu tik pastūmėja jau paskelbtą uždarymą, o Lietuvos patruliavimo prie Karaliaučiaus sienos pratęsimas paskelbtas lapkričio 16 d., prieš ankstesnį leidimą."
+ },
+ {
+  "key": "2026-11-19|eu",
+  "date": "2026-11-19",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "Nėra; nepranešta apie naują ES lygmens sprendimą, pasiūlymą ar balsavimą, keičiantį Baltijos šalių įsipareigojimus."
+ },
+ {
+  "key": "2026-11-19|transfers",
+  "date": "2026-11-19",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "Nepranešta."
+ },
+ {
+  "key": "2026-11-19|claims",
+  "date": "2026-11-19",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo nė vienas šiandienos sąraše klaidinančiu, nepagrįstu ar melagingu įvertintas teiginys nepasirodė pirmą kartą ir naujai neišplito."
  }
 ]

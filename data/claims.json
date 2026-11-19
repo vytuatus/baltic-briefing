@@ -1373,5 +1373,60 @@
   "conflict": "New: the monitor's 17 November report lists four confirmed acts of sabotage, 15 detentions and two attacks classed as terrorism, with trials pending, and notes an 'only four acts' line used to play the threat down.",
   "verdict": "False",
   "verdict_note": "Sabotage in Poland is documented by investigations and charges; the narrative minimises it."
+ },
+ {
+  "key": "2026-11-19|c1",
+  "date": "2026-11-19",
+  "order": 1,
+  "claim": "Russian intelligence planned a mass-casualty false-flag attack near the Polish–Kaliningrad border in late October or early November, to be blamed on Ukraine",
+  "claimed_by": "Rzeczpospolita, citing anonymous senior sources close to Poland's military and security services; repeated by The Telegraph, European Pravda, Kyiv Post and Meduza",
+  "evidence": "Anonymous sources",
+  "conflict": "All accounts trace back to one newspaper's sources. Versions differ: Rzeczpospolita describes an operation on Polish territory, while The Telegraph's retelling says Russian civilians in the Kaliningrad area would have been the victims. Poland's special-services coordinator Tomasz Siemoniak would neither confirm nor deny details and said only that the threat was judged real. No Russian response found; Moscow has itself accused Ukraine of plotting false flags in Poland before.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible given the early-November border alert and reinforcements, but resting on anonymous sources with no official confirmation; one outlet repeated by many counts as one source."
+ },
+ {
+  "key": "2026-11-19|c2",
+  "date": "2026-11-19",
+  "order": 2,
+  "claim": "Russia has offered to reduce its military presence in Kaliningrad and Belarus if NATO pulls back to its 1997 footprint",
+  "claimed_by": "Bloomberg and the New York Times, citing sources and a document setting out Moscow's negotiating position; Kyiv Post headline says Russia would pull troops from Kaliningrad",
+  "evidence": "Anonymous sources",
+  "conflict": "Two major outlets describe the same document, but no official has confirmed it. Meduza notes it is unclear what a reduction would involve; the Kyiv Post headline about pulling troops out goes further than the reporting. European governments reportedly say Russia must stop fighting in Ukraine before any NATO discussion.",
+  "verdict": "Likely",
+  "verdict_note": "Consistent with Moscow's public 2021 demands and Lavrov's restatement this week; the size and meaning of the offered reduction are unknown."
+ },
+ {
+  "key": "2026-11-19|c3",
+  "date": "2026-11-19",
+  "order": 3,
+  "claim": "Russia is setting up extra ammunition and fuel depots and field communication hubs in Kaliningrad, Belarus and its Moscow and Leningrad military districts",
+  "claimed_by": "Yevhen Yerin, spokesperson for Ukraine's military intelligence (HUR), presenting a report in Kyiv on 18 November",
+  "evidence": "Official statement",
+  "conflict": "No locations, numbers or imagery were published, and no other government or open-source analyst has confirmed it today. It fits the Lithuanian baseline's description of long-term Russian rebuilding near NATO, and HUR itself judges a direct attack unlikely for now.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "An on-the-record claim from an intelligence service that is a party to the war, without published evidence; plausible but not verified."
+ },
+ {
+  "key": "2026-11-19|c4",
+  "date": "2026-11-19",
+  "order": 4,
+  "claim": "A direct Russian military attack on the Baltic states or Poland is unlikely while the war in Ukraine continues",
+  "claimed_by": "Ukraine's military intelligence (18 November); Lithuania's 2026 National Threat Assessment",
+  "evidence": "Official statement",
+  "conflict": "No source in today's reporting contradicts the near-term judgement. The Lithuanian assessment adds that Russia could carry out limited operations against NATO states in the longer term, and HUR warns of provocations against military and logistics sites.",
+  "verdict": "Likely",
+  "verdict_note": "Two independent intelligence judgements agree, and no indicator shows forces being moved toward the Baltic states."
+ },
+ {
+  "key": "2026-11-19|c5",
+  "date": "2026-11-19",
+  "order": 5,
+  "claim": "Estonia's border closure is driven by Russophobia rather than a real security threat",
+  "claimed_by": "Russian Foreign Ministry spokeswoman Maria Zakharova; Russian state media",
+  "evidence": "Official statement",
+  "conflict": "Estonia links the closure to GRU-attributed sabotage against its defence firms, backed by arrests and court-ordered custody. Estonian critics, including Narva's mayor and the president, question the cost and whether it fits the threat, but not the security reasons behind it.",
+  "verdict": "Misleading",
+  "verdict_note": "The closure is a security measure that applies to all travellers and follows documented sabotage; its humanitarian costs for families are real, but the Russophobia framing leaves out the stated reasons."
  }
 ]

@@ -218,5 +218,115 @@
   "trend": "Unchanged",
   "note": "No new false migration claim found spreading since yesterday. Estonian opposition leaders say saboteurs and hundreds of illegal migrants came through Latvia, a partisan claim broadly in line with police figures.",
   "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|belarus-crossings",
+  "date": "2026-11-19",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Crossing attempts from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Lithuania's border guard service recorded no attempts on 15–17 November after seven on 14 November; its 2026 total is 1,962 against 1,652 in all of 2025. Latvia stopped 12, 41, 29 and 6 attempts on 14–17 November and remains the main target. Figures count attempts, not people, and are published unevenly.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|smuggling",
+  "date": "2026-11-19",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Smuggling networks and organised crossings",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new organised crossing incident reported since the previous edition. ERR reported on 16 November that an Estonian court convicted a 24-year-old foreign man in August, under a plea bargain, for driving five migrants from Latvia into Estonia in an unregistered van; officials describe the flow as part of the hybrid attack from Belarus.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|russia-border",
+  "date": "2026-11-19",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Russia border: Estonia, Latvia, Finland",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Estonia's parliament backed a bill to close all crossings with Russia in first reading on 18 November, 37 to 2, ahead of the 1 December closure; the interior ministry says agencies are prepared for possible Russian retaliation through illegal migration. Lithuania extended army patrols on its Kaliningrad border to the end of November, partly against smuggling and draft evasion. Finland's land border with Russia stays closed.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|eu-solidarity",
+  "date": "2026-11-19",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "EU solidarity and relocation decisions",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Lithuania's interior minister rejected accusations of xenophobia on 18 November and said paying into the solidarity pool next year would be cheaper over about five years than taking relocated people; the payment amount is not yet set. This year Lithuania agreed to take 58 people from Cyprus and pay €1.4 million. Poland and Estonia are exempt. The 2027 pool is still being negotiated in the Council.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|transfers",
+  "date": "2026-11-19",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Transfers back to the Baltic states",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No reports of other EU countries sending migrants to the Baltic states, or of new plans or agreements to do so.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|schengen-checks",
+  "date": "2026-11-19",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Border checks inside Schengen",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Poland's checks on its borders with Lithuania and Germany continue until 30 March 2027. Estonia's interior ministry secretary general put the cost of restoring checks on the Latvian border at about €65 million, said there is no security need for them now and that police could restore them quickly if required. This differs from the roughly €300 million figure reported earlier in the debate; neither says what period is covered.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|onward-routes",
+  "date": "2026-11-19",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Onward routes through the Baltics",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new route reported. The Estonian smuggling conviction reported on 16 November and Estonian police figures show people who cross from Belarus into Latvia moving north through Estonia, often toward Finland and western Europe.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-19|asylum-capacity",
+  "date": "2026-11-19",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Asylum claims and reception capacity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No capacity problem reported in the Baltic states. Lithuania's transport industry asked on 17 November for higher quotas for foreign workers, a labour-migration issue separate from asylum.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|law-rights",
+  "date": "2026-11-19",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Pushback law, courts and rights",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new court ruling or law change found. Lithuania keeps turning people back at the Belarus border under its state of emergency, and rights groups' calls to review pushbacks stand. Critics accused the Lithuanian government of xenophobia over its solidarity choice; LRT did not say who made the accusation.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-19|narratives",
+  "date": "2026-11-19",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Migration disinformation and rhetoric",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new false migration claim found spreading since yesterday. Russian state media coverage of Estonia's closure stresses Narva's objections and the mayor's argument that the Latvian border would also need closing to stop illegal migration.",
+  "evidence": "Analysis"
  }
 ]

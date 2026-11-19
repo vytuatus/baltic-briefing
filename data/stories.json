@@ -1228,5 +1228,65 @@
   "evidence": "Official statement",
   "corroboration": "LRT interview.",
   "analysis": "A frank admission that matches the November drone alerts, when NATO jets could not shoot down a drone. It points to air defence as the main near-term vulnerability, which fits the hybrid rather than conventional threat picture."
+ },
+ {
+  "key": "2026-11-19|false-flag-report",
+  "date": "2026-11-19",
+  "order": 1,
+  "title": "Polish paper: Russia planned a mass-casualty false flag near Kaliningrad",
+  "summary": "Rzeczpospolita reported on 17–18 November, citing anonymous senior sources close to Poland's military and security services, that Russian intelligence planned a sabotage operation near the Polish–Kaliningrad border in late October or early November that was meant to cause many casualties and be blamed on Ukraine. Allied intelligence reportedly warned Warsaw, and the Baltic states got similar warnings. Poland responded with extra police, border guards and security officers and a special operations headquarters. Special-services coordinator Tomasz Siemoniak would not confirm the plot but said the measures were taken because the threat was judged real.",
+  "evidence": "Anonymous sources",
+  "corroboration": "Repeated by The Telegraph, European Pravda, Kyiv Post, Meduza and TVP World, all relying on the same newspaper; no second independent source.",
+  "analysis": "This may explain the early-November alert that Prime Minister Tusk announced on 3 November, but the core claim is still unconfirmed and the retellings already disagree on where the attack would have happened and who the victims would have been. A one-source story picked up widely should not be treated as several confirmations."
+ },
+ {
+  "key": "2026-11-19|kaliningrad-offer",
+  "date": "2026-11-19",
+  "order": 2,
+  "title": "Russia reportedly offers to thin Kaliningrad and Belarus forces in exchange for a NATO rollback",
+  "summary": "Bloomberg and the New York Times reported on 18 November, citing sources and a document, that Russia's negotiating position asks NATO to return to its 1997 military footprint, stop treating Russia as a threat and set up incident-prevention mechanisms in the Baltic and Black Seas; in return Moscow would reduce its military presence in Kaliningrad and Belarus. US envoys reportedly put the idea to European allies. They are due at a Coalition of the Willing summit in Berlin on 19 November hosted by Chancellor Friedrich Merz.",
+  "evidence": "Anonymous sources",
+  "corroboration": "Two major outlets report the document; Meduza and Kyiv Post summarise them. No official confirmation.",
+  "analysis": "A 1997 footprint would mean removing allied forces from the Baltic states, Poland and Finland, so for the Baltic region this is the 2021 demand with a sweetener attached. The offer is vague and would leave Russia's own forces next door, which is why European governments have rejected the idea so far."
+ },
+ {
+  "key": "2026-11-19|hur-assessment",
+  "date": "2026-11-19",
+  "order": 3,
+  "title": "Ukrainian intelligence: attack on the Baltics unlikely, but Russia is building depots",
+  "summary": "Presenting a report on Russian information pressure in Kyiv on 18 November, Yevhen Yerin of Ukraine's military intelligence said direct Russian aggression against the Baltic states or Poland is unlikely because Moscow remains focused on Ukraine. He warned of possible provocations against military or logistics sites to test how fast NATO reacts, and said Russia is setting up ammunition and fuel depots and communication hubs in Kaliningrad, Belarus and western Russia, with more operational-tactical missile systems in Belarus.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Interfax-Ukraine and UA.News; no supporting imagery or details published.",
+  "analysis": "The overall judgement matches Lithuania's baseline and Finnish and Baltic officials' statements. The depot claim is new and worth watching, but it comes without evidence from a party to the war."
+ },
+ {
+  "key": "2026-11-19|estonia-bill",
+  "date": "2026-11-19",
+  "order": 4,
+  "title": "Estonian parliament backs border-closure bill; Latvian border checks would cost €65 million",
+  "summary": "On 18 November Estonia's parliament passed an opposition Isamaa bill to close all crossing points with Russia in first reading, 37 to 2, while the government prepares the closure announced for 1 December. The same day, Interior Ministry secretary general Tarmo Miilits estimated that restoring checks on the Latvian border would cost about €65 million, said there is no security need for them now and argued the money would do more as extra police patrols and counterintelligence. He said agencies are ready for possible Russian retaliation through illegal migration.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by ERR, LSM, APA and TASS; TASS stresses the objections of Narva's mayor and council.",
+  "analysis": "The vote shows broad political support for the closure despite the president's call for an impact analysis. The €65 million figure differs from the roughly €300 million cited in Estonian debate earlier this week; neither article says what period the costs cover."
+ },
+ {
+  "key": "2026-11-19|lithuania-kaliningrad-patrols",
+  "date": "2026-11-19",
+  "order": 5,
+  "title": "Lithuania keeps troops on the Kaliningrad border; army chief suggests barriers",
+  "summary": "Lithuania has extended army help to its border guards on the Kaliningrad border to the end of November, with about 100 soldiers patrolling near checkpoints since 8 October. Chief of Defence Raimundas Vaikšnoras said on 17 November that constant patrols are costly and proposed physical barriers on the most vulnerable sections, like those on the Belarus border. Interior Minister Martynas Katelynas calls the deployment preventive, prompted by public reports of a possible Russian mobilisation rather than intelligence, and officials say the threat level has not risen.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by LRT/BNS and Reform.news (Elta).",
+  "analysis": "A precaution against sabotage, draft evasion and smuggling, not a response to Russian military moves; it fits the cautious, hybrid-focused posture of the baseline."
+ },
+ {
+  "key": "2026-11-19|us-presence",
+  "date": "2026-11-19",
+  "order": 6,
+  "title": "Estonia presses for more US troops as Bloomberg reports smaller cuts than feared",
+  "summary": "Estonian Foreign Minister Margus Tsahkna said on 17 November that NATO's eastern flank needs a larger American presence and that Washington's decision on its forces in Europe should be clear by early winter. Bloomberg has reported that US troop cuts in Europe will be smaller than feared, falling mainly on Germany. Estonian parliamentary committee chairs expect no major cuts in the region, pointing to new US rotations in Estonia and Lithuania.",
+  "evidence": "Analysis",
+  "corroboration": "Reported by ERR; the Bloomberg report on cuts is not independently confirmed.",
+  "analysis": "Allied force levels matter for deterrence in the baseline's longer-term scenario. For now the trend in the Baltic states is toward more, not fewer, US troops on the ground."
  }
 ]
