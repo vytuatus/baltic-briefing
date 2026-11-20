@@ -138,5 +138,45 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Pranešė ERR, remdamasis teismo informacija.",
   "analysis": "Tai pavienė, senesnė byla, tačiau ji iliustruoja tolesnį judėjimą, kuris skatina Estijos diskusiją dėl patikrų pasienyje su Latvija. Toks pervežimas Šengeno erdvėje yra baudžiamasis policijos reikalas, nesusijęs su migrantų grąžinimu tarp ES valstybių."
+ },
+ {
+  "key": "2026-11-20|latvia-record",
+  "date": "2026-11-20",
+  "order": 1,
+  "title": "Latvijos sustabdytų bandymų kirsti sieną šiais metais – daugiau nei 13 000",
+  "summary": "Latvijos valstybės sienos apsaugos tarnyba pranešė apie 29 sustabdytus bandymus lapkričio 16 d., todėl 2026 m. suma pasiekė apie 13 012 – daugiau nei 12 046 per visus 2025 m. ir arti 2023 m. rekordo (13 863). Lapkričio 17 d. buvo dar 6 bandymai. Latvija iki metų pabaigos pratęsė sustiprintą pasienio režimą penkiose savivaldybėse.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pasieniečių duomenis paskelbė LETA, „Diena“ ir „Reform.news“; skaičiuojama kaip vienas šaltinis.",
+  "analysis": "Rekordas matuoja bandymus, o ne žmones, ir pareigūnai pripažįsta pakartotinius bandymus; jis rodo nuolatinį organizuotą spaudimą Latvijai, o ne naują antplūdį."
+ },
+ {
+  "key": "2026-11-20|eu-pool-status",
+  "date": "2026-11-20",
+  "order": 2,
+  "title": "Baltijos šalių padėtis ES solidarumo sistemoje: „rizikos“ grupė, o ne atleidimas",
+  "summary": "Lapkričio 6 d. Komisijos vertinime Kipras, Graikija, Italija ir Ispanija įvardytos kaip patiriančios migracijos spaudimą ir galinčios gauti paramą iš 2027 m. solidarumo fondo. 15 valstybių, tarp jų Lietuva, Latvija ir Estija, priskirtos rizikos grupei, suteikiančiai pirmenybę gaunant ES paramą, o šešios valstybės, tarp jų Estija ir Lenkija, – susiduriančioms su reikšminga migracijos padėtimi, kas leidžia joms prašyti Tarybos sumažinti įnašus. Tikimasi, kad Taryba fondo dydį ir kiekvienos valstybės dalį nustatys iki metų pabaigos.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė „Bernama“ ir „VisaVerge“, remdamiesi Komisijos metine ataskaita.",
+  "analysis": "Pranešimai, kad Lenkija ir Estija „atleistos“, perdeda padėtį: jos gali prašyti sumažinimų, dėl kurių dar turi nuspręsti Taryba. Niekas šiuose priskyrimuose neįpareigoja nė vienos Baltijos šalies priimti perkeliamų migrantų."
+ },
+ {
+  "key": "2026-11-20|kaliningrad-fence-mig",
+  "date": "2026-11-20",
+  "order": 3,
+  "title": "Lietuva planuoja tvorą dalyje Karaliaučiaus sienos",
+  "summary": "Lietuvos valstybės sienos apsaugos tarnyba parengė planą sustiprinti sieną su Karaliaučiaus sritimi, įskaitant segmentinę spygliuotos vielos tvorą pasirinktose atkarpose. Vidaus reikalų ministras sakė, kad reikia daugiau lėšų, ir kariuomenės pagalbą pasienyje susiejo su galima Rusijos mobilizacija po Dūmos rinkimų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė LRT ir „Evropeiska pravda“.",
+  "analysis": "Planas daugiausia susijęs su hibridinėmis grėsmėmis ir galimais šaukimo vengėjais iš Rusijos, o ne su dabartiniu migracijos srautu; pareigūnai sako, kad grėsmės lygis nepadidėjo."
+ },
+ {
+  "key": "2026-11-20|estonia-returns",
+  "date": "2026-11-20",
+  "order": 4,
+  "title": "Estija šiais metais į Latviją grąžino daugiau nei 400 žmonių",
+  "summary": "ERR pranešė, kad daugiau nei 400 migrantų, šiais metais sulaikytų Estijoje atkeliavus iš Latvijos, buvo grąžinti ten, o 11 žmonių sulaikyti įtariant kontrabanda. Teismas 24 metų užsienietį nuteisė metus kalėti už tai, kad jis iš Latvijos į Estiją pervežė penkis migrantus.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Policijos ir prokuratūros duomenis paskelbė ERR.",
+  "analysis": "Tai teisėtas grąžinimas tarp kaimyninių valstybių žmonių, patekusių per Baltarusiją, o ne Vakarų Europos valstybių vykdomas migrantų perkėlimas į Baltijos šalis."
  }
 ]

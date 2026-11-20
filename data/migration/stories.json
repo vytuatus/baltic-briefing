@@ -138,5 +138,45 @@
   "evidence": "Official statement",
   "corroboration": "Reported by ERR from court information.",
   "analysis": "A single, older case, but it illustrates the onward movement behind the Estonian debate on checks at the Latvian border. Such transport within Schengen is a criminal matter for police, separate from returns of migrants between EU states."
+ },
+ {
+  "key": "2026-11-20|latvia-record",
+  "date": "2026-11-20",
+  "order": 1,
+  "title": "Latvia's prevented crossings pass 13,000 for the year",
+  "summary": "Latvia's State Border Guard reported 29 prevented attempts on 16 November, bringing the 2026 total to about 13,012, more than the 12,046 for all of 2025 and close to the 2023 record of 13,863. Another 6 attempts followed on 17 November. Latvia has extended its reinforced border regime in five municipalities until the end of the year.",
+  "evidence": "Official statement",
+  "corroboration": "Border guard figures carried by LETA, Diena and Reform.news; counted once.",
+  "analysis": "The record is a measure of attempts, not people, and officials acknowledge repeat attempts; it shows sustained organised pressure on Latvia rather than a new surge."
+ },
+ {
+  "key": "2026-11-20|eu-pool-status",
+  "date": "2026-11-20",
+  "order": 2,
+  "title": "Baltic states' status in the EU solidarity system: 'at risk', not exempt",
+  "summary": "The Commission's 6 November assessment named Cyprus, Greece, Italy and Spain as under migratory pressure and eligible for the 2027 solidarity pool. It listed 15 states as at risk, including Lithuania, Latvia and Estonia, giving them priority access to EU support, and six states, including Estonia and Poland, as facing a significant migratory situation, which lets them ask the Council to reduce their contributions. The Council is expected to set the pool's size and each state's share before the end of the year.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Bernama and VisaVerge from the Commission's annual report.",
+  "analysis": "Reports that Poland and Estonia are 'exempt' overstate the position: they may request deductions, which the Council must still decide. Nothing in the designations obliges any Baltic state to take relocated migrants."
+ },
+ {
+  "key": "2026-11-20|kaliningrad-fence-mig",
+  "date": "2026-11-20",
+  "order": 3,
+  "title": "Lithuania plans a fence on parts of the Kaliningrad border",
+  "summary": "Lithuania's border guard service has drawn up a plan to reinforce the border with Kaliningrad, including a segmented barbed-wire fence on selected stretches. The interior minister said more money is needed and linked army help at the border to a possible Russian mobilisation after the Duma elections.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by LRT and European Pravda.",
+  "analysis": "The plan is mainly about hybrid threats and possible draft evaders from Russia, not a current migration flow; officials say the threat level has not risen."
+ },
+ {
+  "key": "2026-11-20|estonia-returns",
+  "date": "2026-11-20",
+  "order": 4,
+  "title": "Estonia has returned over 400 people to Latvia this year",
+  "summary": "ERR reported that more than 400 migrants caught in Estonia this year after travelling from Latvia were returned there, and that 11 people have been detained on suspicion of smuggling. A court sentenced a 24-year-old foreign man to a year in prison for driving five migrants from Latvia to Estonia.",
+  "evidence": "Official statement",
+  "corroboration": "Police and prosecution figures reported by ERR.",
+  "analysis": "These are lawful returns between neighbouring states for people who entered via Belarus, not western European states shifting migrants onto the Baltic states."
  }
 ]

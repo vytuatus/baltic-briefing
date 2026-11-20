@@ -141,5 +141,60 @@
   "conflict": "Estijos vidaus reikalų ministerija sako, kad tarnybos tokiam atsakui pasirengusios; migrantų judėjimo Estijos sienos link nepranešta, o Rusija nekomentavo.",
   "verdict": "Unconfirmed",
   "verdict_note": "Scenarijus, kuriam Estija ruošiasi, atsižvelgdama į Suomijos 2023 m. patirtį, o ne užfiksuotas įvykis."
+ },
+ {
+  "key": "2026-11-20|forced-relocation",
+  "date": "2026-11-20",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą. Lietuva renkasi mokėti, o Komisijos priskyrimai Baltijos šalims suteikia pirmenybę gaunant paramą, o ne naujus įsipareigojimus.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-20|pool-exempt",
+  "date": "2026-11-20",
+  "order": 2,
+  "claim": "Lenkija ir Estija atleistos nuo įnašų į ES solidarumo fondą",
+  "claimed_by": "LRT/BNS pranešimai apie Lietuvos solidarumo pasirinkimą; pakartota mūsų lapkričio 19 d. leidime",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Komisija Lenkiją ir Estiją nurodo tarp šešių valstybių, susiduriančių su reikšminga migracijos padėtimi, todėl jos gali prašyti visiško ar dalinio įnašų sumažinimo; Taryba dėl 2027 m. dar nenusprendė.",
+  "verdict": "Contested",
+  "verdict_note": "Atleidimas galimas, bet dar nenuspręstas; tiksli formuluotė – „gali prašyti sumažinimų“."
+ },
+ {
+  "key": "2026-11-20|paying-cheaper",
+  "date": "2026-11-20",
+  "order": 3,
+  "claim": "Lietuvai mokėti į ES solidarumo fondą pigiau nei priimti perkeliamus migrantus",
+  "claimed_by": "Lietuvos vidaus reikalų ministras",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Pagal pakto orientacinę sumą mokėjimas siekia 20 000 eurų už kiekvieną neperkeltą žmogų; ministerija nepaskelbė jokio perkeltų žmonių išlaikymo per penkerius metus kainos įvertinimo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, tačiau skaičių nepaskelbta."
+ },
+ {
+  "key": "2026-11-20|latvia-record",
+  "date": "2026-11-20",
+  "order": 4,
+  "claim": "Latvijos 2026 m. bandymų kirsti sieną jau daugiau nei per visus 2025 m.",
+  "claimed_by": "Latvijos valstybės sienos apsaugos tarnyba",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Apie 13 012 sustabdytų bandymų iki lapkričio 16 d., palyginti su 12 046 per 2025 m.; pareigūnai sako, kad tie patys žmonės gali būti suskaičiuoti daugiau nei kartą.",
+  "verdict": "Confirmed",
+  "verdict_note": "Teisinga kaip bandymų skaičius; tai nereiškia, kad sieną kirto ar bandė kirsti daugiau žmonių."
+ },
+ {
+  "key": "2026-11-20|estonia-migration-push",
+  "date": "2026-11-20",
+  "order": 5,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
  }
 ]

@@ -141,5 +141,60 @@
   "conflict": "Estonia's interior ministry says agencies are prepared for such retaliation; no movement of migrants toward the Estonian border has been reported, and Russia has not commented.",
   "verdict": "Unconfirmed",
   "verdict_note": "A contingency Estonia is planning for, in line with Finland's 2023 experience, not an observed event."
+ },
+ {
+  "key": "2026-11-20|forced-relocation",
+  "date": "2026-11-20",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support. Lithuania is choosing to pay, and the Commission's designations give the Baltic states priority access to support rather than new obligations.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-20|pool-exempt",
+  "date": "2026-11-20",
+  "order": 2,
+  "claim": "Poland and Estonia are exempt from contributing to the EU solidarity pool",
+  "claimed_by": "LRT/BNS reporting on Lithuania's solidarity choice; repeated in our 19 November edition",
+  "evidence": "Official statement",
+  "conflict": "The Commission lists Poland and Estonia among six states facing a significant migratory situation, which allows them to request full or partial deductions; the Council has not yet decided for 2027.",
+  "verdict": "Contested",
+  "verdict_note": "An exemption is possible but not yet decided; 'may request deductions' is the accurate wording."
+ },
+ {
+  "key": "2026-11-20|paying-cheaper",
+  "date": "2026-11-20",
+  "order": 3,
+  "claim": "Paying into the EU solidarity pool is cheaper for Lithuania than accepting relocated migrants",
+  "claimed_by": "Lithuania's interior minister",
+  "evidence": "Official statement",
+  "conflict": "Paying costs €20,000 per person not relocated under the Pact's reference figure; the ministry has published no estimate of the cost of hosting relocated people over five years.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible but no figures have been published."
+ },
+ {
+  "key": "2026-11-20|latvia-record",
+  "date": "2026-11-20",
+  "order": 4,
+  "claim": "Latvia's 2026 crossing attempts have already exceeded the whole of 2025",
+  "claimed_by": "Latvia's State Border Guard",
+  "evidence": "Official statement",
+  "conflict": "About 13,012 prevented attempts by 16 November against 12,046 in 2025; officials say the same people may be counted more than once.",
+  "verdict": "Confirmed",
+  "verdict_note": "True as a count of attempts; it does not mean more people crossed or tried to cross."
+ },
+ {
+  "key": "2026-11-20|estonia-migration-push",
+  "date": "2026-11-20",
+  "order": 5,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "No unusual movement has been reported on the Russian side of the border.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
  }
 ]

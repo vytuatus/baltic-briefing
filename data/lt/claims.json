@@ -1428,5 +1428,71 @@
   "conflict": "Estija uždarymą sieja su GRU priskiriamu sabotažu prieš jos gynybos įmones, patvirtintu sulaikymais ir teismo skirtu suėmimu. Estijos kritikai, tarp jų Narvos meras ir prezidentė, abejoja kaina ir tuo, ar priemonė atitinka grėsmę, bet ne saugumo priežastimis.",
   "verdict": "Misleading",
   "verdict_note": "Uždarymas yra saugumo priemonė, taikoma visiems keliautojams ir priimta po dokumentuoto sabotažo; jo humanitarinė kaina šeimoms reali, tačiau rusofobijos vaizdinys nutyli nurodytas priežastis."
+ },
+ {
+  "key": "2026-11-20|c1",
+  "date": "2026-11-20",
+  "order": 1,
+  "claim": "Rusijos žvalgyba spalio pabaigoje ar lapkričio pradžioje planavo daug aukų pareikalausiantį išpuolį po svetima vėliava prie Lenkijos ir Karaliaučiaus sienos, dėl kurio būtų apkaltinta Ukraina",
+  "claimed_by": "„Rzeczpospolita“, remdamasi anoniminiais aukšto rango šaltiniais; pakartojo daug leidinių",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Vis dar remiamasi vieno dienraščio šaltiniais. Lenkijos policijos vadas lapkričio 2 d. viešai sakė, kad pasienio operacija surengta po įspėjimų apie galimą sabotažą ten, o specialiųjų tarnybų koordinatorius tik pasakė, kad grėsmė buvo įvertinta kaip reali. Nė viena vyriausybė nepatvirtino išpuolio po svetima vėliava elemento, o perpasakojimai skiriasi dėl to, kas būtų tapę aukomis.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, atsižvelgiant į patvirtintą pavojų, tačiau konkretus planas remiasi anoniminiais šaltiniais; naujų įrodymų šiandien nėra."
+ },
+ {
+  "key": "2026-11-20|c2",
+  "date": "2026-11-20",
+  "order": 2,
+  "claim": "Rusija pasiūlė sumažinti savo karinį buvimą Karaliaučiuje ir Baltarusijoje, jei NATO grįš į 1997 m. padėtį",
+  "claimed_by": "„Bloomberg“ ir „The New York Times“, remdamiesi Rusijos derybų dokumentu; pakartojo „Meduza“ ir kiti",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Atitinka viešus Rusijos reikalavimus atitraukti NATO ir ankstesnį BILD pranešimą apie neoficialius pasiūlymus, įskaitant NATO bazių pašalinimą iš Baltijos šalių. Kremlius Karaliaučiaus elemento nepatvirtino, o anksčiau neigė reikalavęs, kad Suomija išstotų iš NATO.",
+  "verdict": "Likely",
+  "verdict_note": "Du dideli leidiniai praneša apie tą patį dokumentą; ką reikštų sumažinimas, neaišku."
+ },
+ {
+  "key": "2026-11-20|c3",
+  "date": "2026-11-20",
+  "order": 3,
+  "claim": "Rusija įrengia papildomus šaudmenų ir degalų sandėlius bei lauko ryšių mazgus prie NATO sienų ir Baltarusijoje",
+  "claimed_by": "Ukrainos karinė žvalgyba; lapkričio 18 d. pakartojo jos atstovas",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Vaizdų, vietų ar skaičių nepaskelbta; ISW tą pačią dieną Baltarusijoje nieko reikšmingo nepastebėjo. Vakarų ir Baltijos šalių pareigūnai šio teiginio nepakartojo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtinas suinteresuotos šalies teiginys, kurio kol kas nepagrindžia nepriklausomi įrodymai."
+ },
+ {
+  "key": "2026-11-20|c4",
+  "date": "2026-11-20",
+  "order": 4,
+  "claim": "Rusijos informacinė kampanija rengia pretekstą galimai agresijai prieš NATO rytinį flangą",
+  "claimed_by": "Ukrainos užsienio reikalų ministerijos atstovas, remdamasis Dezinformacijos kontrolės centro tyrimu (lapkričio 18 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Informacinės operacijos prieš Baltijos šalis gerai dokumentuotos, taip pat ir Lietuvos bazinėje linijoje. Tačiau Ukrainos karinė žvalgyba tiesioginį išpuolį pavadino mažai tikėtinu, kol tęsiasi karas, Baltijos šalių pareigūnai sako, kad grėsmės lygis pasienyje nepadidėjo, o pati ministerija pripažino, kad niekas nežino, ar išpuolis įvyks.",
+  "verdict": "Contested",
+  "verdict_note": "Informacinio spaudimo dalis pagrįsta; sąsaja su pasirengimu išpuoliui yra vertinimas be karinių įrodymų."
+ },
+ {
+  "key": "2026-11-20|c5",
+  "date": "2026-11-20",
+  "order": 5,
+  "claim": "NATO svarsto dislokuoti daugiau karių ir branduolinį ginklą Lietuvoje ir Lenkijoje",
+  "claimed_by": "Rusijos delegacijos ESBO Saugumo bendradarbiavimo forume vadovė, per TASS",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lietuva diskutuoja dėl konstitucinio draudimo dislokuoti branduolinį ginklą panaikinimo (galutinis balsavimas laukiamas sausį) ir pasiūlė finansuoti nuolatinę JAV bazę, tačiau nepranešta apie jokį NATO sprendimą ar planą dislokuoti branduolinį ginklą kurioje nors iš šių šalių.",
+  "verdict": "Misleading",
+  "verdict_note": "Sumaišo realią vidaus diskusiją su nepagrįstu teiginiu apie NATO dislokavimo planus."
+ },
+ {
+  "key": "2026-11-20|c6",
+  "date": "2026-11-20",
+  "order": 6,
+  "claim": "Estijos sienos uždarymą lemia rusofobija, o ne reali saugumo grėsmė",
+  "claimed_by": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estijos saugumo tarnyba sako, kad lapkričio 14 d. padegimo bandymą dronų gamintojo įmonėje užsakė Rusijos karinė žvalgyba, o įvykdė Latvijos gyventojai, iš kurių aštuoni sulaikyti; Estijos vyriausybė sako, kad uždarymas yra atsakas į pasikartojančias hibridines atakas.",
+  "verdict": "Misleading",
+  "verdict_note": "Ignoruoja nurodytas saugumo priežastis; ar uždarymas yra tinkamas atsakas, Estijoje diskutuojama, tačiau grėsmė dokumentuota."
  }
 ]

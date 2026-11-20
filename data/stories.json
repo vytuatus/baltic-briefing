@@ -1288,5 +1288,65 @@
   "evidence": "Analysis",
   "corroboration": "Reported by ERR; the Bloomberg report on cuts is not independently confirmed.",
   "analysis": "Allied force levels matter for deterrence in the baseline's longer-term scenario. For now the trend in the Baltic states is toward more, not fewer, US troops on the ground."
+ },
+ {
+  "key": "2026-11-20|kaliningrad-fence",
+  "date": "2026-11-20",
+  "order": 1,
+  "title": "Lithuania plans fencing on parts of the Kaliningrad border",
+  "summary": "Lithuania's State Border Guard Service presented Interior Minister Martynas Katelynas with a plan to reinforce the border with Russia's Kaliningrad region, including a segmented barbed-wire fence on selected stretches. The minister said more money is needed and that measures from the Belarus border cannot simply be copied, because much of this border runs along the Neman river, the Curonian Spit and the sea. Army commander Raimundas Vaikšnoras had earlier suggested barriers on the most vulnerable sections, and soldiers are helping border guards until the end of November.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by LRT and European Pravda from the same ministry briefing; one source.",
+  "analysis": "This is a defensive step driven by recent hybrid incidents and a possible Russian mobilisation after the Duma elections, not by any reported Russian build-up; officials themselves say the threat level has not risen. Expect Russian media to present it as provocation."
+ },
+ {
+  "key": "2026-11-20|osce-nuclear-warning",
+  "date": "2026-11-20",
+  "order": 2,
+  "title": "Russian envoy warns of strategic-forces response to Lithuanian and Polish nuclear debate",
+  "summary": "At the OSCE security forum in Vienna on 18 November, the head of Russia's delegation said Russia's strategic deterrence forces would take response measures if Lithuania and Poland lift their bans on hosting nuclear weapons. She said NATO is weighing more troops and nuclear deployments in both countries and complained of growing reconnaissance near Kaliningrad. Lithuania passed the first of three parliamentary votes to remove its constitutional ban on 6 October; the final vote is expected in January.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by TASS; Russian embassies made similar Kaliningrad-related nuclear threats in late September.",
+  "analysis": "A conditional warning in a diplomatic forum, not a new policy. The claim that NATO is assessing nuclear deployments in Lithuania and Poland is not backed by any NATO decision; Lithuania's debate concerns removing a legal ban, not a request for weapons."
+ },
+ {
+  "key": "2026-11-20|ukraine-mfa-pretext",
+  "date": "2026-11-20",
+  "order": 3,
+  "title": "Ukraine's foreign ministry says Russia is building a pretext against NATO's eastern flank",
+  "summary": "Ukraine's foreign ministry spokesman Heorhii Tykhyi said on 18 November, presenting a study by Ukraine's Centre for Countering Disinformation, that Russia is running an information campaign that could prepare the ground for aggression against NATO's eastern flank, while stressing that no one knows whether an attack will happen. A military intelligence spokesman said at the same event that Russia is strengthening logistics near NATO borders and in Belarus.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Censor.net and UA.News from the same event; no primary data or imagery was shown.",
+  "analysis": "Ukraine has an interest in keeping Western attention on the Russian threat. The warning is about information pressure and long-term risk; it sits alongside Ukraine's own military intelligence judging a direct attack unlikely while the war continues, and the Baltic baseline says the same."
+ },
+ {
+  "key": "2026-11-20|michal-economist",
+  "date": "2026-11-20",
+  "order": 4,
+  "title": "Estonia's prime minister: Russia's security talks would make the Baltics bargaining chips",
+  "summary": "Prime Minister Kristen Michal wrote in The Economist that engaging Moscow's demand for talks on Europe's security architecture risks turning the Baltic states and Poland into bargaining chips and creating a two-tier NATO. He said the existing rules, from the Helsinki Final Act to the Paris Charter, already work and that Russia broke them. He urged continued support for Ukraine and pressure on Russia.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by ERR; consistent with Michal's statements at the Dublin European Council on 13 November.",
+  "analysis": "This is a political position, not new intelligence, but it shows the Baltic governments' main worry: that Russia's demand for a NATO rollback to 1997 could be traded in peace talks. Reported Russian offers to thin forces in Kaliningrad and Belarus are part of the same bargaining."
+ },
+ {
+  "key": "2026-11-20|lithuania-poll",
+  "date": "2026-11-20",
+  "order": 5,
+  "title": "Poll: most Lithuanians think Russia could attack, fewer trust allies to defend",
+  "summary": "A Norstat poll for the agency Bosanova, presented on 19 November, found 62% of Lithuanians believe Russia could attack the Baltic states, slightly down from last year, and 56% worry about a Russian provocation. Only 48% believe NATO allies could defend Lithuania; trust was 68% in the German brigade and 43% in US forces. 29% want the war in Ukraine to end quickly even at the cost of Ukrainian land.",
+  "evidence": "Analysis",
+  "corroboration": "Reported by LRT; margin of error about 3 points.",
+  "analysis": "A public-opinion measure, not a threat indicator. The gap between fear of attack and trust in allies is the kind of doubt Russian information operations seek to widen, as the baseline notes."
+ },
+ {
+  "key": "2026-11-20|false-flag-followup",
+  "date": "2026-11-20",
+  "order": 6,
+  "title": "No confirmation yet of the reported Kaliningrad false-flag plot",
+  "summary": "No government has confirmed Rzeczpospolita's report that Russian intelligence planned a mass-casualty attack near the Polish–Kaliningrad border to blame on Ukraine. ISW notes that Poland's police chief said on 2 November the special operation followed warnings of possible sabotage on that border in the first half of November, and that the operation was extended to 15 November.",
+  "evidence": "Anonymous sources",
+  "corroboration": "ISW's summary relies on the same newspaper plus earlier on-record Polish statements about the alert itself.",
+  "analysis": "The on-record statements confirm an alert and a real threat assessment, not the specific false-flag plan. The claim stays unconfirmed."
  }
 ]
