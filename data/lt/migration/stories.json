@@ -178,5 +178,45 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Policijos ir prokuratūros duomenis paskelbė ERR.",
   "analysis": "Tai teisėtas grąžinimas tarp kaimyninių valstybių žmonių, patekusių per Baltarusiją, o ne Vakarų Europos valstybių vykdomas migrantų perkėlimas į Baltijos šalis."
+ },
+ {
+  "key": "2026-11-21|estonia-closure-mig",
+  "date": "2026-11-21",
+  "order": 1,
+  "title": "Estija oficialiai patvirtino kelių pasienio punktų su Rusija uždarymą",
+  "summary": "Estijos vyriausybė patvirtino „Narva-1“, „Narva-2“, Koidulos, Luhamaa ir Saatse kelių pasienio punktų uždarymą nuo gruodžio 1 d., sprendimą peržiūrint po šešių mėnesių; geležinkelio eismas tęsiasi. Vyriausybė remiasi lapkričio 14 d. sabotažo bandymu, kurį sieja su Rusijos karine žvalgyba. Rusijos užsienio reikalų ministerija tai pavadino nauja geležine uždanga ir pažadėjo politines ir diplomatines priemones.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė „Euronews“ ir „Reuters“ (per „The Moscow Times“).",
+  "analysis": "Uždarymas yra saugumo, o ne migracijos priemonė, ir Rusijos pusėje migrantų judėjimo nepranešta. Estijos pasirengimas galimam migrantų stūmimui po uždarymo yra atsargumo priemonė, o ne jo įrodymas."
+ },
+ {
+  "key": "2026-11-21|estonia-returns-check",
+  "date": "2026-11-21",
+  "order": 2,
+  "title": "Kiek žmonių Estija grąžino į Latviją?",
+  "summary": "Lapkričio 3 d. ERR pranešė, kad šiais metais Estijoje rasti 388 neteisėti migrantai, iš jų 148 pagal ES taisykles perduoti atgal Latvijai, o 15 žmonių sulaikyti įtariant kontrabanda. Šiaurės pasienio biuro vadovas sakė, kad paskutinę spalio savaitę sulaikyti tik 14 migrantų, ir tikisi, kad kitą pavasarį skaičiai augs, nes maršrutas pasislinko į šiaurę.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Policijos duomenis paskelbė ERR; mūsų lapkričio 20 d. leidime nurodyta „daugiau nei 400 grąžinta“, o tai, atrodo, sumaišė sulaikytus žmones su grąžintais.",
+  "analysis": "Tai teisėtas grąžinimas tarp kaimynių žmonių, patekusių į ES per Baltarusiją. Jis yra Baltarusijos maršruto, o ne Vakarų Europos valstybių vykdomo migrantų perkėlimo į Baltijos šalis pasekmė."
+ },
+ {
+  "key": "2026-11-21|data-gap",
+  "date": "2026-11-21",
+  "order": 3,
+  "title": "Nuo lapkričio 17 d. naujų pasienio duomenų nėra",
+  "summary": "Naujausi rasti paskelbti duomenys – Latvijos 29 sustabdyti bandymai lapkričio 16 d. ir 6 lapkričio 17 d., todėl jos metų suma siekia apie 13 018, ir trys Lietuvos dienos be bandymų lapkričio 15–17 d. Lietuvos metų suma, apie 1 962, jau viršija maždaug 1 650, užfiksuotus 2025 m.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pasieniečių duomenis paskelbė „Reform.news“ ir „The New Backyard“; skaičiuojama kaip vienas šaltinis.",
+  "analysis": "Duomenų skelbimo spragos dažnos ir nereiškia, kad sienos kirtimas liovėsi. Sumose skaičiuojami bandymai, o tie patys žmonės dažnai bando pakartotinai."
+ },
+ {
+  "key": "2026-11-21|eu-pool-pending",
+  "date": "2026-11-21",
+  "order": 4,
+  "title": "ES 2027 m. solidarumo fondas vis dar nepatvirtintas",
+  "summary": "Taryba dar nepriėmė 2027 m. solidarumo fondo. Pernai 2026 m. fondui politiškai pritarta gruodžio 8 d., o vėliau jis priimtas rašytine procedūra. Pagal lapkričio 6 d. Komisijos vertinimą Baltijos šalys priskirtos „rizikos“ grupei, suteikiančiai pirmenybę gaunant ES paramą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Komisijos vertinimas, apie kurį pranešta šio mėnesio pradžioje; 2025 m. tvarkaraštį pranešė „Agence Europe“.",
+  "analysis": "Jei Taryba laikysis pernykščio tvarkaraščio, sprendimas tikėtinas gruodį. Jokios taisyklės neįpareigoja nė vienos Baltijos šalies priimti perkeliamų migrantų; valstybės gali mokėti arba teikti kitą paramą."
  }
 ]

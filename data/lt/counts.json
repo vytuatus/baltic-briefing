@@ -878,5 +878,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Neįskaičiuota; sąlyginis ESBO pasiuntinės branduolinis įspėjimas paskelbtas lapkričio 18 d., prieš ankstesnį leidimą, ir jį pareiškė vidutinio rango diplomatė."
+ },
+ {
+  "key": "2026-11-21|airspace",
+  "date": "2026-11-21",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 3,
+  "note": "Trys: dvi Rusijos raketos, viena iš jų – Ch-101, ir tikėtinas reaktyvinis dronas, kurie, Lenkijos duomenimis, naktį į lapkričio 20 d. įskrido į jos oro erdvę ir nukrito Liublino ir Pakarpatės vaivadijose; skaičiuojama pagal objektus, kaip tai daro Lenkija."
+ },
+ {
+  "key": "2026-11-21|sabotage",
+  "date": "2026-11-21",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; per šį laikotarpį Europoje pirmą kartą nepranešta apie naują su Rusija siejamą sabotažo incidentą, sulaikymą ar kaltinimą."
+ },
+ {
+  "key": "2026-11-21|jamming",
+  "date": "2026-11-21",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; nėra naujo oficialaus ar didžiosios žiniasklaidos pranešimo apie GNSS trikdžius Baltijos regione."
+ },
+ {
+  "key": "2026-11-21|border",
+  "date": "2026-11-21",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; oficialus Estijos sienos uždarymo patvirtinimas yra gynybinė priemonė, o ne incidentas."
+ },
+ {
+  "key": "2026-11-21|threats",
+  "date": "2026-11-21",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 1,
+  "note": "Vienas: lapkričio 20 d. Marijos Zacharovos pažadas imtis politinių ir diplomatinių atsakomųjų priemonių, jei Estija uždarys kelių pasienio punktus; tai nėra karinė grėsmė."
  }
 ]

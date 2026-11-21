@@ -502,5 +502,86 @@
   "perspective": "Baltic",
   "title": "Estonia Decides to Step Up Border Controls With Latvia",
   "url": "https://reform.news/en/estonia-decides-to-step-up-border-controls-with-latvia/"
+ },
+ {
+  "key": "2026-11-21|m01",
+  "date": "2026-11-21",
+  "topic": "Estonia border closure",
+  "outlet": "Euronews",
+  "perspective": "US and international",
+  "title": "Estonia to shut border with Russia over GRU-linked sabotage attack",
+  "url": "https://www.euronews.com/2026/11/20/estonia-to-shut-border-with-russia-over-gru-linked-sabotage-attack"
+ },
+ {
+  "key": "2026-11-21|m02",
+  "date": "2026-11-21",
+  "topic": "Estonia border closure",
+  "outlet": "The Moscow Times (Reuters)",
+  "perspective": "Russian independent",
+  "title": "Russia Accuses Estonia of Erecting New Iron Curtain With Border Closure, Says It Will Respond",
+  "url": "https://www.themoscowtimes.com/2026/11/20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond-a94333"
+ },
+ {
+  "key": "2026-11-21|m03",
+  "date": "2026-11-21",
+  "topic": "Estonia returns to Latvia",
+  "outlet": "ERR News",
+  "perspective": "Baltic",
+  "title": "PPA: Illegal immigration to Estonia has fallen, but may rise next spring",
+  "url": "https://news.err.ee/1610184128/ppa-illegal-immigration-to-estonia-has-fallen-but-may-rise-next-spring"
+ },
+ {
+  "key": "2026-11-21|m04",
+  "date": "2026-11-21",
+  "topic": "Border figures",
+  "outlet": "Reform.news",
+  "perspective": "Central Europe",
+  "title": "Lithuania Records No Attempts to Illegally Cross Border for Third Consecutive Day",
+  "url": "https://reform.news/en/lithuania-records-no-attempts-to-illegally-cross-border-for-third-consecutive-day/"
+ },
+ {
+  "key": "2026-11-21|m05",
+  "date": "2026-11-21",
+  "topic": "Border figures and ECHR case",
+  "outlet": "The New Backyard",
+  "perspective": "Baltic",
+  "title": "Repeat Attempts Complicate Latvia's Border Count",
+  "url": "https://www.thenewbackyard.eu/p/repeat-attempts-complicate-latvias"
+ },
+ {
+  "key": "2026-11-21|m06",
+  "date": "2026-11-21",
+  "topic": "Border figures",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "VSAT: Lietuvos pasieniečiai per parą apgręžė 7 neteisėtus migrantus",
+  "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3115044/vsat-lietuvos-pasienieciai-per-para-apgreze-7-neteisetus-migrantus"
+ },
+ {
+  "key": "2026-11-21|m07",
+  "date": "2026-11-21",
+  "topic": "Organised crossings (background)",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "Masked Group Enters Latvia from Belarus and Carries Out Sabotage",
+  "url": "https://militarnyi.com/en/news/masked-group-enters-latvia-from-belarus-and-carries-out-sabotage/"
+ },
+ {
+  "key": "2026-11-21|m08",
+  "date": "2026-11-21",
+  "topic": "EU solidarity pool timetable",
+  "outlet": "Agence Europe",
+  "perspective": "EU institutions",
+  "title": "Solidarity Pool under 'Pact on Migration and Asylum' - Member States approve launch of written adoption procedure",
+  "url": "https://agenceurope.eu/en/bulletin/article/13773/30/solidarity-pool-under-pact-on-migration-and-asylum-member-states-approve-launch-of-written-adoption-procedure"
+ },
+ {
+  "key": "2026-11-21|m09",
+  "date": "2026-11-21",
+  "topic": "Russian narratives on Estonia",
+  "outlet": "Propastop",
+  "perspective": "Fact-checkers",
+  "title": "The border closure plan unleashed a flood of narratives",
+  "url": "https://www.propastop.org/en/2026/11/19/the-border-closure-plan-unleashed-a-flood-of-narratives/"
  }
 ]

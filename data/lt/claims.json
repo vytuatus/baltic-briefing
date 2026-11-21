@@ -1494,5 +1494,60 @@
   "conflict": "Estijos saugumo tarnyba sako, kad lapkričio 14 d. padegimo bandymą dronų gamintojo įmonėje užsakė Rusijos karinė žvalgyba, o įvykdė Latvijos gyventojai, iš kurių aštuoni sulaikyti; Estijos vyriausybė sako, kad uždarymas yra atsakas į pasikartojančias hibridines atakas.",
   "verdict": "Misleading",
   "verdict_note": "Ignoruoja nurodytas saugumo priežastis; ar uždarymas yra tinkamas atsakas, Estijoje diskutuojama, tačiau grėsmė dokumentuota."
+ },
+ {
+  "key": "2026-11-21|c1",
+  "date": "2026-11-21",
+  "order": 1,
+  "claim": "Rusija tyčia parinko laiką, kad raketos nukristų Lenkijoje netoli Norinčiųjų koalicijos pratybų",
+  "claimed_by": "Lenkijos gynybos ministras Władysławas Kosiniakas-Kamyszas ir premjeras Donaldas Tuskas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Nukritimo vietos buvo maždaug 35–75 km nuo pratybų ir 30–60 km nuo Ukrainos sienos, per ataką, kurioje prieš Ukrainą paleista iki 100 raketų. Lenkija nepaskelbė jokių įrodymų apie skrydžio trajektorijas. Trumpas ankstesnius įsiveržimus apibūdino kaip klaidas; Maskva nekomentavo.",
+  "verdict": "Contested",
+  "verdict_note": "Patvirtinta, kad Rusijos raketos nukrito Lenkijoje; ketinimas ir tyčia parinktas laikas yra vertinimai, kurių kol kas nepagrindžia paskelbti įrodymai."
+ },
+ {
+  "key": "2026-11-21|c2",
+  "date": "2026-11-21",
+  "order": 2,
+  "claim": "Putinas dronus ir raketas į Lenkiją siuntė tik per klaidą",
+  "claimed_by": "JAV prezidentas Donaldas Trumpas, lapkričio 19 d. „Fox News“ interviu",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lenkijos pareigūnai naujausius įsiveržimus vadina tyčinėmis provokacijomis; po 2025 m. dronų įsiveržimo vyko konsultacijos pagal 4 straipsnį. Joks tyrimas nepaskelbė išvadų apie paskutinio atvejo ketinimus.",
+  "verdict": "Unsupported",
+  "verdict_note": "Trumpas nepateikė įrodymų; ar ankstesni įsiveržimai buvo atsitiktiniai, ginčijama, o jo pastaba pasakyta prieš lapkričio 20 d. nukritimus."
+ },
+ {
+  "key": "2026-11-21|c3",
+  "date": "2026-11-21",
+  "order": 3,
+  "claim": "Rusijos žvalgyba planavo daug aukų pareikalausiantį išpuolį po svetima vėliava prie Lenkijos ir Karaliaučiaus sienos, dėl kurio būtų apkaltinta Ukraina",
+  "claimed_by": "„Rzeczpospolita“, remdamasi anoniminiais aukšto rango šaltiniais; pakartojo daug leidinių",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Lenkijos pareigūnai patvirtino pavojų ir realią sabotažo grėsmę lapkričio pradžioje, tačiau nė viena vyriausybė nepatvirtino išpuolio po svetima vėliava elemento.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Naujų įrodymų šiandien nėra."
+ },
+ {
+  "key": "2026-11-21|c4",
+  "date": "2026-11-21",
+  "order": 4,
+  "claim": "Estijos sienos uždarymas yra rusofobija ir nauja geležinė uždanga, o ne atsakas į realią grėsmę",
+  "claimed_by": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova; Kremliaus atstovas Dmitrijus Peskovas kaltinimus sabotažu pavadino nepagrįstais",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estijos saugumo tarnyba sako, kad lapkričio 14 d. padegimo bandymą užsakė Rusijos karinė žvalgyba, o aštuoni žmonės sulaikyti. Ar sienos uždarymas proporcingas, diskutuojama pačioje Estijoje, taip pat ir jos prezidentės.",
+  "verdict": "Misleading",
+  "verdict_note": "Ignoruoja dokumentuotus saugumo argumentus; pats politinis pasirinkimas pagrįstai diskutuojamas."
+ },
+ {
+  "key": "2026-11-21|c5",
+  "date": "2026-11-21",
+  "order": 5,
+  "claim": "Rusija pasiūlė sumažinti savo karinį buvimą Karaliaučiuje ir Baltarusijoje, jei NATO grįš į 1997 m. padėtį",
+  "claimed_by": "„Bloomberg“ ir „The New York Times“, remdamiesi Rusijos derybų dokumentu",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Atitinka viešus Rusijos reikalavimus; Kremlius Karaliaučiaus elemento nepatvirtino, o lapkričio 19 d. trišalis susitikimas nedavė jokio susitarimo dėl Ukrainos ar Europos saugumo.",
+  "verdict": "Likely",
+  "verdict_note": "Naujos informacijos šiandien nėra; du dideli leidiniai praneša apie tą patį dokumentą."
  }
 ]

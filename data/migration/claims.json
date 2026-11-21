@@ -196,5 +196,49 @@
   "conflict": "No unusual movement has been reported on the Russian side of the border.",
   "verdict": "Unconfirmed",
   "verdict_note": "A precautionary scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-21|forced-relocation",
+  "date": "2026-11-21",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support. Lithuania is choosing to pay, and the Commission's designations give the Baltic states priority access to support rather than new obligations.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-21|estonia-returns-400",
+  "date": "2026-11-21",
+  "order": 2,
+  "claim": "Estonia has returned more than 400 migrants to Latvia this year",
+  "claimed_by": "Our 20 November edition, summarising ERR reporting",
+  "evidence": "Official statement",
+  "conflict": "ERR's 3 November report, citing police, gave 388 people found in Estonia this year and 148 handed back to Latvia. A later figure may be higher, but no source found gives over 400 returns.",
+  "verdict": "Disputed",
+  "verdict_note": "The best available figure is about 150 returns; 'over 400' appears to count people caught, not returned."
+ },
+ {
+  "key": "2026-11-21|pool-exempt",
+  "date": "2026-11-21",
+  "order": 3,
+  "claim": "Poland and Estonia are exempt from contributing to the EU solidarity pool",
+  "claimed_by": "LRT/BNS reporting on Lithuania's solidarity choice",
+  "evidence": "Official statement",
+  "conflict": "The Commission lists Poland and Estonia among six states that may request full or partial deductions; the Council has not yet decided for 2027.",
+  "verdict": "Contested",
+  "verdict_note": "An exemption is possible but not yet decided."
+ },
+ {
+  "key": "2026-11-21|estonia-migration-push",
+  "date": "2026-11-21",
+  "order": 4,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "No unusual movement has been reported on the Russian side; Moscow's announced response is political and diplomatic.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
  }
 ]

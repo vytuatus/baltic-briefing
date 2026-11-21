@@ -1348,5 +1348,55 @@
   "evidence": "Anonymous sources",
   "corroboration": "ISW's summary relies on the same newspaper plus earlier on-record Polish statements about the alert itself.",
   "analysis": "The on-record statements confirm an alert and a real threat assessment, not the specific false-flag plan. The claim stays unconfirmed."
+ },
+ {
+  "key": "2026-11-21|poland-missiles",
+  "date": "2026-11-21",
+  "order": 1,
+  "title": "Russian missiles and a drone come down in eastern Poland",
+  "summary": "During one of the largest Russian strikes on Ukraine of the war, two Russian missiles and a probable jet-powered drone landed in south-eastern Poland early on 20 November, near Nowy Lipowiec, Rudnik nad Sanem and Mołodycz. Defence Minister Władysław Kosiniak-Kamysz identified one as a Kh-101 cruise missile and said the date was not chosen by chance, since a Coalition of the Willing exercise was under way nearby. Prime Minister Donald Tusk called it an intentional provocation. No casualties or damage to critical infrastructure were reported, and nothing was shot down.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Reuters (via the Moscow Times), AP (via PBS and the Manila Times), the Kyiv Independent, Newsweek and UNITED24; early local reports spoke of two objects before the minister confirmed three.",
+  "analysis": "The facts are well established; the intent is not. Debris landing tens of kilometres from the Ukrainian border during a strike on western Ukraine fits spillover, a pattern seen before, while Poland's reading of deliberate timing is a judgement it has not yet backed with published evidence. Either way, it shows the risk to NATO territory from Russia's air campaign."
+ },
+ {
+  "key": "2026-11-21|nato-response",
+  "date": "2026-11-21",
+  "order": 2,
+  "title": "NATO calls it a grave violation; Poland seeks more allied support",
+  "summary": "NATO Secretary General Mark Rutte called the landings a grave violation of Polish airspace and clearly dangerous, and is expected to visit Poland this weekend. Kosiniak-Kamysz said Poland will ask NATO for more support on the eastern flank. No request for Article 4 consultations had been reported by the time of writing, unlike after the drone incursion last year.",
+  "evidence": "Official statement",
+  "corroboration": "Rutte's statement carried by AP; the support request reported by Reuters.",
+  "analysis": "The response so far is political and defensive. Whether Poland asks for formal consultations, and what extra air defence allies offer, is the next thing to watch; Baltic air defence gaps were exposed by the drone that NATO jets twice failed to bring down over Lithuania on 10–11 November."
+ },
+ {
+  "key": "2026-11-21|trump-mistake",
+  "date": "2026-11-21",
+  "order": 3,
+  "title": "Trump says Putin sent 'little missiles' into Poland by mistake",
+  "summary": "In a Fox News interview given on Air Force One on 19 November, after a three-way meeting with Putin and Xi Jinping in China, Trump said Putin had been landing drones and a couple of small missiles in Poland by mistake. He was responding to criticism from Tusk after calling Putin his friend. The remarks came hours before the new missile landings, though some outlets presented them as a reaction to it.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Meduza, Hromadske, Ukrinform and Newsweek; Hromadske gives the date and setting, others do not.",
+  "analysis": "The remark concerns earlier incursions, not Friday's missiles, so reports framing it as Trump's verdict on the new incident run ahead of the facts. It still shows a gap between Washington's tone and Warsaw's, which Moscow can exploit."
+ },
+ {
+  "key": "2026-11-21|estonia-iron-curtain",
+  "date": "2026-11-21",
+  "order": 4,
+  "title": "Estonia approves border closure; Moscow promises a response",
+  "summary": "Estonia's government formally approved closing all five road checkpoints with Russia from 1 December, with a review after six months; rail is unaffected. It cites the 14 November arson attempt at drone maker Threod Systems near Tallinn, which it says Russian military intelligence ordered; eight people from Latvia were detained. Foreign ministry spokeswoman Maria Zakharova said Estonia is building a new Iron Curtain and Russia would take political and diplomatic measures. Estonia's president urged the cabinet not to act on emotion.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Euronews and Reuters (via the Moscow Times); the GRU attribution rests on Estonia's security service.",
+  "analysis": "The Russian response is limited to diplomacy for now. Estonia's own debate, including the president's caution and concerns from the Setomaa border community, shows the closure is contested at home, which Russian media are amplifying, as the monitor Propastop documents."
+ },
+ {
+  "key": "2026-11-21|trilateral-summit",
+  "date": "2026-11-21",
+  "order": 5,
+  "title": "Trump–Xi–Putin meeting ends without a deal on Ukraine",
+  "summary": "The three leaders met in China on 19 November. Reports say the meeting ended with a general peace declaration that did not mention Ukraine and no major agreement. Russia's deputy foreign minister Sergei Ryabkov said separately that inviting French, German and British representatives to Moscow does not mean Russia accepts their role in US-brokered talks.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Axios, Euronews and AP.",
+  "analysis": "No sign of a settlement that would free Russian forces from Ukraine, which is the main trigger the baseline would watch for. The reported Russian demand for a NATO rollback toward its 1997 footprint remains on the table."
  }
 ]

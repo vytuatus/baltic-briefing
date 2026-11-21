@@ -178,5 +178,45 @@
   "evidence": "Official statement",
   "corroboration": "Police and prosecution figures reported by ERR.",
   "analysis": "These are lawful returns between neighbouring states for people who entered via Belarus, not western European states shifting migrants onto the Baltic states."
+ },
+ {
+  "key": "2026-11-21|estonia-closure-mig",
+  "date": "2026-11-21",
+  "order": 1,
+  "title": "Estonia formally approves closing its road crossings with Russia",
+  "summary": "Estonia's government approved closing the Narva-1, Narva-2, Koidula, Luhamaa and Saatse road checkpoints from 1 December, with a review after six months; rail traffic continues. The government cites the 14 November sabotage attempt it links to Russian military intelligence. Russia's foreign ministry called it a new Iron Curtain and promised political and diplomatic measures.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Euronews and Reuters (via the Moscow Times).",
+  "analysis": "The closure is a security measure, not a migration one, and no migrant movement has been reported on the Russian side. Estonia's contingency planning for a possible push of migrants afterwards is a precaution, not evidence of one."
+ },
+ {
+  "key": "2026-11-21|estonia-returns-check",
+  "date": "2026-11-21",
+  "order": 2,
+  "title": "How many people has Estonia returned to Latvia?",
+  "summary": "ERR reported on 3 November that 388 irregular migrants had been found in Estonia this year, of whom 148 were handed back to Latvia under EU rules, and 15 people had been detained on suspicion of smuggling. The head of the northern border guard bureau said only 14 migrants were caught in the last week of October and expects numbers to rise next spring as the route has shifted north.",
+  "evidence": "Official statement",
+  "corroboration": "Police figures reported by ERR; our 20 November edition gave 'over 400 returned', which appears to have conflated people caught with people returned.",
+  "analysis": "These are lawful returns between neighbours of people who entered the EU via Belarus. They are a consequence of Belarus's route, not of western European states shifting migrants onto the Baltic states."
+ },
+ {
+  "key": "2026-11-21|data-gap",
+  "date": "2026-11-21",
+  "order": 3,
+  "title": "No new border figures since 17 November",
+  "summary": "The latest published figures found are Latvia's 29 prevented attempts on 16 November and 6 on 17 November, bringing its year total to about 13,018, and Lithuania's three days without attempts on 15–17 November. Lithuania's year total, about 1,962, is already above the roughly 1,650 recorded in 2025.",
+  "evidence": "Official statement",
+  "corroboration": "Border guard figures as carried by Reform.news and The New Backyard; counted once.",
+  "analysis": "Gaps in publication are common and do not mean crossings stopped. Totals count attempts, and the same people often try repeatedly."
+ },
+ {
+  "key": "2026-11-21|eu-pool-pending",
+  "date": "2026-11-21",
+  "order": 4,
+  "title": "EU's 2027 solidarity pool still pending",
+  "summary": "The Council has not yet adopted the 2027 solidarity pool. Last year the 2026 pool was politically approved on 8 December and then adopted by written procedure. Under the Commission's 6 November assessment the Baltic states are 'at risk', giving them priority access to EU support.",
+  "evidence": "Official statement",
+  "corroboration": "Commission assessment as reported earlier this month; the 2025 timetable reported by Agence Europe.",
+  "analysis": "If the Council follows last year's timetable, a decision is likely in December. Nothing in the rules obliges any Baltic state to accept relocated migrants; states can pay or give other support instead."
  }
 ]

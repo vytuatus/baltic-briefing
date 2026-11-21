@@ -1494,5 +1494,60 @@
   "conflict": "Estonia's security service says the 14 November arson attempt at a drone maker was ordered by Russian military intelligence and carried out by residents of Latvia, eight of whom were detained; Estonia's government says the closure answers repeated hybrid attacks.",
   "verdict": "Misleading",
   "verdict_note": "Ignores the stated security reasons; whether closure is the right response is debated in Estonia, but the threat is documented."
+ },
+ {
+  "key": "2026-11-21|c1",
+  "date": "2026-11-21",
+  "order": 1,
+  "claim": "Russia deliberately timed missiles to land in Poland near a Coalition of the Willing exercise",
+  "claimed_by": "Polish Defence Minister Władysław Kosiniak-Kamysz and Prime Minister Donald Tusk",
+  "evidence": "Official statement",
+  "conflict": "The impact sites were roughly 35–75 km from the exercise and 30–60 km from the Ukrainian border, during a strike of up to 100 missiles on Ukraine. Poland has published no evidence on flight paths. Trump described earlier incursions as mistakes; Moscow has not commented.",
+  "verdict": "Contested",
+  "verdict_note": "That Russian missiles landed in Poland is confirmed; intent and deliberate timing are judgements not yet supported by published evidence."
+ },
+ {
+  "key": "2026-11-21|c2",
+  "date": "2026-11-21",
+  "order": 2,
+  "claim": "Putin has sent drones and missiles into Poland only by mistake",
+  "claimed_by": "US President Donald Trump, in a Fox News interview on 19 November",
+  "evidence": "Official statement",
+  "conflict": "Polish officials call recent incursions deliberate provocations; the 2025 drone incursion led to Article 4 consultations. No investigation has published findings on intent for the latest case.",
+  "verdict": "Unsupported",
+  "verdict_note": "Trump gave no evidence; whether past incursions were accidental is disputed, and his remark predates the 20 November landings."
+ },
+ {
+  "key": "2026-11-21|c3",
+  "date": "2026-11-21",
+  "order": 3,
+  "claim": "Russian intelligence planned a mass-casualty false-flag attack near the Polish–Kaliningrad border, to be blamed on Ukraine",
+  "claimed_by": "Rzeczpospolita, citing anonymous senior sources; repeated by many outlets",
+  "evidence": "Anonymous sources",
+  "conflict": "Polish officials confirmed an alert and a real sabotage threat in early November, but no government has confirmed the false-flag element.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "No new evidence today."
+ },
+ {
+  "key": "2026-11-21|c4",
+  "date": "2026-11-21",
+  "order": 4,
+  "claim": "Estonia's border closure is Russophobia and a new Iron Curtain rather than a response to a real threat",
+  "claimed_by": "Russian Foreign Ministry spokeswoman Maria Zakharova; Kremlin spokesman Dmitry Peskov called the sabotage accusations unfounded",
+  "evidence": "Official statement",
+  "conflict": "Estonia's security service says the 14 November arson attempt was ordered by Russian military intelligence and eight people were detained. Whether closing the border is proportionate is debated inside Estonia, including by its president.",
+  "verdict": "Misleading",
+  "verdict_note": "Ignores the documented security case; the policy choice itself is legitimately debated."
+ },
+ {
+  "key": "2026-11-21|c5",
+  "date": "2026-11-21",
+  "order": 5,
+  "claim": "Russia has offered to reduce its military presence in Kaliningrad and Belarus if NATO pulls back to its 1997 footprint",
+  "claimed_by": "Bloomberg and the New York Times, citing Russia's negotiating paper",
+  "evidence": "Anonymous sources",
+  "conflict": "Consistent with Russia's public demands; the Kremlin has not confirmed the Kaliningrad element, and the 19 November trilateral meeting produced no agreement on Ukraine or European security.",
+  "verdict": "Likely",
+  "verdict_note": "No new information today; two major outlets report the same document."
  }
 ]

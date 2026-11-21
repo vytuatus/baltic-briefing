@@ -878,5 +878,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None counted; the OSCE envoy's conditional nuclear warning was published on 18 November, before the previous edition, and comes from a mid-level diplomat."
+ },
+ {
+  "key": "2026-11-21|airspace",
+  "date": "2026-11-21",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 3,
+  "note": "Three: two Russian missiles, one a Kh-101, and a probable jet-powered drone that Poland says entered its airspace overnight into 20 November and landed in the Lublin and Subcarpathian regions; counted per object, as Poland does."
+ },
+ {
+  "key": "2026-11-21|sabotage",
+  "date": "2026-11-21",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; no new Russia-linked sabotage incident, arrest or charge in Europe was first reported in this window."
+ },
+ {
+  "key": "2026-11-21|jamming",
+  "date": "2026-11-21",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region."
+ },
+ {
+  "key": "2026-11-21|border",
+  "date": "2026-11-21",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; Estonia's formal approval of its border closure is a defensive measure, not an incident."
+ },
+ {
+  "key": "2026-11-21|threats",
+  "date": "2026-11-21",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 1,
+  "note": "One: Maria Zakharova's 20 November pledge of political and diplomatic retaliation if Estonia closes its road crossings; it is not a military threat."
  }
 ]

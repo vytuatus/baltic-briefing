@@ -3144,5 +3144,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. Ukraine's military intelligence says Russia is building ammunition and fuel depots near NATO borders, but has published no imagery or locations, so the rating does not rise.",
   "evidence": "Unverified claim"
+ },
+ {
+  "key": "2026-11-21|troops",
+  "date": "2026-11-21",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland. The objects that fell in Poland were part of a strike on Ukraine, not a movement of forces.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-21|kaliningrad",
+  "date": "2026-11-21",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reported troop or ship build-up in the exclave. Lithuania's plan to fence parts of the Kaliningrad border still awaits funding. Russia's earlier complaints about NATO reconnaissance near Kaliningrad were not repeated with new detail.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-21|belarus",
+  "date": "2026-11-21",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new movement reported; ISW again had nothing significant to report on Belarus on 19 November. Ukraine's military intelligence claim that Russia is strengthening logistics in Belarus remains without imagery or locations.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-21|exercises",
+  "date": "2026-11-21",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. A Coalition of the Willing exercise was under way in south-eastern Poland when the Russian missiles came down; NATO drills in Lithuania continue until 3 December.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-21|gps",
+  "date": "2026-11-21",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new measured report of GNSS interference in the Baltic region since yesterday. The rating stays High because interference from the Kaliningrad area is persistent, as the baseline describes; the lack of fresh reports reflects gaps in reporting, not a confirmed drop.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-21|airspace",
+  "date": "2026-11-21",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "High",
+  "trend": "Rising",
+  "note": "Poland's defence minister said three Russian objects entered Polish airspace overnight into 20 November during a large strike on Ukraine: a Kh-101 cruise missile that fell near Nowy Lipowiec, a second missile near Rudnik nad Sanem and a probable jet-powered drone near Mołodycz. No casualties or damage were reported and nothing was shot down. Tusk called it an intentional provocation and NATO's secretary general a grave violation. It ends nine days without an incursion in the region.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-21|sabotage",
+  "date": "2026-11-21",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new case first reported. The 14 November GRU-linked arson attempt at an Estonian drone maker, which Estonia cites for closing its road crossings, and Poland's November indictments over the 2025 rail sabotage remain the latest cases. The reported false-flag plot near the Kaliningrad border is still unconfirmed by any government.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-21|border",
+  "date": "2026-11-21",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation at Baltic, Polish or Finnish borders. Estonia's government formally approved closing all five road crossings with Russia from 1 December, with a review after six months; rail traffic is not affected. Lithuania's Kaliningrad fence plan still needs funding.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-21|rhetoric",
+  "date": "2026-11-21",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Foreign ministry spokeswoman Maria Zakharova said on 20 November that Estonia is building a new Iron Curtain and that Russia would answer with political and diplomatic measures if the closure goes ahead. Moscow gave no immediate comment on the missiles in Poland. The conditional nuclear warnings over Lithuania and Poland reported earlier this week stand.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-21|mobilization",
+  "date": "2026-11-21",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction. Lithuanian officials' concern about a possible Russian mobilisation after the Duma elections is a precaution, not an intelligence finding.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-21|hospitals",
+  "date": "2026-11-21",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-21|blood",
+  "date": "2026-11-21",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-21|rail",
+  "date": "2026-11-21",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. Ukraine's military intelligence says Russia is building depots near NATO borders, but has published no imagery or locations, so the rating does not rise.",
+  "evidence": "Unverified claim"
  }
 ]
