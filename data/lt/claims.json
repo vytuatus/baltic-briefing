@@ -1549,5 +1549,71 @@
   "conflict": "Atitinka viešus Rusijos reikalavimus; Kremlius Karaliaučiaus elemento nepatvirtino, o lapkričio 19 d. trišalis susitikimas nedavė jokio susitarimo dėl Ukrainos ar Europos saugumo.",
   "verdict": "Likely",
   "verdict_note": "Naujos informacijos šiandien nėra; du dideli leidiniai praneša apie tą patį dokumentą."
+ },
+ {
+  "key": "2026-11-22|c1",
+  "date": "2026-11-22",
+  "order": 1,
+  "claim": "Rusija tyčia parinko laiką, kad raketos nukristų Lenkijoje netoli Norinčiųjų koalicijos pratybų",
+  "claimed_by": "Lenkijos gynybos ministras Władysławas Kosiniakas-Kamyszas ir premjeras Donaldas Tuskas; ISW įvertino, kad Rusija įsiveržimų laiką parinko norėdama patikrinti NATO",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Nukritimo vietos buvo maždaug 30–60 km nuo Ukrainos sienos per masinę ataką prieš Ukrainą. Lenkija nepaskelbė jokių skrydžio trajektorijų įrodymų. Kremlius neigia bet kokį pažeidimą.",
+  "verdict": "Contested",
+  "verdict_note": "Patvirtinta, kad Rusijos raketos nukrito Lenkijoje; tyčia parinktas laikas yra Lenkijos ir ISW vertinimas, kurio kol kas neparodo paskelbti įrodymai."
+ },
+ {
+  "key": "2026-11-22|c2",
+  "date": "2026-11-22",
+  "order": 2,
+  "claim": "Lenkija pripažįsta neturinti įrodymų, kad raketos buvo rusiškos",
+  "claimed_by": "„Sputnik“ (Rusijos valstybinė žiniasklaida), remdamasis užsienio reikalų ministru Radosławu Sikorskiu",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Sikorskis sakė, kad Lenkija laukia konkrečių faktų patvirtinimo; gynybos ministras vieną objektą identifikavo kaip Ch-101, o NATO tai vadina Rusijos pažeidimu.",
+  "verdict": "Misleading",
+  "verdict_note": "Atsargumą tyrimo metu paverčia tariamu prisipažinimu."
+ },
+ {
+  "key": "2026-11-22|c3",
+  "date": "2026-11-22",
+  "order": 3,
+  "claim": "Teiginiai, kad Rusija pažeidė Lenkijos oro erdvę, yra tušti ir nepagrįsti",
+  "claimed_by": "Kremliaus atstovas Dmitrijus Peskovas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lenkijos pareigūnai trijose vietose rado raketų nuolaužų, o NATO generalinis sekretorius tai pavadino šiurkščiu pažeidimu. Rusija nepateikė jokio kito paaiškinimo.",
+  "verdict": "Disputed",
+  "verdict_note": "Stipriai prieštarauja fiziniai įrodymai, Lenkija ir NATO; tyrimas tęsiamas."
+ },
+ {
+  "key": "2026-11-22|c4",
+  "date": "2026-11-22",
+  "order": 4,
+  "claim": "Švedijos „Gripen“ turėjo NATO leidimą numušti Ch-101, bet dėl blogo oro nešovė",
+  "claimed_by": "„Rzeczpospolita“, kaip praneša „Kyiv Post“",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Rastuose šaltiniuose Švedija, Lenkija ar NATO to nepatvirtino.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Vieno leidinio pranešimas."
+ },
+ {
+  "key": "2026-11-22|c5",
+  "date": "2026-11-22",
+  "order": 5,
+  "claim": "Ukraina surengė dronų smūgį Rusijos laivui „Sparta II“",
+  "claimed_by": "Suomijos gynybos pajėgos („visai galimai“); Suomijos premjeras Petteris Orpo gynė Ukrainos teisę gintis",
+  "evidence": "Analizė",
+  "conflict": "Niekas neprisiėmė atsakomybės; Rusijos pareigūnai užpuoliko neįvardijo; Ukrainos užsienio reikalų ministerija neatsakė. Laivas teikia paslaugas Rusijos gynybos ministerijai – į tokio tipo taikinius Ukraina jau anksčiau yra smogusi.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina ir plačiai manoma, bet nepriskirta nei įrodymais, nei prisiėmimu."
+ },
+ {
+  "key": "2026-11-22|c6",
+  "date": "2026-11-22",
+  "order": 6,
+  "claim": "Įtartinas skraidantis objektas prie Karaliaučiaus artėjo iš Lietuvos",
+  "claimed_by": "Karaliaučiaus srities gubernatorius Aleksejus Besprozvannychas",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Pats gubernatorius sakė, kad specialistai grėsmės nerado; jokių įrodymų ar Lietuvos komentaro nerasta.",
+  "verdict": "Unsupported",
+  "verdict_note": "Įrodymų nepaskelbta; atitinka pasikartojantį Rusijos pasakojimą apie Baltijos šalis."
  }
 ]

@@ -918,5 +918,45 @@
   "metric": "Official Russian threats",
   "value": 1,
   "note": "One: Maria Zakharova's 20 November pledge of political and diplomatic retaliation if Estonia closes its road crossings; it is not a military threat."
+ },
+ {
+  "key": "2026-11-22|airspace",
+  "date": "2026-11-22",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None; no new violation or drone incursion into Baltic, Polish or Finnish airspace was first reported after the 20 November landings in Poland, already counted."
+ },
+ {
+  "key": "2026-11-22|sabotage",
+  "date": "2026-11-22",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; no new Russia-linked sabotage incident, arrest or charge in Europe was first reported in this window."
+ },
+ {
+  "key": "2026-11-22|jamming",
+  "date": "2026-11-22",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region."
+ },
+ {
+  "key": "2026-11-22|border",
+  "date": "2026-11-22",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; the drone strike on a Russian ship in the Gulf of Finland was not a provocation at a NATO border."
+ },
+ {
+  "key": "2026-11-22|threats",
+  "date": "2026-11-22",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; Peskov's denial and Zakharova's accusation that NATO seeks war contain no explicit threat."
  }
 ]

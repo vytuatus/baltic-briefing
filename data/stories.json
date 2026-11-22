@@ -1398,5 +1398,65 @@
   "evidence": "Official statement",
   "corroboration": "Reported by Axios, Euronews and AP.",
   "analysis": "No sign of a settlement that would free Russian forces from Ukraine, which is the main trigger the baseline would watch for. The reported Russian demand for a NATO rollback toward its 1997 footprint remains on the table."
+ },
+ {
+  "key": "2026-11-22|sparta-ii",
+  "date": "2026-11-22",
+  "order": 1,
+  "title": "Drones hit Russian military supply ship in the Gulf of Finland",
+  "summary": "On the morning of 21 November two drones struck the Russian cargo ship Sparta II, sailing from St Petersburg to Kaliningrad. The ship caught fire and drifted into Finnish territorial waters, where Finland's Border Guard led the rescue. The vessel belongs to a company that serves Russia's defence ministry and is under US sanctions. Finland's Defence Forces said Ukraine is quite possibly behind the attack, and Prime Minister Petteri Orpo said Ukraine has the right to fight back. Finland twice restricted sea and air traffic as a precaution.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by ERR, Reuters (via the Moscow Times), Al Jazeera, TASS and ISW. Accounts of the location differ: Russia says neutral waters 3 nautical miles from its border, Estonia's police an international lane north of Vaindloo, Finland's defence ministry international waters. Russian accounts of the crew differ too, from evacuation under way to evacuation not needed.",
+  "analysis": "No one has claimed the strike, so attribution to Ukraine remains a judgement. For the Baltic states the risk is spillover: drones and fires in the busy shipping lane between Finland and Estonia, and a Russian argument that the Kaliningrad sea route is under threat, which Moscow could use to justify naval escorts."
+ },
+ {
+  "key": "2026-11-22|rutte-warsaw",
+  "date": "2026-11-22",
+  "order": 2,
+  "title": "Rutte in Warsaw: NATO will defend every inch of Poland",
+  "summary": "NATO Secretary General Mark Rutte met Prime Minister Donald Tusk in Warsaw on 21 November, said all allies stand in full solidarity with Poland and called the airspace breach dangerous and unacceptable. Poland asked for more support under NATO's Eastern Sentry mission, including surveillance aircraft and F-35 fighters, but did not request Article 4 consultations. Military prosecutors in Lublin are investigating all three objects.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Anadolu (citing TVP Info), Reuters and the Warsaw-based Global Security Centre.",
+  "analysis": "The response remains defensive and political. Poland choosing not to invoke Article 4, unlike after the 2025 drone incursion, suggests Warsaw wants more air defence rather than a formal crisis."
+ },
+ {
+  "key": "2026-11-22|kremlin-denial",
+  "date": "2026-11-22",
+  "order": 3,
+  "title": "Kremlin denies violating Polish airspace; Russian media twist Sikorski's words",
+  "summary": "Kremlin spokesman Dmitry Peskov called the claims of Russian airspace violations empty and groundless. Sputnik reported that Foreign Minister Radosław Sikorski had admitted Warsaw lacks proof the missiles were Russian; what he said was that Poland is waiting for confirmation of concrete facts. Poland's defence minister has identified one object as a Kh-101, a missile only Russia uses.",
+  "evidence": "Official statement",
+  "corroboration": "Peskov's denial and Sikorski's remark are carried by Sputnik, a Russian state outlet; the defence minister's identification is reported by Polish media via Gwara Media and the Kyiv Independent.",
+  "analysis": "The Russian framing turns normal caution during an investigation into a supposed admission. It is the same pattern fact-checkers documented after the 2025 drone incursion."
+ },
+ {
+  "key": "2026-11-22|kaliningrad-alerts",
+  "date": "2026-11-22",
+  "order": 4,
+  "title": "Air alerts and unverified explosions around Baltiysk",
+  "summary": "On the evening of 21 November air raid sirens sounded across parts of the Kaliningrad region, and Russian accounts reported explosions and drones near the Baltic Fleet base at Baltiysk. Governor Alexey Besprozvannykh said an alert in the Neman district followed a suspicious aerial object approaching from Lithuania and that specialists found no threat. There was no official confirmation of a strike, damage or casualties.",
+  "evidence": "Unverified claim",
+  "corroboration": "Reported by the Kyiv Independent, which could not verify the explosions; no Lithuanian comment was found.",
+  "analysis": "Treat with caution. The claim that an object came from Lithuania fits a Russian narrative that the Baltic states help Ukraine strike Russia; no evidence has been published to support it."
+ },
+ {
+  "key": "2026-11-22|zakharova-mixed",
+  "date": "2026-11-22",
+  "order": 5,
+  "title": "Moscow says it will not attack NATO, and that NATO wants war",
+  "summary": "At her weekly briefing on 20 November, foreign ministry spokeswoman Maria Zakharova said Russia has no intention of attacking NATO member states and has repeatedly offered security guarantees. In the same briefing, according to secondary reports, she said NATO's strategic goal is war with Russia, citing the build-up on the eastern flank and Estonia's border closure.",
+  "evidence": "Official statement",
+  "corroboration": "The first statement is from TASS; the second from a Turkish outlet citing CGTN, so it is secondhand.",
+  "analysis": "The two lines are familiar Russian messaging. Lithuania's assessment warns that Russia could carry out limited operations against NATO in the longer term, so a denial of intent is not reassurance on its own."
+ },
+ {
+  "key": "2026-11-22|gripen-held-fire",
+  "date": "2026-11-22",
+  "order": 6,
+  "title": "Report: Swedish Gripen was cleared to shoot down the missile but held fire",
+  "summary": "Rzeczpospolita, as reported by the Kyiv Post, says a Swedish Gripen pilot on NATO duty had clearance to shoot down the suspected Kh-101 over Poland but did not fire because of severe weather. Polish radars tracked 11 potential threats that night.",
+  "evidence": "Unverified claim",
+  "corroboration": "Single report; not confirmed by Sweden, Poland or NATO in the sources found.",
+  "analysis": "If confirmed, it would show that NATO's rules of engagement allowed a shoot-down but conditions did not. It would also echo the drone that NATO jets twice failed to bring down over Lithuania on 10–11 November."
  }
 ]

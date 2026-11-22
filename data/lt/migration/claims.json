@@ -240,5 +240,49 @@
   "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta; Maskvos paskelbtas atsakas yra politinis ir diplomatinis.",
   "verdict": "Unconfirmed",
   "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
+ },
+ {
+  "key": "2026-11-22|forced-relocation",
+  "date": "2026-11-22",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą. Lietuva renkasi mokėti, o Komisijos priskyrimai Baltijos šalims suteikia pirmenybę gaunant paramą.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-22|estonia-returns-400",
+  "date": "2026-11-22",
+  "order": 2,
+  "claim": "Estija šiais metais į Latviją grąžino daugiau nei 400 migrantų",
+  "claimed_by": "ERR, lapkričio 16 d., remdamasis policija; mūsų lapkričio 21 d. leidime tai pavadinta padidinimu",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 3 d. ERR nurodė, kad iš 388 žmonių 148 perduoti atgal; lapkričio 16 d. ERR teigė, kad sulaikyta daugiau nei 400, ir jie vėliau grąžinami į Latviją.",
+  "verdict": "Contested",
+  "verdict_note": "Du pranešimai prieštarauja vienas kitam; mūsų ankstesnis pataisymas buvo per griežtas."
+ },
+ {
+  "key": "2026-11-22|pool-exempt",
+  "date": "2026-11-22",
+  "order": 3,
+  "claim": "Lenkija ir Estija atleistos nuo įnašų į ES solidarumo fondą",
+  "claimed_by": "LRT/BNS pranešimai apie Lietuvos solidarumo pasirinkimą",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 20 d. svarstytas sprendimo projektas dėl sumažinimų didelį spaudimą patiriančioms valstybėms; Taryba dėl 2027 m. dar nenusprendė.",
+  "verdict": "Contested",
+  "verdict_note": "Atleidimas galimas, bet dar nenuspręstas."
+ },
+ {
+  "key": "2026-11-22|estonia-migration-push",
+  "date": "2026-11-22",
+  "order": 4,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
  }
 ]

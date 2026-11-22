@@ -918,5 +918,45 @@
   "metric": "Official Russian threats",
   "value": 1,
   "note": "Vienas: lapkričio 20 d. Marijos Zacharovos pažadas imtis politinių ir diplomatinių atsakomųjų priemonių, jei Estija uždarys kelių pasienio punktus; tai nėra karinė grėsmė."
+ },
+ {
+  "key": "2026-11-22|airspace",
+  "date": "2026-11-22",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; po jau įskaičiuotų lapkričio 20 d. nukritimų Lenkijoje nepranešta apie naują Baltijos šalių, Lenkijos ar Suomijos oro erdvės pažeidimą ar dronų įsiveržimą."
+ },
+ {
+  "key": "2026-11-22|sabotage",
+  "date": "2026-11-22",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; per šį laikotarpį Europoje nepranešta apie naują su Rusija siejamą sabotažo incidentą, sulaikymą ar kaltinimą."
+ },
+ {
+  "key": "2026-11-22|jamming",
+  "date": "2026-11-22",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; nėra naujo oficialaus ar didžiosios žiniasklaidos pranešimo apie GNSS trikdžius Baltijos regione."
+ },
+ {
+  "key": "2026-11-22|border",
+  "date": "2026-11-22",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; dronų smūgis Rusijos laivui Suomijos įlankoje nebuvo provokacija prie NATO sienos."
+ },
+ {
+  "key": "2026-11-22|threats",
+  "date": "2026-11-22",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; Peskovo neigimas ir Zacharovos kaltinimas, kad NATO siekia karo, aiškios grėsmės nepareiškia."
  }
 ]

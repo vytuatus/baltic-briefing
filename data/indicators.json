@@ -3287,5 +3287,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. Ukraine's military intelligence says Russia is building depots near NATO borders, but has published no imagery or locations, so the rating does not rise.",
   "evidence": "Unverified claim"
+ },
+ {
+  "key": "2026-11-22|troops",
+  "date": "2026-11-22",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-22|kaliningrad",
+  "date": "2026-11-22",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Unverified reports of explosions and drone alerts near the Baltic Fleet base at Baltiysk on the evening of 21 November; the regional governor said an alert in the Neman district followed a suspicious object approaching from Lithuania and that no threat was found. A Kaliningrad-bound military supply ship was hit in the Gulf of Finland the same morning. No troop or ship build-up reported.",
+  "evidence": "Unverified claim"
+ },
+ {
+  "key": "2026-11-22|belarus",
+  "date": "2026-11-22",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "ISW again had nothing significant to report on Belarus on 21 November. Ukraine's military intelligence claim that Russia is strengthening logistics in Belarus remains without imagery or locations.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-22|exercises",
+  "date": "2026-11-22",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. NATO drills in Lithuania continue until 3 December.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-22|gps",
+  "date": "2026-11-22",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new measured report of GNSS interference in the Baltic region since yesterday. The rating stays High because interference from the Kaliningrad area is persistent, as the baseline describes; the lack of fresh reports reflects gaps in reporting, not a confirmed drop.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-22|airspace",
+  "date": "2026-11-22",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new incursion since the two Russian missiles and a probable jet-powered drone landed in eastern Poland on 20 November. Military prosecutors in Lublin are investigating; NATO's Rutte said in Warsaw that allies stand in full solidarity with Poland. Finland restricted air and sea traffic on 21 November as a precaution against stray drones, without reporting a violation.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-22|sabotage",
+  "date": "2026-11-22",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new Russia-linked case first reported. The 14 November GRU-linked arson attempt at an Estonian drone maker and Poland's November indictments over the 2025 rail sabotage remain the latest cases. The reported false-flag plot near the Kaliningrad border is still unconfirmed by any government.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-22|border",
+  "date": "2026-11-22",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation at Baltic, Polish or Finnish borders. Estonia's road crossings with Russia close on 1 December; Lithuania's Kaliningrad fence plan still needs funding.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-22|rhetoric",
+  "date": "2026-11-22",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Kremlin spokesman Dmitry Peskov called the claims of Russian airspace violations over Poland groundless. Maria Zakharova said on 20 November that Russia has no intention of attacking NATO states, while also accusing NATO of seeking war with Russia. No new explicit threat; the conditional nuclear warnings over Lithuania and Poland reported last week stand.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-22|mobilization",
+  "date": "2026-11-22",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-22|hospitals",
+  "date": "2026-11-22",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-22|blood",
+  "date": "2026-11-22",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-22|rail",
+  "date": "2026-11-22",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. The ship struck on 21 November carried cargo by sea to Kaliningrad, which Russia says was paints and coatings; Ukraine's military intelligence has said the vessel carried weapons before.",
+  "evidence": "Unverified claim"
  }
 ]

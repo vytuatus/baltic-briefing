@@ -218,5 +218,45 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Komisijos vertinimas, apie kurį pranešta šio mėnesio pradžioje; 2025 m. tvarkaraštį pranešė „Agence Europe“.",
   "analysis": "Jei Taryba laikysis pernykščio tvarkaraščio, sprendimas tikėtinas gruodį. Jokios taisyklės neįpareigoja nė vienos Baltijos šalies priimti perkeliamų migrantų; valstybės gali mokėti arba teikti kitą paramą."
+ },
+ {
+  "key": "2026-11-22|solidarity-forum",
+  "date": "2026-11-22",
+  "order": 1,
+  "title": "ES pareigūnai svarsto 2027 m. solidarumo fondą",
+  "summary": "Lapkričio 20 d. Briuselyje posėdžiavo ES aukšto lygio solidarumo forumas. Jo darbotvarkėje buvo Komisijos pasiūlymas dėl 2027 m. solidarumo fondo ir sprendimo projektas, leidžiantis reikšmingą migracijos padėtį patiriančioms valstybėms narėms sumažinti įnašus. Abu dokumentai įslaptinti, rezultatai nepaskelbti.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Tarybos darbotvarkės dokumentas; spaudos pranešimų apie rezultatus nerasta.",
+  "analysis": "Tai žingsnis prieš Tarybai priimant fondą; pernai tai įvyko gruodžio 8 d. Pagal taisykles valstybės gali perkelti žmones, mokėti ar teikti kitą paramą, todėl nė viena Baltijos šalis negali būti priversta priimti migrantų. Atviras klausimas – ar Estija ar Lenkija gaus sumažinimus."
+ },
+ {
+  "key": "2026-11-22|estonia-returns-recheck",
+  "date": "2026-11-22",
+  "order": 2,
+  "title": "Estijos grąžinimas į Latviją: du nesutampantys ERR skaičiai",
+  "summary": "Lapkričio 3 d. ERR pranešė, kad iš 388 šiais metais Estijoje rastų žmonių 148 perduoti atgal Latvijai. Lapkričio 16 d. pranešime apie nuosprendį kontrabandos byloje ERR teigė, kad šiais metais sulaikyta daugiau nei 400 migrantų, kurie vėliau grąžinami į Latviją. Lapkričio 21 d. leidime padarėme išvadą, kad grąžinta tik apie 150; ji buvo per griežta.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Abu skaičiai kilę iš policijos duomenų, kaip juos pateikė ERR; oficialaus grąžinimų išskaidymo nerasta.",
+  "analysis": "Skirtumas gali būti susijęs su laiku ar formuluote, todėl skaičių „daugiau nei 400 grąžinta“ dabar vertiname kaip ginčijamą, o ne klaidingą. Bet kuriuo atveju tai teisėtas grąžinimas tarp kaimynių žmonių, patekusių į ES per Baltarusiją."
+ },
+ {
+  "key": "2026-11-22|latvia-18-nov",
+  "date": "2026-11-22",
+  "order": 3,
+  "title": "Latvija: lapkričio 18 d. – 3 bandymai, šiais metais – apie 13 021",
+  "summary": "Latvijos valstybės sienos apsaugos tarnyba pranešė, kad lapkričio 18 d. sustabdė 3 žmones, bandžiusius kirsti sieną iš Baltarusijos, todėl metų suma pasiekė apie 13 021. Vėlesnių dienos duomenų nerasta. Šiais metais tarnyba pradėjo 138 baudžiamąsias bylas dėl žmonių kontrabandos.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Latvijos pasieniečių dienos ataskaita; skaičiuojama kaip vienas šaltinis.",
+  "analysis": "Maži dienos skaičiai lapkritį seka po kur kas intensyvesnės vasaros. Sumose skaičiuojami bandymai, o tie patys žmonės dažnai bando pakartotinai, todėl metų suma padidina žmonių skaičių."
+ },
+ {
+  "key": "2026-11-22|finland-estonia-border",
+  "date": "2026-11-22",
+  "order": 4,
+  "title": "Šiaurinės Rusijos sienos: Estija uždaro, Suomija lieka uždaryta",
+  "summary": "Estijos penki kelių pasienio punktai su Rusija užsidaro gruodžio 1 d. – sprendimas priimtas dėl susirūpinimo sabotažu. Suomijos sausumos siena su Rusija uždaryta nuo 2023 m. gruodžio, o jos vyriausybė planuoja iki 2028 m. pabaigos pratęsti įstatymą, leidžiantį išimtiniais atvejais riboti prieglobsčio prašymus pasienyje.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Apie Estijos sprendimą pranešta šios savaitės pradžioje; apie Suomijos planą rugsėjį pranešė „Hromadske“.",
+  "analysis": "Abi priemonės – saugumo. Žmogaus teisių organizacijos kritikavo Suomijos įstatymą; migrantų judėjimo nė vienos sienos link nepranešta."
  }
 ]

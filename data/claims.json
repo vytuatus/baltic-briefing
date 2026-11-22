@@ -1549,5 +1549,71 @@
   "conflict": "Consistent with Russia's public demands; the Kremlin has not confirmed the Kaliningrad element, and the 19 November trilateral meeting produced no agreement on Ukraine or European security.",
   "verdict": "Likely",
   "verdict_note": "No new information today; two major outlets report the same document."
+ },
+ {
+  "key": "2026-11-22|c1",
+  "date": "2026-11-22",
+  "order": 1,
+  "claim": "Russia deliberately timed missiles to land in Poland near a Coalition of the Willing exercise",
+  "claimed_by": "Polish Defence Minister Władysław Kosiniak-Kamysz and Prime Minister Donald Tusk; ISW assessed that Russia timed the incursions to test NATO",
+  "evidence": "Official statement",
+  "conflict": "The impact sites were roughly 30–60 km from the Ukrainian border during a massive strike on Ukraine. Poland has published no flight-path evidence. The Kremlin denies any violation.",
+  "verdict": "Contested",
+  "verdict_note": "That Russian missiles landed in Poland is confirmed; deliberate timing is a judgement shared by Poland and ISW but not yet shown by published evidence."
+ },
+ {
+  "key": "2026-11-22|c2",
+  "date": "2026-11-22",
+  "order": 2,
+  "claim": "Poland admits it has no proof the missiles were Russian",
+  "claimed_by": "Sputnik (Russian state media), citing Foreign Minister Radosław Sikorski",
+  "evidence": "Unverified claim",
+  "conflict": "Sikorski said Poland is awaiting confirmation of concrete facts; the defence minister has identified one object as a Kh-101, and NATO calls it a Russian violation.",
+  "verdict": "Misleading",
+  "verdict_note": "Turns caution during an investigation into a supposed admission."
+ },
+ {
+  "key": "2026-11-22|c3",
+  "date": "2026-11-22",
+  "order": 3,
+  "claim": "Claims that Russia violated Polish airspace are empty and groundless",
+  "claimed_by": "Kremlin spokesman Dmitry Peskov",
+  "evidence": "Official statement",
+  "conflict": "Polish officials identified missile wreckage at three sites, and NATO's secretary general called it a grave violation. Russia gave no alternative explanation.",
+  "verdict": "Disputed",
+  "verdict_note": "Strongly contradicted by the physical evidence and by Poland and NATO; the investigation continues."
+ },
+ {
+  "key": "2026-11-22|c4",
+  "date": "2026-11-22",
+  "order": 4,
+  "claim": "A Swedish Gripen had NATO clearance to shoot down the Kh-101 but held fire due to bad weather",
+  "claimed_by": "Rzeczpospolita, as reported by the Kyiv Post",
+  "evidence": "Unverified claim",
+  "conflict": "No confirmation from Sweden, Poland or NATO in the sources found.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Single-outlet report."
+ },
+ {
+  "key": "2026-11-22|c5",
+  "date": "2026-11-22",
+  "order": 5,
+  "claim": "Ukraine carried out the drone strike on the Russian ship Sparta II",
+  "claimed_by": "Finland's Defence Forces ('quite possibly'); Finnish Prime Minister Petteri Orpo defended Ukraine's right to fight back",
+  "evidence": "Analysis",
+  "conflict": "No one has claimed the strike; Russian officials did not name an attacker; Ukraine's foreign ministry did not respond. The vessel serves Russia's defence ministry, a type of target Ukraine has hit before.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible and widely assumed, but not attributed by evidence or claim."
+ },
+ {
+  "key": "2026-11-22|c6",
+  "date": "2026-11-22",
+  "order": 6,
+  "claim": "A suspicious aerial object approached Kaliningrad from Lithuania",
+  "claimed_by": "Kaliningrad governor Alexey Besprozvannykh",
+  "evidence": "Unverified claim",
+  "conflict": "The governor himself said specialists found no threat; no evidence or Lithuanian comment was found.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence published; fits a recurring Russian narrative about the Baltic states."
  }
 ]

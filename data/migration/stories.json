@@ -218,5 +218,45 @@
   "evidence": "Official statement",
   "corroboration": "Commission assessment as reported earlier this month; the 2025 timetable reported by Agence Europe.",
   "analysis": "If the Council follows last year's timetable, a decision is likely in December. Nothing in the rules obliges any Baltic state to accept relocated migrants; states can pay or give other support instead."
+ },
+ {
+  "key": "2026-11-22|solidarity-forum",
+  "date": "2026-11-22",
+  "order": 1,
+  "title": "EU officials examine the 2027 solidarity pool",
+  "summary": "The High-Level EU Solidarity Forum met in Brussels on 20 November. Its agenda covered the Commission's proposal for the 2027 solidarity pool and a draft decision letting member states facing a significant migratory situation reduce their contributions. Both documents are classified, and no outcome has been published.",
+  "evidence": "Official statement",
+  "corroboration": "Council agenda document; no press reporting on the outcome found.",
+  "analysis": "This is the step before the Council adopts the pool; last year that came on 8 December. Under the rules states may relocate people, pay or offer other support, so no Baltic state can be made to accept migrants. Whether Estonia or Poland get deductions is the open question."
+ },
+ {
+  "key": "2026-11-22|estonia-returns-recheck",
+  "date": "2026-11-22",
+  "order": 2,
+  "title": "Estonia's returns to Latvia: two ERR figures that do not match",
+  "summary": "ERR reported on 3 November that 148 of 388 people found in Estonia this year had been handed back to Latvia. In a 16 November report on a smuggling conviction, ERR said over 400 migrants had been caught this year and are then returned to Latvia. In our 21 November edition we concluded that only about 150 had been returned; that was too firm.",
+  "evidence": "Official statement",
+  "corroboration": "Both figures come from police data as reported by ERR; no official breakdown of returns found.",
+  "analysis": "The difference may be timing or wording, so we now rate the 'over 400 returned' figure as contested rather than wrong. Either way these are lawful returns between neighbours of people who entered the EU via Belarus."
+ },
+ {
+  "key": "2026-11-22|latvia-18-nov",
+  "date": "2026-11-22",
+  "order": 3,
+  "title": "Latvia: 3 attempts on 18 November, about 13,021 this year",
+  "summary": "Latvia's State Border Guard reported stopping 3 people trying to cross from Belarus on 18 November, bringing the year's total to about 13,021. No later daily figures were found. The guard has opened 138 criminal cases over people smuggling this year.",
+  "evidence": "Official statement",
+  "corroboration": "Latvian border guard daily report; counted once.",
+  "analysis": "Low daily numbers in November follow a much heavier summer. Totals count attempts, and the same people often try repeatedly, so the year total overstates the number of people."
+ },
+ {
+  "key": "2026-11-22|finland-estonia-border",
+  "date": "2026-11-22",
+  "order": 4,
+  "title": "Russia's northern borders: Estonia closes, Finland stays shut",
+  "summary": "Estonia's five road crossings with Russia close on 1 December, a decision taken over sabotage concerns. Finland's land border with Russia has been closed since December 2023, and its government plans to extend until the end of 2028 the law that allows asylum applications at the border to be restricted in exceptional cases.",
+  "evidence": "Official statement",
+  "corroboration": "Estonian decision reported earlier this week; Finnish plan reported by Hromadske in September.",
+  "analysis": "Both are security measures. Rights groups have criticised Finland's law; no migrant movement toward either border has been reported."
  }
 ]
