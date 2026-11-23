@@ -3430,5 +3430,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders. The ship struck on 21 November carried cargo by sea to Kaliningrad, which Russia says was paints and coatings; Ukraine's military intelligence has said the vessel carried weapons before.",
   "evidence": "Unverified claim"
+ },
+ {
+  "key": "2026-11-23|troops",
+  "date": "2026-11-23",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-23|kaliningrad",
+  "date": "2026-11-23",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No official confirmation that drones hit the Baltic Fleet base at Baltiysk on 21 November: Russia's defence ministry did not list Kaliningrad among its overnight drone claims, the governor said there was no threat, and analysts geolocated air-defence fire but no damage. Russian state media reported a US reconnaissance aircraft circling the region again on 22 November.",
+  "evidence": "Unverified claim"
+ },
+ {
+  "key": "2026-11-23|belarus",
+  "date": "2026-11-23",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new public reporting on Russian forces or the Oreshnik units in Belarus. Ukraine's military intelligence claim that Russia is strengthening logistics there remains without imagery or locations.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-23|exercises",
+  "date": "2026-11-23",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. NATO drills in Lithuania continue until 3 December.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-23|gps",
+  "date": "2026-11-23",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new measured report of GNSS interference in the Baltic region since yesterday. The rating stays High because interference from the Kaliningrad area is persistent, as the baseline describes; the lack of fresh reports reflects gaps in reporting, not an end to jamming.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-23|airspace",
+  "date": "2026-11-23",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Lublin prosecutors said on 22 November that all three objects that entered Poland on 20 November were Kh-101 missiles made recently in Dubna, Russia; NATO's North Atlantic Council meets on 23 November. Finland is still investigating a suspected Russian helicopter incursion of up to about 4 km off Loviisa on 21 November, which its defence minister linked to the ship rescue.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-23|sabotage",
+  "date": "2026-11-23",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new Russia-linked case first reported. The 14 November GRU-linked arson attempt at an Estonian drone maker and Poland's November indictments over the 2025 rail sabotage remain the latest cases.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-23|border",
+  "date": "2026-11-23",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation at Baltic, Polish or Finnish borders. Estonia's road crossings with Russia close on 1 December; Lithuania's Kaliningrad fence plan still needs funding.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-23|rhetoric",
+  "date": "2026-11-23",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new explicit threat from a senior Russian official. Russian media and channels instead spread claims that NATO, Poland, Lithuania or German troops in Poland were behind the Kaliningrad alert; Poland's counter-disinformation centre and Lithuania's foreign minister rejected them as false.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-23|mobilization",
+  "date": "2026-11-23",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-23|hospitals",
+  "date": "2026-11-23",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-23|blood",
+  "date": "2026-11-23",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-23|rail",
+  "date": "2026-11-23",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders. Finland's Border Guard chief said authorities could not confirm military cargo aboard the Sparta II, which serves Russia's defence ministry on the sea route to Kaliningrad.",
+  "evidence": "Analysis"
  }
 ]

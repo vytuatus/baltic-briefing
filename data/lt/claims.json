@@ -1615,5 +1615,71 @@
   "conflict": "Pats gubernatorius sakė, kad specialistai grėsmės nerado; jokių įrodymų ar Lietuvos komentaro nerasta.",
   "verdict": "Unsupported",
   "verdict_note": "Įrodymų nepaskelbta; atitinka pasikartojantį Rusijos pasakojimą apie Baltijos šalis."
+ },
+ {
+  "key": "2026-11-23|c1",
+  "date": "2026-11-23",
+  "order": 1,
+  "claim": "Visi trys lapkričio 20 d. į Lenkijos oro erdvę įskridę objektai buvo Rusijos sparnuotosios raketos Ch-101",
+  "claimed_by": "Liublino apygardos prokuratūra (preliminarios išvados, lapkričio 22 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lenkijos gynybos ministerija iš pradžių kalbėjo apie dvi raketas ir tikėtiną reaktyvinį droną; vienas specializuotas leidinys vis dar praneša apie abejones dėl dviejų objektų. Kremlius neigia bet kokį pažeidimą.",
+  "verdict": "Likely",
+  "verdict_note": "Remiasi nuolaužomis trijose vietose; paskutinės vietos patikra turėjo baigtis lapkričio 23 d."
+ },
+ {
+  "key": "2026-11-23|c2",
+  "date": "2026-11-23",
+  "order": 2,
+  "claim": "Už pavojaus Karaliaučiaus srityje stovėjo NATO, Lenkija, Lietuva ar Lenkijoje esantys Vokietijos kariai",
+  "claimed_by": "Rusijos žiniasklaida ir „Telegram“ kanalai po gubernatoriaus pastabos apie objektą iš Lietuvos pusės",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lenkijos dezinformacijos kontrolės centras teiginius pavadino melagingais; Lietuvos užsienio reikalų ministras juos atmetė, o jos Karinės oro pajėgos dronų neaptiko. Jokių įrodymų nepaskelbta.",
+  "verdict": "Unsupported",
+  "verdict_note": "Jokie įrodymai nepagrindžia NATO ar Baltijos šalių vaidmens."
+ },
+ {
+  "key": "2026-11-23|c3",
+  "date": "2026-11-23",
+  "order": 3,
+  "claim": "Lapkričio 21 d. dronai smogė Baltijos laivyno bazei Baltijske",
+  "claimed_by": "Ukrainos „Telegram“ kanalai; kai kurios Ukrainos ir tarptautinės antraštės",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Nustatyta, kad oro gynybos ugnis buvo uosto teritorijoje, tačiau žala nepatvirtinta, Ukraina atakos neprisiėmė, o Rusija neigia bet kokią grėsmę. Plačiai paplitusi gaisro nuotrauka – iš Irano.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Kažkas sukėlė oro gynybos atsaką; pataikymas neparodytas."
+ },
+ {
+  "key": "2026-11-23|c4",
+  "date": "2026-11-23",
+  "order": 4,
+  "claim": "Lapkričio 21 d. Rusijos sraigtasparnis pažeidė Suomijos oro erdvę prie Loviisos",
+  "claimed_by": "Suomijos gynybos ministerija (įtariamas pažeidimas)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Gynybos ministras Antti Häkkänenas sakė, kad tai galimai susiję su „Sparta II“ gelbėjimu ar stebėjimu. Rusija nekomentavo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Suomijos pasienio apsaugos tyrimas tebevyksta."
+ },
+ {
+  "key": "2026-11-23|c5",
+  "date": "2026-11-23",
+  "order": 5,
+  "claim": "Ukraina surengė dronų smūgį Rusijos laivui „Sparta II“",
+  "claimed_by": "Suomijos gynybos pajėgos („tikėtina“); Estijos užsienio reikalų ministras smūgį pavadino Rusijos karo pasekme",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Ukraina nekomentavo. Versijos apie vietą skiriasi: Suomijos pasienio apsaugos vadovas sakė – Rusijos teritoriniuose vandenyse; Suomijos gynybos pareigūnai ir Rusijos gubernatorius – tarptautiniuose vandenyse prie sienos.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Suomijos vertinimas, o ne įrodytas priskyrimas."
+ },
+ {
+  "key": "2026-11-23|c6",
+  "date": "2026-11-23",
+  "order": 6,
+  "claim": "Švedijos „Gripen“ turėjo NATO leidimą numušti Ch-101, bet dėl blogo oro nešovė",
+  "claimed_by": "Lenkijos Operacijų vadavietės vadas generolas leitenantas Ireneuszas Nowakas „Rzeczpospolitai“",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Vakar tai rėmėsi spaudos pranešimais; dabar tai oficialiai pareiškė atsakingas vadas.",
+  "verdict": "Confirmed",
+  "verdict_note": "Oficialiai patvirtino Lenkijos vadas."
  }
 ]

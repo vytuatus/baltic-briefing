@@ -258,5 +258,45 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Apie Estijos sprendimą pranešta šios savaitės pradžioje; apie Suomijos planą rugsėjį pranešė „Hromadske“.",
   "analysis": "Abi priemonės – saugumo. Žmogaus teisių organizacijos kritikavo Suomijos įstatymą; migrantų judėjimo nė vienos sienos link nepranešta."
+ },
+ {
+  "key": "2026-11-23|echr-ruling",
+  "date": "2026-11-23",
+  "order": 1,
+  "title": "Žmogaus teisių teismas rytoj priims sprendimus dėl apgręžimo Baltarusijos pasienyje",
+  "summary": "Europos Žmogaus Teisių Teismas skelbia, kad jo Didžioji kolegija lapkričio 24 d. paskelbs sprendimus trijose bylose: A.R. ir kiti prieš Lenkiją (2021 m. pasienyje įstrigę Afganistano piliečiai), H.M.M. ir kiti prieš Latviją (Irako kurdai, tariamai apgręžinėti nuo 2021 m. rugpjūčio) ir C.O.C.G. ir kiti prieš Lietuvą (keturi kubiečiai, kirtę sieną 2022 m.). Posėdžiai vyko 2025 m. vasarį.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Paskelbta paties teismo svetainėje.",
+  "analysis": "Sprendimai nustatys, kiek gali eiti Baltijos šalių ir Lenkijos pasienio įstatymai situacijoje, kurią Baltarusija naudoja spaudimui. Vyriausybės teigia, kad migrantų panaudojimas kaip įrankio pateisina griežtesnes taisykles; žmogaus teisių organizacijos tvirtina, kad teisė prašyti prieglobsčio vis tiek galioja. Tikėtina, kad abi pusės remsis sprendimo dalimis; mes pranešime, ką teismas iš tikrųjų nuspręs."
+ },
+ {
+  "key": "2026-11-23|finland-law",
+  "date": "2026-11-23",
+  "order": 2,
+  "title": "Suomija pratęsė pasienio įstatymą iki 2028 m. (pataisymas)",
+  "summary": "Lapkričio 18 d. Suomijos parlamentas 170 balsų prieš 19 iki 2028 m. pabaigos pratęsė įstatymą, leidžiantį išimtiniais atvejais atmesti prieglobsčio prašymus prie Rusijos sienos. Premjeras Petteris Orpo jį pavadino būtinu; kritikai teigia, kad jis prieštarauja konstitucijai ir draudimui grąžinti žmones į pavojų. Mūsų ankstesniuose leidimuose klaidingai teigta, kad pratęsimas dar laukia sprendimo.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Yle“ pranešimai, perimti kelių leidinių; balsų skaičius – iš vieno platinamo pranešimo.",
+  "analysis": "Įstatymas netaikytas nuo sienos uždarymo 2023 m. gruodį; jo pratęsimas yra pasirengimas galimam stūmimui iš Rusijos, o ne atsakas į dabartinius atvykimus."
+ },
+ {
+  "key": "2026-11-23|no-new-figures",
+  "date": "2026-11-23",
+  "order": 3,
+  "title": "Nuo lapkričio 18 d. naujų pasienio duomenų nėra",
+  "summary": "Po lapkričio 18 d. naujų oficialių Latvijos ar Lietuvos dienos duomenų neradome. Naujausios Latvijos sumos rodo apie 13 000 šiais metais sustabdytų bandymų, iš jų 29 lapkričio 16 d. ir 3 lapkričio 18 d.; Lietuva lapkričio 15–17 d. bandymų neužfiksavo, šiais metais jų – apie 1 962.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pasieniečių duomenys, perduoti LSM, „Reform.news“ ir „The New Backyard“; šiek tiek skirtingos metų sumos atspindi skirtingas paskaičiavimo datas.",
+  "analysis": "Duomenų skelbimo spragos įprastos, ypač savaitgaliais; jos nėra įrodymas, kad sienos kirtimas liovėsi. Skaičiuojami bandymai, o ne žmonės."
+ },
+ {
+  "key": "2026-11-23|solidarity-timeline",
+  "date": "2026-11-23",
+  "order": 4,
+  "title": "2027 m. solidarumo fondas: sprendimo tikimasi iki metų pabaigos",
+  "summary": "Po lapkričio 20 d. forumo tikimasi, kad Taryba 2027 m. solidarumo fondą nustatys iki 2026 m. pabaigos. Keturios pietų valstybės patiria migracijos spaudimą; Lietuva, Latvija ir Estija yra tarp 15 „rizikos“ grupės valstybių, turinčių pirmenybę gaunant ES paramą, o Estija – tarp šešių, galinčių prašyti sumažinti įnašus. Valstybės gali perkelti žmones, mokėti po 20 000 eurų už kiekvieną neperkeltą žmogų arba teikti kitą paramą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Lapkričio 6 d. Europos Komisijos priskyrimai, apibendrinti „VisaVerge“ ir „Bernama“.",
+  "analysis": "Niekas šiame procese neįpareigoja Baltijos šalies priimti migrantų; kiekviena pati renkasi, kaip prisidėti. Atviras klausimas – kiekvienos valstybės dalies dydis, kurio Taryba nepaskelbė."
  }
 ]

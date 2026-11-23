@@ -1615,5 +1615,71 @@
   "conflict": "The governor himself said specialists found no threat; no evidence or Lithuanian comment was found.",
   "verdict": "Unsupported",
   "verdict_note": "No evidence published; fits a recurring Russian narrative about the Baltic states."
+ },
+ {
+  "key": "2026-11-23|c1",
+  "date": "2026-11-23",
+  "order": 1,
+  "claim": "All three objects that entered Polish airspace on 20 November were Russian Kh-101 cruise missiles",
+  "claimed_by": "Lublin District Prosecutor's Office (preliminary findings, 22 November)",
+  "evidence": "Official statement",
+  "conflict": "Poland's defence ministry first spoke of two missiles and a probable jet-powered drone; one specialist outlet still reports doubt about two of the objects. The Kremlin denies any violation.",
+  "verdict": "Likely",
+  "verdict_note": "Based on debris at three sites; the final site check was due on 23 November."
+ },
+ {
+  "key": "2026-11-23|c2",
+  "date": "2026-11-23",
+  "order": 2,
+  "claim": "NATO, Poland, Lithuania or German troops in Poland were behind the Kaliningrad alert",
+  "claimed_by": "Russian media and Telegram channels, after the governor's remark about an object from the direction of Lithuania",
+  "evidence": "Unverified claim",
+  "conflict": "Poland's counter-disinformation centre called the claims false; Lithuania's foreign minister rejected them and its air force detected no drones. No evidence has been published.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence supports any NATO or Baltic role."
+ },
+ {
+  "key": "2026-11-23|c3",
+  "date": "2026-11-23",
+  "order": 3,
+  "claim": "Drones struck the Baltic Fleet base at Baltiysk on 21 November",
+  "claimed_by": "Ukrainian Telegram channels; some Ukrainian and international headlines",
+  "evidence": "Imagery or documents",
+  "conflict": "Air-defence fire was geolocated to the port area, but no damage is verified, Ukraine has not claimed it and Russia denies any threat. A widely shared fire photo was from Iran.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Something triggered air defences; a hit is not shown."
+ },
+ {
+  "key": "2026-11-23|c4",
+  "date": "2026-11-23",
+  "order": 4,
+  "claim": "A Russian helicopter violated Finnish airspace off Loviisa on 21 November",
+  "claimed_by": "Finland's Ministry of Defence (suspected violation)",
+  "evidence": "Official statement",
+  "conflict": "Defence Minister Antti Häkkänen said it was possibly linked to the rescue or monitoring of the Sparta II. Russia has not commented.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Investigation by the Finnish Border Guard is still open."
+ },
+ {
+  "key": "2026-11-23|c5",
+  "date": "2026-11-23",
+  "order": 5,
+  "claim": "Ukraine carried out the drone strike on the Russian ship Sparta II",
+  "claimed_by": "Finland's Defence Forces ('likely'); Estonia's foreign minister called the strike a consequence of Russia's war",
+  "evidence": "Official statement",
+  "conflict": "Ukraine has not commented. Accounts of the location differ: Finland's Border Guard chief said Russian territorial waters; Finnish defence officials and a Russian governor said international waters near the border.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A Finnish assessment, not a proven attribution."
+ },
+ {
+  "key": "2026-11-23|c6",
+  "date": "2026-11-23",
+  "order": 6,
+  "claim": "A Swedish Gripen had NATO clearance to shoot down the Kh-101 but held fire due to bad weather",
+  "claimed_by": "Lt Gen Ireneusz Nowak, commander of Poland's Operational Command, to Rzeczpospolita",
+  "evidence": "Official statement",
+  "conflict": "Yesterday this rested on press reports; it is now stated on the record by the responsible commander.",
+  "verdict": "Confirmed",
+  "verdict_note": "Confirmed by the Polish commander on the record."
  }
 ]

@@ -284,5 +284,60 @@
   "conflict": "No unusual movement has been reported on the Russian side.",
   "verdict": "Unconfirmed",
   "verdict_note": "A precautionary scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-23|forced-relocation",
+  "date": "2026-11-23",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support. Lithuania is choosing to pay, and the Commission's designations give the Baltic states priority access to support.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-23|pool-exempt",
+  "date": "2026-11-23",
+  "order": 2,
+  "claim": "Poland and Estonia are exempt from contributing to the EU solidarity pool",
+  "claimed_by": "LRT/BNS reporting on Lithuania's solidarity choice",
+  "evidence": "Official statement",
+  "conflict": "The Commission lists Poland and Estonia among states facing a significant migratory situation, which lets them ask the Council for full or partial reductions; the Council has not yet decided for 2027.",
+  "verdict": "Contested",
+  "verdict_note": "An exemption is possible but not yet decided."
+ },
+ {
+  "key": "2026-11-23|estonia-returns-400",
+  "date": "2026-11-23",
+  "order": 3,
+  "claim": "Estonia has returned more than 400 migrants to Latvia this year",
+  "claimed_by": "ERR, 16 November, citing police",
+  "evidence": "Official statement",
+  "conflict": "ERR on 3 November gave 148 of 388 people handed back; ERR on 16 November said over 400 had been caught and are then returned to Latvia. No new figure published.",
+  "verdict": "Contested",
+  "verdict_note": "The two reports still conflict."
+ },
+ {
+  "key": "2026-11-23|estonia-migration-push",
+  "date": "2026-11-23",
+  "order": 4,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "No unusual movement has been reported on the Russian side.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-23|finland-law-extended",
+  "date": "2026-11-23",
+  "order": 5,
+  "claim": "Finland's parliament has extended its border asylum-restriction law to the end of 2028",
+  "claimed_by": "Yle; Prime Minister Petteri Orpo",
+  "evidence": "Official statement",
+  "conflict": "Our earlier editions said the extension was still pending; critics say the law conflicts with Finland's constitution.",
+  "verdict": "Confirmed",
+  "verdict_note": "Approved on 18 November by 170 votes to 19."
  }
 ]

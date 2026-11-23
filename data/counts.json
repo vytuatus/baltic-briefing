@@ -958,5 +958,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; Peskov's denial and Zakharova's accusation that NATO seeks war contain no explicit threat."
+ },
+ {
+  "key": "2026-11-23|airspace",
+  "date": "2026-11-23",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None newly reported; prosecutors reclassified the 20 November objects in Poland as three missiles, already counted, and Finland's suspected helicopter incursion of 21 November was reported before our last edition."
+ },
+ {
+  "key": "2026-11-23|sabotage",
+  "date": "2026-11-23",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; no new Russia-linked sabotage incident, arrest or charge in Europe was first reported in this window."
+ },
+ {
+  "key": "2026-11-23|jamming",
+  "date": "2026-11-23",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None; no new official or major media report of GNSS interference in the Baltic region."
+ },
+ {
+  "key": "2026-11-23|border",
+  "date": "2026-11-23",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new provocation at Baltic, Polish or Finnish borders with Russia or Belarus."
+ },
+ {
+  "key": "2026-11-23|threats",
+  "date": "2026-11-23",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None; Russian media accusations over Kaliningrad came from outlets and channels, not explicit threats by senior officials."
  }
 ]

@@ -284,5 +284,60 @@
   "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta.",
   "verdict": "Unconfirmed",
   "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
+ },
+ {
+  "key": "2026-11-23|forced-relocation",
+  "date": "2026-11-23",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą. Lietuva renkasi mokėti, o Komisijos priskyrimai Baltijos šalims suteikia pirmenybę gaunant paramą.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-23|pool-exempt",
+  "date": "2026-11-23",
+  "order": 2,
+  "claim": "Lenkija ir Estija atleistos nuo įnašų į ES solidarumo fondą",
+  "claimed_by": "LRT/BNS pranešimai apie Lietuvos solidarumo pasirinkimą",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Komisija Lenkiją ir Estiją nurodo tarp valstybių, susiduriančių su reikšminga migracijos padėtimi, todėl jos gali prašyti Tarybos visiško ar dalinio sumažinimo; Taryba dėl 2027 m. dar nenusprendė.",
+  "verdict": "Contested",
+  "verdict_note": "Atleidimas galimas, bet dar nenuspręstas."
+ },
+ {
+  "key": "2026-11-23|estonia-returns-400",
+  "date": "2026-11-23",
+  "order": 3,
+  "claim": "Estija šiais metais į Latviją grąžino daugiau nei 400 migrantų",
+  "claimed_by": "ERR, lapkričio 16 d., remdamasis policija",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 3 d. ERR nurodė, kad iš 388 žmonių 148 perduoti atgal; lapkričio 16 d. ERR teigė, kad sulaikyta daugiau nei 400, ir jie vėliau grąžinami į Latviją. Naujo skaičiaus nepaskelbta.",
+  "verdict": "Contested",
+  "verdict_note": "Du pranešimai vis dar prieštarauja vienas kitam."
+ },
+ {
+  "key": "2026-11-23|estonia-migration-push",
+  "date": "2026-11-23",
+  "order": 4,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
+ },
+ {
+  "key": "2026-11-23|finland-law-extended",
+  "date": "2026-11-23",
+  "order": 5,
+  "claim": "Suomijos parlamentas pratęsė pasienio prieglobsčio ribojimo įstatymą iki 2028 m. pabaigos",
+  "claimed_by": "„Yle“; premjeras Petteris Orpo",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Mūsų ankstesniuose leidimuose teigta, kad pratęsimas dar laukia sprendimo; kritikai teigia, kad įstatymas prieštarauja Suomijos konstitucijai.",
+  "verdict": "Confirmed",
+  "verdict_note": "Patvirtinta lapkričio 18 d. 170 balsų prieš 19."
  }
 ]

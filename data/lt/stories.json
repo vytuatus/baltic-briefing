@@ -1458,5 +1458,65 @@
   "evidence": "Nepatikrintas teiginys",
   "corroboration": "Vienas pranešimas; rastuose šaltiniuose Švedija, Lenkija ar NATO jo nepatvirtino.",
   "analysis": "Jei pasitvirtintų, tai rodytų, kad NATO veiksmų taisyklės leido numušti, bet sąlygos – ne. Tai taip pat primintų droną, kurio NATO naikintuvai lapkričio 10–11 d. du kartus nesugebėjo numušti virš Lietuvos."
+ },
+ {
+  "key": "2026-11-23|three-kh101",
+  "date": "2026-11-23",
+  "order": 1,
+  "title": "Prokurorai: visi trys į Lenkiją įskridę objektai buvo Rusijos raketos Ch-101",
+  "summary": "Lapkričio 22 d. Liublino apygardos prokuratūra sakė, kad pagal preliminarias išvadas visi trys lapkričio 20 d. į Lenkiją įskridę objektai buvo sparnuotosios raketos Ch-101, kurių nuolaužos rastos Nowy Lipowiec, Rudnik ir Mołodycz. Pasak jos, raketos pagamintos per pastarąsias savaites gamykloje Dubnoje prie Maskvos. Darbai paskutinėje vietoje turėjo baigtis lapkričio 23 d.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė „Reuters“ (platinama), „Kyiv Independent“ ir kiti, remdamiesi tuo pačiu prokurorų pareiškimu, todėl tai vienas šaltinis. Jis pakeičia pirmąją gynybos ministerijos versiją apie dvi raketas ir droną; vienas specializuotas leidinys vis dar nurodo abejones dėl kitų dviejų objektų.",
+  "analysis": "Išvada sustiprina argumentą, kad tai buvo Rusijos raketos, tačiau nieko nesako apie ketinimus. Prieš kelias savaites pagamintos ir per masinę ataką prieš Ukrainą paleistos raketos atitinka tiek navigacijos klaidą, tiek tyčinį maršrutą; Lenkija trajektorijų nepaskelbė."
+ },
+ {
+  "key": "2026-11-23|nac-meeting",
+  "date": "2026-11-23",
+  "order": 2,
+  "title": "NATO ambasadoriai renkasi dėl Lenkijos saugumo",
+  "summary": "Lapkričio 23 d. Briuselyje vyksta neeilinis Šiaurės Atlanto Tarybos posėdis, apie kurį paskelbė Lenkijos gynybos ministras Władysławas Kosiniakas-Kamyszas. Tikimasi, kad Lenkija pasiūlys sustiprinti oro gynybą ir stebėjimą rytiniame flange. Pranešimuose tai neapibūdinama kaip konsultacijos pagal 4 straipsnį.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Paskelbė Lenkijos pareigūnai, pranešė keli leidiniai; paties NATO pranešimo dar nebuvo.",
+  "analysis": "Posėdis yra politinis ir praktinis atsakas (daugiau oro gynybos, daugiau stebėjimo), o ne žingsnis kolektyvinės gynybos link. Verta stebėti naujus NATO dislokavimus pagal misiją „Rytų sargyba“."
+ },
+ {
+  "key": "2026-11-23|sparta-towed",
+  "date": "2026-11-23",
+  "order": 3,
+  "title": "„Sparta II“ išvilkta iš Suomijos vandenų; sraigtasparnio tyrimas tęsiamas",
+  "summary": "Lapkričio 22 d. Rusijos gelbėjimo laivas pradėjo vilkti dronų apgadintą krovininį laivą „Sparta II“, ir iki vakaro jis paliko Suomijos ekonominę zoną; Suomija atšaukė jūrų ir oro apribojimus ir nepranešė apie nuotėkius. Suomijos gynybos ministerija vis dar tiria įtariamą Rusijos sraigtasparnio oro erdvės pažeidimą iki maždaug 4 km prie Loviisos lapkričio 21 d., kurį gynybos ministras Antti Häkkänenas pavadino galimai susijusiu su gelbėjimu ar stebėjimu.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Suomijos pasienio apsaugos ir pakrančių apsaugos pareiškimus paskelbė „Yle“, „Reuters“ ir „The Moscow Times“. Pareigūnai vis dar nesutaria, kur buvo pataikyta į laivą: Suomijos pasienio apsaugos vadovas sakė – Rusijos teritoriniuose vandenyse, o Suomijos gynybos pareigūnai ir Rusijos gubernatorius kalbėjo apie tarptautinius vandenis prie sienos.",
+  "analysis": "Greitas perdavimas sumažina platesnio incidento riziką, tačiau jūrų aprūpinimo kelias į Karaliaučių dabar eina per zoną, kurią gali pasiekti Rusijos ir Ukrainos karas. Kol vyksta tyrimas, sraigtasparnio atvejis atrodo kaip šalutinis gelbėjimo poveikis, o ne tyčinis zondavimas."
+ },
+ {
+  "key": "2026-11-23|kaliningrad-narratives",
+  "date": "2026-11-23",
+  "order": 4,
+  "title": "Rusijos leidiniai dėl pavojaus Karaliaučiaus srityje kaltina NATO, Lenkiją ir Lietuvą",
+  "summary": "Po šeštadienio vakaro oro pavojų aplink Karaliaučių Rusijos leidiniai ir kanalai teigė, kad NATO užpuolė sritį, kad Lenkijoje esantys Vokietijos kariai koordinavo Ukrainos smūgį arba kad Lenkija ir Lietuva paleido Ukrainos raketas. Lenkijos dezinformacijos kontrolės centras šiuos teiginius pavadino melagingais. Lietuvos užsienio reikalų ministras Kęstutis Budrys kategoriškai atmetė bet kokį vaidmenį, o Lietuvos krizių valdymo centras sakė, kad Karinės oro pajėgos dronų neaptiko, o plintančios gaisro nuotraukos – iš Irano.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Lenkijos įspėjimą pranešė RMF24 per UNN ir Lenkijos saugumo konsultacinė bendrovė; Lietuvos paneigimus – TASS, „Anadolu“, „Euromaidan Press“ ir „Kyiv Post“.",
+  "analysis": "Kaltinimai remiasi srities gubernatoriaus pastaba apie objektą iš Lietuvos pusės, kuriai jokių įrodymų nepateikta. Konsultacinė bendrovė tikisi, kad tokių teiginių daugiausia bus apie šiandienos NATO posėdį."
+ },
+ {
+  "key": "2026-11-23|baltiysk-unverified",
+  "date": "2026-11-23",
+  "order": 5,
+  "title": "Smūgis Baltijos laivyno bazei: vaizdo įrašai tikri, pataikymas neįrodytas",
+  "summary": "Ukrainos kanalai ir kai kurios antraštės lapkričio 21 d. aprašė pirmąjį dronų smūgį Baltijos laivyno bazei Baltijske. Analitikai nustatė, kad oro gynybos ugnis buvo uosto teritorijoje, tačiau jokia žala ar aukos nepatvirtintos, Ukraina atakos neprisiėmė, o Rusijos gynybos ministerija Karaliaučiaus neįtraukė į savo nakties dronų pranešimus.",
+  "evidence": "Vaizdai ar dokumentai",
+  "corroboration": "Vaizdo įrašų vietą nustatė OSINT analitikai; viena plačiai paplitusi gaisro nuotrauka atsekta iki Kešmo salos Irane. Faktų tikrinimo svetainė vaizdo įrašus įvertino kaip tikrus, o teiginį apie smūgį – kaip neįrodytą.",
+  "analysis": "Oro gynybos ugnis rodo, kad kažkas sukėlė atsaką; ji neparodo, į ką buvo pataikyta. Antraštės, teigiančios, kad dronai smogė bazei, eina toliau nei įrodymai."
+ },
+ {
+  "key": "2026-11-23|gripen-nowak",
+  "date": "2026-11-23",
+  "order": 6,
+  "title": "Lenkijos vadas: „Gripen“ turėjo leidimą, bet negalėjo identifikuoti raketos",
+  "summary": "Lenkijos Operacijų vadavietės vadas generolas leitenantas Ireneuszas Nowakas „Rzeczpospolitai“ sakė, kad NATO vadovaujamas Švedijos „Gripen“ turėjo leidimą pulti, bet labai blogu oru negalėjo identifikuoti Ch-101 nei vizualiai, nei jutikliais. Lenkija tą naktį sekė 11 objektų, iš kurių trys kirto sieną; niekas nenukentėjo.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Interviu pranešė „Euromaidan Press“ ir „Kyiv Independent“; jis oficialiai patvirtina tai, kas vakar rėmėsi spaudos pranešimais.",
+  "analysis": "Paaiškinimas atskleidžia, kodėl nepavyko perimti raketos, neužsimindamas apie politinį sprendimą nešauti. Jis kelia praktinį klausimą, kurį šiandien svarsto NATO: kaip blogu oru naikinti greitas, žemai skrendančias raketas."
  }
 ]

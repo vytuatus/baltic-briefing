@@ -258,5 +258,45 @@
   "evidence": "Official statement",
   "corroboration": "Estonian decision reported earlier this week; Finnish plan reported by Hromadske in September.",
   "analysis": "Both are security measures. Rights groups have criticised Finland's law; no migrant movement toward either border has been reported."
+ },
+ {
+  "key": "2026-11-23|echr-ruling",
+  "date": "2026-11-23",
+  "order": 1,
+  "title": "Human rights court to rule tomorrow on pushbacks at the Belarus border",
+  "summary": "The European Court of Human Rights says its Grand Chamber will deliver rulings on 24 November in three cases: A.R. and Others v. Poland (Afghan nationals stranded at the border in 2021), H.M.M. and Others v. Latvia (Iraqi Kurds allegedly pushed back from August 2021) and C.O.C.G. and Others v. Lithuania (four Cubans who crossed in 2022). Hearings were held in February 2025.",
+  "evidence": "Official statement",
+  "corroboration": "Announced on the court's own website.",
+  "analysis": "The rulings will shape how far Baltic and Polish border laws can go in a situation Belarus uses for pressure. Governments argue instrumentalisation justifies tougher rules; rights groups argue the right to seek asylum still applies. Both sides are likely to claim parts of the judgment; we will report what the court actually decides."
+ },
+ {
+  "key": "2026-11-23|finland-law",
+  "date": "2026-11-23",
+  "order": 2,
+  "title": "Finland extended its border law to 2028 (correction)",
+  "summary": "Finland's parliament voted 170 to 19 on 18 November to extend until the end of 2028 the law that allows asylum applications at the Russian border to be refused in exceptional cases. Prime Minister Petteri Orpo called it essential; critics say it conflicts with the constitution and the ban on returning people to danger. Our earlier editions wrongly said the extension was still pending.",
+  "evidence": "Official statement",
+  "corroboration": "Yle reporting carried by several outlets; the vote count comes from one syndicated report.",
+  "analysis": "The law has not been used since the border closed in December 2023; its extension is preparation for a possible push from Russia rather than a response to current arrivals."
+ },
+ {
+  "key": "2026-11-23|no-new-figures",
+  "date": "2026-11-23",
+  "order": 3,
+  "title": "No new border figures since 18 November",
+  "summary": "We found no new official daily figures from Latvia or Lithuania after 18 November. Latvia's latest totals put prevented attempts this year at about 13,000, with 29 on 16 November and 3 on 18 November; Lithuania reported none on 15–17 November and about 1,962 this year.",
+  "evidence": "Official statement",
+  "corroboration": "Border guard figures as relayed by LSM, Reform.news and The New Backyard; slightly different year totals reflect different cut-off dates.",
+  "analysis": "Gaps in publication are normal, especially at weekends; they are not evidence that crossings have stopped. Figures count attempts, not people."
+ },
+ {
+  "key": "2026-11-23|solidarity-timeline",
+  "date": "2026-11-23",
+  "order": 4,
+  "title": "2027 solidarity pool: decision expected before year-end",
+  "summary": "After the 20 November forum, the Council is expected to set the 2027 solidarity pool before the end of 2026. Four southern states are under migratory pressure; Lithuania, Latvia and Estonia are among 15 states 'at risk', giving them priority access to EU support, and Estonia is among six that may ask for reduced contributions. States can relocate people, pay €20,000 per person not relocated, or give other support.",
+  "evidence": "Official statement",
+  "corroboration": "European Commission designations of 6 November, summarised by VisaVerge and Bernama.",
+  "analysis": "Nothing in the process obliges a Baltic state to accept migrants; each chooses how to contribute. The open question is the size of each state's share, which the Council has not published."
  }
 ]

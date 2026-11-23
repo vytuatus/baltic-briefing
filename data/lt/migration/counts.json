@@ -238,5 +238,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "Nėra; nuo ankstesnio leidimo nė vienas šiandienos sąraše klaidinančiu, nepagrįstu ar melagingu įvertintas teiginys nepasirodė pirmą kartą ir naujai neišplito."
+ },
+ {
+  "key": "2026-11-23|organised",
+  "date": "2026-11-23",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo nepranešta apie naują lydimą grupę, kontrabandininkų transporto priemonę, tunelį ar pasienio įrangos sugadinimą."
+ },
+ {
+  "key": "2026-11-23|measures",
+  "date": "2026-11-23",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "Naujai nepranešta; Suomijos lapkričio 18 d. įstatymo pratęsimas buvo viešas dar prieš mūsų ankstesnį leidimą ir šiandien įrašomas kaip pataisymas, o ne naujas skaičius."
+ },
+ {
+  "key": "2026-11-23|eu",
+  "date": "2026-11-23",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "Nėra; 2027 m. solidarumo fondas vis dar laukia Tarybos sprendimo. Lapkričio 24 d. laukiamas žmogaus teisių teismo sprendimas nėra ES sprendimas."
+ },
+ {
+  "key": "2026-11-23|transfers",
+  "date": "2026-11-23",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "Naujai nepranešta; Estijos grąžinimas į Latviją yra nuolatinė praktika pagal ES taisykles."
+ },
+ {
+  "key": "2026-11-23|claims",
+  "date": "2026-11-23",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "Nėra; nuo ankstesnio leidimo nė vienas šiandienos sąraše klaidinančiu, nepagrįstu ar melagingu įvertintas teiginys nepasirodė pirmą kartą ir naujai neišplito."
  }
 ]

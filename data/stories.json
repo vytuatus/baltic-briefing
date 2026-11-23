@@ -1458,5 +1458,65 @@
   "evidence": "Unverified claim",
   "corroboration": "Single report; not confirmed by Sweden, Poland or NATO in the sources found.",
   "analysis": "If confirmed, it would show that NATO's rules of engagement allowed a shoot-down but conditions did not. It would also echo the drone that NATO jets twice failed to bring down over Lithuania on 10–11 November."
+ },
+ {
+  "key": "2026-11-23|three-kh101",
+  "date": "2026-11-23",
+  "order": 1,
+  "title": "Prosecutors: all three objects that entered Poland were Russian Kh-101 missiles",
+  "summary": "On 22 November the Lublin District Prosecutor's Office said its preliminary findings show that all three objects that crossed into Poland on 20 November were Kh-101 cruise missiles, with debris at Nowy Lipowiec, Rudnik and Mołodycz. It said the missiles were made in recent weeks at a plant in Dubna near Moscow. Work at the last site was due to finish on 23 November.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Reuters (syndicated), the Kyiv Independent and others from the same prosecutors' statement, so this is one source. It replaces the defence ministry's first account of two missiles and a drone; one specialist outlet still cites doubt about the other two objects.",
+  "analysis": "The finding strengthens the case that Russian missiles were involved but says nothing about intent. Missiles made weeks earlier and fired in a mass strike on Ukraine fit both a navigation error and deliberate routing; Poland has not published flight paths."
+ },
+ {
+  "key": "2026-11-23|nac-meeting",
+  "date": "2026-11-23",
+  "order": 2,
+  "title": "NATO ambassadors meet on Poland's security",
+  "summary": "The North Atlantic Council holds an extraordinary meeting in Brussels on 23 November, announced by Polish Defence Minister Władysław Kosiniak-Kamysz. Poland is expected to propose stronger air defence and surveillance on the eastern flank. Reports do not describe it as an Article 4 consultation.",
+  "evidence": "Official statement",
+  "corroboration": "Announced by Polish officials and reported by several outlets; NATO's own readout was not yet available.",
+  "analysis": "The meeting is a political and practical response (more air defence, more surveillance), not a step toward collective defence. Watch for new NATO deployments under the Eastern Sentry mission."
+ },
+ {
+  "key": "2026-11-23|sparta-towed",
+  "date": "2026-11-23",
+  "order": 3,
+  "title": "Sparta II towed out of Finnish waters; helicopter probe still open",
+  "summary": "A Russian rescue vessel began towing the drone-damaged cargo ship Sparta II on 22 November, and by evening it had left Finland's economic zone; Finland lifted its sea and air restrictions and reported no leaks. Finland's defence ministry is still investigating a suspected Russian helicopter airspace violation of up to about 4 km off Loviisa on 21 November, which Defence Minister Antti Häkkänen said was possibly linked to the rescue or monitoring.",
+  "evidence": "Official statement",
+  "corroboration": "Finnish Border Guard and coast guard statements carried by Yle, Reuters and The Moscow Times. Officials still differ on where the ship was hit: Finland's Border Guard chief said Russian territorial waters, while Finnish defence officials and a Russian governor spoke of international waters near the border.",
+  "analysis": "The quick hand-over limits the risk of a wider incident, but the Kaliningrad sea supply route now passes through a zone where the Russia–Ukraine war can reach. The helicopter case looks like a side effect of the rescue rather than a deliberate probe, pending the investigation."
+ },
+ {
+  "key": "2026-11-23|kaliningrad-narratives",
+  "date": "2026-11-23",
+  "order": 4,
+  "title": "Russian outlets blame NATO, Poland and Lithuania for Kaliningrad alert",
+  "summary": "After Saturday evening's air alerts around Kaliningrad, Russian outlets and channels claimed that NATO attacked the region, that German troops in Poland coordinated a Ukrainian strike, or that Poland and Lithuania fired Ukrainian missiles. Poland's counter-disinformation centre called these claims false. Lithuania's Foreign Minister Kęstutis Budrys categorically rejected any role, and Lithuania's crisis centre said its air force detected no drones and that circulating fire photos came from Iran.",
+  "evidence": "Official statement",
+  "corroboration": "Polish warning reported by RMF24 via UNN and by a Polish security consultancy; Lithuanian denials reported by TASS, Anadolu, Euromaidan Press and the Kyiv Post.",
+  "analysis": "The accusations rest on the regional governor's remark about an object from the direction of Lithuania, for which no evidence has been shown. A consultancy expects such claims to peak around today's NATO meeting."
+ },
+ {
+  "key": "2026-11-23|baltiysk-unverified",
+  "date": "2026-11-23",
+  "order": 5,
+  "title": "Strike on the Baltic Fleet base: footage real, hit unproven",
+  "summary": "Ukrainian channels and some headlines described a first drone strike on the Baltic Fleet base at Baltiysk on 21 November. Analysts geolocated air-defence fire to the port area, but no damage or casualties have been verified, Ukraine has not claimed an attack and Russia's defence ministry did not list Kaliningrad among its overnight drone claims.",
+  "evidence": "Imagery or documents",
+  "corroboration": "Videos geolocated by OSINT analysts; one widely shared photo of a fire was traced to Qeshm Island, Iran. A fact-checking site rated the footage genuine and the strike claim unproven.",
+  "analysis": "Air-defence fire shows something triggered a response; it does not show what was hit. Headlines saying drones struck the base go beyond the evidence."
+ },
+ {
+  "key": "2026-11-23|gripen-nowak",
+  "date": "2026-11-23",
+  "order": 6,
+  "title": "Polish commander: Gripen had clearance but could not identify the missile",
+  "summary": "Lt Gen Ireneusz Nowak, commander of Poland's Operational Command, told Rzeczpospolita that a Swedish Gripen under NATO command was cleared to engage but could not identify the Kh-101 visually or with sensors in very poor weather. Poland tracked 11 objects that night, three of which crossed the border; no one was hurt.",
+  "evidence": "Official statement",
+  "corroboration": "Interview reported by Euromaidan Press and the Kyiv Independent; it confirms on the record what yesterday rested on press reporting.",
+  "analysis": "The account explains the missed interception without suggesting a political decision not to fire. It raises the practical question NATO is discussing today: how to engage fast, low-flying missiles in bad weather."
  }
 ]

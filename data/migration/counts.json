@@ -238,5 +238,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "None; no claim in today's tracker rated misleading, unsupported or false was first seen or newly spread since the previous edition."
+ },
+ {
+  "key": "2026-11-23|organised",
+  "date": "2026-11-23",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "None; no new escorted group, smuggling vehicle, tunnel or damage to border equipment was first reported since the previous edition."
+ },
+ {
+  "key": "2026-11-23|measures",
+  "date": "2026-11-23",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "None newly reported; Finland's 18 November law extension was public before our last edition and is recorded today as a correction, not a new count."
+ },
+ {
+  "key": "2026-11-23|eu",
+  "date": "2026-11-23",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "None; the 2027 solidarity pool is still awaiting a Council decision. The human rights court ruling due on 24 November is not an EU decision."
+ },
+ {
+  "key": "2026-11-23|transfers",
+  "date": "2026-11-23",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "None newly reported; Estonia's returns to Latvia are an ongoing practice under EU rules."
+ },
+ {
+  "key": "2026-11-23|claims",
+  "date": "2026-11-23",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "None; no claim in today's tracker rated misleading, unsupported or false was first seen or newly spread since the previous edition."
  }
 ]
