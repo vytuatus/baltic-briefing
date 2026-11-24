@@ -1681,5 +1681,82 @@
   "conflict": "Vakar tai rėmėsi spaudos pranešimais; dabar tai oficialiai pareiškė atsakingas vadas.",
   "verdict": "Confirmed",
   "verdict_note": "Oficialiai patvirtino Lenkijos vadas."
+ },
+ {
+  "key": "2026-11-24|c1",
+  "date": "2026-11-24",
+  "order": 1,
+  "claim": "Estija atsidūrė ant atviro karo su Rusija sukėlimo ribos",
+  "claimed_by": "Rusijos užsienio reikalų ministerija (pareiškimas iškvietus Estijos laikinąjį reikalų patikėtinį, lapkričio 23 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estija kaltinimus atmeta; jos sienos uždarymas seka po saugumo tarnybos išvados, kad už padegimo bandymo stovėjo Rusijos žvalgyba. NATO sako stebinti situaciją.",
+  "verdict": "Unsupported",
+  "verdict_note": "Politinis įspėjimas; jokio Estijos karo veiksmo neparodyta."
+ },
+ {
+  "key": "2026-11-24|c2",
+  "date": "2026-11-24",
+  "order": 2,
+  "claim": "Estija leidžia Ukrainos dronams naudotis savo oro erdve atakoms prieš Rusiją",
+  "claimed_by": "Rusijos užsienio reikalų ministerija, teigianti, kad tokius skrydžius užfiksavo",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Estija neigia, kad jos teritorija naudojama Ukrainos karinėms operacijoms. Rusija nepaskelbė jokių skrydžių duomenų.",
+  "verdict": "Unsupported",
+  "verdict_note": "Pakartotinis teiginys be pateiktų įrodymų."
+ },
+ {
+  "key": "2026-11-24|c3",
+  "date": "2026-11-24",
+  "order": 3,
+  "claim": "Už padegimo bandymo Estijos dronų gamintojo įmonėje stovėjo Rusijos žvalgyba",
+  "claimed_by": "Estijos saugumo tarnybos ir vyriausybė",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos užsienio reikalų ministerija kaltinimą vadina nepagrįstu. Teismas dar nepriėmė sprendimo.",
+  "verdict": "Likely",
+  "verdict_note": "Remiasi Estijos tyrimu; teismo procesas laukia."
+ },
+ {
+  "key": "2026-11-24|c4",
+  "date": "2026-11-24",
+  "order": 4,
+  "claim": "Už pavojaus Karaliaučiaus srityje stovėjo NATO, Lenkija, Lietuva ar Vokietijos kariai",
+  "claimed_by": "Rusijos žiniasklaida ir „Telegram“ kanalai po gubernatoriaus pastabos apie objektą iš Lietuvos pusės",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lietuvos ministrai tai atmeta, o jos Karinės oro pajėgos dronų neaptiko; žiniasklaidos stebėsenos analizė nustatė, kad dauguma įrašų apie „NATO ataką“ kilo iš trijų paskyrų.",
+  "verdict": "Unsupported",
+  "verdict_note": "Jokie įrodymai nepagrindžia NATO ar Baltijos šalių vaidmens."
+ },
+ {
+  "key": "2026-11-24|c5",
+  "date": "2026-11-24",
+  "order": 5,
+  "claim": "Visi trys lapkričio 20 d. į Lenkijos oro erdvę įskridę objektai buvo Rusijos sparnuotosios raketos Ch-101",
+  "claimed_by": "Liublino apygardos prokuratūra (preliminarios išvados, lapkričio 22 d.)",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lenkija iš pradžių kalbėjo apie dvi raketas ir droną; Kremlius neigia bet kokį pažeidimą. Naujienų apie paskutinės vietos patikrą nėra.",
+  "verdict": "Likely",
+  "verdict_note": "Nuolaužos rodo Ch-101; išvados preliminarios."
+ },
+ {
+  "key": "2026-11-24|c6",
+  "date": "2026-11-24",
+  "order": 6,
+  "claim": "Vokietija tankus į Lietuvą išsiuntė geležinkeliu, kad nebūtų provokuojamas Putinas",
+  "claimed_by": "„Bild“, remdamasis neįvardytais šaltiniais",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Vokietijos gynybos ministerija sako, kad transporto būdo keitimas yra įprastas ir turi būti treniruojamas.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Motyvas remiasi tik anoniminiais šaltiniais."
+ },
+ {
+  "key": "2026-11-24|c7",
+  "date": "2026-11-24",
+  "order": 7,
+  "claim": "Rusijos nauji geležinkelio keltai į Karaliaučių yra pasirengimas NATO blokadai",
+  "claimed_by": "Ukrainos leidinių antraštės, remiantis „The Insider“",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos vyriausybė keltus pristato kaip atsarginį maršrutą; NATO jokio blokados plano nepaskelbė, o keltai bus pastatyti tik iki 2030 m.",
+  "verdict": "Misleading",
+  "verdict_note": "Atsarginis aprūpinimo maršrutas, o ne artėjančios blokados įrodymas."
  }
 ]

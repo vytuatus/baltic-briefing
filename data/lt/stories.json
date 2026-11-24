@@ -1518,5 +1518,75 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Interviu pranešė „Euromaidan Press“ ir „Kyiv Independent“; jis oficialiai patvirtina tai, kas vakar rėmėsi spaudos pranešimais.",
   "analysis": "Paaiškinimas atskleidžia, kodėl nepavyko perimti raketos, neužsimindamas apie politinį sprendimą nešauti. Jis kelia praktinį klausimą, kurį šiandien svarsto NATO: kaip blogu oru naikinti greitas, žemai skrendančias raketas."
+ },
+ {
+  "key": "2026-11-24|estonia-open-war",
+  "date": "2026-11-24",
+  "order": 1,
+  "title": "Rusija sako Estijai, kad ši atsidūrė ant atviro karo sukėlimo ribos",
+  "summary": "Lapkričio 23 d. Rusijos užsienio reikalų ministerija iškvietė Estijos laikinąjį reikalų patikėtinį Maskvoje ir užprotestavo Talino sprendimą nuo gruodžio 1 d. mažiausiai šešiems mėnesiams uždaryti kelių pasienio punktus su Rusija. Ministerija Estijos kaltinimą, kad už padegimo bandymo dronų gamintojo įmonėje stovi Rusijos žvalgyba, pavadino nepagrįstu, pakartojo, kad Estija leidžia Ukrainos dronams naudotis savo oro erdve, išvardijo nuoskaudas dėl grūdų tranzito, laivybos, kalbos ir Stačiatikių bažnyčios ir pareiškė, kad Talino veiksmai situaciją atveda prie atviro karo ribos. Ji pasiliko politines ir diplomatines atsakomąsias priemones. Estija kaltinimus atmetė ir paneigė, kad jos teritorija naudojama Ukrainos karinėms operacijoms.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė „Reuters“ ir AFP (per „Al Jazeera“ ir RTE), „The Moscow Times“, „Meduza“ ir Ukrainos leidiniai, visi remdamiesi tuo pačiu ministerijos pareiškimu, todėl tai vienas šaltinis. Vertimai šiek tiek skiriasi dėl tikslios formuluotės.",
+  "analysis": "Tai aiškus įspėjimas NATO narei, tačiau jis pateiktas kaip diplomatinis protestas ir neįvardija jokio karinio žingsnio. Jis atitinka bazinės linijos aprašytą Rusijos spaudimą retorika ir informacija. Kaltinimas dėl dronų oro erdvėje jau buvo išsakytas anksčiau be įrodymų; verta stebėti, ar po gruodžio 1 d. Maskva imsis konkrečių priemonių."
+ },
+ {
+  "key": "2026-11-24|nac-poland",
+  "date": "2026-11-24",
+  "order": 2,
+  "title": "NATO taryba posėdžiavo dėl Lenkijos; rezultatas nepaskelbtas",
+  "summary": "Lapkričio 23 d. Šiaurės Atlanto Taryba surengė neeilinį posėdį dėl Lenkijos. Iki šio ryto joks pareiškimas ar sprendimas nepaskelbtas. Generalinis sekretorius Markas Rutte Berlyne raketų įsiveržimą pavadino pavojingu ir sakė, kad nustatyti, ar jis buvo tyčinis, turi institucijos. Lenkijos gynybos ministras Władysławas Kosiniakas-Kamyszas sakė, kad sąjungininkų ankstyvojo perspėjimo orlaiviai stiprina Lenkijos oro erdvės apsaugą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Remiasi kelių leidinių ir „Notes from Poland“ apibendrinimu. Versijos skiriasi, ar orlaiviai jau skraido (pirmadienio pranešimai), ar dar tik laukiami (ministro lapkričio 21 d. įrašas), ir kada Rutte pažadėjo ginti kiekvieną Lenkijos teritorijos colį.",
+  "analysis": "Be paskelbto rezultato pagrindinis posėdžio signalas – politinis solidarumas ir daugiau stebėjimo, o ne žingsnis kolektyvinės gynybos link. Prokurorų išvada apie tris raketas Ch-101 lieka galioti; apie ketinimus nieko naujo."
+ },
+ {
+  "key": "2026-11-24|kaliningrad-psyop",
+  "date": "2026-11-24",
+  "order": 3,
+  "title": "Pavojus Karaliaučiaus srityje: analizė rodo, kad „NATO atakos“ istoriją išpūtė nedaug paskyrų",
+  "summary": "Žiniasklaidos stebėsenos bendrovė, peržiūrėjusi 2 875 publikacijas 31 kalba, nustatė, kad 355 iš 450 įrašų apie „NATO ataką“ prieš Karaliaučių kilo iš trijų paskyrų ir kad Rusijos žiniasklaida apie „ataką“ daugiausia kalbėjo po to, kai Lietuva paskelbė paneigimą. Lietuvos krašto apsaugos ministras Robertas Kaunas šį epizodą pavadino psichologine operacija; užsienio reikalų ministras Kęstutis Budrys sakė, kad institucijos turėjo informacijos, jog Rusija gali panaudoti incidentą veiksmams prieš Lietuvą surežisuoti.",
+  "evidence": "Analizė",
+  "corroboration": "Pranešė LRT, remdamasis bendrovės pranešimu, ir BNS; stebėsenos bendrovės metodas nepriklausomai nepatikrintas. Lietuvos krizių valdymo centras sakė, kad Karinės oro pajėgos dronų neaptiko.",
+  "analysis": "Išvados palaiko požiūrį, kad kaltinimus Lietuvai išpūtė keli šaltiniai, o ne įrodymai. Jos taip pat rodo daugiau nei keturių valandų vėlavimą iki pirmojo viešo Lietuvos atsako, per kurį pasakojimas spėjo išplisti."
+ },
+ {
+  "key": "2026-11-24|starlink-jit",
+  "date": "2026-11-24",
+  "order": 4,
+  "title": "Keturios ES valstybės planuoja jungtinę grupę „Starlink“ padegimų byloms",
+  "summary": "Lenkijos, Vokietijos, Lietuvos ir Bulgarijos prokurorai planuoja jungtinę tyrimo grupę dėl „Starlink“ infrastruktūros padegimų, įskaitant rugsėjo gaisrą antžeminėje stotyje Lenkijoje, spalio gaisrą prie Sofijos ir sužlugdytą bandymą Vilniuje. Jie turi susitikti gruodžio pradžioje. Vokietijos institucijos per dvi savaites turi nuspręsti, ar pagal Europos arešto orderius perduoti du įtariamuosius Lenkijai.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė LRT/BNS ir „Anadolu“, abu remdamiesi Lenkijos transliuotoju RMF24; Lenkijos ministrai kaltina Rusijos žvalgybą.",
+  "analysis": "Jungtinė grupė rodo, kad prokurorai mato vieną tinklą keturiose šalyse. Sąsaja su Rusija remiasi oficialiais Lenkijos pareiškimais; joks teismas dar nepriėmė sprendimo. Šios bylos jau įskaičiuotos, todėl šiandienos skaičių nekeičia."
+ },
+ {
+  "key": "2026-11-24|kaliningrad-ferries",
+  "date": "2026-11-24",
+  "order": 5,
+  "title": "Rusija finansuoja geležinkelio keltus į Karaliaučių",
+  "summary": "Rusijos premjeras Michailas Mišustinas paskelbė apie maždaug 620 mln. dolerių finansavimą dviem geležinkelio keltams, kurie turi būti pastatyti iki 2030 m., maršrutui iš Ust Lugos į Baltijską. Ukrainos leidiniai planą pateikia kaip pasirengimą Karaliaučiaus blokadai, jei būtų nutrauktas tranzitas per Lietuvą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė „United24“, remdamasis „The Insider“; nepriklausomo žvalgybos šaltinio nėra. Tame pačiame pranešime pažymima, kad NATO jokio blokados plano nepaskelbė.",
+  "analysis": "Keltai sumažina Karaliaučiaus priklausomybę nuo geležinkelio tranzito per Lietuvą, o tai svarbu aprūpinimui krizės metu, tačiau iki jų dar keleri metai. Antraštės apie blokadą eina toliau nei įrodymai."
+ },
+ {
+  "key": "2026-11-24|tanks-by-rail",
+  "date": "2026-11-24",
+  "order": 6,
+  "title": "Vokietijos bulvarinis leidinys: tankai į Lietuvą gabenti geležinkeliu, kad nebūtų provokuojama Maskva",
+  "summary": "„Bild“, remdamasis neįvardytais šaltiniais, pranešė, kad Vokietijos technika pratyboms „Grand Eagle 26“ Lietuvoje gabenta geležinkeliu, o ne keliais per Lenkiją, kad nebūtų provokuojamas Kremlius. Vokietijos gynybos ministerija sakė, kad transporto būdo keitimas yra įprastas ir turi būti treniruojamas. Vokietija planuoja iki 2027 m. pabaigos Lietuvoje turėti visą brigadą.",
+  "evidence": "Anoniminiai šaltiniai",
+  "corroboration": "Vienas bulvarinio leidinio pranešimas, perduotas „Meduzos“; kitur nepatvirtintas.",
+  "analysis": "Motyvas remiasi anoniminiais šaltiniais; oficialus paaiškinimas – įprasta logistika. Bet kuriuo atveju sunkiosios technikos gabenimas geležinkeliu į Lietuvą pats savaime yra NATO pastiprinimo maršrutų treniruotė."
+ },
+ {
+  "key": "2026-11-24|hur-recruitment",
+  "date": "2026-11-24",
+  "order": 7,
+  "title": "Ukrainos žvalgyba: Rusija verbuoja sabotuotojus per darbo skelbimus",
+  "summary": "Lapkričio 23 d. Ukrainos karinė žvalgyba (HUR) pareiškė, kad nuo sausio Rusija „Discord“ platformoje paskelbė daugiau nei 20 mln. užmaskuotų darbo skelbimų, taip pat žinučių „WhatsApp“ ir „Telegram“, siūlydama 1 500–3 000 dolerių, kad užverbuotų jaunus, pažeidžiamus žmones, pabėgėlius ir migrantus sabotažui ir duomenų rinkimui, ypač Baltijos šalyse.",
+  "evidence": "Nepatikrintas teiginys",
+  "corroboration": "Pranešė „Kyiv Post“ ir „United24“, remdamiesi HUR pareiškimu; skaičiai nepriklausomai nepatvirtinti.",
+  "analysis": "Verbavimas per internetinius darbo pasiūlymus atitinka bazinės linijos įspėjimą apie priešiškų tarnybų vykdomą Lietuvos piliečių verbavimą, tačiau HUR, karo šalies, nurodyto masto patikrinti negalima."
  }
 ]

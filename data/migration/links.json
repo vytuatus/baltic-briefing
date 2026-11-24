@@ -736,5 +736,68 @@
   "perspective": "Baltic",
   "title": "National Threat Assessment 2026",
   "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-24|m01",
+  "date": "2026-11-24",
+  "topic": "Pushback cases at the human rights court",
+  "outlet": "European Court of Human Rights",
+  "perspective": "EU institutions",
+  "title": "A.R. and Others v. Poland, H.M.M. and Others v. Latvia and C.O.C.G. and Others v. Lithuania",
+  "url": "https://www.echr.coe.int/w/a.r.-and-others-v.-poland-h.m.m.-and-others-v.-latvia-and-c.o.c.g.-and-others-v.-lithuania"
+ },
+ {
+  "key": "2026-11-24|m02",
+  "date": "2026-11-24",
+  "topic": "Russia's protest over Estonia's border closure",
+  "outlet": "Al Jazeera",
+  "perspective": "US and international",
+  "title": "Russia threatens 'hostile' Estonia with 'open war'",
+  "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"
+ },
+ {
+  "key": "2026-11-24|m03",
+  "date": "2026-11-24",
+  "topic": "Russia's protest over Estonia's border closure",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Russia protests Estonia's planned land border closure and again accuses it of letting Ukrainian drones use its airspace",
+  "url": "https://meduza.io/en/news/2026/11/24/russia-protests-estonia-s-planned-land-border-closure-and-again-accuses-it-of-letting-ukrainian-drones-use-its-airspace"
+ },
+ {
+  "key": "2026-11-24|m04",
+  "date": "2026-11-24",
+  "topic": "Russia's protest over Estonia's border closure",
+  "outlet": "The Moscow Times",
+  "perspective": "Russian independent",
+  "title": "Moscow Summons Estonian Diplomat Over Border Closure",
+  "url": "https://www.themoscowtimes.com/2026/11/23/moscow-summons-estonian-diplomat-over-border-closure-a94352"
+ },
+ {
+  "key": "2026-11-24|m05",
+  "date": "2026-11-24",
+  "topic": "Smuggling cases in Latvia",
+  "outlet": "LSM",
+  "perspective": "Baltic",
+  "title": "More illegal border crossers found crammed into small car",
+  "url": "https://eng.lsm.lv/article/society/crime/11.11.2026-more-illegal-border-crossers-found-crammed-into-small-car.a671507/"
+ },
+ {
+  "key": "2026-11-24|m06",
+  "date": "2026-11-24",
+  "topic": "EU solidarity mechanism",
+  "outlet": "European Commission (Migration and Home Affairs)",
+  "perspective": "EU institutions",
+  "title": "Effective system of solidarity and responsibility for managing asylum and migration in the EU",
+  "url": "https://home-affairs.ec.europa.eu/policies/migration-and-asylum/migration-management-eu-member-states/effective-system-solidarity-and-responsibility-managing-asylum-and-migration-eu_en"
+ },
+ {
+  "key": "2026-11-24|m07",
+  "date": "2026-11-24",
+  "topic": "Recruitment targeting migrants",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "Russia Reportedly Uses Discord, WhatsApp, Telegram to Recruit European Saboteurs",
+  "url": "https://www.kyivpost.com/post/90960"
  }
 ]

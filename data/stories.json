@@ -1518,5 +1518,75 @@
   "evidence": "Official statement",
   "corroboration": "Interview reported by Euromaidan Press and the Kyiv Independent; it confirms on the record what yesterday rested on press reporting.",
   "analysis": "The account explains the missed interception without suggesting a political decision not to fire. It raises the practical question NATO is discussing today: how to engage fast, low-flying missiles in bad weather."
+ },
+ {
+  "key": "2026-11-24|estonia-open-war",
+  "date": "2026-11-24",
+  "order": 1,
+  "title": "Russia tells Estonia it is on the verge of triggering open war",
+  "summary": "On 23 November Russia's foreign ministry summoned Estonia's chargé d'affaires in Moscow to protest Tallinn's decision to close its road crossings with Russia from 1 December for at least six months. The ministry called Estonia's accusation that Russian intelligence was behind an attempted arson at a drone maker unfounded, repeated that Estonia lets Ukrainian drones use its airspace, listed grievances over grain transit, shipping, language and the Orthodox Church, and said Tallinn's actions were bringing things to the brink of open war. It reserved political and diplomatic countermeasures. Estonia rejected the accusations and denied its territory is used for Ukrainian military operations.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by Reuters and AFP (via Al Jazeera and RTE), The Moscow Times, Meduza and Ukrainian outlets, all from the same ministry statement, so this is one source. Translations differ slightly on the exact wording.",
+  "analysis": "This is an explicit warning aimed at a NATO member, but it is framed as a diplomatic protest and names no military step. It fits the baseline's picture of Russian pressure through rhetoric and information. The drone-airspace accusation has been made before without evidence; watch whether Moscow follows with concrete measures after 1 December."
+ },
+ {
+  "key": "2026-11-24|nac-poland",
+  "date": "2026-11-24",
+  "order": 2,
+  "title": "NATO council meets on Poland; no outcome published",
+  "summary": "The North Atlantic Council held its extraordinary meeting on Poland on 23 November. No statement or decision had been published by this morning. Secretary General Mark Rutte, speaking in Berlin, called the missile incursion dangerous and said it was for the authorities to establish whether it was deliberate. Poland's Defence Minister Władysław Kosiniak-Kamysz said allied early-warning aircraft were reinforcing Polish airspace.",
+  "evidence": "Official statement",
+  "corroboration": "Based on an aggregation of several outlets and Notes from Poland. Accounts differ on whether the aircraft are already flying (Monday reports) or were still expected (the minister's 21 November post), and on when Rutte made his pledge to defend every inch of Polish territory.",
+  "analysis": "Without a published outcome, the meeting's main signal is political solidarity and more surveillance, not a move toward collective defence. Prosecutors' finding of three Kh-101 missiles still stands; nothing new on intent."
+ },
+ {
+  "key": "2026-11-24|kaliningrad-psyop",
+  "date": "2026-11-24",
+  "order": 3,
+  "title": "Kaliningrad alert: analysis shows a small number of accounts drove the 'NATO attack' story",
+  "summary": "A media-monitoring company that reviewed 2,875 publications in 31 languages found that 355 of 450 posts about a 'NATO attack' on Kaliningrad came from three accounts, and that Russian media spoke of an 'attack' mainly after Lithuania issued its denial. Lithuania's Defence Minister Robertas Kaunas called the episode a psychological operation; Foreign Minister Kęstutis Budrys said the authorities had information that Russia could use the incident to stage actions against Lithuania.",
+  "evidence": "Analysis",
+  "corroboration": "Reported by LRT from the company's release and by BNS; the monitoring firm's method is not independently checked. Lithuania's crisis centre said its air force detected no drones.",
+  "analysis": "The findings support the view that the accusations against Lithuania were amplified by a few sources rather than based on evidence. They also show a delay of over four hours in Lithuania's first public response, which let the narrative spread."
+ },
+ {
+  "key": "2026-11-24|starlink-jit",
+  "date": "2026-11-24",
+  "order": 4,
+  "title": "Four EU states plan joint team on Starlink arson attacks",
+  "summary": "Prosecutors from Poland, Germany, Lithuania and Bulgaria plan a joint investigation team into arson attacks on Starlink infrastructure, including a fire at a ground station in Poland in September, a fire near Sofia in October and a foiled attempt in Vilnius. They are due to meet in early December. German authorities are to decide within two weeks whether to hand two suspects to Poland under European arrest warrants.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by LRT/BNS and Anadolu, both citing the Polish broadcaster RMF24; Polish ministers have blamed Russian intelligence.",
+  "analysis": "A joint team suggests prosecutors see one network across four countries. The Russian link rests on Polish official statements; no court has ruled. These cases were already counted, so they do not change today's figures."
+ },
+ {
+  "key": "2026-11-24|kaliningrad-ferries",
+  "date": "2026-11-24",
+  "order": 5,
+  "title": "Russia funds rail ferries for Kaliningrad",
+  "summary": "Russia's Prime Minister Mikhail Mishustin announced funding of about $620 million for two rail ferries, to be built by 2030, on a route from Ust-Luga to Baltiysk. Ukrainian outlets present the plan as preparation for a blockade of Kaliningrad if transit through Lithuania is cut.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by United24 citing The Insider; no independent intelligence source. The same report notes that NATO has announced no blockade plan.",
+  "analysis": "The ferries reduce Kaliningrad's dependence on rail transit through Lithuania, which matters for supply in a crisis, but they are years away. Headlines about a blockade go further than the evidence."
+ },
+ {
+  "key": "2026-11-24|tanks-by-rail",
+  "date": "2026-11-24",
+  "order": 6,
+  "title": "German tabloid: tanks sent to Lithuania by rail to avoid provoking Moscow",
+  "summary": "Bild, citing unnamed sources, reported that German equipment for the Grand Eagle 26 exercise in Lithuania went by rail rather than by road through Poland to avoid provoking the Kremlin. Germany's defence ministry said changing the mode of transport is normal and must be practised. Germany plans a full brigade in Lithuania by the end of 2027.",
+  "evidence": "Anonymous sources",
+  "corroboration": "Single tabloid report relayed by Meduza; not confirmed elsewhere.",
+  "analysis": "The motive rests on anonymous sources; the official explanation is routine logistics. Either way, moving heavy equipment by rail to Lithuania is itself an exercise of NATO reinforcement routes."
+ },
+ {
+  "key": "2026-11-24|hur-recruitment",
+  "date": "2026-11-24",
+  "order": 7,
+  "title": "Ukrainian intelligence: Russia recruits saboteurs through job ads",
+  "summary": "Ukraine's military intelligence (HUR) said on 23 November that Russia has posted more than 20 million disguised job ads on Discord since January, plus messages on WhatsApp and Telegram, offering $1,500–3,000 to recruit young, vulnerable people, refugees and migrants for sabotage and data collection, particularly in the Baltic states.",
+  "evidence": "Unverified claim",
+  "corroboration": "Reported by the Kyiv Post and United24 from HUR's statement; no independent confirmation of the figures.",
+  "analysis": "Recruitment through online job offers matches the baseline's warning about hostile services recruiting Lithuanian citizens, but the scale given by HUR, a party to the war, cannot be checked."
  }
 ]

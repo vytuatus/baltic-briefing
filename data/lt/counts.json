@@ -998,5 +998,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra; Rusijos žiniasklaidos kaltinimai dėl Karaliaučiaus kilo iš leidinių ir kanalų, o ne iš aiškių aukšto rango pareigūnų grasinimų."
+ },
+ {
+  "key": "2026-11-24|airspace",
+  "date": "2026-11-24",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Naujai nepranešta; NATO posėdis buvo skirtas lapkričio 20 d. raketoms, jau įskaičiuotoms."
+ },
+ {
+  "key": "2026-11-24|sabotage",
+  "date": "2026-11-24",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; planuojama keturių šalių „Starlink“ tyrimo grupė susijusi su jau įskaičiuotomis bylomis, o Ukrainos teiginiai apie verbavimo skelbimus neaprašo jokio konkretaus naujo atvejo."
+ },
+ {
+  "key": "2026-11-24|jamming",
+  "date": "2026-11-24",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; nėra naujo oficialaus ar didžiosios žiniasklaidos pranešimo apie GNSS trikdžius Baltijos regione."
+ },
+ {
+  "key": "2026-11-24|border",
+  "date": "2026-11-24",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; nauja provokacija Baltijos šalių, Lenkijos ar Suomijos pasienyje su Rusija ar Baltarusija nepranešta."
+ },
+ {
+  "key": "2026-11-24|threats",
+  "date": "2026-11-24",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 1,
+  "note": "Vienas: lapkričio 23 d. Rusijos užsienio reikalų ministerija pareiškė, kad Estijos veiksmai situaciją atveda prie atviro karo ribos."
  }
 ]

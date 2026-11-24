@@ -339,5 +339,60 @@
   "conflict": "Mūsų ankstesniuose leidimuose teigta, kad pratęsimas dar laukia sprendimo; kritikai teigia, kad įstatymas prieštarauja Suomijos konstitucijai.",
   "verdict": "Confirmed",
   "verdict_note": "Patvirtinta lapkričio 18 d. 170 balsų prieš 19."
+ },
+ {
+  "key": "2026-11-24|forced-relocation",
+  "date": "2026-11-24",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą. Baltijos šalims suteikta pirmenybė gaunant paramą.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-24|pool-exempt",
+  "date": "2026-11-24",
+  "order": 2,
+  "claim": "Lenkija ir Estija atleistos nuo įnašų į ES solidarumo fondą",
+  "claimed_by": "LRT/BNS pranešimai apie Lietuvos solidarumo pasirinkimą",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Komisija jas nurodo tarp valstybių, susiduriančių su reikšminga migracijos padėtimi, todėl jos gali prašyti sumažinimų; Taryba dėl 2027 m. nenusprendė.",
+  "verdict": "Contested",
+  "verdict_note": "Atleidimas galimas, bet dar nenuspręstas."
+ },
+ {
+  "key": "2026-11-24|estonia-returns-400",
+  "date": "2026-11-24",
+  "order": 3,
+  "claim": "Estija šiais metais į Latviją grąžino daugiau nei 400 migrantų",
+  "claimed_by": "ERR, lapkričio 16 d., remdamasis policija",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 3 d. ERR nurodė, kad iš 388 žmonių 148 perduoti atgal. Naujo skaičiaus nepaskelbta.",
+  "verdict": "Contested",
+  "verdict_note": "Du pranešimai vis dar prieštarauja vienas kitam."
+ },
+ {
+  "key": "2026-11-24|estonia-migration-push",
+  "date": "2026-11-24",
+  "order": 4,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 23 d. Rusija užprotestavo uždarymą, tačiau Rusijos pusėje neįprasto judėjimo nepranešta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
+ },
+ {
+  "key": "2026-11-24|latvia-179-cases",
+  "date": "2026-11-24",
+  "order": 5,
+  "claim": "Latvijos pasieniečiai šiais metais pradėjo 179 baudžiamuosius procesus dėl neteisėto žmonių judėjimo",
+  "claimed_by": "LSM, remdamasis Valstybės sienos apsaugos tarnyba",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Mūsų ankstesniuose leidimuose minėtos 138 kontrabandos bylos; skaičius 179 apima ir neteisėto buvimo sudarymą bei vėlesnę datą.",
+  "verdict": "Likely",
+  "verdict_note": "Skirtumą paaiškina skirtingos kategorijos."
  }
 ]

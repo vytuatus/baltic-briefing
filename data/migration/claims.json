@@ -339,5 +339,60 @@
   "conflict": "Our earlier editions said the extension was still pending; critics say the law conflicts with Finland's constitution.",
   "verdict": "Confirmed",
   "verdict_note": "Approved on 18 November by 170 votes to 19."
+ },
+ {
+  "key": "2026-11-24|forced-relocation",
+  "date": "2026-11-24",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support. The Baltic states are designated for priority access to support.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-24|pool-exempt",
+  "date": "2026-11-24",
+  "order": 2,
+  "claim": "Poland and Estonia are exempt from contributing to the EU solidarity pool",
+  "claimed_by": "LRT/BNS reporting on Lithuania's solidarity choice",
+  "evidence": "Official statement",
+  "conflict": "The Commission lists them among states facing a significant migratory situation, which lets them ask for reductions; the Council has not decided for 2027.",
+  "verdict": "Contested",
+  "verdict_note": "An exemption is possible but not yet decided."
+ },
+ {
+  "key": "2026-11-24|estonia-returns-400",
+  "date": "2026-11-24",
+  "order": 3,
+  "claim": "Estonia has returned more than 400 migrants to Latvia this year",
+  "claimed_by": "ERR, 16 November, citing police",
+  "evidence": "Official statement",
+  "conflict": "ERR on 3 November gave 148 of 388 people handed back. No new figure published.",
+  "verdict": "Contested",
+  "verdict_note": "The two reports still conflict."
+ },
+ {
+  "key": "2026-11-24|estonia-migration-push",
+  "date": "2026-11-24",
+  "order": 4,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "Russia protested the closure on 23 November but no unusual movement has been reported on the Russian side.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-24|latvia-179-cases",
+  "date": "2026-11-24",
+  "order": 5,
+  "claim": "Latvia's border guard has opened 179 criminal proceedings this year over illegal movement of people",
+  "claimed_by": "LSM, citing the State Border Guard",
+  "evidence": "Official statement",
+  "conflict": "Our earlier editions cited 138 smuggling cases; the 179 figure also covers enabling illegal stay and a later date.",
+  "verdict": "Likely",
+  "verdict_note": "Different categories explain the gap."
  }
 ]

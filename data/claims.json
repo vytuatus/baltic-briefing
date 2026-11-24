@@ -1681,5 +1681,82 @@
   "conflict": "Yesterday this rested on press reports; it is now stated on the record by the responsible commander.",
   "verdict": "Confirmed",
   "verdict_note": "Confirmed by the Polish commander on the record."
+ },
+ {
+  "key": "2026-11-24|c1",
+  "date": "2026-11-24",
+  "order": 1,
+  "claim": "Estonia is on the verge of triggering open war with Russia",
+  "claimed_by": "Russia's Ministry of Foreign Affairs (statement after summoning Estonia's chargé d'affaires, 23 November)",
+  "evidence": "Official statement",
+  "conflict": "Estonia rejects the accusations; its border closure follows a security-service finding that Russian intelligence was behind an arson attempt. NATO says it is monitoring the situation.",
+  "verdict": "Unsupported",
+  "verdict_note": "A political warning; no Estonian act of war is shown."
+ },
+ {
+  "key": "2026-11-24|c2",
+  "date": "2026-11-24",
+  "order": 2,
+  "claim": "Estonia lets Ukrainian drones use its airspace to attack Russia",
+  "claimed_by": "Russia's Ministry of Foreign Affairs, which says it has documented such flights",
+  "evidence": "Unverified claim",
+  "conflict": "Estonia denies its territory is used for Ukrainian military operations. Russia has published no flight data.",
+  "verdict": "Unsupported",
+  "verdict_note": "Repeated claim with no evidence shown."
+ },
+ {
+  "key": "2026-11-24|c3",
+  "date": "2026-11-24",
+  "order": 3,
+  "claim": "Russian intelligence was behind the attempted arson at an Estonian drone maker",
+  "claimed_by": "Estonian security services and government",
+  "evidence": "Official statement",
+  "conflict": "Russia's foreign ministry calls the accusation unfounded. No court has ruled yet.",
+  "verdict": "Likely",
+  "verdict_note": "Based on Estonian investigation; trial pending."
+ },
+ {
+  "key": "2026-11-24|c4",
+  "date": "2026-11-24",
+  "order": 4,
+  "claim": "NATO, Poland, Lithuania or German troops were behind the Kaliningrad alert",
+  "claimed_by": "Russian media and Telegram channels, after the governor's remark about an object from the Lithuanian side",
+  "evidence": "Unverified claim",
+  "conflict": "Lithuania's ministers reject it and its air force detected no drones; a media-monitoring analysis found most 'NATO attack' posts came from three accounts.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence supports any NATO or Baltic role."
+ },
+ {
+  "key": "2026-11-24|c5",
+  "date": "2026-11-24",
+  "order": 5,
+  "claim": "All three objects that entered Polish airspace on 20 November were Russian Kh-101 cruise missiles",
+  "claimed_by": "Lublin District Prosecutor's Office (preliminary findings, 22 November)",
+  "evidence": "Official statement",
+  "conflict": "Poland first spoke of two missiles and a drone; the Kremlin denies any violation. No update on the final site check.",
+  "verdict": "Likely",
+  "verdict_note": "Debris points to Kh-101s; findings are preliminary."
+ },
+ {
+  "key": "2026-11-24|c6",
+  "date": "2026-11-24",
+  "order": 6,
+  "claim": "Germany sent tanks to Lithuania by rail to avoid provoking Putin",
+  "claimed_by": "Bild, citing unnamed sources",
+  "evidence": "Anonymous sources",
+  "conflict": "Germany's defence ministry says changing the mode of transport is routine and must be practised.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Motive rests only on anonymous sources."
+ },
+ {
+  "key": "2026-11-24|c7",
+  "date": "2026-11-24",
+  "order": 7,
+  "claim": "Russia's new Kaliningrad rail ferries are preparation for a NATO blockade",
+  "claimed_by": "Ukrainian outlets' headlines, citing The Insider",
+  "evidence": "Official statement",
+  "conflict": "Russia's government presents the ferries as a back-up route; NATO has announced no blockade plan, and the ferries are due only by 2030.",
+  "verdict": "Misleading",
+  "verdict_note": "A back-up supply route, not evidence of a coming blockade."
  }
 ]
