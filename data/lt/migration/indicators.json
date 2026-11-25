@@ -878,5 +878,115 @@
   "trend": "Unchanged",
   "note": "Nuo vakar nerasta naujo plintančio melagingo teiginio apie migraciją. Ukrainos karinė žvalgyba sako, kad Rusijos verbuotojai Europoje darbo skelbimais taikosi į pabėgėlius ir migrantus; teismo sprendimas gali paskatinti klaidinančius abiejų pusių aiškinimus.",
   "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-25|belarus-crossings",
+  "date": "2026-11-25",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Bandymai kirsti sieną iš Baltarusijos",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Po lapkričio 18 d. naujų oficialių dienos duomenų nerasta. Latvija iki lapkričio 12 d. suskaičiavo 12 922 sustabdytus bandymus – daugiau nei 12 046 per visus 2025 m., o pakartotiniai bandymai skaičių išpučia; Lietuva šiais metais apgręžė beveik 2 000 žmonių, o nuo 2021 m. – apie 26 500.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|smuggling",
+  "date": "2026-11-25",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Kontrabandininkų tinklai ir organizuotas sienos kirtimas",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Apie naują organizuoto sienos kirtimo incidentą nepranešta. Naujausi duomenys tebėra Latvijos 179 baudžiamieji procesai šiais metais dėl neteisėto žmonių judėjimo ir nuo lapkričio pradžios griežtesnės bausmės.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|russia-border",
+  "date": "2026-11-25",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Siena su Rusija: Estija, Latvija, Suomija",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Gruodžio 1 d. Estija uždaro kelių pasienio punktus su Rusija; premjeras sako, kad uždarymas iš esmės neterminuotas. Suomijos parlamentarai pritaria prieštankiniams barjerams prie Rusijos sienos. Migrantų antplūdžio prie Rusijos sienos nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|eu-solidarity",
+  "date": "2026-11-25",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "ES solidarumo ir perkėlimo sprendimai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Taryba dar nenustatė 2027 m. solidarumo fondo. Latvija patvirtino paprašiusi Komisijos iš naujo įvertinti ją kaip patiriančią didelį migracijos spaudimą ir siekia atleidimo nuo savo dalies fonde; Komisija pažadėjo sustabdytus bandymus skaičiuoti nuo 2028 m. ciklo.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|transfers",
+  "date": "2026-11-25",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Perdavimai atgal į Baltijos šalis",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepranešta, kad Vakarų Europos šalys planuotų siųsti migrantus į Baltijos šalis. Teisėtas Estijos grąžinimas į Latviją pagal ES taisykles tęsiasi; ERR duomenys vis dar prieštarauja vieni kitiems.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|schengen-checks",
+  "date": "2026-11-25",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Patikros Šengeno erdvės viduje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Lenkijos patikros pasienyje su Lietuva ir Vokietija tęsiasi iki 2027 m. kovo 30 d. Estijos vidaus reikalų ministras sako, kad patikrų atkūrimas pasienyje su Latvija nepateisinamas ir kainuotų apie 300 mln. eurų.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|onward-routes",
+  "date": "2026-11-25",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Tranzito maršrutai per Baltijos šalis",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujo maršruto nepranešta. Iš Baltarusijos į Latviją patekę žmonės ir toliau randami keliaujantys automobiliais Estijos, Suomijos ir Vakarų Europos link.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|asylum-capacity",
+  "date": "2026-11-25",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Prieglobsčio prašymai ir priėmimo pajėgumai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Baltijos šalyse pajėgumų problemų nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|law-rights",
+  "date": "2026-11-25",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Apgręžimo įstatymas, teismai ir teisės",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Lapkričio 24 d. Didžioji kolegija nusprendė, kad grąžinimas į Baltarusiją, kai migracija naudojama kaip įrankis, pats savaime nepažeidžia nežmoniško elgesio draudimo, tačiau visose trijose bylose nustatė pažeidimus dalies pareiškėjų atžvilgiu: vieno vyro išsiuntimas pažeidžiant laikinąją apsaugos priemonę (Lenkija), vaikų išsiuntimas ir sulaikymas (Latvija) ir neteisėtas sulaikymas (Lietuva).",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|narratives",
+  "date": "2026-11-25",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Dezinformacija ir retorika apie migraciją",
+  "status": "Watch",
+  "trend": "Rising",
+  "note": "Abiem kryptimis plinta supaprastinti teismo sprendimo aiškinimai – nuo „apgręžimas dabar teisėtas“ iki „teismas išteisino Lietuvą“. Naujo teiginio, kad ES verčia Baltijos šalis priimti migrantus, nerasta.",
+  "evidence": "Analizė"
  }
 ]

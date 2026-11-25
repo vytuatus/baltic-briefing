@@ -1758,5 +1758,71 @@
   "conflict": "Russia's government presents the ferries as a back-up route; NATO has announced no blockade plan, and the ferries are due only by 2030.",
   "verdict": "Misleading",
   "verdict_note": "A back-up supply route, not evidence of a coming blockade."
+ },
+ {
+  "key": "2026-11-25|c1",
+  "date": "2026-11-25",
+  "order": 1,
+  "claim": "Russia deliberately sent the drone that entered Polish airspace on 23–24 November",
+  "claimed_by": "Poland's Defence Ministry and Deputy Defence Minister Paweł Zalewski",
+  "evidence": "Official statement",
+  "conflict": "Russia has not commented. Flight details come from unnamed sources; no evidence of intent has been published.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "An official assessment, not a published finding."
+ },
+ {
+  "key": "2026-11-25|c2",
+  "date": "2026-11-25",
+  "order": 2,
+  "claim": "NATO cleared a fighter to shoot down a Russian missile over Poland on 20 November",
+  "claimed_by": "Poland's Operational Commander, Lt. Gen. Ireneusz Nowak, via Rzeczpospolita",
+  "evidence": "Official statement",
+  "conflict": "NATO has not confirmed it on the record; Sweden said only that its jets tracked unidentified objects.",
+  "verdict": "Likely",
+  "verdict_note": "On-record Polish account; NATO silent."
+ },
+ {
+  "key": "2026-11-25|c3",
+  "date": "2026-11-25",
+  "order": 3,
+  "claim": "The GPS interference around Stockholm comes from Russia",
+  "claimed_by": "Social-media posts and some headlines",
+  "evidence": "Unverified claim",
+  "conflict": "Sweden's Transport Agency says the source is unknown; an analyst quoted in the coverage doubted it could come from Russian territory.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Attribution not established."
+ },
+ {
+  "key": "2026-11-25|c4",
+  "date": "2026-11-25",
+  "order": 4,
+  "claim": "One of the objects that fell in Poland on 20 November was a Ukrainian drone, or the debris was planted",
+  "claimed_by": "Online posts that Polish officials attribute mainly to Russian and Belarusian sources",
+  "evidence": "Unverified claim",
+  "conflict": "Prosecutors identified Kh-101 debris at all three sites.",
+  "verdict": "False",
+  "verdict_note": "Contradicted by the prosecutors' findings."
+ },
+ {
+  "key": "2026-11-25|c5",
+  "date": "2026-11-25",
+  "order": 5,
+  "claim": "The Kaliningrad alert was a Russian attempt to provoke Lithuania",
+  "claimed_by": "Lithuania's Defence Minister Robertas Kaunas",
+  "evidence": "Official statement",
+  "conflict": "The president's security adviser says it more likely reflects Russian fear of a Ukrainian attack.",
+  "verdict": "Contested",
+  "verdict_note": "Lithuanian officials give different readings."
+ },
+ {
+  "key": "2026-11-25|c6",
+  "date": "2026-11-25",
+  "order": 6,
+  "claim": "Estonia lets Ukrainian drones use its airspace to attack Russia",
+  "claimed_by": "Russia's Ministry of Foreign Affairs",
+  "evidence": "Unverified claim",
+  "conflict": "Estonia denies it; Russia has still published no flight data.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence shown."
  }
 ]

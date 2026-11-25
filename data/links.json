@@ -4318,5 +4318,140 @@
   "perspective": "US and international",
   "title": "Europe Is 'Somewhere Between Peace And War' With Russia, Former Finnish Defense Chief Says",
   "url": "https://www.rferl.org/a/lindberg-finland-sparta-russia-ukraine-war-europe/33903620.html"
+ },
+ {
+  "key": "2026-11-25|l01",
+  "date": "2026-11-25",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-25|l02",
+  "date": "2026-11-25",
+  "topic": "Drone incursion and AWACS for Poland",
+  "outlet": "Notes from Poland",
+  "perspective": "Central Europe",
+  "title": "NATO to send surveillance aircraft to Poland after Russian missile strikes",
+  "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/"
+ },
+ {
+  "key": "2026-11-25|l03",
+  "date": "2026-11-25",
+  "topic": "Drone incursion and AWACS for Poland",
+  "outlet": "European Pravda",
+  "perspective": "Ukrainian",
+  "title": "Polish media reveal details of Russian drone that flew into Polish territory",
+  "url": "https://www.eurointegration.com.ua/eng/news/2026/11/24/7250673/"
+ },
+ {
+  "key": "2026-11-25|l04",
+  "date": "2026-11-25",
+  "topic": "Drone incursion and AWACS for Poland",
+  "outlet": "Militarnyi",
+  "perspective": "Ukrainian",
+  "title": "NATO to Deploy AWACS Aircraft to Poland After Kh-101 Missile Crash",
+  "url": "https://militarnyi.com/en/news/nato-to-deploy-awacs-aircraft-to-poland-after-kh-101-missile-crash/"
+ },
+ {
+  "key": "2026-11-25|l05",
+  "date": "2026-11-25",
+  "topic": "Shoot-down clearance and US troops",
+  "outlet": "Fox News (via Yahoo News)",
+  "perspective": "US and international",
+  "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
+  "url": "https://www.yahoo.com/news/us/articles/nato-fighter-jet-cleared-shoot-205651324.html"
+ },
+ {
+  "key": "2026-11-25|l06",
+  "date": "2026-11-25",
+  "topic": "Shoot-down clearance and US troops",
+  "outlet": "Kyiv Post",
+  "perspective": "Ukrainian",
+  "title": "NATO Cleared Pilot to Shoot Down Russian Missile Over Poland, Held Fire Over Weather",
+  "url": "https://www.kyivpost.com/post/90803"
+ },
+ {
+  "key": "2026-11-25|l07",
+  "date": "2026-11-25",
+  "topic": "Missile incursion background",
+  "outlet": "AP (via PBS)",
+  "perspective": "US and international",
+  "title": "NATO calls Russian missiles landing in Poland a 'grave violation' of airspace",
+  "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace"
+ },
+ {
+  "key": "2026-11-25|l08",
+  "date": "2026-11-25",
+  "topic": "GPS interference around Stockholm",
+  "outlet": "Dagens Nyheter (via News Minimalist)",
+  "perspective": "Nordic",
+  "title": "GNSS interference spikes over Stockholm and Arlanda",
+  "url": "https://www.newsminimalist.com/articles/gnss-interference-spikes-over-stockholm-and-arlanda-3cc01c56"
+ },
+ {
+  "key": "2026-11-25|l09",
+  "date": "2026-11-25",
+  "topic": "GPS interference around Stockholm",
+  "outlet": "Sigmalive",
+  "perspective": "US and international",
+  "title": "Συναγερμός στη Σουηδία: Ραγδαία αύξηση παρεμβολών GPS κοντά στη Στοκχόλμη",
+  "url": "https://www.sigmalive.com/news/international/1338750/sinaghermos-sti-soyidia-raghdaia-auksisi-paremvolwn-gps-konta-sti-stokkholmi"
+ },
+ {
+  "key": "2026-11-25|l10",
+  "date": "2026-11-25",
+  "topic": "Incident overview",
+  "outlet": "The Incident Report (Olga Lautman)",
+  "perspective": "OSINT and trackers",
+  "title": "The Incident Report | November 23, 2026",
+  "url": "https://olgalautman.substack.com/p/the-incident-report-november-23-2026"
+ },
+ {
+  "key": "2026-11-25|l11",
+  "date": "2026-11-25",
+  "topic": "Estonia's border closure",
+  "outlet": "ERR News",
+  "perspective": "Baltic",
+  "title": "Estonian PM: Closing rail border crossing with Russia could be next step",
+  "url": "https://news.err.ee/1610205202/estonian-pm-closing-rail-border-crossing-with-russia-could-be-next-step"
+ },
+ {
+  "key": "2026-11-25|l12",
+  "date": "2026-11-25",
+  "topic": "Kremlin reaction to Estonia's border closure",
+  "outlet": "Türkiye Today",
+  "perspective": "US and international",
+  "title": "Kremlin denies Estonia sabotage claims, warns border closure could backfire",
+  "url": "https://www.turkiyetoday.com/region/kremlin-denies-estonia-sabotage-claims-warns-border-closure-could-backfire-3232542"
+ },
+ {
+  "key": "2026-11-25|l13",
+  "date": "2026-11-25",
+  "topic": "Kaliningrad alert",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Lithuanian presidential aide: Kaliningrad warnings reflect Russian fears, not escalation",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3124146/lithuanian-presidential-aide-kaliningrad-warnings-reflect-russian-fears-not-escalation"
+ },
+ {
+  "key": "2026-11-25|l14",
+  "date": "2026-11-25",
+  "topic": "Disinformation about the missile incursion",
+  "outlet": "Global Security Centre",
+  "perspective": "OSINT and trackers",
+  "title": "Disinformation in Poland: Risk Assessment, 23 Nov 2026",
+  "url": "https://www.gscentre.eu/post/disinformation-in-poland-risk-assessment-23-november-2026"
+ },
+ {
+  "key": "2026-11-25|l15",
+  "date": "2026-11-25",
+  "topic": "Finland's border defences",
+  "outlet": "Meduza",
+  "perspective": "Russian independent",
+  "title": "Finnish lawmakers back anti-tank barriers along border with Russia",
+  "url": "https://meduza.io/en/news/2026/11/23/finnish-lawmakers-back-anti-tank-barriers-along-border-with-russia"
  }
 ]

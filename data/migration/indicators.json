@@ -878,5 +878,115 @@
   "trend": "Unchanged",
   "note": "No new false migration claim found spreading since yesterday. Ukraine's military intelligence says Russian recruiters target refugees and migrants in Europe with job ads; the court ruling may prompt misleading readings from both sides.",
   "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-25|belarus-crossings",
+  "date": "2026-11-25",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Crossing attempts from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new official daily figures found after 18 November. Latvia counts 12,922 prevented attempts up to 12 November, above 12,046 in all of 2025, with repeat attempts inflating the count; Lithuania has turned back nearly 2,000 people this year and about 26,500 since 2021.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|smuggling",
+  "date": "2026-11-25",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Smuggling networks and organised crossings",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new organised crossing incident first reported. Latvia's 179 criminal proceedings this year over illegal movement of people and tougher penalties from early November remain the latest data.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|russia-border",
+  "date": "2026-11-25",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Russia border: Estonia, Latvia, Finland",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Estonia's road crossings with Russia close on 1 December; the prime minister says the closure is in substance indefinite. Finnish lawmakers back anti-tank barriers on the Russian border. No migration surge reported at the Russian border.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|eu-solidarity",
+  "date": "2026-11-25",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "EU solidarity and relocation decisions",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "The Council has not yet set the 2027 solidarity pool. Latvia confirmed it asked the Commission to reassess it as under considerable migratory pressure and seeks exemption from its pool share; the Commission has promised to count prevented attempts from the 2028 cycle.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|transfers",
+  "date": "2026-11-25",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Transfers back to the Baltic states",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No reports of western European countries planning to send migrants to the Baltic states. Estonia's lawful returns to Latvia under EU rules continue; the ERR figures still conflict.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|schengen-checks",
+  "date": "2026-11-25",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Border checks inside Schengen",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Poland's checks on its borders with Lithuania and Germany continue until 30 March 2027. Estonia's interior minister says restoring checks on the Latvian border is not justified and would cost about €300 million.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|onward-routes",
+  "date": "2026-11-25",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Onward routes through the Baltics",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new route reported. People crossing from Belarus into Latvia continue to be found moving on by car toward Estonia, Finland and western Europe.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|asylum-capacity",
+  "date": "2026-11-25",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Asylum claims and reception capacity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No capacity problem reported in the Baltic states.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|law-rights",
+  "date": "2026-11-25",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Pushback law, courts and rights",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "The Grand Chamber ruled on 24 November that returns to Belarus are not in themselves a breach of the ban on inhuman treatment when migration is instrumentalised, but found violations for some applicants in all three cases: removal of one man in breach of an interim measure (Poland), children's removals and detention (Latvia) and unlawful detention (Lithuania).",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-25|narratives",
+  "date": "2026-11-25",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Migration disinformation and rhetoric",
+  "status": "Watch",
+  "trend": "Rising",
+  "note": "Oversimplified readings of the court ruling are spreading in both directions, from 'pushbacks are now legal' to 'the court cleared Lithuania'. No new claim that the EU forces the Baltic states to take migrants was found.",
+  "evidence": "Analysis"
  }
 ]

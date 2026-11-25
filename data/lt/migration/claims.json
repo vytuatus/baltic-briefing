@@ -394,5 +394,71 @@
   "conflict": "Mūsų ankstesniuose leidimuose minėtos 138 kontrabandos bylos; skaičius 179 apima ir neteisėto buvimo sudarymą bei vėlesnę datą.",
   "verdict": "Likely",
   "verdict_note": "Skirtumą paaiškina skirtingos kategorijos."
+ },
+ {
+  "key": "2026-11-25|echr-cleared-lithuania",
+  "date": "2026-11-25",
+  "order": 1,
+  "claim": "Žmogaus teisių teismas išteisino Lietuvą dėl apgręžimo",
+  "claimed_by": "Kai kurios internetinės antraštės ir agregatoriai",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Teismas Lietuvos vykdytame grąžinime 3 straipsnio pažeidimo nenustatė, tačiau vienbalsiai pripažino pareiškėjų sulaikymą neteisėtu pagal 5 straipsnį ir kiekvienam priteisė po 15 000 eurų.",
+  "verdict": "Misleading",
+  "verdict_note": "Teisinga dėl grąžinimo, klaidinga dėl sulaikymo."
+ },
+ {
+  "key": "2026-11-25|echr-endorses-poland",
+  "date": "2026-11-25",
+  "order": 2,
+  "claim": "Teismo sprendimai pritaria Lenkijos požiūriui į migrantų panaudojimą kaip įrankio",
+  "claimed_by": "Lenkijos vidaus reikalų viceministras",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Teismas pripažino argumentą dėl migrantų panaudojimo kaip įrankio, bet nustatė, kad Lenkija pažeidė 3 straipsnį ir trukdė advokatams; „Amnesty“ sprendimus vadina smūgiu teisėms.",
+  "verdict": "Contested",
+  "verdict_note": "Iš dalies pritarta, iš dalies pasmerkta."
+ },
+ {
+  "key": "2026-11-25|latvia-reassessment",
+  "date": "2026-11-25",
+  "order": 3,
+  "claim": "Latvija paprašė Komisijos iš naujo įvertinti ją kaip patiriančią didelį migracijos spaudimą",
+  "claimed_by": "LSM, remdamasis Latvijos vidaus reikalų ministerija",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Ankstesni leidimai tai matė tik antraštėse; dabar tai patvirtina pačios ministerijos informacija.",
+  "verdict": "Confirmed",
+  "verdict_note": "Patvirtino ministerija."
+ },
+ {
+  "key": "2026-11-25|forced-relocation",
+  "date": "2026-11-25",
+  "order": 4,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą; Latvija netgi siekia atleidimo nuo savo dalies.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-25|estonia-returns-400",
+  "date": "2026-11-25",
+  "order": 5,
+  "claim": "Estija šiais metais į Latviją grąžino daugiau nei 400 migrantų",
+  "claimed_by": "ERR, lapkričio 16 d., remdamasis policija",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 3 d. ERR nurodė, kad iš 388 žmonių 148 perduoti atgal. Naujo skaičiaus nepaskelbta.",
+  "verdict": "Contested",
+  "verdict_note": "Du pranešimai vis dar prieštarauja vienas kitam."
+ },
+ {
+  "key": "2026-11-25|estonia-migration-push",
+  "date": "2026-11-25",
+  "order": 6,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
  }
 ]

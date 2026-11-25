@@ -394,5 +394,71 @@
   "conflict": "Our earlier editions cited 138 smuggling cases; the 179 figure also covers enabling illegal stay and a later date.",
   "verdict": "Likely",
   "verdict_note": "Different categories explain the gap."
+ },
+ {
+  "key": "2026-11-25|echr-cleared-lithuania",
+  "date": "2026-11-25",
+  "order": 1,
+  "claim": "The human rights court cleared Lithuania over its pushbacks",
+  "claimed_by": "Some online headlines and aggregators",
+  "evidence": "Imagery or documents",
+  "conflict": "The court found no Article 3 breach in Lithuania's returns, but unanimously found the applicants' detention unlawful under Article 5 and awarded €15,000 each.",
+  "verdict": "Misleading",
+  "verdict_note": "True for returns, wrong for detention."
+ },
+ {
+  "key": "2026-11-25|echr-endorses-poland",
+  "date": "2026-11-25",
+  "order": 2,
+  "claim": "The court's judgments endorse Poland's approach to instrumentalised migration",
+  "claimed_by": "Poland's deputy interior minister",
+  "evidence": "Official statement",
+  "conflict": "The court accepted the instrumentalisation argument but found Poland breached Article 3 and obstructed lawyers; Amnesty calls the rulings a blow to rights.",
+  "verdict": "Contested",
+  "verdict_note": "Partly endorsed, partly condemned."
+ },
+ {
+  "key": "2026-11-25|latvia-reassessment",
+  "date": "2026-11-25",
+  "order": 3,
+  "claim": "Latvia has asked the Commission to reassess it as under considerable migratory pressure",
+  "claimed_by": "LSM, citing Latvia's interior ministry",
+  "evidence": "Official statement",
+  "conflict": "Earlier editions saw this only in headlines; the ministry's own information now confirms it.",
+  "verdict": "Confirmed",
+  "verdict_note": "Confirmed by the ministry."
+ },
+ {
+  "key": "2026-11-25|forced-relocation",
+  "date": "2026-11-25",
+  "order": 4,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support; Latvia is even seeking exemption from its share.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-25|estonia-returns-400",
+  "date": "2026-11-25",
+  "order": 5,
+  "claim": "Estonia has returned more than 400 migrants to Latvia this year",
+  "claimed_by": "ERR, 16 November, citing police",
+  "evidence": "Official statement",
+  "conflict": "ERR on 3 November gave 148 of 388 people handed back. No new figure published.",
+  "verdict": "Contested",
+  "verdict_note": "The two reports still conflict."
+ },
+ {
+  "key": "2026-11-25|estonia-migration-push",
+  "date": "2026-11-25",
+  "order": 6,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "No unusual movement has been reported on the Russian side.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
  }
 ]

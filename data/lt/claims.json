@@ -1758,5 +1758,71 @@
   "conflict": "Rusijos vyriausybė keltus pristato kaip atsarginį maršrutą; NATO jokio blokados plano nepaskelbė, o keltai bus pastatyti tik iki 2030 m.",
   "verdict": "Misleading",
   "verdict_note": "Atsarginis aprūpinimo maršrutas, o ne artėjančios blokados įrodymas."
+ },
+ {
+  "key": "2026-11-25|c1",
+  "date": "2026-11-25",
+  "order": 1,
+  "claim": "Rusija tyčia pasiuntė droną, lapkričio 23–24 d. įskridusį į Lenkijos oro erdvę",
+  "claimed_by": "Lenkijos gynybos ministerija ir gynybos viceministras Pawełas Zalewskis",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusija nekomentavo. Skrydžio detalės kyla iš neįvardytų šaltinių; ketinimų įrodymų nepaskelbta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Oficialus vertinimas, o ne paskelbta išvada."
+ },
+ {
+  "key": "2026-11-25|c2",
+  "date": "2026-11-25",
+  "order": 2,
+  "claim": "Lapkričio 20 d. NATO leido naikintuvui numušti Rusijos raketą virš Lenkijos",
+  "claimed_by": "Lenkijos operacijų vadas generolas leitenantas Ireneuszas Nowakas per „Rzeczpospolitą“",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "NATO to oficialiai nepatvirtino; Švedija sakė tik tiek, kad jos naikintuvai sekė neatpažintus objektus.",
+  "verdict": "Likely",
+  "verdict_note": "Oficialus Lenkijos pasakojimas; NATO tyli."
+ },
+ {
+  "key": "2026-11-25|c3",
+  "date": "2026-11-25",
+  "order": 3,
+  "claim": "GPS trikdžiai aplink Stokholmą kyla iš Rusijos",
+  "claimed_by": "Socialinių tinklų įrašai ir kai kurios antraštės",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Švedijos transporto agentūra sako, kad šaltinis nežinomas; pranešimuose cituojamas analitikas suabejojo, ar jie gali kilti iš Rusijos teritorijos.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Šaltinis nenustatytas."
+ },
+ {
+  "key": "2026-11-25|c4",
+  "date": "2026-11-25",
+  "order": 4,
+  "claim": "Vienas iš lapkričio 20 d. Lenkijoje nukritusių objektų buvo Ukrainos dronas arba nuolaužos buvo pakištos",
+  "claimed_by": "Internetiniai įrašai, kuriuos Lenkijos pareigūnai daugiausia priskiria Rusijos ir Baltarusijos šaltiniams",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Prokurorai visose trijose vietose identifikavo Ch-101 nuolaužas.",
+  "verdict": "False",
+  "verdict_note": "Prieštarauja prokurorų išvadoms."
+ },
+ {
+  "key": "2026-11-25|c5",
+  "date": "2026-11-25",
+  "order": 5,
+  "claim": "Pavojus Karaliaučiaus srityje buvo Rusijos bandymas provokuoti Lietuvą",
+  "claimed_by": "Lietuvos krašto apsaugos ministras Robertas Kaunas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Prezidento patarėjas saugumo klausimais sako, kad labiau tikėtina, jog tai atspindi Rusijos baimę dėl Ukrainos atakos.",
+  "verdict": "Contested",
+  "verdict_note": "Lietuvos pareigūnai pateikia skirtingus vertinimus."
+ },
+ {
+  "key": "2026-11-25|c6",
+  "date": "2026-11-25",
+  "order": 6,
+  "claim": "Estija leidžia Ukrainos dronams naudotis savo oro erdve atakoms prieš Rusiją",
+  "claimed_by": "Rusijos užsienio reikalų ministerija",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Estija tai neigia; Rusija vis dar nepaskelbė jokių skrydžių duomenų.",
+  "verdict": "Unsupported",
+  "verdict_note": "Įrodymų nepateikta."
  }
 ]

@@ -1588,5 +1588,75 @@
   "evidence": "Unverified claim",
   "corroboration": "Reported by the Kyiv Post and United24 from HUR's statement; no independent confirmation of the figures.",
   "analysis": "Recruitment through online job offers matches the baseline's warning about hostile services recruiting Lithuanian citizens, but the scale given by HUR, a party to the war, cannot be checked."
+ },
+ {
+  "key": "2026-11-25|poland-drone-awacs",
+  "date": "2026-11-25",
+  "order": 1,
+  "title": "Second Russian incursion into Poland; NATO sends an AWACS aircraft",
+  "summary": "Shortly before midnight on 23 November, during a Russian attack on western Ukraine, a Russian drone crossed into Polish airspace. Poland's armed forces tracked it and authorised a shoot-down but held fire when it turned back toward Ukraine, citing risk to civilians. RMF24, citing unnamed sources, reported that it was jet-powered, flew about 20 km in and stayed for about nine minutes. After the North Atlantic Council met on 23 November, NATO's spokesperson said the Supreme Allied Commander Europe had authorised forward deployment of an AWACS aircraft and was examining further assets. Deputy Defence Minister Paweł Zalewski said Poland assumes the drone was sent on purpose and that no offensive measures are being considered.",
+  "evidence": "Official statement",
+  "corroboration": "On-record statements from Poland's Operational Command, Deputy Defence Minister Zalewski and NATO's spokesperson, reported by Notes from Poland, European Pravda, Militarnyi and Fox News. The drone's speed, depth and duration come from RMF24's unnamed sources only. Reports differ on whether the drone came on Monday night or overnight into Tuesday; this is the same event.",
+  "analysis": "Two Russian incursions in four days push Poland's case for stronger air defence, but NATO's reply so far is surveillance, not escalation. Poland's claim of intent is an assessment; Russia has not commented."
+ },
+ {
+  "key": "2026-11-25|gripen-clearance",
+  "date": "2026-11-25",
+  "order": 2,
+  "title": "Polish commander: NATO pilot was cleared to fire on 20 November but held off",
+  "summary": "Poland's Operational Commander, Lt. Gen. Ireneusz Nowak, said a Swedish Gripen on NATO air policing had conditional clearance from NATO's air operations centre to shoot down one of the missiles on 20 November, but the pilot could not identify the target in very bad weather. Separately, Poland's chargé d'affaires in Washington said he briefed the US National Security Council and renewed Warsaw's call for permanent US troops in Poland.",
+  "evidence": "Official statement",
+  "corroboration": "The clearance rests on the Polish commander's account, first reported by Rzeczpospolita and repeated by the Kyiv Post and Fox News; NATO has not confirmed it on the record. Sweden's armed forces said only that their jets tracked several unidentified objects.",
+  "analysis": "If confirmed, it shows NATO was ready to engage a Russian missile over allied territory, a meaningful step. It also shows the limits of air policing in poor weather, which helps explain Poland's push for more allied air defence and US troops."
+ },
+ {
+  "key": "2026-11-25|stockholm-gps",
+  "date": "2026-11-25",
+  "order": 3,
+  "title": "Sweden warns of GPS jamming around Stockholm",
+  "summary": "Flight-tracking data showed the share of aircraft near Stockholm-Arlanda with GPS interference rising from about 1% to 40–50% between 21 and 23 November. Swedish aviation authorities issued a notice to pilots warning of possible jamming and spoofing within about 95 nautical miles of Stockholm, valid until 31 December. Sweden's Transport Agency said it did not know the source, had ruled out space weather, and that air traffic had not been affected.",
+  "evidence": "Official statement",
+  "corroboration": "The official notice and Transport Agency comments were reported by Dagens Nyheter (via an aggregator) and the Cypriot outlet Sigmalive; the 40–50% figure comes from open flight data and a social-media post. An incident tracker also listed it.",
+  "analysis": "Interference this far west is unusual. Russia has been blamed for persistent jamming in the eastern Baltic, but one analyst quoted in the coverage doubted this pattern could come from Russian territory; attribution is open."
+ },
+ {
+  "key": "2026-11-25|estonia-indefinite",
+  "date": "2026-11-25",
+  "order": 4,
+  "title": "Estonia's prime minister: border closure is in substance indefinite",
+  "summary": "In an ERR interview on 24 November, Prime Minister Kristen Michal said the closure of all four road crossings with Russia from 1 December is officially temporary with a review after six months, but in substance indefinite, because he does not expect the threat to ease. He said closing the Narva rail crossing remains a possible next step if needed and that responses to Russia need not be symmetrical. He said Estonia has been targeted 12 times by incidents attributable to Russia.",
+  "evidence": "Official statement",
+  "corroboration": "Single on-record interview with ERR. Earlier, Kremlin spokesman Dmitry Peskov said the closure would backfire, and the foreign ministry protested on 23 November.",
+  "analysis": "Tallinn is signalling that it will not reverse course under Russian pressure. Rail freight continues for now, so the economic link is not fully cut."
+ },
+ {
+  "key": "2026-11-25|kaliningrad-readings",
+  "date": "2026-11-25",
+  "order": 5,
+  "title": "Lithuanian officials differ on what the Kaliningrad alert meant",
+  "summary": "Deividas Matulionis, President Gitanas Nausėda's chief national security adviser, said on 24 November that the 21 November Kaliningrad alert more likely reflected Moscow's fear of a Ukrainian attack than an attempt to provoke NATO, warned that escalation would only give Russia a pretext, and said Lithuania has no plans to restrict access to Kaliningrad. A day earlier Defence Minister Robertas Kaunas had called the Russian reports and officials' actions an attempt to provoke Lithuania.",
+  "evidence": "Official statement",
+  "corroboration": "Reported by LRT from BNS. Kaliningrad's governor said a suspicious object from the Lithuanian side triggered the alert; an inspection found no threat.",
+  "analysis": "The two readings are not incompatible, but the difference matters: one stresses Russian intent to provoke, the other Russian nervousness. Neither suggests a military build-up."
+ },
+ {
+  "key": "2026-11-25|poland-disinfo",
+  "date": "2026-11-25",
+  "order": 6,
+  "title": "Polish officials track false stories about the missile incursion",
+  "summary": "A commercial security firm's weekly assessment, citing Poland's digital affairs minister and state counter-disinformation centre, lists false stories that spread after 20 November: that one object was a Ukrainian drone, that Polish services planted the debris, that Ukraine let the missiles through to drag Poland into the war, and that the government would use the incident to cancel elections. The minister put views at around 20 million and attributed most to Russian and Belarusian sources.",
+  "evidence": "Analysis",
+  "corroboration": "Single commercial summary of Polish official statements; primary sources not linked. Prosecutors' identification of Kh-101 debris contradicts the main claims.",
+  "analysis": "Fits the baseline's warning about information operations accompanying physical incidents. The view count and attribution are the government's figures and are not independently checked."
+ },
+ {
+  "key": "2026-11-25|finland-barriers",
+  "date": "2026-11-25",
+  "order": 7,
+  "title": "Finnish lawmakers back anti-tank barriers on the Russian border",
+  "summary": "Heikki Autto, chair of the Finnish parliament's defence committee, said anti-tank barriers should be built along the Russian border in peacetime, drawing on Ukraine's experience; an opposition Social Democrat member backed the idea and called it an alliance matter. Finland finished a 200 km border fence in September.",
+  "evidence": "Official statement",
+  "corroboration": "Bloomberg report relayed by Meduza; no government decision yet.",
+  "analysis": "A long-term defensive measure that reflects how front-line states expect a lasting confrontation, consistent with the baseline; it is not a reaction to a specific new threat."
  }
 ]

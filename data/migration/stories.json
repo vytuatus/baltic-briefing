@@ -338,5 +338,55 @@
   "evidence": "Unverified claim",
   "corroboration": "Seen only in headlines from several outlets; no official text checked.",
   "analysis": "If confirmed, Latvia is seeking recognition of greater pressure, which would mean more support and fewer obligations, not more migrants. Nothing in the process obliges a Baltic state to accept relocated people."
+ },
+ {
+  "key": "2026-11-25|echr-judgments",
+  "date": "2026-11-25",
+  "order": 1,
+  "title": "Human rights court: returns to Belarus not unlawful in themselves, but violations in all three cases",
+  "summary": "On 24 November the European Court of Human Rights' Grand Chamber ruled on pushbacks at the Belarus border in 2021–2022. It found that Belarus's instrumentalisation of migration was a deliberate threat to the states, and that returning people to the instrumentalising state is not in itself a breach of Article 3, but that authorities must identify children and others with evident vulnerabilities or a real risk of ill-treatment. Poland breached Article 3 by removing one man despite an interim measure, and blocked lawyers' access (€20,000 and €5,000 awarded). Latvia breached Article 3 for children and their families, over border-zone conditions, and unlawfully detained the children. In Lithuania's case the court found no Article 3 breach, by 11 votes to 6, but unanimously found the four applicants' six-month detention unlawful and awarded €15,000 each.",
+  "evidence": "Official statement",
+  "corroboration": "Holdings from the court's own press release; reported by Euronews, dpa, LRT/BNS and Notes from Poland. Coverage differs on emphasis, not on facts.",
+  "analysis": "The ruling gives governments legal room to deal with instrumentalised crossings while keeping a duty to screen individuals. It does not approve automatic pushbacks of everyone, nor does it ban returns to Belarus."
+ },
+ {
+  "key": "2026-11-25|echr-reactions",
+  "date": "2026-11-25",
+  "order": 2,
+  "title": "Governments welcome the ruling; rights groups condemn it",
+  "summary": "Poland's deputy interior minister called the judgments very important and favourable for Poland, saying the court in effect endorsed its approach to instrumentalisation. Amnesty International, which intervened in the Latvian and Lithuanian cases, called the rulings a devastating blow to legal certainty and the ban on torture, while stressing they are not a green light to bypass people's rights at borders. No reaction from the Latvian or Lithuanian governments was found.",
+  "evidence": "Official statement",
+  "corroboration": "Polish reaction reported by Notes from Poland; Amnesty's statement on its own website.",
+  "analysis": "Each side quotes the part it likes. The court's actual test, screening for vulnerability and real risk, sits between the two readings."
+ },
+ {
+  "key": "2026-11-25|latvia-request-confirmed",
+  "date": "2026-11-25",
+  "order": 3,
+  "title": "Latvia asks the Commission to treat it as under considerable pressure",
+  "summary": "LSM, citing the interior ministry, reports that Interior Minister Jānis Dombrava wrote to the Commission asking it to reassess Latvia for 2027 as a state under considerable migratory pressure, to take account of instrumentalisation and prevented crossing attempts, and to consider the cost of receiving Ukrainian refugees. The ministry also opposes Latvia's share of the solidarity pool and seeks an exemption. The Commission has promised to count prevented attempts from the 2028 cycle, after a joint letter in September from the interior ministers of Latvia, Lithuania, Estonia, Poland and Finland.",
+  "evidence": "Official statement",
+  "corroboration": "LSM report of 23 November based on the ministry's press information; confirms what earlier editions saw only in headlines.",
+  "analysis": "Latvia is seeking more support and fewer obligations, not more migrants. The Council decides the pool by qualified majority."
+ },
+ {
+  "key": "2026-11-25|lithuania-figures",
+  "date": "2026-11-25",
+  "order": 4,
+  "title": "Lithuania: about 26,500 people turned back since 2021",
+  "summary": "LRT/BNS reports that Lithuania has turned back about 26,500 people at the Belarus border in total, nearly 2,000 in 2026, over 1,600 in 2025 and 1,002 in 2024. A Belarusian exile outlet reported earlier that Lithuania recorded no attempts on 15–17 November while Latvia recorded 76.",
+  "evidence": "Official statement",
+  "corroboration": "Figures from the State Border Guard Service as reported by BNS and Reform.news.",
+  "analysis": "Lithuania's 2026 total is above last year's but far below Latvia's, which confirms that pressure has shifted north. These are attempts, not individual people."
+ },
+ {
+  "key": "2026-11-25|estonia-closure",
+  "date": "2026-11-25",
+  "order": 5,
+  "title": "Estonia's Russia border closure: 'indefinite in substance'",
+  "summary": "Prime Minister Kristen Michal told ERR the road-crossing closure from 1 December is officially temporary but in substance indefinite, and closing the Narva rail crossing could follow. Estonia's interior ministry has earlier described a possible Russian push of migrants toward the closed border as a contingency.",
+  "evidence": "Official statement",
+  "corroboration": "ERR interview; no unusual movement on the Russian side reported.",
+  "analysis": "The closure is a security response to sabotage, not a migration measure. A migrant push from Russia remains a scenario, not an observed trend."
  }
 ]

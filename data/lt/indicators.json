@@ -3716,5 +3716,148 @@
   "trend": "Unchanged",
   "note": "Nepranešta apie technikos traukinius Baltijos šalių pasienio link. Rusijos planuojami geležinkelio keltai leistų geležinkelio kroviniams jūra pasiekti Karaliaučių nekertant Lietuvos, tačiau iki jų dar keleri metai.",
   "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-25|troops",
+  "date": "2026-11-25",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Karių judėjimas Baltijos šalių pasienio link",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nauja informacija apie Rusijos pajėgų judėjimą Baltijos šalių, Lenkijos ar Suomijos link negauta. Lietuvos prezidento patarėjas nacionalinio saugumo klausimais sakė, kad antrojo fronto atidarymas Rusijai dabar būtų nerealus.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|kaliningrad",
+  "date": "2026-11-25",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Veikla Karaliaučiaus srityje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Apie naują karinę veiklą nepranešta. Lietuvos pareigūnai skirtingai vertina lapkričio 21 d. pavojų: krašto apsaugos ministras jame mato bandymą provokuoti Lietuvą, prezidento patarėjas saugumo klausimais – Rusijos baimę dėl Ukrainos smūgių. Abu neigia bet kokį Lietuvos vaidmenį.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|belarus",
+  "date": "2026-11-25",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Veikla Baltarusijoje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujų viešų pranešimų apie Rusijos pajėgas ar „Orešnik“ dalinius Baltarusijoje nėra.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-25|exercises",
+  "date": "2026-11-25",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Paskelbtos pratybos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepaskelbta jokių didelių Rusijos ar Baltarusijos pratybų prie Baltijos šalių sienų. NATO pratybos „Grand Eagle 26“ Lietuvoje tęsiasi iki gruodžio 3 d.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|gps",
+  "date": "2026-11-25",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS trikdymas ir klastojimas",
+  "status": "High",
+  "trend": "Rising",
+  "note": "Švedijos aviacijos institucijos paskelbė pranešimą, įspėjantį apie galimą GPS trikdymą ir klastojimą maždaug 95 jūrmylių spinduliu aplink Stokholmą ir Arlandą, galiojantį nuo lapkričio 22 iki gruodžio 31 d., po to, kai skrydžių stebėjimo duomenys parodė savaitgalį staigiai išaugusius trikdžius. Transporto agentūra sako, kad šaltinis nežinomas ir skrydžiai nenukentėjo; nuolatinis trikdymas iš Karaliaučiaus srities tęsiasi, kaip aprašyta bazinėje linijoje.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|airspace",
+  "date": "2026-11-25",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Oro erdvės pažeidimai ir dronai",
+  "status": "High",
+  "trend": "Rising",
+  "note": "Lapkričio 23 d. prieš vidurnaktį Rusijos reaktyvinis dronas iš Ukrainos įskrido į Lenkijos oro erdvę, maždaug 20 km gylyje skrido apie devynias minutes; Lenkija leido jį numušti, bet to nebandė, nurodydama pavojų civiliams. Po lapkričio 20 d. raketų įsiveržimo NATO karinis vadas leido į Lenkiją dislokuoti AWACS orlaivį.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|sabotage",
+  "date": "2026-11-25",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotažo incidentai",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Apie naują su Rusija siejamą atvejį nepranešta. Estijos premjeras sako, kad šalis 12 kartų tapo Rusijai priskirtinų incidentų taikiniu; bendras keturių šalių „Starlink“ padegimų tyrimas turi prasidėti gruodžio pradžioje.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|border",
+  "date": "2026-11-25",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Spaudimas Baltarusijos pasienyje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Baltijos šalių, Lenkijos ar Suomijos pasienyje naujų provokacijų nebuvo. Gruodžio 1 d. Estija uždaro kelių pasienio punktus su Rusija; jos premjeras sako, kad uždarymas iš esmės neterminuotas, o po jo gali sekti Narvos geležinkelio perėjos uždarymas.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|rhetoric",
+  "date": "2026-11-25",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Oficiali Rusijos retorika",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Nuo lapkričio 23 d. užsienio reikalų ministerijos įspėjimo Estijai dėl „atviro karo“ naujos aiškios grėsmės nėra. Maskva viešai nekomentavo nei raketų, nei drono virš Lenkijos.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-25|mobilization",
+  "date": "2026-11-25",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilizacija ir rezervistų šaukimas",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nėra mobilizacijos dekreto ir pranešimų apie rezervistų šaukimą Baltijos kryptimi.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-25|hospitals",
+  "date": "2026-11-25",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Lauko ligoninės ir lovos ligoninėse",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujos informacijos nėra. Rugsėjo pranešimas apie 16 000–20 000 papildomų karinių lovų prie Baltijos šalių lieka vienintelis, anoniminiais šaltiniais grįstas teiginys. Lauko ligoninių prie Baltijos šalių sienų nepranešta.",
+  "evidence": "Anoniminiai šaltiniai"
+ },
+ {
+  "key": "2026-11-25|blood",
+  "date": "2026-11-25",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Kraujo atsargos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Viešų pranešimų apie kraujo atsargų gabenimą Baltijos šalių pasienio link nėra. Pranešimų nebuvimas nėra įrodymas, kad to nevyksta: šis ženklas paprastai išryškėja vėlai, per Vakarų pareigūnus.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-25|rail",
+  "date": "2026-11-25",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Technikos gabenimas geležinkeliu Baltijos kryptimi",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nepranešta apie technikos traukinius Baltijos šalių pasienio link.",
+  "evidence": "Analizė"
  }
 ]

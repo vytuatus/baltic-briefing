@@ -1588,5 +1588,75 @@
   "evidence": "Nepatikrintas teiginys",
   "corroboration": "Pranešė „Kyiv Post“ ir „United24“, remdamiesi HUR pareiškimu; skaičiai nepriklausomai nepatvirtinti.",
   "analysis": "Verbavimas per internetinius darbo pasiūlymus atitinka bazinės linijos įspėjimą apie priešiškų tarnybų vykdomą Lietuvos piliečių verbavimą, tačiau HUR, karo šalies, nurodyto masto patikrinti negalima."
+ },
+ {
+  "key": "2026-11-25|poland-drone-awacs",
+  "date": "2026-11-25",
+  "order": 1,
+  "title": "Antras Rusijos įsiveržimas į Lenkiją; NATO siunčia AWACS orlaivį",
+  "summary": "Lapkričio 23 d. prieš vidurnaktį, per Rusijos ataką prieš vakarų Ukrainą, Rusijos dronas įskrido į Lenkijos oro erdvę. Lenkijos ginkluotosios pajėgos jį sekė ir leido numušti, bet nešovė, kai jis apsisuko Ukrainos link, nurodydamos pavojų civiliams. RMF24, remdamasis neįvardytais šaltiniais, pranešė, kad tai buvo reaktyvinis dronas, įskridęs apie 20 km ir išbuvęs apie devynias minutes. Po lapkričio 23 d. Šiaurės Atlanto Tarybos posėdžio NATO atstovė spaudai sakė, kad vyriausiasis sąjungininkų pajėgų Europoje vadas leido į priekines pozicijas dislokuoti AWACS orlaivį ir svarsto papildomas priemones. Gynybos viceministras Pawełas Zalewskis sakė, kad Lenkija daro prielaidą, jog dronas pasiųstas tyčia, ir kad jokios puolamosios priemonės nesvarstomos.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Oficialūs Lenkijos Operacijų vadavietės, gynybos viceministro Zalewskio ir NATO atstovės pareiškimai, pranešti „Notes from Poland“, „Evropeiska pravda“, „Militarnyi“ ir „Fox News“. Drono greitis, gylis ir trukmė – tik iš RMF24 neįvardytų šaltinių. Pranešimai skiriasi, ar dronas įskrido pirmadienio naktį, ar naktį į antradienį; tai tas pats įvykis.",
+  "analysis": "Du Rusijos įsiveržimai per keturias dienas stiprina Lenkijos argumentus dėl stipresnės oro gynybos, tačiau NATO atsakas kol kas yra stebėjimas, o ne eskalacija. Lenkijos teiginys apie tyčią yra vertinimas; Rusija nekomentavo."
+ },
+ {
+  "key": "2026-11-25|gripen-clearance",
+  "date": "2026-11-25",
+  "order": 2,
+  "title": "Lenkijos vadas: lapkričio 20 d. NATO pilotas turėjo leidimą šauti, bet susilaikė",
+  "summary": "Lenkijos operacijų vadas generolas leitenantas Ireneuszas Nowakas sakė, kad NATO oro policijos misijoje dalyvavęs Švedijos „Gripen“ turėjo sąlyginį NATO oro operacijų centro leidimą numušti vieną iš raketų lapkričio 20 d., bet pilotas labai blogu oru negalėjo identifikuoti taikinio. Atskirai Lenkijos laikinasis reikalų patikėtinis Vašingtone sakė informavęs JAV Nacionalinio saugumo tarybą ir atnaujinęs Varšuvos raginimą dislokuoti nuolatinius JAV karius Lenkijoje.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Leidimas remiasi Lenkijos vado pasakojimu, pirmiausia pateiktu „Rzeczpospolitoje“ ir pakartotu „Kyiv Post“ bei „Fox News“; NATO to oficialiai nepatvirtino. Švedijos ginkluotosios pajėgos sakė tik tiek, kad jų naikintuvai sekė kelis neatpažintus objektus.",
+  "analysis": "Jei pasitvirtintų, tai rodytų, kad NATO buvo pasirengusi naikinti Rusijos raketą virš sąjungininkės teritorijos – reikšmingas žingsnis. Tai taip pat rodo oro policijos ribas esant blogam orui, kas padeda paaiškinti Lenkijos siekį gauti daugiau sąjungininkų oro gynybos ir JAV karių."
+ },
+ {
+  "key": "2026-11-25|stockholm-gps",
+  "date": "2026-11-25",
+  "order": 3,
+  "title": "Švedija įspėja apie GPS trikdymą aplink Stokholmą",
+  "summary": "Skrydžių stebėjimo duomenys parodė, kad lapkričio 21–23 d. orlaivių su GPS trikdžiais dalis prie Stokholmo Arlandos oro uosto išaugo nuo maždaug 1 proc. iki 40–50 proc. Švedijos aviacijos institucijos paskelbė pranešimą pilotams, įspėjantį apie galimą trikdymą ir klastojimą maždaug 95 jūrmylių spinduliu aplink Stokholmą, galiojantį iki gruodžio 31 d. Švedijos transporto agentūra sakė nežinanti šaltinio, atmetusi kosminių orų priežastį, o oro eismas nenukentėjo.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Oficialų pranešimą ir transporto agentūros komentarus paskelbė „Dagens Nyheter“ (per agregatorių) ir Kipro leidinys „Sigmalive“; 40–50 proc. skaičius kilęs iš atvirų skrydžių duomenų ir socialinių tinklų įrašo. Jį įtraukė ir incidentų stebėjimo svetainė.",
+  "analysis": "Tokie trikdžiai taip toli vakaruose neįprasti. Dėl nuolatinio trikdymo rytinėje Baltijos dalyje kaltinama Rusija, tačiau vienas pranešimuose cituojamas analitikas suabejojo, ar toks modelis gali kilti iš Rusijos teritorijos; šaltinio klausimas lieka atviras."
+ },
+ {
+  "key": "2026-11-25|estonia-indefinite",
+  "date": "2026-11-25",
+  "order": 4,
+  "title": "Estijos premjeras: sienos uždarymas iš esmės neterminuotas",
+  "summary": "Lapkričio 24 d. interviu ERR premjeras Kristenas Michalas sakė, kad visų keturių kelių pasienio punktų su Rusija uždarymas nuo gruodžio 1 d. oficialiai yra laikinas, peržiūrint po šešių mėnesių, bet iš esmės neterminuotas, nes jis nesitiki, kad grėsmė sumažės. Pasak jo, Narvos geležinkelio perėjos uždarymas lieka galimas kitas žingsnis, jei prireiktų, o atsakas Rusijai neprivalo būti simetriškas. Jis sakė, kad Estija 12 kartų tapo Rusijai priskirtinų incidentų taikiniu.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Vienas oficialus interviu ERR. Anksčiau Kremliaus atstovas Dmitrijus Peskovas sakė, kad uždarymas atsisuks prieš pačią Estiją, o lapkričio 23 d. užsienio reikalų ministerija pareiškė protestą.",
+  "analysis": "Talinas rodo, kad, spaudžiamas Rusijos, kurso nekeis. Krovinių gabenimas geležinkeliu kol kas tęsiasi, todėl ekonominis ryšys visiškai nenutrūksta."
+ },
+ {
+  "key": "2026-11-25|kaliningrad-readings",
+  "date": "2026-11-25",
+  "order": 5,
+  "title": "Lietuvos pareigūnai skirtingai vertina, ką reiškė pavojus Karaliaučiaus srityje",
+  "summary": "Lapkričio 24 d. prezidento Gitano Nausėdos vyriausiasis patarėjas nacionalinio saugumo klausimais Deividas Matulionis sakė, kad lapkričio 21 d. pavojus Karaliaučiaus srityje labiau tikėtina atspindėjo Maskvos baimę dėl Ukrainos atakos nei bandymą provokuoti NATO, įspėjo, kad eskalacija tik suteiktų Rusijai pretekstą, ir sakė, kad Lietuva neplanuoja riboti patekimo į Karaliaučių. Dieną anksčiau krašto apsaugos ministras Robertas Kaunas Rusijos pranešimus ir pareigūnų veiksmus pavadino bandymu provokuoti Lietuvą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Pranešė LRT, remdamasis BNS. Karaliaučiaus srities gubernatorius sakė, kad pavojų sukėlė įtartinas objektas iš Lietuvos pusės; patikrinimas grėsmės nerado.",
+  "analysis": "Abu vertinimai nėra nesuderinami, tačiau skirtumas svarbus: vienas pabrėžia Rusijos ketinimą provokuoti, kitas – Rusijos nervingumą. Nė vienas neužsimena apie karinių pajėgų telkimą."
+ },
+ {
+  "key": "2026-11-25|poland-disinfo",
+  "date": "2026-11-25",
+  "order": 6,
+  "title": "Lenkijos pareigūnai seka melagingas istorijas apie raketų įsiveržimą",
+  "summary": "Komercinės saugumo bendrovės savaitinėje apžvalgoje, remiantis Lenkijos skaitmeninių reikalų ministru ir valstybiniu dezinformacijos kontrolės centru, išvardytos po lapkričio 20 d. išplitusios melagingos istorijos: kad vienas objektas buvo Ukrainos dronas, kad nuolaužas pakišo Lenkijos tarnybos, kad Ukraina praleido raketas, norėdama įtraukti Lenkiją į karą, ir kad vyriausybė panaudos incidentą rinkimams atšaukti. Ministras peržiūrų skaičių įvertino maždaug 20 mln. ir daugumą jų priskyrė Rusijos ir Baltarusijos šaltiniams.",
+  "evidence": "Analizė",
+  "corroboration": "Vienas komercinis Lenkijos oficialių pareiškimų apibendrinimas; pirminiai šaltiniai nenurodyti. Prokurorų atliktas nuolaužų identifikavimas kaip Ch-101 prieštarauja pagrindiniams teiginiams.",
+  "analysis": "Atitinka bazinės linijos įspėjimą apie informacines operacijas, lydinčias fizinius incidentus. Peržiūrų skaičius ir šaltinių priskyrimas – vyriausybės duomenys, nepriklausomai nepatikrinti."
+ },
+ {
+  "key": "2026-11-25|finland-barriers",
+  "date": "2026-11-25",
+  "order": 7,
+  "title": "Suomijos parlamentarai pritaria prieštankiniams barjerams prie Rusijos sienos",
+  "summary": "Suomijos parlamento gynybos komiteto pirmininkas Heikki Autto sakė, kad, remiantis Ukrainos patirtimi, prieštankiniai barjerai palei Rusijos sieną turėtų būti statomi taikos metu; opozicinis socialdemokratas idėjai pritarė ir pavadino ją Aljanso reikalu. Rugsėjį Suomija baigė 200 km pasienio tvorą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Bloomberg“ pranešimas, perduotas „Meduzos“; vyriausybės sprendimo dar nėra.",
+  "analysis": "Ilgalaikė gynybinė priemonė, atspindinti, kad fronto linijos valstybės tikisi ilgalaikės konfrontacijos, ir atitinkanti bazinę liniją; tai nėra reakcija į konkrečią naują grėsmę."
  }
 ]

@@ -318,5 +318,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "None; no claim in today's tracker rated misleading, unsupported or false was first seen or newly spread since the previous edition."
+ },
+ {
+  "key": "2026-11-25|organised",
+  "date": "2026-11-25",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "None; no new escorted group, smuggling vehicle, tunnel or damage to border equipment was first reported since the previous edition."
+ },
+ {
+  "key": "2026-11-25|measures",
+  "date": "2026-11-25",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "None; Estonia's 1 December closure was already counted, and Finland's anti-tank barriers are only a parliamentary proposal."
+ },
+ {
+  "key": "2026-11-25|eu",
+  "date": "2026-11-25",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "None; the court judgments are not an EU decision, and the 2027 solidarity pool still awaits the Council."
+ },
+ {
+  "key": "2026-11-25|transfers",
+  "date": "2026-11-25",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "None newly reported; Estonia's returns to Latvia are an ongoing practice under EU rules."
+ },
+ {
+  "key": "2026-11-25|claims",
+  "date": "2026-11-25",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 1,
+  "note": "One: headlines saying the court cleared Lithuania, although it found Lithuania unlawfully detained the applicants."
  }
 ]
