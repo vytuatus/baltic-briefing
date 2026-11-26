@@ -1658,5 +1658,75 @@
   "evidence": "Official statement",
   "corroboration": "Bloomberg report relayed by Meduza; no government decision yet.",
   "analysis": "A long-term defensive measure that reflects how front-line states expect a lasting confrontation, consistent with the baseline; it is not a reaction to a specific new threat."
+ },
+ {
+  "key": "2026-11-26|poland-no-fly-zone",
+  "date": "2026-11-26",
+  "order": 1,
+  "title": "Poland plans a no-fly zone along its eastern border",
+  "summary": "Deputy Defence Minister Cezary Tomczyk said on 25 November that the ministry will ask the government for a no-fly zone 12 to a few dozen kilometres deep along the eastern border, with a regulation to be processed in the coming weeks and in force possibly by early January. It follows three Russian cruise missiles that came down in south-eastern Poland on 20 November and a Russian drone that entered Polish airspace on the night of 23–24 November. Bloomberg, citing unnamed sources, reported that Poland raised the idea of downing missiles over Ukraine at NATO; Tomczyk could not confirm this and said NATO opposes it.",
+  "evidence": "Official statement",
+  "corroboration": "Notes from Poland, TVP World and ABC/WEIS report the minister's announcement; the NATO discussion rests on Bloomberg's unnamed sources only.",
+  "analysis": "A defensive, procedural step that makes interception easier on Poland's own territory. The more escalatory idea, shooting over Ukraine, is unconfirmed and, by Poland's own account, opposed by NATO. The opposition calls the plan cosmetic."
+ },
+ {
+  "key": "2026-11-26|lithuania-rtrs",
+  "date": "2026-11-26",
+  "order": 2,
+  "title": "Lithuania detains five over suspected paid work for Russian state media",
+  "summary": "Lithuanian prosecutors said on 25 November that five people were detained on suspicion of assisting another state against Lithuania, allegedly collecting information and producing content for Russian state broadcaster RTRS for payment since autumn 2024. More than ten searches were carried out with the intelligence services. Media link the probe to a group that flooded state institutions with requests.",
+  "evidence": "Official statement",
+  "corroboration": "LRT/BNS from the Prosecutor General's Office; no independent detail yet.",
+  "analysis": "Fits the baseline's warning about Russian information operations and recruitment of Lithuanian citizens. These are suspicions, not convictions, and the suspects are not named here."
+ },
+ {
+  "key": "2026-11-26|lithuania-spy-indictment",
+  "date": "2026-11-26",
+  "order": 3,
+  "title": "Lithuanian man charged with spying on aid to Ukraine",
+  "summary": "The Kaunas regional prosecutor's office said on 25 November it has sent to court the case of a Lithuanian man accused of gathering intelligence for Russia on strategic infrastructure and aid to Ukraine since August 2021, and of illegally holding firearms, ammunition and explosives. The case began after a March 2025 incident in which he allegedly photographed Ukraine aid at a private company and used tear gas on an employee who confronted him.",
+  "evidence": "Official statement",
+  "corroboration": "LRT/BNS from prosecutors.",
+  "analysis": "Another example of the recruitment pattern described in the Lithuanian threat assessment. It is an indictment, not a verdict; we count it as espionage, not sabotage."
+ },
+ {
+  "key": "2026-11-26|baltic-border-split",
+  "date": "2026-11-26",
+  "order": 4,
+  "title": "Latvia's prime minister: Estonia closed its Russia border in haste",
+  "summary": "Latvia's prime minister told TV3 that Estonia should have consulted the other Baltic states before deciding to close its road crossings with Russia from 1 December, and suggested the timing reflected Estonia's spring elections; Riga was due to decide on its own possible closure on 26 November. In Narva, the mayor asked for exceptions for families split by the border, while Estonia's interior minister said Russia runs intelligence and recruitment at the crossings and the Threod arson attempt was the last straw.",
+  "evidence": "Official statement",
+  "corroboration": "ERR (two reports, 25 November); Hromadske on the Estonian prime minister's remark that rail could be next.",
+  "analysis": "A rare public disagreement among Baltic governments, but over method and timing, not over the Russian threat itself. Latvia's decision will show whether a common Baltic line emerges."
+ },
+ {
+  "key": "2026-11-26|estonia-airspace-denial",
+  "date": "2026-11-26",
+  "order": 5,
+  "title": "Estonia's defence minister: Ukraine is not using Estonian airspace to attack Russia",
+  "summary": "Defence Minister Martin Herem told the Riigikogu on 25 November that Ukrainian drones do not use Estonian airspace to strike Russia, that Ukraine never asked permission and that Estonia has asked it to stay out; strays happen because of jamming, countermeasures or weather. An unaffiliated MP had stated the opposite as fact. The Russian foreign ministry made the same accusation on 23 November. A Debunk.org study, reported by LRT, counted over 5,000 Kremlin-aligned articles pushing anti-Baltic narratives from January to October, with Baltic complicity in drone strikes the most common.",
+  "evidence": "Official statement",
+  "corroboration": "ERR; Debunk.org study via LRT and 77.lt.",
+  "analysis": "Both sides agree some drones stray into Estonian airspace; nobody has published evidence that this is deliberate or permitted. The accusation matters because Moscow ties it to its 'open war' warning."
+ },
+ {
+  "key": "2026-11-26|kaliningrad-narrative",
+  "date": "2026-11-26",
+  "order": 6,
+  "title": "How a Kaliningrad alert became a 'NATO attack' online",
+  "summary": "An analysis by Repsense, reported by BNS and LRT on 23 November, found that after the 21 November air-raid alert in Kaliningrad, whose governor said an object came from the Lithuanian side but posed no threat, three English-language X accounts produced most of about 450 posts claiming a NATO or Ukrainian attack from Lithuania. Russian state media relayed only part of the governor's statement. Lithuania's foreign ministry denied any attack on 22 November.",
+  "evidence": "Analysis",
+  "corroboration": "LRT/BNS citing Repsense; earlier Euromaidan Press reporting of explosions in Baltiysk remains unverified.",
+  "analysis": "Shows how a local alert can be inflated into an escalation story without any official Russian claim. Reports of blasts in Baltiysk the same night are still not confirmed."
+ },
+ {
+  "key": "2026-11-26|nordic-baltic-letter",
+  "date": "2026-11-26",
+  "order": 7,
+  "title": "Seven EU leaders urge curbs on Russian travel; OPCW rejects Russia",
+  "summary": "Lithuania's president and the prime ministers of Latvia, Estonia, Poland, Denmark, Finland and Sweden asked the Commission and the European Council to propose limits on non-essential travel by Russians and to stop visas for Russian and Belarusian athletes. At the OPCW conference in The Hague, states rejected Russia's bid for the Executive Council on 24 November and elected Estonia and Poland; Latvia cited Ukraine's count of over 14,000 Russian chemical-weapons violations.",
+  "evidence": "Official statement",
+  "corroboration": "LRT; LSM.",
+  "analysis": "Political and diplomatic pressure, not a security incident. Moscow has called Estonia's closure a 'new Iron Curtain' and may answer the travel push in similar terms."
  }
 ]

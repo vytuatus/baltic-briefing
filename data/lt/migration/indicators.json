@@ -988,5 +988,115 @@
   "trend": "Rising",
   "note": "Abiem kryptimis plinta supaprastinti teismo sprendimo aiškinimai – nuo „apgręžimas dabar teisėtas“ iki „teismas išteisino Lietuvą“. Naujo teiginio, kad ES verčia Baltijos šalis priimti migrantus, nerasta.",
   "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-26|belarus-crossings",
+  "date": "2026-11-26",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Bandymai kirsti sieną iš Baltarusijos",
+  "status": "Elevated",
+  "trend": "Easing",
+  "note": "Lapkričio 22 d. Latvija sustabdė 5 bandymus (šiais metais 13 035 – daugiau nei 12 046 per visus 2025 m.); lapkričio viduryje dienos skaičiai daugiausia buvo vienaženkliai, palyginti su 20–40 per dieną lapkričio pradžioje. Lietuva lapkričio 15–17 d. bandymų neužfiksavo, šiais metais jų – 1 962. Skaičiuojami bandymai, o ne žmonės, o duomenys skelbiami nevienodai.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|smuggling",
+  "date": "2026-11-26",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Kontrabandininkų tinklai ir organizuotas sienos kirtimas",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Lapkričio 23 d. Lenkijos Palenkės pasieniečiai Ščecine sulaikė moterį, įtariamą organizavus neteisėtą Lenkijos ir Baltarusijos sienos kirtimą. Latvijos 179 baudžiamieji procesai šiais metais dėl neteisėto žmonių judėjimo tebėra naujausi Latvijos duomenys.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|russia-border",
+  "date": "2026-11-26",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Siena su Rusija: Estija, Latvija, Suomija",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Gruodžio 1 d. Estija uždaro kelių pasienio punktus su Rusija; Latvijos premjerė šį žingsnį pavadino skubotu, o Ryga dėl savo uždarymo turėjo spręsti lapkričio 26 d. Estijos vidaus reikalų ministras sako, kad Rusija pasienio punktais naudojasi žvalgybai ir verbavimui. Migrantų antplūdžio prie Rusijos sienos nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|eu-solidarity",
+  "date": "2026-11-26",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "ES solidarumo ir perkėlimo sprendimai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Taryba dar nenustatė lapkričio 6 d. pasiūlyto 2027 m. solidarumo fondo. Latvija siekia būti iš naujo įvertinta kaip patirianti didelį migracijos spaudimą ir atleista nuo savo dalies; niekas neįpareigoja Baltijos šalies priimti perkeliamų žmonių.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|transfers",
+  "date": "2026-11-26",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Perdavimai atgal į Baltijos šalis",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepranešta, kad Vakarų Europos šalys planuotų siųsti migrantus į Baltijos šalis. Teisėtas Estijos grąžinimas į Latviją pagal ES taisykles tęsiasi; ERR duomenys vis dar prieštarauja vieni kitiems.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|schengen-checks",
+  "date": "2026-11-26",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Patikros Šengeno erdvės viduje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Lenkijos patikros pasienyje su Lietuva ir Vokietija tęsiasi iki 2027 m. kovo 30 d. Estijos koalicija atmetė opozicijos raginimus įvesti patikras Latvijos pasienyje; vidaus reikalų ministerijos kancleris kainą įvertino apie 65 mln. eurų – gerokai mažiau nei anksčiau minėti 300 mln. eurų.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|onward-routes",
+  "date": "2026-11-26",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Tranzito maršrutai per Baltijos šalis",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Lenkijos pasieniečiai Rutka-Tartak perėjoje Lietuvos pasienyje sulaikė Sudano piliečius, keliavusius su kitų asmenų dokumentais (pranešta lapkričio 24 d.). Iš Baltarusijos į Latviją patekę žmonės ir toliau randami keliaujantys Estijos, Suomijos ir Vakarų Europos link.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|asylum-capacity",
+  "date": "2026-11-26",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Prieglobsčio prašymai ir priėmimo pajėgumai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Baltijos šalyse pajėgumų problemų nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|law-rights",
+  "date": "2026-11-26",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Apgręžimo įstatymas, teismai ir teisės",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "„Amnesty International“ lapkričio 24 d. Didžiosios kolegijos sprendimus pavadino pražūtingu smūgiu kankinimo draudimui ir paskelbs išsamesnį atsakymą. Lapkričio 26 d. pareigas pradeda naujas Lietuvos pasieniečių vadas, kai jo pirmtakas atsistatydino dėl liepos susidūrimo prie tunelio, apie kurį tarnyba iš pradžių pranešė ne viską.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-26|narratives",
+  "date": "2026-11-26",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Dezinformacija ir retorika apie migraciją",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujo klaidinančio teiginio apie migraciją nerasta. Supaprastintos antraštės apie teismo sprendimą, pavyzdžiui, kad Lietuva išteisinta, vis dar cirkuliuoja, bet nėra naujos.",
+  "evidence": "Analizė"
  }
 ]

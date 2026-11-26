@@ -1824,5 +1824,82 @@
   "conflict": "Estonia denies it; Russia has still published no flight data.",
   "verdict": "Unsupported",
   "verdict_note": "No evidence shown."
+ },
+ {
+  "key": "2026-11-26|c1",
+  "date": "2026-11-26",
+  "order": 1,
+  "claim": "Ukraine uses Estonian airspace to attack Russia, with Estonia's tacit consent",
+  "claimed_by": "Russian foreign ministry; repeated by an unaffiliated Estonian MP",
+  "evidence": "Unverified claim",
+  "conflict": "Estonia's defence minister told parliament on 25 November that Ukraine does not use and never asked to use Estonian airspace; both sides agree some drones stray in.",
+  "verdict": "Unsupported",
+  "verdict_note": "No flight data or other evidence offered."
+ },
+ {
+  "key": "2026-11-26|c2",
+  "date": "2026-11-26",
+  "order": 2,
+  "claim": "Poland asked NATO to shoot down Russian missiles over Ukraine",
+  "claimed_by": "Bloomberg, citing unnamed sources",
+  "evidence": "Anonymous sources",
+  "conflict": "Poland's deputy defence minister could not confirm it and said NATO opposes the idea; Poland's own plan is a no-fly zone on its territory.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Single anonymous-source report."
+ },
+ {
+  "key": "2026-11-26|c3",
+  "date": "2026-11-26",
+  "order": 3,
+  "claim": "Russia deliberately sent the drone that entered Polish airspace on 23–24 November",
+  "claimed_by": "Poland's deputy defence minister ('we assume'); unnamed sources via RMF24",
+  "evidence": "Official statement",
+  "conflict": "Polish officials present intent as an assumption; the reconnaissance purpose comes from unnamed sources. Moscow has not commented.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible, but not shown."
+ },
+ {
+  "key": "2026-11-26|c4",
+  "date": "2026-11-26",
+  "order": 4,
+  "claim": "NATO or Ukraine attacked Kaliningrad from Lithuania on 21 November",
+  "claimed_by": "A few English-language X accounts; amplified on social media",
+  "evidence": "Unverified claim",
+  "conflict": "Kaliningrad's governor said there was no threat; Lithuania denied any attack; Repsense traced the claim to social media, not Russian officials.",
+  "verdict": "False",
+  "verdict_note": "No official or physical evidence."
+ },
+ {
+  "key": "2026-11-26|c5",
+  "date": "2026-11-26",
+  "order": 5,
+  "claim": "Kyiv is storing over 100 Russian drones to strike Poland and blame Moscow",
+  "claimed_by": "Pro-Kremlin Telegram channels and Russian state-aligned outlets",
+  "evidence": "Unverified claim",
+  "conflict": "The Galicia Security Centre, a risk-intelligence firm, found no evidence; prosecutors say Russian Kh-101 debris was found at all three missile sites.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence; fits a false-flag narrative."
+ },
+ {
+  "key": "2026-11-26|c6",
+  "date": "2026-11-26",
+  "order": 6,
+  "claim": "Video shows Polish soldiers carrying a Kh-101 missile by hand",
+  "claimed_by": "Viral posts on X and TikTok",
+  "evidence": "Unverified claim",
+  "conflict": "Fact-checkers cited by the Galicia Security Centre traced the footage to a September 2025 drone recovery.",
+  "verdict": "False",
+  "verdict_note": "Old footage, wrong object."
+ },
+ {
+  "key": "2026-11-26|c7",
+  "date": "2026-11-26",
+  "order": 7,
+  "claim": "Estonia closed its Russia border in haste, for electoral reasons",
+  "claimed_by": "Latvia's prime minister",
+  "evidence": "Official statement",
+  "conflict": "Estonia's government cites twelve attacks it attributes to Russia and the Threod arson attempt; Estonian critics, including Narva's mayor, also question the social cost.",
+  "verdict": "Contested",
+  "verdict_note": "A political judgement disputed by Tallinn."
  }
 ]

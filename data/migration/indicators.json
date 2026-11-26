@@ -988,5 +988,115 @@
   "trend": "Rising",
   "note": "Oversimplified readings of the court ruling are spreading in both directions, from 'pushbacks are now legal' to 'the court cleared Lithuania'. No new claim that the EU forces the Baltic states to take migrants was found.",
   "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-26|belarus-crossings",
+  "date": "2026-11-26",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Crossing attempts from Belarus",
+  "status": "Elevated",
+  "trend": "Easing",
+  "note": "Latvia stopped 5 attempts on 22 November (13,035 this year, above 12,046 in all of 2025); mid-November days were mostly in single digits, down from 20–40 a day in early November. Lithuania recorded none on 15–17 November and 1,962 this year. Attempts are counted, not people, and publication is uneven.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|smuggling",
+  "date": "2026-11-26",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Smuggling networks and organised crossings",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Poland's Podlasie border guard detained a woman in Szczecin on 23 November on suspicion of organising illegal crossings of the Polish–Belarusian border. Latvia's 179 criminal proceedings this year over illegal movement of people remain the latest Latvian data.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|russia-border",
+  "date": "2026-11-26",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Russia border: Estonia, Latvia, Finland",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Estonia's road crossings with Russia close on 1 December; Latvia's prime minister called the move hasty and Riga was due to decide on its own closure on 26 November. Estonia's interior minister says Russia uses the crossings for intelligence and recruitment. No migration surge reported at the Russian border.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|eu-solidarity",
+  "date": "2026-11-26",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "EU solidarity and relocation decisions",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "The Council has not yet set the 2027 solidarity pool proposed on 6 November. Latvia seeks reassessment as under considerable migratory pressure and exemption from its share; nothing obliges a Baltic state to accept relocated people.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|transfers",
+  "date": "2026-11-26",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Transfers back to the Baltic states",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No reports of western European countries planning to send migrants to the Baltic states. Estonia's lawful returns to Latvia under EU rules continue; the ERR figures still conflict.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|schengen-checks",
+  "date": "2026-11-26",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Border checks inside Schengen",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Poland's checks on its borders with Lithuania and Germany continue until 30 March 2027. Estonia's coalition rejected opposition calls for checks on the Latvian border; the interior ministry's secretary general put the cost at about €65 million, far below the €300 million cited earlier.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|onward-routes",
+  "date": "2026-11-26",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Onward routes through the Baltics",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Polish guards at the Rutka-Tartak crossing on the Lithuanian border detained Sudanese nationals travelling on other people's documents (reported 24 November). People crossing from Belarus into Latvia continue to be found moving on toward Estonia, Finland and western Europe.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|asylum-capacity",
+  "date": "2026-11-26",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Asylum claims and reception capacity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No capacity problem reported in the Baltic states.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|law-rights",
+  "date": "2026-11-26",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Pushback law, courts and rights",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Amnesty International called the 24 November Grand Chamber judgments a devastating blow to the ban on torture and will issue a fuller response. Lithuania's new border guard chief takes office on 26 November after his predecessor resigned over the July tunnel clash, which the service first under-reported.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|narratives",
+  "date": "2026-11-26",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Migration disinformation and rhetoric",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new misleading migration claim found. Simplified headlines about the court ruling, such as Lithuania being cleared, are still in circulation but are not new.",
+  "evidence": "Analysis"
  }
 ]

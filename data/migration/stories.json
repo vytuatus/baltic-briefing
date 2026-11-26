@@ -388,5 +388,55 @@
   "evidence": "Official statement",
   "corroboration": "ERR interview; no unusual movement on the Russian side reported.",
   "analysis": "The closure is a security response to sabotage, not a migration measure. A migrant push from Russia remains a scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-26|latvia-figures",
+  "date": "2026-11-26",
+  "order": 1,
+  "title": "Latvia: daily attempts from Belarus fall to single digits",
+  "summary": "Latvia's State Border Guard stopped 5 people trying to cross from Belarus on 22 November, bringing this year's total to 13,035, above the 12,046 recorded in all of 2025. LETA reports for 17–18 November gave 6 and 3 attempts, against 20 to 40 a day in early November. Lithuania's border guard service recorded no attempts on 15–17 November and 1,962 this year, more than its 1,652 in 2025.",
+  "evidence": "Official statement",
+  "corroboration": "State Border Guard daily report; LETA via Diena; Reform.news citing VSAT.",
+  "analysis": "A clear lull in the published figures, but these count attempts, include repeat tries and are released unevenly. Earlier lulls this year were followed by new peaks."
+ },
+ {
+  "key": "2026-11-26|vsat-new-chief",
+  "date": "2026-11-26",
+  "order": 2,
+  "title": "Lithuania's border guard service gets a new chief",
+  "summary": "Donatas Škarnulis, until now deputy head, takes over the State Border Guard Service on 26 November. His predecessor Rustamas Liubajevas resigned after a July incident in which about 20 migrants emerging from a tunnel freed detained companions and tried to drag a guard into Belarus; the service first reported only the tunnel, and an internal investigation began after media reports.",
+  "evidence": "Official statement",
+  "corroboration": "Reform.news via Bytes Europe; earlier LRT reporting on the tunnel case.",
+  "analysis": "A leadership change driven by accountability over reporting, not by a new surge. Tunnels and violent group crossings remain the main concern on Lithuania's border."
+ },
+ {
+  "key": "2026-11-26|latvia-russia-decision",
+  "date": "2026-11-26",
+  "order": 3,
+  "title": "Latvia weighs closing its Russia crossings; Estonia's checks debate continues",
+  "summary": "Latvia's prime minister said Estonia should have consulted its neighbours before closing its road crossings with Russia from 1 December and said Riga would decide on its own closure on 26 November. In Estonia, the coalition rejected opposition calls for checks on the Latvian border; ERR reports the interior ministry's secretary general put the cost at about €65 million, while a figure of about €300 million was cited earlier.",
+  "evidence": "Official statement",
+  "corroboration": "ERR (25 November).",
+  "analysis": "Closing crossings with Russia is mainly a security measure, but it can shift travellers and any migration pressure along the border. The cost figures conflict and neither has been published in detail."
+ },
+ {
+  "key": "2026-11-26|amnesty-echr",
+  "date": "2026-11-26",
+  "order": 4,
+  "title": "Amnesty: court rulings a blow to the ban on torture",
+  "summary": "Amnesty International, an intervener in two of the three cases, said the Grand Chamber's 24 November judgments on returns to Belarus by Latvia, Lithuania and Poland weaken legal certainty around the absolute ban on torture, and will publish a fuller response. The court found some violations for vulnerable applicants and unlawful detention in Latvia and Lithuania, while accepting that returns are not in themselves unlawful when Belarus instrumentalises migration.",
+  "evidence": "Official statement",
+  "corroboration": "Amnesty International; court summaries reported by LRT and others.",
+  "analysis": "Governments and rights groups draw opposite conclusions from the same judgments; both leave out parts of the text. The screening duty for vulnerable people is now the main practical test."
+ },
+ {
+  "key": "2026-11-26|poland-organiser",
+  "date": "2026-11-26",
+  "order": 5,
+  "title": "Polish border guard detains suspected organiser of crossings from Belarus",
+  "summary": "Poland's Podlasie border guard division reported on 23 November that a woman was detained in Szczecin on suspicion of organising illegal crossings of the Polish–Belarusian border. On 24 November it reported that guards at the Rutka-Tartak crossing on the Lithuanian border detained Sudanese nationals using other people's documents, and a man wanted under an Interpol notice.",
+  "evidence": "Official statement",
+  "corroboration": "Podlasie Border Guard news pages; not yet picked up by other outlets.",
+  "analysis": "Shows that organising networks reach deep into Poland and that onward movement through Lithuania into Poland continues. These are suspicions; nobody is named here."
  }
 ]

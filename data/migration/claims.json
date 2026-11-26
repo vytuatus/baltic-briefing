@@ -460,5 +460,60 @@
   "conflict": "No unusual movement has been reported on the Russian side.",
   "verdict": "Unconfirmed",
   "verdict_note": "A precautionary scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-26|echr-cleared-lithuania",
+  "date": "2026-11-26",
+  "order": 1,
+  "claim": "The human rights court cleared Lithuania over its pushbacks",
+  "claimed_by": "Some online headlines and aggregators; still circulating",
+  "evidence": "Imagery or documents",
+  "conflict": "The court found no Article 3 breach in Lithuania's returns, but found the applicants' detention unlawful and awarded €15,000 each.",
+  "verdict": "Misleading",
+  "verdict_note": "True for returns, wrong for detention."
+ },
+ {
+  "key": "2026-11-26|forced-relocation",
+  "date": "2026-11-26",
+  "order": 2,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support; the 2027 pool is not yet set, and Latvia is seeking exemption from its share.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-26|estonia-checks-cost",
+  "date": "2026-11-26",
+  "order": 3,
+  "claim": "Restoring checks on the Estonia–Latvia border would cost about €300 million",
+  "claimed_by": "Estonia's interior minister, as reported earlier",
+  "evidence": "Official statement",
+  "conflict": "ERR on 25 November reported the interior ministry's secretary general estimating about €65 million; neither figure has been published with a breakdown.",
+  "verdict": "Contested",
+  "verdict_note": "Two official estimates conflict."
+ },
+ {
+  "key": "2026-11-26|latvia-pressure-over",
+  "date": "2026-11-26",
+  "order": 4,
+  "claim": "Pressure from Belarus on Latvia's border has ended",
+  "claimed_by": "Inferences from recent low daily figures and days without attempts",
+  "evidence": "Analysis",
+  "conflict": "Daily attempts fell to single digits in mid-November, but this year's total is a record and similar lulls earlier in the year were followed by new peaks.",
+  "verdict": "Unsupported",
+  "verdict_note": "A lull is not an end."
+ },
+ {
+  "key": "2026-11-26|estonia-migration-push",
+  "date": "2026-11-26",
+  "order": 5,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "No unusual movement has been reported on the Russian side; the interior minister stresses intelligence and recruitment risks at the crossings rather than migration.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
  }
 ]

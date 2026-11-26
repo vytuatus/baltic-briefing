@@ -3859,5 +3859,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders.",
   "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-26|troops",
+  "date": "2026-11-26",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland. Estonian analyst Ilmar Raag said Russia lacks resources beyond Ukraine and that Moscow's 'open war' statement listed no military measures.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-26|kaliningrad",
+  "date": "2026-11-26",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new military activity reported. An LRT/BNS review of the 21 November Kaliningrad alert found that claims of a NATO or Ukrainian attack from Lithuania came from a handful of social-media accounts, not from Russian officials; Lithuania denied any role.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-26|belarus",
+  "date": "2026-11-26",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "ISW reports nothing significant in Belarus. No new public reporting on Russian forces or the Oreshnik units there.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-26|exercises",
+  "date": "2026-11-26",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. NATO's Grand Eagle 26 drills in Lithuania continue until 3 December, and Estonia is running a multinational exercise with British and French forces.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|gps",
+  "date": "2026-11-26",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new official or major media report of interference since the Swedish aviation warning for the Stockholm area, which stays valid until 31 December. Interference around Kaliningrad and the Gulf of Finland remains a standing problem.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|airspace",
+  "date": "2026-11-26",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new incursion first reported. Poland's deputy defence minister said on 25 November the ministry will ask the government for a no-fly zone along the eastern border, possibly in place by early January, to make it easier to down missiles and drones. Bloomberg's unnamed sources say Poland raised shooting down missiles over Ukraine at NATO; the minister could not confirm.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|sabotage",
+  "date": "2026-11-26",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new Russia-linked sabotage case first reported. Lithuania detained five people over suspected paid cooperation with Russian state media and indicted a man for spying on aid to Ukraine (influence and espionage cases). Poland's intelligence coordinator warns sabotage would continue even after a peace deal.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|border",
+  "date": "2026-11-26",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation at Baltic, Polish or Finnish borders. Estonia closes its road crossings with Russia on 1 December; Latvia's prime minister said Estonia acted in haste and Riga was due to decide on its own closure on 26 November.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|rhetoric",
+  "date": "2026-11-26",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new explicit threat since the 23 November 'open war' warning to Estonia. Estonia's defence minister told parliament Ukraine does not use Estonian airspace to attack Russia, rejecting Moscow's accusation.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-26|mobilization",
+  "date": "2026-11-26",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-26|hospitals",
+  "date": "2026-11-26",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-26|blood",
+  "date": "2026-11-26",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-26|rail",
+  "date": "2026-11-26",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders.",
+  "evidence": "Analysis"
  }
 ]

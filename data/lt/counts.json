@@ -1078,5 +1078,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra; nuo lapkričio 23 d. įspėjimo Estijai jokio aukšto rango Rusijos pareigūno naujos aiškios grėsmės nebuvo."
+ },
+ {
+  "key": "2026-11-26|airspace",
+  "date": "2026-11-26",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "Nėra; po vakar įskaičiuoto lapkričio 23–24 d. drono virš Lenkijos naujo pažeidimo ar dronų įsiveržimo nepranešta."
+ },
+ {
+  "key": "2026-11-26|sabotage",
+  "date": "2026-11-26",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; penki Lietuvos sulaikymai dėl mokamo darbo Rusijos valstybinei žiniasklaidai ir kaltinimai šnipinėjimu yra įtakos ir šnipinėjimo, o ne sabotažo bylos."
+ },
+ {
+  "key": "2026-11-26|jamming",
+  "date": "2026-11-26",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Nėra; po vakar įskaičiuoto įspėjimo dėl Stokholmo naujo oficialaus ar didžiosios žiniasklaidos pranešimo apie GNSS trikdžius nėra."
+ },
+ {
+  "key": "2026-11-26|border",
+  "date": "2026-11-26",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; nauja provokacija Baltijos šalių, Lenkijos ar Suomijos pasienyje su Rusija ar Baltarusija nepranešta."
+ },
+ {
+  "key": "2026-11-26|threats",
+  "date": "2026-11-26",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; nuo lapkričio 23 d. įspėjimo Estijai jokio aukšto rango Rusijos pareigūno naujos aiškios grėsmės nebuvo."
  }
 ]

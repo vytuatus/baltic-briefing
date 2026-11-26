@@ -1658,5 +1658,75 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "„Bloomberg“ pranešimas, perduotas „Meduzos“; vyriausybės sprendimo dar nėra.",
   "analysis": "Ilgalaikė gynybinė priemonė, atspindinti, kad fronto linijos valstybės tikisi ilgalaikės konfrontacijos, ir atitinkanti bazinę liniją; tai nėra reakcija į konkrečią naują grėsmę."
+ },
+ {
+  "key": "2026-11-26|poland-no-fly-zone",
+  "date": "2026-11-26",
+  "order": 1,
+  "title": "Lenkija planuoja neskraidymo zoną palei rytinę sieną",
+  "summary": "Lapkričio 25 d. gynybos viceministras Cezary Tomczykas sakė, kad ministerija prašys vyriausybės įvesti 12–kelių dešimčių kilometrų gylio neskraidymo zoną palei rytinę sieną; reglamentas bus rengiamas ateinančiomis savaitėmis ir galbūt įsigalios sausio pradžioje. Tai seka po trijų Rusijos sparnuotųjų raketų, lapkričio 20 d. nukritusių pietryčių Lenkijoje, ir Rusijos drono, naktį į lapkričio 24 d. įskridusio į Lenkijos oro erdvę. „Bloomberg“, remdamasis neįvardytais šaltiniais, pranešė, kad Lenkija NATO kėlė idėją numušti raketas virš Ukrainos; Tomczykas to patvirtinti negalėjo ir sakė, kad NATO tam prieštarauja.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Apie ministro pareiškimą pranešė „Notes from Poland“, „TVP World“ ir ABC/WEIS; diskusija NATO remiasi tik neįvardytais „Bloomberg“ šaltiniais.",
+  "analysis": "Gynybinis, procedūrinis žingsnis, palengvinantis perėmimą Lenkijos teritorijoje. Labiau eskalaciją kelianti idėja – šaudyti virš Ukrainos – nepatvirtinta ir, pačios Lenkijos teigimu, NATO jai prieštarauja. Opozicija planą vadina kosmetiniu."
+ },
+ {
+  "key": "2026-11-26|lithuania-rtrs",
+  "date": "2026-11-26",
+  "order": 2,
+  "title": "Lietuva sulaikė penkis asmenis, įtariamus mokamu darbu Rusijos valstybinei žiniasklaidai",
+  "summary": "Lapkričio 25 d. Lietuvos prokurorai pranešė, kad penki asmenys sulaikyti įtariant, jog jie padėjo kitai valstybei veikti prieš Lietuvą – nuo 2024 m. rudens už atlygį rinko informaciją ir kūrė turinį Rusijos valstybiniam transliuotojui RTRS. Kartu su žvalgybos tarnybomis atlikta daugiau nei dešimt kratų. Žiniasklaida tyrimą sieja su grupe, užvertusia valstybės institucijas prašymais.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT/BNS, remiantis Generaline prokuratūra; nepriklausomų detalių kol kas nėra.",
+  "analysis": "Atitinka bazinės linijos įspėjimą apie Rusijos informacines operacijas ir Lietuvos piliečių verbavimą. Tai įtarimai, o ne apkaltinamieji nuosprendžiai, ir įtariamieji čia neįvardijami."
+ },
+ {
+  "key": "2026-11-26|lithuania-spy-indictment",
+  "date": "2026-11-26",
+  "order": 3,
+  "title": "Lietuvos vyrui pateikti kaltinimai šnipinėjus paramą Ukrainai",
+  "summary": "Lapkričio 25 d. Kauno apygardos prokuratūra pranešė perdavusi teismui bylą, kurioje Lietuvos vyras kaltinamas nuo 2021 m. rugpjūčio rinkęs žvalgybos informaciją Rusijai apie strateginę infrastruktūrą ir paramą Ukrainai bei neteisėtai laikęs šaunamuosius ginklus, šaudmenis ir sprogmenis. Byla pradėta po 2025 m. kovo incidento, kai jis, kaip įtariama, privačioje įmonėje fotografavo paramą Ukrainai ir jį sustabdžiusiam darbuotojui panaudojo ašarinių dujų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT/BNS, remiantis prokurorais.",
+  "analysis": "Dar vienas Lietuvos grėsmių vertinime aprašyto verbavimo modelio pavyzdys. Tai kaltinimas, o ne nuosprendis; jį skaičiuojame kaip šnipinėjimą, o ne sabotažą."
+ },
+ {
+  "key": "2026-11-26|baltic-border-split",
+  "date": "2026-11-26",
+  "order": 4,
+  "title": "Latvijos premjerė: Estija sieną su Rusija uždarė paskubomis",
+  "summary": "Latvijos premjerė TV3 sakė, kad prieš nuspręsdama nuo gruodžio 1 d. uždaryti kelių pasienio punktus su Rusija Estija turėjo pasitarti su kitomis Baltijos šalimis, ir užsiminė, kad laikas parinktas atsižvelgiant į Estijos pavasario rinkimus; Ryga dėl savo galimo uždarymo turėjo spręsti lapkričio 26 d. Narvos meras paprašė išimčių sienos išskirtoms šeimoms, o Estijos vidaus reikalų ministras sakė, kad Rusija pasienio punktuose vykdo žvalgybą ir verbavimą, o „Threod“ padegimo bandymas buvo paskutinis lašas.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ERR (du pranešimai, lapkričio 25 d.); „Hromadske“ – apie Estijos premjero pastabą, kad kitas gali būti geležinkelis.",
+  "analysis": "Retas viešas Baltijos šalių vyriausybių nesutarimas, tačiau dėl metodo ir laiko, o ne dėl pačios Rusijos grėsmės. Latvijos sprendimas parodys, ar susiformuos bendra Baltijos šalių linija."
+ },
+ {
+  "key": "2026-11-26|estonia-airspace-denial",
+  "date": "2026-11-26",
+  "order": 5,
+  "title": "Estijos gynybos ministras: Ukraina nenaudoja Estijos oro erdvės atakoms prieš Rusiją",
+  "summary": "Lapkričio 25 d. gynybos ministras Martinas Heremas Riigikogu sakė, kad Ukrainos dronai nenaudoja Estijos oro erdvės smūgiams Rusijai, kad Ukraina niekada neprašė leidimo ir kad Estija paprašė jos laikytis atokiau; dronai nuklysta dėl trikdymo, priešpriemonių ar oro sąlygų. Vienas nefrakcinis parlamentaras teigė priešingai kaip faktą. Tą patį kaltinimą lapkričio 23 d. pareiškė Rusijos užsienio reikalų ministerija. LRT pristatytas „Debunk.org“ tyrimas suskaičiavo daugiau nei 5 000 Kremliui palankių straipsnių su antibaltiškais pasakojimais nuo sausio iki spalio, iš kurių dažniausias – apie Baltijos šalių bendrininkavimą dronų smūgiuose.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ERR; „Debunk.org“ tyrimas per LRT ir 77.lt.",
+  "analysis": "Abi pusės sutaria, kad dalis dronų nuklysta į Estijos oro erdvę; niekas nepaskelbė įrodymų, kad tai daroma tyčia ar su leidimu. Kaltinimas svarbus, nes Maskva jį sieja su savo įspėjimu apie „atvirą karą“."
+ },
+ {
+  "key": "2026-11-26|kaliningrad-narrative",
+  "date": "2026-11-26",
+  "order": 6,
+  "title": "Kaip pavojus Karaliaučiaus srityje internete virto „NATO ataka“",
+  "summary": "Lapkričio 23 d. BNS ir LRT pristatyta „Repsense“ analizė parodė, kad po lapkričio 21 d. oro pavojaus Karaliaučiaus srityje, kurios gubernatorius sakė, kad objektas atskrido iš Lietuvos pusės, bet grėsmės nekėlė, trys anglakalbės X paskyros sukūrė didžiąją dalį iš maždaug 450 įrašų, teigiančių, kad NATO ar Ukraina surengė ataką iš Lietuvos. Rusijos valstybinė žiniasklaida perdavė tik dalį gubernatoriaus pareiškimo. Lapkričio 22 d. Lietuvos užsienio reikalų ministerija neigė bet kokią ataką.",
+  "evidence": "Analizė",
+  "corroboration": "LRT/BNS, remiantis „Repsense“; ankstesni „Euromaidan Press“ pranešimai apie sprogimus Baltijske lieka nepatvirtinti.",
+  "analysis": "Rodo, kaip vietinis pavojus gali būti išpūstas iki eskalacijos istorijos be jokio oficialaus Rusijos teiginio. Pranešimai apie tą pačią naktį Baltijske girdėtus sprogimus vis dar nepatvirtinti."
+ },
+ {
+  "key": "2026-11-26|nordic-baltic-letter",
+  "date": "2026-11-26",
+  "order": 7,
+  "title": "Septyni ES lyderiai ragina riboti rusų keliones; OPCW atmeta Rusiją",
+  "summary": "Lietuvos prezidentas ir Latvijos, Estijos, Lenkijos, Danijos, Suomijos bei Švedijos premjerai paprašė Komisijos ir Europos Vadovų Tarybos pasiūlyti apribojimus nebūtinoms rusų kelionėms ir nebeišduoti vizų Rusijos ir Baltarusijos sportininkams. OPCW konferencijoje Hagoje lapkričio 24 d. valstybės atmetė Rusijos kandidatūrą į Vykdomąją tarybą ir išrinko Estiją bei Lenkiją; Latvija rėmėsi Ukrainos suskaičiuotais daugiau nei 14 000 Rusijos cheminio ginklo draudimo pažeidimų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT; LSM.",
+  "analysis": "Politinis ir diplomatinis spaudimas, o ne saugumo incidentas. Maskva Estijos sienos uždarymą pavadino „nauja geležine uždanga“ ir į kelionių ribojimo iniciatyvą gali atsakyti panašiai."
  }
 ]

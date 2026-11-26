@@ -1824,5 +1824,82 @@
   "conflict": "Estija tai neigia; Rusija vis dar nepaskelbė jokių skrydžių duomenų.",
   "verdict": "Unsupported",
   "verdict_note": "Įrodymų nepateikta."
+ },
+ {
+  "key": "2026-11-26|c1",
+  "date": "2026-11-26",
+  "order": 1,
+  "claim": "Ukraina naudoja Estijos oro erdvę atakoms prieš Rusiją, Estijai tyliai sutinkant",
+  "claimed_by": "Rusijos užsienio reikalų ministerija; pakartojo nefrakcinis Estijos parlamentaras",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lapkričio 25 d. Estijos gynybos ministras parlamente sakė, kad Ukraina nenaudoja Estijos oro erdvės ir niekada neprašė leidimo ja naudotis; abi pusės sutaria, kad dalis dronų nuklysta.",
+  "verdict": "Unsupported",
+  "verdict_note": "Jokių skrydžių duomenų ar kitų įrodymų nepateikta."
+ },
+ {
+  "key": "2026-11-26|c2",
+  "date": "2026-11-26",
+  "order": 2,
+  "claim": "Lenkija paprašė NATO numušti Rusijos raketas virš Ukrainos",
+  "claimed_by": "„Bloomberg“, remdamasis neįvardytais šaltiniais",
+  "evidence": "Anoniminiai šaltiniai",
+  "conflict": "Lenkijos gynybos viceministras to patvirtinti negalėjo ir sakė, kad NATO šiai idėjai prieštarauja; pačios Lenkijos planas – neskraidymo zona jos teritorijoje.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Vienas anoniminiais šaltiniais grįstas pranešimas."
+ },
+ {
+  "key": "2026-11-26|c3",
+  "date": "2026-11-26",
+  "order": 3,
+  "claim": "Rusija tyčia pasiuntė droną, lapkričio 23–24 d. įskridusį į Lenkijos oro erdvę",
+  "claimed_by": "Lenkijos gynybos viceministras („darome prielaidą“); neįvardyti šaltiniai per RMF24",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lenkijos pareigūnai ketinimą pateikia kaip prielaidą; žvalgybinis tikslas grindžiamas neįvardytais šaltiniais. Maskva nekomentavo.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, bet neįrodyta."
+ },
+ {
+  "key": "2026-11-26|c4",
+  "date": "2026-11-26",
+  "order": 4,
+  "claim": "Lapkričio 21 d. NATO ar Ukraina atakavo Karaliaučių iš Lietuvos",
+  "claimed_by": "Kelios anglakalbės X paskyros; išplatinta socialiniuose tinkluose",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Karaliaučiaus srities gubernatorius sakė, kad grėsmės nebuvo; Lietuva neigė bet kokią ataką; „Repsense“ atsekė, kad teiginys kilo iš socialinių tinklų, o ne iš Rusijos pareigūnų.",
+  "verdict": "False",
+  "verdict_note": "Jokių oficialių ar fizinių įrodymų."
+ },
+ {
+  "key": "2026-11-26|c5",
+  "date": "2026-11-26",
+  "order": 5,
+  "claim": "Kyjivas laiko daugiau nei 100 rusiškų dronų, kad smogtų Lenkijai ir apkaltintų Maskvą",
+  "claimed_by": "Kremliui palankūs „Telegram“ kanalai ir Rusijos valstybei artimi leidiniai",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Rizikos žvalgybos bendrovė „Galicia Security Centre“ jokių įrodymų nerado; prokurorai sako, kad visose trijose raketų nukritimo vietose rastos Rusijos Ch-101 nuolaužos.",
+  "verdict": "Unsupported",
+  "verdict_note": "Įrodymų nėra; atitinka išpuolio po svetima vėliava pasakojimą."
+ },
+ {
+  "key": "2026-11-26|c6",
+  "date": "2026-11-26",
+  "order": 6,
+  "claim": "Vaizdo įraše matyti, kaip Lenkijos kariai rankomis neša raketą Ch-101",
+  "claimed_by": "Išplitę įrašai X ir „TikTok“ platformose",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "„Galicia Security Centre“ cituojami faktų tikrintojai nustatė, kad įrašas – iš 2025 m. rugsėjo drono paėmimo.",
+  "verdict": "False",
+  "verdict_note": "Senas įrašas, ne tas objektas."
+ },
+ {
+  "key": "2026-11-26|c7",
+  "date": "2026-11-26",
+  "order": 7,
+  "claim": "Estija sieną su Rusija uždarė paskubomis, dėl rinkimų",
+  "claimed_by": "Latvijos premjerė",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estijos vyriausybė nurodo dvylika Rusijai priskiriamų atakų ir „Threod“ padegimo bandymą; Estijos kritikai, tarp jų Narvos meras, taip pat abejoja socialine kaina.",
+  "verdict": "Contested",
+  "verdict_note": "Politinis vertinimas, kurį ginčija Talinas."
  }
 ]

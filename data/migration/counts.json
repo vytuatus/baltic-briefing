@@ -358,5 +358,45 @@
   "metric": "Misleading migration claims",
   "value": 1,
   "note": "One: headlines saying the court cleared Lithuania, although it found Lithuania unlawfully detained the applicants."
+ },
+ {
+  "key": "2026-11-26|organised",
+  "date": "2026-11-26",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 1,
+  "note": "One: a woman detained in Szczecin on 23 November on suspicion of organising illegal crossings of the Polish–Belarusian border."
+ },
+ {
+  "key": "2026-11-26|measures",
+  "date": "2026-11-26",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "None new; Estonia's 1 December closure was already counted, and Latvia's decision on its Russia crossings was still pending."
+ },
+ {
+  "key": "2026-11-26|eu",
+  "date": "2026-11-26",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "None; the 2027 solidarity pool still awaits the Council."
+ },
+ {
+  "key": "2026-11-26|transfers",
+  "date": "2026-11-26",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "None newly reported; Estonia's returns to Latvia are an ongoing practice under EU rules."
+ },
+ {
+  "key": "2026-11-26|claims",
+  "date": "2026-11-26",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "None new; the misleading 'court cleared Lithuania' reading was counted yesterday."
  }
 ]

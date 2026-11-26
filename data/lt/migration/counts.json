@@ -358,5 +358,45 @@
   "metric": "Misleading migration claims",
   "value": 1,
   "note": "Vienas: antraštės, teigiančios, kad teismas išteisino Lietuvą, nors jis nustatė, kad Lietuva neteisėtai sulaikė pareiškėjus."
+ },
+ {
+  "key": "2026-11-26|organised",
+  "date": "2026-11-26",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 1,
+  "note": "Vienas: lapkričio 23 d. Ščecine sulaikyta moteris, įtariama organizavus neteisėtą Lenkijos ir Baltarusijos sienos kirtimą."
+ },
+ {
+  "key": "2026-11-26|measures",
+  "date": "2026-11-26",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "Naujų nėra; Estijos gruodžio 1 d. uždarymas jau įskaičiuotas, o Latvijos sprendimas dėl pasienio punktų su Rusija dar nebuvo priimtas."
+ },
+ {
+  "key": "2026-11-26|eu",
+  "date": "2026-11-26",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "Nėra; 2027 m. solidarumo fondas vis dar laukia Tarybos."
+ },
+ {
+  "key": "2026-11-26|transfers",
+  "date": "2026-11-26",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "Naujai nepranešta; Estijos grąžinimas į Latviją yra nuolatinė praktika pagal ES taisykles."
+ },
+ {
+  "key": "2026-11-26|claims",
+  "date": "2026-11-26",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "Naujų nėra; klaidinantis aiškinimas „teismas išteisino Lietuvą“ įskaičiuotas vakar."
  }
 ]

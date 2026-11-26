@@ -460,5 +460,60 @@
   "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta.",
   "verdict": "Unconfirmed",
   "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
+ },
+ {
+  "key": "2026-11-26|echr-cleared-lithuania",
+  "date": "2026-11-26",
+  "order": 1,
+  "claim": "Žmogaus teisių teismas išteisino Lietuvą dėl apgręžimo",
+  "claimed_by": "Kai kurios internetinės antraštės ir agregatoriai; vis dar cirkuliuoja",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Teismas Lietuvos vykdytame grąžinime 3 straipsnio pažeidimo nenustatė, tačiau pripažino pareiškėjų sulaikymą neteisėtu ir kiekvienam priteisė po 15 000 eurų.",
+  "verdict": "Misleading",
+  "verdict_note": "Teisinga dėl grąžinimo, klaidinga dėl sulaikymo."
+ },
+ {
+  "key": "2026-11-26|forced-relocation",
+  "date": "2026-11-26",
+  "order": 2,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą; 2027 m. fondas dar nenustatytas, o Latvija siekia atleidimo nuo savo dalies.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-26|estonia-checks-cost",
+  "date": "2026-11-26",
+  "order": 3,
+  "claim": "Patikrų atkūrimas Estijos ir Latvijos pasienyje kainuotų apie 300 mln. eurų",
+  "claimed_by": "Estijos vidaus reikalų ministras, kaip pranešta anksčiau",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 25 d. ERR pranešė, kad vidaus reikalų ministerijos kancleris kainą įvertino apie 65 mln. eurų; nė vienas skaičius nepaskelbtas su išskaidymu.",
+  "verdict": "Contested",
+  "verdict_note": "Du oficialūs įvertinimai prieštarauja vienas kitam."
+ },
+ {
+  "key": "2026-11-26|latvia-pressure-over",
+  "date": "2026-11-26",
+  "order": 4,
+  "claim": "Baltarusijos spaudimas Latvijos pasieniui baigėsi",
+  "claimed_by": "Išvados iš pastarųjų mažų dienos skaičių ir dienų be bandymų",
+  "evidence": "Analizė",
+  "conflict": "Lapkričio viduryje dienos bandymų sumažėjo iki vienaženklių, tačiau šių metų suma rekordinė, o panašūs atoslūgiai anksčiau šiais metais baigdavosi naujais pikais.",
+  "verdict": "Unsupported",
+  "verdict_note": "Atoslūgis nėra pabaiga."
+ },
+ {
+  "key": "2026-11-26|estonia-migration-push",
+  "date": "2026-11-26",
+  "order": 5,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta; vidaus reikalų ministras pabrėžia žvalgybos ir verbavimo pasienio punktuose, o ne migracijos riziką.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
  }
 ]

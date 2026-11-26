@@ -916,5 +916,113 @@
   "perspective": "Baltic",
   "title": "National Threat Assessment 2026",
   "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-26|l1",
+  "date": "2026-11-26",
+  "topic": "Lithuanian national threat assessment (baseline)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-26|l2",
+  "date": "2026-11-26",
+  "topic": "Latvian border figures",
+  "outlet": "State Border Guard of Latvia",
+  "perspective": "Baltic",
+  "title": "November 22, 2026 – state border and within the country",
+  "url": "https://www.rs.gov.lv/en/article/november-22-2026-state-border-and-within-country"
+ },
+ {
+  "key": "2026-11-26|l3",
+  "date": "2026-11-26",
+  "topic": "Latvian border figures",
+  "outlet": "Diena (LETA)",
+  "perspective": "Baltic",
+  "title": "Divās dienās novērsti deviņu migrantu mēģinājumi nelikumīgi šķērsot Latvijas-Baltkrievijas robežu",
+  "url": "https://diena.lv/raksts/latvija/zinas-71/divas-dienas-noversti-devinu-migrantu-meginajumi-nelikumigi-skersot-latvijas-baltkrievijas-robezu"
+ },
+ {
+  "key": "2026-11-26|l4",
+  "date": "2026-11-26",
+  "topic": "Crossings from Belarus",
+  "outlet": "Reform.news",
+  "perspective": "Central Europe",
+  "title": "Lithuania records no attempts to illegally cross border for third consecutive day",
+  "url": "https://reform.news/en/lithuania-records-no-attempts-to-illegally-cross-border-for-third-consecutive-day/"
+ },
+ {
+  "key": "2026-11-26|l5",
+  "date": "2026-11-26",
+  "topic": "Lithuanian border guard leadership",
+  "outlet": "Bytes Europe (Reform.news)",
+  "perspective": "Central Europe",
+  "title": "Lithuania appoints new head of State Border Guard Service",
+  "url": "https://www.byteseu.com/2547203/"
+ },
+ {
+  "key": "2026-11-26|l6",
+  "date": "2026-11-26",
+  "topic": "Smuggling",
+  "outlet": "Polish Border Guard, Podlasie division",
+  "perspective": "Central Europe",
+  "title": "Podlaski Oddział Straży Granicznej – aktualności",
+  "url": "https://www.podlaski.strazgraniczna.pl/"
+ },
+ {
+  "key": "2026-11-26|l7",
+  "date": "2026-11-26",
+  "topic": "Russia border",
+  "outlet": "ERR",
+  "perspective": "Baltic",
+  "title": "Latvian PM: Estonia rushed to close its border with Russia",
+  "url": "https://news.err.ee/1610206156"
+ },
+ {
+  "key": "2026-11-26|l8",
+  "date": "2026-11-26",
+  "topic": "Russia border",
+  "outlet": "ERR",
+  "perspective": "Baltic",
+  "title": "Narva mayor to minister: Are border residents being sacrificed for security?",
+  "url": "https://news.err.ee/1610206261"
+ },
+ {
+  "key": "2026-11-26|l9",
+  "date": "2026-11-26",
+  "topic": "EU solidarity pool 2027",
+  "outlet": "Media Selangor (Bernama/Anadolu)",
+  "perspective": "US and international",
+  "title": "EU proposes new solidarity mechanism to ease migration burden on member states",
+  "url": "https://mediaselangor.com/en/2026/11/405431"
+ },
+ {
+  "key": "2026-11-26|l10",
+  "date": "2026-11-26",
+  "topic": "Pushback judgments",
+  "outlet": "Amnesty International",
+  "perspective": "Rights groups",
+  "title": "Europe: Judgments on 'instrumentalization' of migration a devastating blow to the absolute prohibition of torture",
+  "url": "https://www.amnesty.org/en/latest/news/2026/11/instrumentalization-of-migration/"
+ },
+ {
+  "key": "2026-11-26|l11",
+  "date": "2026-11-26",
+  "topic": "Pushback judgments",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "ECHR rules Lithuania did not violate human rights by deporting migrants to Belarus",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3124297/echr-rules-lithuania-did-not-violate-human-rights-by-deporting-migrants-to-belarus"
+ },
+ {
+  "key": "2026-11-26|l12",
+  "date": "2026-11-26",
+  "topic": "Border checks inside Schengen",
+  "outlet": "Polish interior ministry",
+  "perspective": "Central Europe",
+  "title": "The government is extending checks at the borders with Germany and Lithuania",
+  "url": "https://www.gov.pl/web/mswia-en/the-government-is-extending-checks-at-the-borders-with-germany-and-lithuania"
  }
 ]
