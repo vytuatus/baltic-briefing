@@ -438,5 +438,45 @@
   "evidence": "Official statement",
   "corroboration": "Podlasie Border Guard news pages; not yet picked up by other outlets.",
   "analysis": "Shows that organising networks reach deep into Poland and that onward movement through Lithuania into Poland continues. These are suspicions; nobody is named here."
+ },
+ {
+  "key": "2026-11-27|latvia-zero-days",
+  "date": "2026-11-27",
+  "order": 1,
+  "title": "Latvia: no attempts from Belarus on 23 and 24 November",
+  "summary": "Latvia's State Border Guard reported no attempts to cross from Belarus on 24 November, and its year total stayed at 13,035 from 22 to 24 November, which implies none on 23 November either. The total is above the 12,046 recorded in all of 2025. On 24 November the service refused entry to 11 foreigners at land crossings, Riga airport and Ventspils port for security reasons, nine of them Russian citizens.",
+  "evidence": "Official statement",
+  "corroboration": "State Border Guard daily reports for 22 and 24 November; the 23 November report could not be retrieved.",
+  "analysis": "The lull continues, but this is one country's series, published unevenly and counting attempts rather than people. Earlier pauses this year were followed by new peaks."
+ },
+ {
+  "key": "2026-11-27|russia-border-choices",
+  "date": "2026-11-27",
+  "order": 2,
+  "title": "Latvia weighs a Russia-border closure; Lithuania sees no need",
+  "summary": "Latvia's prime minister has asked ministries to assess closing crossings with Russia, with the issue expected in the week of 30 November; Latvia's border guard chief warned that traffic will shift to Latvia once Estonia closes its road crossings on 1 December. Lithuania's new border guard chief told LRT there is no need to close Lithuania's Russian crossings now and that threats from the Belarus and Russia borders are assessed equally.",
+  "evidence": "Official statement",
+  "corroboration": "Delfi via Bytes Europe; LRT/BNS; Meduza on the effect on travellers.",
+  "analysis": "The closures are security measures, not migration measures, but uneven decisions can shift traffic and any pressure along the Baltic border with Russia."
+ },
+ {
+  "key": "2026-11-27|finland-route-videos",
+  "date": "2026-11-27",
+  "order": 3,
+  "title": "Finland: videos of a forest route into Finland worry the border guard",
+  "summary": "Yle reports that two Russian men who say they deserted posted videos of their route through the forest into Finland, which Yle judged very likely authentic. Finland's border guard counts 13 illegal crossings of the eastern land border this year, most in North Karelia, and warns the videos could reveal details of its surveillance.",
+  "evidence": "Official statement",
+  "corroboration": "Yle via Daily Northern; Finnish Border Guard figures.",
+  "analysis": "Small numbers, a different profile from the Belarus route and no sign of organised pressure from Russia; the concern is about exposing border methods."
+ },
+ {
+  "key": "2026-11-27|echr-lithuania-details",
+  "date": "2026-11-27",
+  "order": 4,
+  "title": "Court rulings: Lithuania to compensate four detained Cubans",
+  "summary": "Further details of the 24 November Grand Chamber judgment show the court found, by 11 votes to 6, no breach in Lithuania's return of migrants to Belarus, but found the 2022 detention of four Cuban applicants unlawful and awarded €15,000 each plus costs. EUobserver reports that about 30 similar cases are pending and that nine governments had pressed the court on the issue.",
+  "evidence": "Imagery or documents",
+  "corroboration": "CiberCuba citing the court's case data; EUobserver.",
+  "analysis": "Both governments and rights groups can find support in the ruling: returns are allowed in tightly defined cases, while detention and screening of vulnerable people face scrutiny."
  }
 ]

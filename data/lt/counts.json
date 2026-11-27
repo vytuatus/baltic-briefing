@@ -1118,5 +1118,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "Nėra; nuo lapkričio 23 d. įspėjimo Estijai jokio aukšto rango Rusijos pareigūno naujos aiškios grėsmės nebuvo."
+ },
+ {
+  "key": "2026-11-27|airspace",
+  "date": "2026-11-27",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 1,
+  "note": "Vienas: lapkričio 27 d. ankstų rytą neatpažintas dronas trumpam įskrido į Latvijos oro erdvę virš Ludzos savivaldybės."
+ },
+ {
+  "key": "2026-11-27|sabotage",
+  "date": "2026-11-27",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "Nėra; planuojamas keturių šalių „Starlink“ tyrimas susijęs su jau įskaičiuotomis bylomis."
+ },
+ {
+  "key": "2026-11-27|jamming",
+  "date": "2026-11-27",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "Naujų nėra; pranešimai, kad lapkričio 21–23 d. trikdžiai palietė ir Taliną, Helsinkį bei Alandus, susiję su lapkričio 25 d. įskaičiuotu epizodu."
+ },
+ {
+  "key": "2026-11-27|border",
+  "date": "2026-11-27",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "Nėra; nauja provokacija Baltijos šalių, Lenkijos ar Suomijos pasienyje su Rusija ar Baltarusija nepranešta."
+ },
+ {
+  "key": "2026-11-27|threats",
+  "date": "2026-11-27",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "Nėra; nuo lapkričio 23 d. įspėjimo Estijai jokio aukšto rango Rusijos pareigūno naujos aiškios grėsmės nebuvo."
  }
 ]

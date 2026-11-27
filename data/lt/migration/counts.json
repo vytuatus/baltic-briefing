@@ -398,5 +398,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "Naujų nėra; klaidinantis aiškinimas „teismas išteisino Lietuvą“ įskaičiuotas vakar."
+ },
+ {
+  "key": "2026-11-27|organised",
+  "date": "2026-11-27",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "Nėra; apie naują lydimą grupę, kontrabandininkų transporto priemonę, tunelį ar pasienio įrangos sugadinimą nepranešta."
+ },
+ {
+  "key": "2026-11-27|measures",
+  "date": "2026-11-27",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "Nėra; Latvija dar nenusprendė dėl pasienio punktų su Rusija, o Estijos gruodžio 1 d. uždarymas jau įskaičiuotas."
+ },
+ {
+  "key": "2026-11-27|eu",
+  "date": "2026-11-27",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "Nėra; 2027 m. solidarumo fondas vis dar laukia Tarybos."
+ },
+ {
+  "key": "2026-11-27|transfers",
+  "date": "2026-11-27",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "Naujai nepranešta; Estijos grąžinimas į Latviją yra nuolatinė praktika pagal ES taisykles."
+ },
+ {
+  "key": "2026-11-27|claims",
+  "date": "2026-11-27",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "Naujų nėra."
  }
 ]

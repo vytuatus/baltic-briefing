@@ -1901,5 +1901,82 @@
   "conflict": "Estonia's government cites twelve attacks it attributes to Russia and the Threod arson attempt; Estonian critics, including Narva's mayor, also question the social cost.",
   "verdict": "Contested",
   "verdict_note": "A political judgement disputed by Tallinn."
+ },
+ {
+  "key": "2026-11-27|c1",
+  "date": "2026-11-27",
+  "order": 1,
+  "claim": "Ukraine uses Estonian airspace to attack Russia, with Estonia's tacit consent",
+  "claimed_by": "Russian foreign ministry; repeated by an unaffiliated Estonian MP",
+  "evidence": "Unverified claim",
+  "conflict": "Estonia's defence minister denied it in parliament on 25 November; no flight data have been offered by either side.",
+  "verdict": "Unsupported",
+  "verdict_note": "Still no evidence offered."
+ },
+ {
+  "key": "2026-11-27|c2",
+  "date": "2026-11-27",
+  "order": 2,
+  "claim": "Poland wants NATO to shoot down Russian missiles over Ukraine",
+  "claimed_by": "Bloomberg, citing unnamed sources; Poland's foreign minister on Polish radio",
+  "evidence": "Official statement",
+  "conflict": "Sikorski now publicly calls such interception necessary defence; the deputy defence minister could not confirm a formal request and says NATO is not in favour.",
+  "verdict": "Likely",
+  "verdict_note": "Poland favours it; no NATO decision."
+ },
+ {
+  "key": "2026-11-27|c3",
+  "date": "2026-11-27",
+  "order": 3,
+  "claim": "Russia has no plans to attack NATO members",
+  "claimed_by": "Russian foreign ministry spokeswoman Maria Zakharova",
+  "evidence": "Official statement",
+  "conflict": "Lithuania's 2026 threat assessment judges that Russia is rebuilding capacity and could in the longer term mount limited operations against NATO states; the same ministry warned Estonia of 'open war'.",
+  "verdict": "Contested",
+  "verdict_note": "A statement of intent, not verifiable."
+ },
+ {
+  "key": "2026-11-27|c4",
+  "date": "2026-11-27",
+  "order": 4,
+  "claim": "Russia caused the 21–23 November GPS interference around Stockholm, Tallinn and Helsinki",
+  "claimed_by": "A Danish naval officer; widely assumed in media",
+  "evidence": "Analysis",
+  "conflict": "Swedish authorities ruled out natural causes but have not named a state; the interference coincided with Ukrainian drone strikes in the Gulf of Finland.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible, but not attributed."
+ },
+ {
+  "key": "2026-11-27|c5",
+  "date": "2026-11-27",
+  "order": 5,
+  "claim": "The drone that entered Latvian airspace on 27 November was a Russian incursion",
+  "claimed_by": "Early online framing; not Latvian officials",
+  "evidence": "Unverified claim",
+  "conflict": "Latvia's armed forces called it unidentified; Russia reported a Ukrainian drone attack on the neighbouring Leningrad region at the same time.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Origin not yet established."
+ },
+ {
+  "key": "2026-11-27|c6",
+  "date": "2026-11-27",
+  "order": 6,
+  "claim": "Estonia closed its Russia border in haste, for electoral reasons",
+  "claimed_by": "Latvia's prime minister",
+  "evidence": "Official statement",
+  "conflict": "Tallinn cites attacks it attributes to Russia; Lithuania's president called Estonia's move appropriate, while Latvia is studying the same step.",
+  "verdict": "Contested",
+  "verdict_note": "A political judgement disputed by Tallinn."
+ },
+ {
+  "key": "2026-11-27|c7",
+  "date": "2026-11-27",
+  "order": 7,
+  "claim": "NATO or Ukraine attacked Kaliningrad from Lithuania on 21 November",
+  "claimed_by": "A few X accounts; amplified on social media",
+  "evidence": "Unverified claim",
+  "conflict": "Kaliningrad's governor said there was no threat; Lithuania denied any attack; Poland's counter-disinformation centre estimates the false story reached at least 19 million people.",
+  "verdict": "False",
+  "verdict_note": "No official or physical evidence."
  }
 ]

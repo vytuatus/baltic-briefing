@@ -1693,8 +1693,8 @@
   "key": "2026-11-26|baltic-border-split",
   "date": "2026-11-26",
   "order": 4,
-  "title": "Latvijos premjerė: Estija sieną su Rusija uždarė paskubomis",
-  "summary": "Latvijos premjerė TV3 sakė, kad prieš nuspręsdama nuo gruodžio 1 d. uždaryti kelių pasienio punktus su Rusija Estija turėjo pasitarti su kitomis Baltijos šalimis, ir užsiminė, kad laikas parinktas atsižvelgiant į Estijos pavasario rinkimus; Ryga dėl savo galimo uždarymo turėjo spręsti lapkričio 26 d. Narvos meras paprašė išimčių sienos išskirtoms šeimoms, o Estijos vidaus reikalų ministras sakė, kad Rusija pasienio punktuose vykdo žvalgybą ir verbavimą, o „Threod“ padegimo bandymas buvo paskutinis lašas.",
+  "title": "Latvijos premjeras: Estija sieną su Rusija uždarė paskubomis",
+  "summary": "Latvijos premjeras TV3 sakė, kad prieš nuspręsdama nuo gruodžio 1 d. uždaryti kelių pasienio punktus su Rusija Estija turėjo pasitarti su kitomis Baltijos šalimis, ir užsiminė, kad laikas parinktas atsižvelgiant į Estijos pavasario rinkimus; Ryga dėl savo galimo uždarymo turėjo spręsti lapkričio 26 d. Narvos meras paprašė išimčių sienos išskirtoms šeimoms, o Estijos vidaus reikalų ministras sakė, kad Rusija pasienio punktuose vykdo žvalgybą ir verbavimą, o „Threod“ padegimo bandymas buvo paskutinis lašas.",
   "evidence": "Oficialus pareiškimas",
   "corroboration": "ERR (du pranešimai, lapkričio 25 d.); „Hromadske“ – apie Estijos premjero pastabą, kad kitas gali būti geležinkelis.",
   "analysis": "Retas viešas Baltijos šalių vyriausybių nesutarimas, tačiau dėl metodo ir laiko, o ne dėl pačios Rusijos grėsmės. Latvijos sprendimas parodys, ar susiformuos bendra Baltijos šalių linija."
@@ -1728,5 +1728,65 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "LRT; LSM.",
   "analysis": "Politinis ir diplomatinis spaudimas, o ne saugumo incidentas. Maskva Estijos sienos uždarymą pavadino „nauja geležine uždanga“ ir į kelionių ribojimo iniciatyvą gali atsakyti panašiai."
+ },
+ {
+  "key": "2026-11-27|latvia-drone",
+  "date": "2026-11-27",
+  "order": 1,
+  "title": "Dronas trumpam įskrido į Latvijos oro erdvę prie Rusijos sienos",
+  "summary": "Latvijos ginkluotosios pajėgos pranešė, kad lapkričio 27 d. ankstų rytą neatpažintas dronas įskrido į Latvijos oro erdvę. Prieš 3 val. Ludzos savivaldybės gyventojų telefonams išsiųstas realios grėsmės pranešimas, atšauktas per kelias minutes, o po jo – žemesnio lygio pranešimas Balvų savivaldybei, pasibaigęs apie 3.29 val. Pakelti NATO naikintuvai ir perėmimo dronas. Maždaug tuo pačiu metu Rusijos Leningrado srities gubernatorius sakė, kad per ataką prieš sritį numušta daugiau nei 40 dronų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Reuters“ ir LSM, remiantis Latvijos ginkluotosiomis pajėgomis; priskyrimo kol kas nėra.",
+  "analysis": "Šiais metais Latvijoje buvo keli nuklydę dronai, dalis jų – Rusijos trikdymo nuo kurso nukreipti Ukrainos dronai, o laikas rodo į ataką prieš Leningrado sritį. Kol Latvija nepriskirs drono, tai yra oro erdvės incidentas, o ne Rusijos zondavimo įrodymas."
+ },
+ {
+  "key": "2026-11-27|poland-interception",
+  "date": "2026-11-27",
+  "order": 2,
+  "title": "Lenkijos užsienio reikalų ministras: raketų numušimas virš Ukrainos būtų savigyna",
+  "summary": "Lapkričio 25 d. užsienio reikalų ministras Radosławas Sikorskis Lenkijos radijui sakė, kad Rusijos raketų ar dronų numušimas virš Ukrainos Kyjivo prašymu būtų būtinoji gintis, nes artėjanti raketa yra tiesioginė grėsmė. Gynybos viceministras Cezary Tomczykas sakė, kad NATO tam nepritaria, ir tikisi, kad planuojama 12–kelių dešimčių kilometrų gylio neskraidymo zona palei rytinę sieną įsigalios gruodžio pabaigoje ar sausio pradžioje. Ukrainos ambasadorius sakė, kad Kyjivas realiuoju laiku dalijasi su Lenkija raketų ir dronų duomenimis.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Euromaidan Press“ (Ukrainos leidinys), remdamasis „Polsat“ ir RMF FM; ankstesnis „Bloomberg“ pranešimas, kad Lenkija kėlė šią idėją NATO, vis dar remiasi neįvardytais šaltiniais.",
+  "analysis": "Sikorskio pareiškimai Lenkijos poziciją daro aiškesnę nei „Bloomberg“ šaltiniai, tačiau NATO sprendimo vis dar nėra, o konkretus Varšuvos žingsnis tebėra zona virš jos pačios teritorijos."
+ },
+ {
+  "key": "2026-11-27|gps-wider",
+  "date": "2026-11-27",
+  "order": 3,
+  "title": "Savaitgalio GPS trikdžiai palietė ir Taliną, Helsinkį bei Alandus",
+  "summary": "Lapkričio 26 d. „Evropeiska pravda“ pristatyta „Dagens Nyheter“ ir Danijos gpsjam.org duomenų analizė rodo, kad lapkričio 21–23 d. trikdžiai buvo stipriausi aplink Stokholmą, bet palietė ir Gotlandą, Taliną, Helsinkį bei Alandų salas; Talinas ir Helsinkis lapkričio 23 d. vis dar rodė stiprius trikdžius. Švedijos transporto agentūra juos pavadino rimtais ir natūralios priežasties nerado, tačiau jokia valstybė neįvardyta. Danijos karinio jūrų laivyno karininkas sakė, kad įtarimas krenta Rusijai. Tą patį savaitgalį dronas, kurį, Ukrainos prezidento teigimu, pasiuntė Ukraina, pataikė į Rusijos krovininį laivą „Sparta II“ Suomijos įlankoje.",
+  "evidence": "Analizė",
+  "corroboration": "„Dagens Nyheter“ ir DR per „Evropeiska pravda“; „Yle“ – apie „Sparta II“.",
+  "analysis": "Platesnė vieno epizodo apimtis, o ne naujas epizodas. Dalis trikdžių gali būti susiję su Rusijos gynyba nuo Ukrainos dronų ir smūgių laivams, tačiau niekas to neįrodė, o poveikis civilinei aviacijai bet kuriuo atveju toks pat."
+ },
+ {
+  "key": "2026-11-27|baltic-border-choices",
+  "date": "2026-11-27",
+  "order": 4,
+  "title": "Latvija atideda sprendimą dėl sienos su Rusija; Lietuva nemato reikalo uždaryti",
+  "summary": "Latvijos premjeras Andris Kulbergs paprašė Užsienio reikalų ir Susisiekimo ministerijų įvertinti pasienio punktų su Rusija uždarymą, įskaitant poveikį tranzitui; klausimą tikimasi svarstyti lapkričio 30 d. savaitę, o ne lapkričio 26 d. Latvijos pasieniečių vadas įspėjo, kad Estijai gruodžio 1 d. uždarius kelių pasienio punktus eismas persikels į Latviją. Lietuvoje naujasis pasieniečių vadas Donatas Škarnulis LRT sakė, kad Rusijos pasienio punktų dabar uždaryti nereikia, o prezidentas Gitanas Nausėda Estijos žingsnį pavadino tinkamu ir neatmetė panašių priemonių.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Delfi“ per „Bytes Europe“ ir „Glavnoe“; LRT/BNS.",
+  "analysis": "Trys kaimynės – trys požiūriai. Nesutariama dėl laiko ir kainos, o Rusijos užsienio reikalų ministerija jau pareiškė protestą Estijai, uždarymą pavadinusi antirusišku išpuoliu."
+ },
+ {
+  "key": "2026-11-27|moscow-messaging",
+  "date": "2026-11-27",
+  "order": 5,
+  "title": "Maskva: neplanuojame pulti NATO, bet NATO „atvirai ruošiasi“ karui",
+  "summary": "Lapkričio 20 d. brifinge užsienio reikalų ministerijos atstovė Marija Zacharova sakė, kad Rusija neketina pulti NATO valstybių ir siūlė abipuses saugumo garantijas, kartu teigdama, kad NATO atvirai ruošiasi karui su Rusija, ir priminė, kad abi pusės turi branduolinį ginklą. Po trijų dienų ministerija įspėjo, kad Estija atveda situaciją prie atviro karo ribos, o lapkričio 23 d. užprotestavo Estijos sienos uždarymą.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "TASS; „Ukrainska pravda“ – apie protestą Estijai.",
+  "analysis": "Nuraminimas ir įspėjimas tą pačią savaitę – pažįstamas modelis. Lietuvos grėsmių vertinimas Rusiją vertina pagal jos karinių pajėgumų atkūrimą, o ne pagal tokius pareiškimus; nė viena iš šių linijų to vertinimo nekeičia."
+ },
+ {
+  "key": "2026-11-27|poland-disinfo",
+  "date": "2026-11-27",
+  "order": 6,
+  "title": "Lenkija: melagingi pasakojimai apie Karaliaučių pasiekė milijonus",
+  "summary": "Varšuvos rizikos bendrovės „Global Security Centre“ viešoje santraukoje cituojamas Lenkijos valstybinio dezinformacijos kontrolės centro įvertinimas, kad melagingi pasakojimai apie lapkričio 21 d. pavojų Karaliaučiaus srityje pasiekė mažiausiai 19 mln. žmonių. Joje taip pat pažymima, kad Rusijos ambasadorius, iškviestas dėl trijų lapkričio 20 d. Lenkijoje nukritusių raketų Ch-101, sakė, kad jos nebuvo rusiškos.",
+  "evidence": "Analizė",
+  "corroboration": "GSC Lenkijos oficialių įvertinimų santrauka; šią savaitę Lietuvos ir Lenkijos faktų tikrintojai jau paneigė Karaliaučiaus teiginį.",
+  "analysis": "Rodo istorijos, neturėjusios oficialios Rusijos paramos, mastą. Auditorijos dydis yra įvertinimas, o pačios bendrovės rizikos reitingai – jos vertinimas."
  }
 ]

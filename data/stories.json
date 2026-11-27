@@ -1728,5 +1728,65 @@
   "evidence": "Official statement",
   "corroboration": "LRT; LSM.",
   "analysis": "Political and diplomatic pressure, not a security incident. Moscow has called Estonia's closure a 'new Iron Curtain' and may answer the travel push in similar terms."
+ },
+ {
+  "key": "2026-11-27|latvia-drone",
+  "date": "2026-11-27",
+  "order": 1,
+  "title": "Drone briefly enters Latvian airspace near the Russian border",
+  "summary": "Latvia's armed forces said an unidentified drone entered Latvian airspace in the early hours of 27 November. An actual-threat alert was sent to phones in Ludza municipality shortly before 03:00 and lifted within minutes, followed by a lower-level alert for Balvi municipality that ended around 03:29. NATO fighters and an interceptor drone were deployed. At about the same time, the governor of Russia's Leningrad region said more than 40 drones had been downed in an attack on the region.",
+  "evidence": "Official statement",
+  "corroboration": "Reuters and LSM from the Latvian armed forces; no attribution yet.",
+  "analysis": "Latvia has had several strays this year, some of them Ukrainian drones pushed off course by Russian jamming, and the timing points to the Leningrad attack. Until Latvia attributes it, this is an airspace incident, not evidence of a Russian probe."
+ },
+ {
+  "key": "2026-11-27|poland-interception",
+  "date": "2026-11-27",
+  "order": 2,
+  "title": "Poland's foreign minister: downing missiles over Ukraine would be self-defence",
+  "summary": "Foreign Minister Radosław Sikorski said on Polish radio on 25 November that shooting down Russian missiles or drones over Ukraine at Kyiv's request would be necessary defence, because an approaching missile is a direct threat. Deputy Defence Minister Cezary Tomczyk said NATO is not in favour and hopes the planned no-fly zone along the eastern border, 12 to several dozen kilometres deep, will take effect in late December or early January. Ukraine's ambassador said Kyiv shares real-time missile and drone data with Poland.",
+  "evidence": "Official statement",
+  "corroboration": "Euromaidan Press (Ukrainian outlet) citing Polsat and RMF FM; Bloomberg's earlier report that Poland raised the idea at NATO still rests on unnamed sources.",
+  "analysis": "Sikorski's remarks make Poland's position clearer than Bloomberg's sourcing did, but there is still no NATO decision and Warsaw's concrete step remains a zone over its own territory."
+ },
+ {
+  "key": "2026-11-27|gps-wider",
+  "date": "2026-11-27",
+  "order": 3,
+  "title": "Weekend GPS interference also hit Tallinn, Helsinki and Åland",
+  "summary": "Dagens Nyheter and Danish analysis of gpsjam.org data, reported by European Pravda on 26 November, show that interference on 21–23 November was strongest around Stockholm but also affected Gotland, Tallinn, Helsinki and the Åland Islands; Tallinn and Helsinki still showed heavy interference on 23 November. Sweden's Transport Agency called it serious and found no natural cause, but no state was named. A Danish naval officer said suspicion falls on Russia. The same weekend a drone, which Ukraine's president said Ukraine sent, hit the Russian cargo ship Sparta II in the Gulf of Finland.",
+  "evidence": "Analysis",
+  "corroboration": "Dagens Nyheter and DR via European Pravda; Yle on the Sparta II.",
+  "analysis": "A wider footprint for one episode, not a new episode. Some interference may be linked to Russian defences against Ukrainian drones and ship strikes, but nobody has shown that, and the effect on civil aviation is the same either way."
+ },
+ {
+  "key": "2026-11-27|baltic-border-choices",
+  "date": "2026-11-27",
+  "order": 4,
+  "title": "Latvia delays its Russia-border decision; Lithuania sees no need to close",
+  "summary": "Latvia's prime minister, Andris Kulbergs, has asked the foreign and transport ministries to assess closing crossings with Russia, including the effect on transit, with the issue expected in the week of 30 November rather than on 26 November. Latvia's border guard chief has warned that traffic will shift to Latvia once Estonia closes its road crossings on 1 December. In Lithuania, new border guard chief Donatas Škarnulis told LRT there is no need to close the Russian crossings now, while President Gitanas Nausėda called Estonia's move appropriate and did not rule out similar steps.",
+  "evidence": "Official statement",
+  "corroboration": "Delfi via Bytes Europe and Glavnoe; LRT/BNS.",
+  "analysis": "Three neighbours, three approaches. The disagreement is about timing and cost, and Russia's foreign ministry has already protested to Estonia, calling the closure an anti-Russian stunt."
+ },
+ {
+  "key": "2026-11-27|moscow-messaging",
+  "date": "2026-11-27",
+  "order": 5,
+  "title": "Moscow: no plans to attack NATO, but NATO 'openly preparing' for war",
+  "summary": "At her 20 November briefing, foreign ministry spokeswoman Maria Zakharova said Russia has no intention of attacking NATO states and has proposed mutual security guarantees, while also saying NATO is openly preparing for war with Russia and noting that both sides have nuclear weapons. Three days later the ministry warned that Estonia was bringing the situation to the brink of open war, and on 23 November it protested Estonia's border closure.",
+  "evidence": "Official statement",
+  "corroboration": "TASS; Ukrainska Pravda on the protest to Estonia.",
+  "analysis": "Reassurance and warning in the same week is a familiar pattern. Lithuania's threat assessment judges Russia by its rebuilding of military capacity, not by such statements; neither line changes that judgement."
+ },
+ {
+  "key": "2026-11-27|poland-disinfo",
+  "date": "2026-11-27",
+  "order": 6,
+  "title": "Poland: false Kaliningrad narratives reached millions",
+  "summary": "A public summary by the Global Security Centre, a Warsaw risk firm, cites Poland's state counter-disinformation centre as estimating that false narratives about the 21 November Kaliningrad alert reached at least 19 million people. It also notes that Russia's ambassador, summoned over the three Kh-101 missiles that fell in Poland on 20 November, said they were not Russian.",
+  "evidence": "Analysis",
+  "corroboration": "GSC summary of Polish official estimates; Lithuanian and Polish fact-checks of the Kaliningrad claim earlier this week.",
+  "analysis": "Shows the reach of a story that had no official Russian backing. The audience figure is an estimate, and the firm's own risk ratings are its judgement."
  }
 ]

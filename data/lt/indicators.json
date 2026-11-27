@@ -3945,7 +3945,7 @@
   "indicator": "Spaudimas Baltarusijos pasienyje",
   "status": "Elevated",
   "trend": "Unchanged",
-  "note": "Baltijos šalių, Lenkijos ar Suomijos pasienyje naujų provokacijų nebuvo. Gruodžio 1 d. Estija uždaro kelių pasienio punktus su Rusija; Latvijos premjerė sakė, kad Estija veikė paskubomis, o Ryga dėl savo uždarymo turėjo spręsti lapkričio 26 d.",
+  "note": "Baltijos šalių, Lenkijos ar Suomijos pasienyje naujų provokacijų nebuvo. Gruodžio 1 d. Estija uždaro kelių pasienio punktus su Rusija; Latvijos premjeras sakė, kad Estija veikė paskubomis, o Ryga dėl savo uždarymo turėjo spręsti lapkričio 26 d.",
   "evidence": "Oficialus pareiškimas"
  },
  {
@@ -3995,6 +3995,149 @@
  {
   "key": "2026-11-26|rail",
   "date": "2026-11-26",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Technikos gabenimas geležinkeliu Baltijos kryptimi",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nepranešta apie technikos traukinius Baltijos šalių pasienio link.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-27|troops",
+  "date": "2026-11-27",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Karių judėjimas Baltijos šalių pasienio link",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nauja informacija apie Rusijos pajėgų judėjimą Baltijos šalių, Lenkijos ar Suomijos link negauta.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-27|kaliningrad",
+  "date": "2026-11-27",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Veikla Karaliaučiaus srityje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Apie naują karinę veiklą nepranešta. Lietuvos kariai toliau padeda pasieniečiams prie Karaliaučiaus sienos – šis dislokavimas pratęstas iki lapkričio pabaigos. Pranešimai apie lapkričio 21 d. sprogimus Baltijske lieka nepatvirtinti.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-27|belarus",
+  "date": "2026-11-27",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Veikla Baltarusijoje",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "ISW lapkričio 25 d. vertinime vėl nieko reikšmingo Baltarusijoje nepastebi. Naujų viešų pranešimų apie Rusijos pajėgas ar „Orešnik“ dalinius ten nėra.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-27|exercises",
+  "date": "2026-11-27",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Paskelbtos pratybos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepaskelbta jokių didelių Rusijos ar Baltarusijos pratybų prie Baltijos šalių sienų. NATO pratybos „Grand Eagle 26“ Lietuvoje tęsiasi iki gruodžio 3 d.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-27|gps",
+  "date": "2026-11-27",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS trikdymas ir klastojimas",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Apie naują trikdžių epizodą nepranešta. „Dagens Nyheter“ ir Danijos gpsjam.org duomenų analizė rodo, kad lapkričio 21–23 d. trikdžiai apėmė ir Taliną, Helsinkį, Gotlandą bei Alandų salas; Švedijos institucijos atmetė natūralias priežastis, bet valstybės neįvardijo, o Danijos karinio jūrų laivyno karininkas sakė, kad įtarimas krenta Rusijai.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-27|airspace",
+  "date": "2026-11-27",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Oro erdvės pažeidimai ir dronai",
+  "status": "High",
+  "trend": "Rising",
+  "note": "Lapkričio 27 d. prieš 3 val. neatpažintas dronas trumpam įskrido į Latvijos oro erdvę virš Ludzos savivaldybės; pakelti NATO naikintuvai ir perėmimo dronas, o pavojus atšauktas per kelias minutes. Tai sutapo su Ukrainos dronų ataka prieš Leningrado sritį, apie kurią pranešė jos gubernatorius. Latvija nenurodė, iš kur dronas atskrido.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-27|sabotage",
+  "date": "2026-11-27",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotažo incidentai",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "Apie naują su Rusija siejamą sabotažo atvejį nepranešta. Lietuva, Lenkija, Vokietija ir Bulgarija planuoja jungtinę tyrimo grupę „Starlink“ padegimų byloms, prokurorai turi susitikti gruodžio pradžioje.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-27|border",
+  "date": "2026-11-27",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Spaudimas Baltarusijos pasienyje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Baltijos šalių, Lenkijos ar Suomijos pasienyje naujų provokacijų nebuvo. Latvijos premjeras paprašė ministerijų įvertinti pasienio punktų su Rusija uždarymą, sprendimas galimas lapkričio 30 d. savaitę; naujasis Lietuvos pasieniečių vadas sakė, kad Lietuvos pasienio punktų dabar uždaryti nereikia.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-27|rhetoric",
+  "date": "2026-11-27",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Oficiali Rusijos retorika",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Nuo lapkričio 23 d. įspėjimo Estijai dėl „atviro karo“ naujos aiškios grėsmės nėra. Užsienio reikalų ministerija toliau teigia, kad Rusija neplanuoja pulti NATO, kartu tvirtindama, kad NATO atvirai ruošiasi karui.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-27|mobilization",
+  "date": "2026-11-27",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilizacija ir rezervistų šaukimas",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Nėra mobilizacijos dekreto ir pranešimų apie rezervistų šaukimą Baltijos kryptimi.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-27|hospitals",
+  "date": "2026-11-27",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Lauko ligoninės ir lovos ligoninėse",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujos informacijos nėra. Rugsėjo pranešimas apie 16 000–20 000 papildomų karinių lovų prie Baltijos šalių lieka vienintelis, anoniminiais šaltiniais grįstas teiginys. Lauko ligoninių prie Baltijos šalių sienų nepranešta.",
+  "evidence": "Anoniminiai šaltiniai"
+ },
+ {
+  "key": "2026-11-27|blood",
+  "date": "2026-11-27",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Kraujo atsargos",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Viešų pranešimų apie kraujo atsargų gabenimą Baltijos šalių pasienio link nėra. Pranešimų nebuvimas nėra įrodymas, kad to nevyksta: šis ženklas paprastai išryškėja vėlai, per Vakarų pareigūnus.",
+  "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-27|rail",
+  "date": "2026-11-27",
   "order": 13,
   "group": "Logistics and medical",
   "indicator": "Technikos gabenimas geležinkeliu Baltijos kryptimi",

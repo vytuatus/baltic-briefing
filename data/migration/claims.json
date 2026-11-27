@@ -515,5 +515,60 @@
   "conflict": "No unusual movement has been reported on the Russian side; the interior minister stresses intelligence and recruitment risks at the crossings rather than migration.",
   "verdict": "Unconfirmed",
   "verdict_note": "A precautionary scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-27|forced-relocation",
+  "date": "2026-11-27",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support; the 2027 pool is not yet set, and Latvia is seeking exemption from its share.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-27|latvia-pressure-over",
+  "date": "2026-11-27",
+  "order": 2,
+  "claim": "Pressure from Belarus on Latvia's border has ended",
+  "claimed_by": "Inferences from recent low daily figures and days without attempts",
+  "evidence": "Official statement",
+  "conflict": "Latvia recorded no attempts on 23 and 24 November, but this year's total is a record and earlier lulls were followed by new peaks.",
+  "verdict": "Unsupported",
+  "verdict_note": "A lull is not an end."
+ },
+ {
+  "key": "2026-11-27|echr-cleared-lithuania",
+  "date": "2026-11-27",
+  "order": 3,
+  "claim": "The human rights court cleared Lithuania over its pushbacks",
+  "claimed_by": "Some online headlines and aggregators; still circulating",
+  "evidence": "Imagery or documents",
+  "conflict": "The court found no breach over returns, but found the four applicants' detention unlawful and awarded €15,000 each.",
+  "verdict": "Misleading",
+  "verdict_note": "True for returns, wrong for detention."
+ },
+ {
+  "key": "2026-11-27|traffic-shift-latvia",
+  "date": "2026-11-27",
+  "order": 4,
+  "claim": "Estonia's border closure will shift Russia-border traffic to Latvia",
+  "claimed_by": "Latvia's border guard chief and prime minister",
+  "evidence": "Official statement",
+  "conflict": "Estonia says the closure is needed for security; no data yet, as the closure starts on 1 December. A shift in migration pressure is not claimed by officials.",
+  "verdict": "Likely",
+  "verdict_note": "Traffic shift expected; effects not yet measured."
+ },
+ {
+  "key": "2026-11-27|estonia-migration-push",
+  "date": "2026-11-27",
+  "order": 5,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "No unusual movement has been reported on the Russian side; Finland's 13 crossings this year show low pressure on the Nordic part of the border.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
  }
 ]

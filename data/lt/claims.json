@@ -1896,10 +1896,87 @@
   "date": "2026-11-26",
   "order": 7,
   "claim": "Estija sieną su Rusija uždarė paskubomis, dėl rinkimų",
-  "claimed_by": "Latvijos premjerė",
+  "claimed_by": "Latvijos premjeras",
   "evidence": "Oficialus pareiškimas",
   "conflict": "Estijos vyriausybė nurodo dvylika Rusijai priskiriamų atakų ir „Threod“ padegimo bandymą; Estijos kritikai, tarp jų Narvos meras, taip pat abejoja socialine kaina.",
   "verdict": "Contested",
   "verdict_note": "Politinis vertinimas, kurį ginčija Talinas."
+ },
+ {
+  "key": "2026-11-27|c1",
+  "date": "2026-11-27",
+  "order": 1,
+  "claim": "Ukraina naudoja Estijos oro erdvę atakoms prieš Rusiją, Estijai tyliai sutinkant",
+  "claimed_by": "Rusijos užsienio reikalų ministerija; pakartojo nefrakcinis Estijos parlamentaras",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lapkričio 25 d. Estijos gynybos ministras tai paneigė parlamente; nė viena pusė skrydžių duomenų nepateikė.",
+  "verdict": "Unsupported",
+  "verdict_note": "Įrodymų vis dar nepateikta."
+ },
+ {
+  "key": "2026-11-27|c2",
+  "date": "2026-11-27",
+  "order": 2,
+  "claim": "Lenkija nori, kad NATO numuštų Rusijos raketas virš Ukrainos",
+  "claimed_by": "„Bloomberg“, remdamasis neįvardytais šaltiniais; Lenkijos užsienio reikalų ministras Lenkijos radijuje",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Sikorskis dabar viešai tokį perėmimą vadina būtinąja gintimi; gynybos viceministras negalėjo patvirtinti oficialaus prašymo ir sako, kad NATO tam nepritaria.",
+  "verdict": "Likely",
+  "verdict_note": "Lenkija tam pritaria; NATO sprendimo nėra."
+ },
+ {
+  "key": "2026-11-27|c3",
+  "date": "2026-11-27",
+  "order": 3,
+  "claim": "Rusija neplanuoja pulti NATO narių",
+  "claimed_by": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lietuvos 2026 m. grėsmių vertinime teigiama, kad Rusija atkuria pajėgumus ir ilgesniu laikotarpiu galėtų vykdyti ribotas operacijas prieš NATO valstybes; ta pati ministerija įspėjo Estiją apie „atvirą karą“.",
+  "verdict": "Contested",
+  "verdict_note": "Ketinimų pareiškimas, kurio patikrinti negalima."
+ },
+ {
+  "key": "2026-11-27|c4",
+  "date": "2026-11-27",
+  "order": 4,
+  "claim": "Lapkričio 21–23 d. GPS trikdžius aplink Stokholmą, Taliną ir Helsinkį sukėlė Rusija",
+  "claimed_by": "Danijos karinio jūrų laivyno karininkas; plačiai daroma prielaida žiniasklaidoje",
+  "evidence": "Analizė",
+  "conflict": "Švedijos institucijos atmetė natūralias priežastis, bet valstybės neįvardijo; trikdžiai sutapo su Ukrainos dronų smūgiais Suomijos įlankoje.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, bet nepriskirta."
+ },
+ {
+  "key": "2026-11-27|c5",
+  "date": "2026-11-27",
+  "order": 5,
+  "claim": "Lapkričio 27 d. į Latvijos oro erdvę įskridęs dronas buvo Rusijos įsiveržimas",
+  "claimed_by": "Ankstyvos interpretacijos internete; ne Latvijos pareigūnai",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Latvijos ginkluotosios pajėgos droną pavadino neatpažintu; Rusija tuo pačiu metu pranešė apie Ukrainos dronų ataką prieš gretimą Leningrado sritį.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Kilmė dar nenustatyta."
+ },
+ {
+  "key": "2026-11-27|c6",
+  "date": "2026-11-27",
+  "order": 6,
+  "claim": "Estija sieną su Rusija uždarė paskubomis, dėl rinkimų",
+  "claimed_by": "Latvijos premjeras",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Talinas nurodo Rusijai priskiriamas atakas; Lietuvos prezidentas Estijos žingsnį pavadino tinkamu, o Latvija svarsto tokį patį žingsnį.",
+  "verdict": "Contested",
+  "verdict_note": "Politinis vertinimas, kurį ginčija Talinas."
+ },
+ {
+  "key": "2026-11-27|c7",
+  "date": "2026-11-27",
+  "order": 7,
+  "claim": "Lapkričio 21 d. NATO ar Ukraina atakavo Karaliaučių iš Lietuvos",
+  "claimed_by": "Kelios X paskyros; išplatinta socialiniuose tinkluose",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Karaliaučiaus srities gubernatorius sakė, kad grėsmės nebuvo; Lietuva neigė bet kokią ataką; Lenkijos dezinformacijos kontrolės centras vertina, kad melaginga istorija pasiekė mažiausiai 19 mln. žmonių.",
+  "verdict": "False",
+  "verdict_note": "Jokių oficialių ar fizinių įrodymų."
  }
 ]

@@ -1098,5 +1098,115 @@
   "trend": "Unchanged",
   "note": "No new misleading migration claim found. Simplified headlines about the court ruling, such as Lithuania being cleared, are still in circulation but are not new.",
   "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-27|belarus-crossings",
+  "date": "2026-11-27",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Crossing attempts from Belarus",
+  "status": "Elevated",
+  "trend": "Easing",
+  "note": "Latvia reported 0 attempts on 24 November and an unchanged year total of 13,035 since 22 November (12,046 in all of 2025), implying no attempts on 23 November either. No newer Lithuanian or Polish daily figures found. Attempts are counted, not people, and publication is uneven.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|smuggling",
+  "date": "2026-11-27",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Smuggling networks and organised crossings",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new organised crossing, tunnel or smuggling case first reported. The Polish arrest of a suspected organiser reported on 23 November and Latvia's 179 criminal proceedings this year remain the latest data.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|russia-border",
+  "date": "2026-11-27",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Russia border: Estonia, Latvia, Finland",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Estonia's road crossings close on 1 December; Latvia's decision is expected in the week of 30 November, and its border guard chief warns traffic will shift to Latvia. Finland's border guard counts 13 illegal crossings from Russia this year and warns that videos of a forest route posted by two Russians who say they deserted may expose surveillance.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|eu-solidarity",
+  "date": "2026-11-27",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "EU solidarity and relocation decisions",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "The Council has not yet set the 2027 solidarity pool proposed on 6 November. Latvia seeks exemption from its share; nothing obliges a Baltic state to accept relocated people.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|transfers",
+  "date": "2026-11-27",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Transfers back to the Baltic states",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No reports of other EU countries planning to send migrants to the Baltic states. Estonia's lawful returns to Latvia under EU rules continue (148 by early November, per ERR).",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|schengen-checks",
+  "date": "2026-11-27",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Border checks inside Schengen",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Poland's checks on its borders with Lithuania and Germany continue until 30 March 2027. No new decision on checks between Estonia and Latvia.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|onward-routes",
+  "date": "2026-11-27",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Onward routes through the Baltics",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new case reported. People crossing from Belarus into Latvia continue to be found moving on toward Estonia, Finland and western Europe.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|asylum-capacity",
+  "date": "2026-11-27",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Asylum claims and reception capacity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No capacity problem reported in the Baltic states.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-27|law-rights",
+  "date": "2026-11-27",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Pushback law, courts and rights",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Details of the 24 November Lithuanian judgment: no breach over returns to Belarus (11 votes to 6), but unlawful detention of four Cuban applicants in 2022, with €15,000 each in damages. EUobserver says about 30 similar cases are pending.",
+  "evidence": "Imagery or documents"
+ },
+ {
+  "key": "2026-11-27|narratives",
+  "date": "2026-11-27",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Migration disinformation and rhetoric",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new misleading migration claim found. Simplified readings of the court rulings are still in circulation but are not new.",
+  "evidence": "Analysis"
  }
 ]

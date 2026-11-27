@@ -398,5 +398,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "None new; the misleading 'court cleared Lithuania' reading was counted yesterday."
+ },
+ {
+  "key": "2026-11-27|organised",
+  "date": "2026-11-27",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "None; no new escorted group, smuggling vehicle, tunnel or damage to border equipment first reported."
+ },
+ {
+  "key": "2026-11-27|measures",
+  "date": "2026-11-27",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 0,
+  "note": "None; Latvia has not yet decided on its Russia crossings, and Estonia's 1 December closure was already counted."
+ },
+ {
+  "key": "2026-11-27|eu",
+  "date": "2026-11-27",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "None; the 2027 solidarity pool still awaits the Council."
+ },
+ {
+  "key": "2026-11-27|transfers",
+  "date": "2026-11-27",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "None newly reported; Estonia's returns to Latvia are an ongoing practice under EU rules."
+ },
+ {
+  "key": "2026-11-27|claims",
+  "date": "2026-11-27",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "None new."
  }
 ]

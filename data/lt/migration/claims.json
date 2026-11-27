@@ -515,5 +515,60 @@
   "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta; vidaus reikalų ministras pabrėžia žvalgybos ir verbavimo pasienio punktuose, o ne migracijos riziką.",
   "verdict": "Unconfirmed",
   "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
+ },
+ {
+  "key": "2026-11-27|forced-relocation",
+  "date": "2026-11-27",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą; 2027 m. fondas dar nenustatytas, o Latvija siekia atleidimo nuo savo dalies.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-27|latvia-pressure-over",
+  "date": "2026-11-27",
+  "order": 2,
+  "claim": "Baltarusijos spaudimas Latvijos pasieniui baigėsi",
+  "claimed_by": "Išvados iš pastarųjų mažų dienos skaičių ir dienų be bandymų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lapkričio 23 ir 24 d. Latvija bandymų neužfiksavo, tačiau šių metų suma rekordinė, o ankstesni atoslūgiai baigdavosi naujais pikais.",
+  "verdict": "Unsupported",
+  "verdict_note": "Atoslūgis nėra pabaiga."
+ },
+ {
+  "key": "2026-11-27|echr-cleared-lithuania",
+  "date": "2026-11-27",
+  "order": 3,
+  "claim": "Žmogaus teisių teismas išteisino Lietuvą dėl apgręžimo",
+  "claimed_by": "Kai kurios internetinės antraštės ir agregatoriai; vis dar cirkuliuoja",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Teismas grąžinimo pažeidimo nenustatė, tačiau pripažino keturių pareiškėjų sulaikymą neteisėtu ir kiekvienam priteisė po 15 000 eurų.",
+  "verdict": "Misleading",
+  "verdict_note": "Teisinga dėl grąžinimo, klaidinga dėl sulaikymo."
+ },
+ {
+  "key": "2026-11-27|traffic-shift-latvia",
+  "date": "2026-11-27",
+  "order": 4,
+  "claim": "Estijos sienos uždarymas perkels eismą per Rusijos sieną į Latviją",
+  "claimed_by": "Latvijos pasieniečių vadas ir premjeras",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Estija sako, kad uždarymas būtinas saugumui; duomenų dar nėra, nes uždarymas prasideda gruodžio 1 d. Pareigūnai neteigia, kad persikels migracijos spaudimas.",
+  "verdict": "Likely",
+  "verdict_note": "Eismo persikėlimo tikimasi; poveikis dar neišmatuotas."
+ },
+ {
+  "key": "2026-11-27|estonia-migration-push",
+  "date": "2026-11-27",
+  "order": 5,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta; Suomijos 13 sienos kirtimų šiais metais rodo mažą spaudimą šiaurinėje sienos dalyje.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
  }
 ]

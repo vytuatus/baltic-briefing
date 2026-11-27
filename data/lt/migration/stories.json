@@ -414,7 +414,7 @@
   "date": "2026-11-26",
   "order": 3,
   "title": "Latvija svarsto uždaryti pasienio punktus su Rusija; Estijoje tęsiasi diskusija dėl patikrų",
-  "summary": "Latvijos premjerė sakė, kad prieš uždarydama kelių pasienio punktus su Rusija nuo gruodžio 1 d. Estija turėjo pasitarti su kaimynėmis, ir sakė, kad Ryga dėl savo uždarymo nuspręs lapkričio 26 d. Estijoje koalicija atmetė opozicijos raginimus įvesti patikras Latvijos pasienyje; ERR praneša, kad vidaus reikalų ministerijos kancleris kainą įvertino apie 65 mln. eurų, o anksčiau buvo minima apie 300 mln. eurų.",
+  "summary": "Latvijos premjeras sakė, kad prieš uždarydama kelių pasienio punktus su Rusija nuo gruodžio 1 d. Estija turėjo pasitarti su kaimynėmis, ir sakė, kad Ryga dėl savo uždarymo nuspręs lapkričio 26 d. Estijoje koalicija atmetė opozicijos raginimus įvesti patikras Latvijos pasienyje; ERR praneša, kad vidaus reikalų ministerijos kancleris kainą įvertino apie 65 mln. eurų, o anksčiau buvo minima apie 300 mln. eurų.",
   "evidence": "Oficialus pareiškimas",
   "corroboration": "ERR (lapkričio 25 d.).",
   "analysis": "Pasienio punktų su Rusija uždarymas pirmiausia yra saugumo priemonė, tačiau jis gali perkelti keliautojus ir bet kokį migracijos spaudimą palei sieną. Kainos įvertinimai nesutampa, ir nė vienas nebuvo išsamiai paskelbtas."
@@ -438,5 +438,45 @@
   "evidence": "Oficialus pareiškimas",
   "corroboration": "Palenkės pasienio apsaugos naujienų puslapiai; kiti leidiniai to dar neperėmė.",
   "analysis": "Rodo, kad organizatorių tinklai siekia giliai į Lenkiją, o tolesnis judėjimas per Lietuvą į Lenkiją tęsiasi. Tai įtarimai; čia niekas neįvardijamas."
+ },
+ {
+  "key": "2026-11-27|latvia-zero-days",
+  "date": "2026-11-27",
+  "order": 1,
+  "title": "Latvija: lapkričio 23 ir 24 d. bandymų iš Baltarusijos nebuvo",
+  "summary": "Latvijos valstybės sienos apsaugos tarnyba pranešė, kad lapkričio 24 d. bandymų kirsti sieną iš Baltarusijos nebuvo, o jos metų suma lapkričio 22–24 d. išliko 13 035, vadinasi, bandymų nebuvo ir lapkričio 23 d. Suma viršija 12 046, užfiksuotus per visus 2025 m. Lapkričio 24 d. tarnyba saugumo sumetimais neįleido 11 užsieniečių sausumos pasienio punktuose, Rygos oro uoste ir Ventspilio uoste, iš jų devyni – Rusijos piliečiai.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Valstybės sienos apsaugos tarnybos lapkričio 22 ir 24 d. dienos ataskaitos; lapkričio 23 d. ataskaitos gauti nepavyko.",
+  "analysis": "Atoslūgis tęsiasi, tačiau tai vienos šalies serija, skelbiama nevienodai ir skaičiuojanti bandymus, o ne žmones. Ankstesnės šių metų pauzės baigdavosi naujais pikais."
+ },
+ {
+  "key": "2026-11-27|russia-border-choices",
+  "date": "2026-11-27",
+  "order": 2,
+  "title": "Latvija svarsto uždaryti sieną su Rusija; Lietuva nemato reikalo",
+  "summary": "Latvijos premjeras paprašė ministerijų įvertinti pasienio punktų su Rusija uždarymą, klausimą tikimasi svarstyti lapkričio 30 d. savaitę; Latvijos pasieniečių vadas įspėjo, kad Estijai gruodžio 1 d. uždarius kelių pasienio punktus eismas persikels į Latviją. Naujasis Lietuvos pasieniečių vadas LRT sakė, kad Lietuvos Rusijos pasienio punktų dabar uždaryti nereikia ir kad grėsmės iš Baltarusijos ir Rusijos pasienio vertinamos vienodai.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Delfi“ per „Bytes Europe“; LRT/BNS; „Meduza“ – apie poveikį keliautojams.",
+  "analysis": "Uždarymai yra saugumo, o ne migracijos priemonės, tačiau nevienodi sprendimai gali perkelti eismą ir bet kokį spaudimą palei Baltijos šalių sieną su Rusija."
+ },
+ {
+  "key": "2026-11-27|finland-route-videos",
+  "date": "2026-11-27",
+  "order": 3,
+  "title": "Suomija: vaizdo įrašai apie miško maršrutą į Suomiją kelia nerimą pasieniečiams",
+  "summary": "„Yle“ praneša, kad du rusai, teigiantys dezertyravę, paskelbė vaizdo įrašus apie savo maršrutą per mišką į Suomiją; „Yle“ juos įvertino kaip labai tikėtinai autentiškus. Suomijos pasieniečiai šiais metais suskaičiavo 13 neteisėtų rytinės sausumos sienos kirtimų, daugiausia Šiaurės Karelijoje, ir įspėja, kad vaizdo įrašai gali atskleisti jų stebėjimo detales.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Yle“ per „Daily Northern“; Suomijos pasieniečių duomenys.",
+  "analysis": "Maži skaičiai, kitoks profilis nei Baltarusijos maršruto ir jokių organizuoto spaudimo iš Rusijos ženklų; rūpestis susijęs su pasienio apsaugos metodų atskleidimu."
+ },
+ {
+  "key": "2026-11-27|echr-lithuania-details",
+  "date": "2026-11-27",
+  "order": 4,
+  "title": "Teismo sprendimai: Lietuva turės atlyginti žalą keturiems sulaikytiems kubiečiams",
+  "summary": "Papildomos lapkričio 24 d. Didžiosios kolegijos sprendimo detalės rodo, kad teismas 11 balsų prieš 6 nenustatė pažeidimo dėl Lietuvos vykdyto migrantų grąžinimo į Baltarusiją, tačiau pripažino keturių Kubos pareiškėjų sulaikymą 2022 m. neteisėtu ir kiekvienam priteisė po 15 000 eurų bei bylinėjimosi išlaidas. „EUobserver“ praneša, kad laukia apie 30 panašių bylų ir kad devynios vyriausybės šiuo klausimu darė spaudimą teismui.",
+  "evidence": "Vaizdai ar dokumentai",
+  "corroboration": "„CiberCuba“, remdamasis teismo bylos duomenimis; „EUobserver“.",
+  "analysis": "Ir vyriausybės, ir žmogaus teisių organizacijos sprendime gali rasti paramos sau: grąžinimas leidžiamas griežtai apibrėžtais atvejais, o sulaikymas ir pažeidžiamų asmenų atranka bus atidžiai tikrinami."
  }
 ]
