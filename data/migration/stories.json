@@ -478,5 +478,45 @@
   "evidence": "Imagery or documents",
   "corroboration": "CiberCuba citing the court's case data; EUobserver.",
   "analysis": "Both governments and rights groups can find support in the ruling: returns are allowed in tightly defined cases, while detention and screening of vulnerable people face scrutiny."
+ },
+ {
+  "key": "2026-11-28|latvia-four-days",
+  "date": "2026-11-28",
+  "order": 1,
+  "title": "Latvia: four days in a row without attempts from Belarus",
+  "summary": "Latvia's State Border Guard reported on 27 November that it had recorded no attempts by migrants to cross from Belarus for four days in a row, after reporting three such days on 26 November. Mid-November figures had been in single digits, after 20 to 40 attempts a day earlier in the month. This year's total, about 13,035, remains above the 12,046 recorded in all of 2025.",
+  "evidence": "Official statement",
+  "corroboration": "LETA via 1188.lv and Diena; the border guard's own page could not be retrieved, so the exact dates are inferred.",
+  "analysis": "The longest lull in weeks, but a single series that counts attempts rather than people. It does not show that Belarus has stopped organising crossings."
+ },
+ {
+  "key": "2026-11-28|poland-buffer",
+  "date": "2026-11-28",
+  "order": 2,
+  "title": "Poland renews its Belarus-border buffer zone for 90 days",
+  "summary": "Poland has extended the buffer zone along its border with Belarus for December, January and February, the tenth extension since June 2024, citing still real threats linked to migratory pressure. PAP reports 482 attempted illegal crossings on the Polish–Belarusian section from January to 8 November, and 13 fines and 141 warnings issued for presence in the zone by the Podlasie border guard by late October. The zone's area is unchanged.",
+  "evidence": "Official statement",
+  "corroboration": "Polsat News citing PAP.",
+  "analysis": "A routine renewal rather than an escalation, but it shows Warsaw does not regard the pressure as over."
+ },
+ {
+  "key": "2026-11-28|lithuania-pay",
+  "date": "2026-11-28",
+  "order": 3,
+  "title": "Lithuania plans to pay up to €4 million instead of taking relocated asylum seekers",
+  "summary": "Interior Minister Martynas Katelynas plans that Lithuania accept no relocated asylum seekers in 2027 and instead pay into the EU solidarity pool, possibly up to €4 million. This year Lithuania agreed to take 58 people from Cyprus: 28 have arrived, another group is due in December, and it has paid nearly €1.5 million for the remainder. Opposition figures criticised the plan, while the Seimas foreign and European affairs committees supported it; an MP claimed Cyprus had sent particularly problematic cases.",
+  "evidence": "Official statement",
+  "corroboration": "LRT; BNN rewrite of the same report.",
+  "analysis": "Paying instead of relocating is one of the options the Migration Pact offers every state, so this is a lawful choice, not a sign of pressure from other EU countries."
+ },
+ {
+  "key": "2026-11-28|russia-border-next",
+  "date": "2026-11-28",
+  "order": 4,
+  "title": "Estonia closes Russia road crossings on 1 December; Latvia to decide next week",
+  "summary": "Estonia's road crossings with Russia close on 1 December for at least six months. Latvia's prime minister has asked ministries to assess restrictions on security, transport and goods transit, with the issue expected in the week of 30 November; the interior minister backs discussing it but says the coalition needs a common position, and the border guard chief has warned that traffic will shift to Latvia.",
+  "evidence": "Official statement",
+  "corroboration": "Bytes Europe citing Delfi.",
+  "analysis": "A security measure rather than a migration one, but uneven decisions could shift travellers, and any pressure, along the Baltic border with Russia."
  }
 ]

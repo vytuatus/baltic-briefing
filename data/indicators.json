@@ -4145,5 +4145,148 @@
   "trend": "Unchanged",
   "note": "No reports of equipment trains moving toward Baltic borders.",
   "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|troops",
+  "date": "2026-11-28",
+  "order": 1,
+  "group": "Military",
+  "indicator": "Troop movements toward Baltic borders",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No new reports of Russian forces moving toward the Baltic states, Poland or Finland.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|kaliningrad",
+  "date": "2026-11-28",
+  "order": 2,
+  "group": "Military",
+  "indicator": "Kaliningrad activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new military activity reported. Russia's OSCE envoy claimed on 26 November that allied drills near Kaliningrad rehearse its seizure; Lithuania describes the German-led exercise, running to 3 December, as readiness training. Lithuanian troops' deployment to help border guards on the Kaliningrad border runs to the end of November.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|belarus",
+  "date": "2026-11-28",
+  "order": 3,
+  "group": "Military",
+  "indicator": "Belarus activity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "ISW's 27 November assessment again reports nothing significant in Belarus. No new public reporting on Russian forces or the Oreshnik units there.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|exercises",
+  "date": "2026-11-28",
+  "order": 4,
+  "group": "Military",
+  "indicator": "Announced exercises",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No major Russian or Belarusian exercise near Baltic borders announced. NATO's Grand Eagle 26 drills in Lithuania continue until 3 December.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|gps",
+  "date": "2026-11-28",
+  "order": 5,
+  "group": "Hybrid",
+  "indicator": "GPS jamming and spoofing",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new interference episode in the Baltic region first reported. A Telegraph report on 24 November linked a 9 November GPS outage affecting about 140 UK flights to a Russian warship escorting sanctioned ships in the North Sea, but the analysis it cites neither identifies nor rules out the ship. The 21–23 November Baltic interference remains unattributed.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|airspace",
+  "date": "2026-11-28",
+  "order": 6,
+  "group": "Hybrid",
+  "indicator": "Airspace violations and drones",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new confirmed violation. Estonia issued a drone alert for six southern counties from 06:40 to 07:24 on 27 November and NATO jets were scrambled, without a reported incursion. Latvia, where an unidentified drone entered over Ludza the same night, has sent extra air defence units to its eastern border and warned that more drones may enter.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|sabotage",
+  "date": "2026-11-28",
+  "order": 7,
+  "group": "Hybrid",
+  "indicator": "Sabotage incidents",
+  "status": "High",
+  "trend": "Unchanged",
+  "note": "No new Russia-linked sabotage case first reported. An IISS study published on 26 November counts a 16% rise in incidents from October 2025 to September 2026, with Poland, Germany and the Baltic states most targeted and arson and bomb attacks roughly doubling.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|border",
+  "date": "2026-11-28",
+  "order": 8,
+  "group": "Hybrid",
+  "indicator": "Border pressure from Belarus",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new provocation at Baltic, Polish or Finnish borders. Estonia closes its road crossings with Russia on 1 December; Latvia's decision is expected in the week of 30 November. Poland extended its buffer zone on the Belarus border for 90 days.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|rhetoric",
+  "date": "2026-11-28",
+  "order": 9,
+  "group": "Political",
+  "indicator": "Official Russian rhetoric",
+  "status": "Elevated",
+  "trend": "Rising",
+  "note": "Russia's OSCE envoy Dmitry Polyansky said on 26 November that NATO activity near Russia's borders and attacks on Russian ships in the Baltic bring the world closer to nuclear war. Kremlin spokesman Dmitry Peskov accused Ukraine of spreading the war to the Baltic and Mediterranean. Sharper language, but no explicit threat against a named NATO state.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|mobilization",
+  "date": "2026-11-28",
+  "order": 10,
+  "group": "Logistics and medical",
+  "indicator": "Mobilization and reservist call-ups",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No mobilization decree and no reporting on reservist call-ups aimed at the Baltic direction.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|hospitals",
+  "date": "2026-11-28",
+  "order": 11,
+  "group": "Logistics and medical",
+  "indicator": "Field hospitals and hospital beds",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new information. The September report of 16,000–20,000 extra military beds near the Baltic states remains a single, anonymous-source claim. No field hospitals reported near Baltic borders.",
+  "evidence": "Anonymous sources"
+ },
+ {
+  "key": "2026-11-28|blood",
+  "date": "2026-11-28",
+  "order": 12,
+  "group": "Logistics and medical",
+  "indicator": "Blood supplies",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No public reporting of blood supplies moved toward Baltic borders. Absence of reporting is not proof of absence: this sign usually surfaces late, through Western officials.",
+  "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|rail",
+  "date": "2026-11-28",
+  "order": 13,
+  "group": "Logistics and medical",
+  "indicator": "Rail transport toward the Baltic direction",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No reports of equipment trains moving toward Baltic borders.",
+  "evidence": "Analysis"
  }
 ]

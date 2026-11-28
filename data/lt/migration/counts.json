@@ -438,5 +438,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "Naujų nėra."
+ },
+ {
+  "key": "2026-11-28|organised",
+  "date": "2026-11-28",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "Nėra; apie naują lydimą grupę, kontrabandininkų transporto priemonę, tunelį ar pasienio įrangos sugadinimą nepranešta."
+ },
+ {
+  "key": "2026-11-28|measures",
+  "date": "2026-11-28",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 1,
+  "note": "Viena: Lenkija 90 dienų – gruodžiui–vasariui – pratęsė buferinę zoną Baltarusijos pasienyje."
+ },
+ {
+  "key": "2026-11-28|eu",
+  "date": "2026-11-28",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "Nėra; 2027 m. solidarumo fondas vis dar laukia Tarybos."
+ },
+ {
+  "key": "2026-11-28|transfers",
+  "date": "2026-11-28",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "Naujai nepranešta; perkėlimai iš Kipro į Lietuvą sutarti gegužę."
+ },
+ {
+  "key": "2026-11-28|claims",
+  "date": "2026-11-28",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "Naujų, įvertintų kaip klaidinantys, nepagrįsti ar melagingi, nėra."
  }
 ]

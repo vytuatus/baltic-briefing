@@ -1208,5 +1208,115 @@
   "trend": "Unchanged",
   "note": "Naujo klaidinančio teiginio apie migraciją nerasta. Supaprastinti teismo sprendimų aiškinimai vis dar cirkuliuoja, bet nėra nauji.",
   "evidence": "Analizė"
+ },
+ {
+  "key": "2026-11-28|belarus-crossings",
+  "date": "2026-11-28",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Bandymai kirsti sieną iš Baltarusijos",
+  "status": "Elevated",
+  "trend": "Easing",
+  "note": "Lapkričio 27 d. Latvija pranešė apie ketvirtą dieną iš eilės be bandymų; šių metų suma vis dar viršija visus 2025 m. Lenkija 90 dienų pratęsė buferinę zoną Baltarusijos pasienyje, nurodydama tebesitęsiantį spaudimą ir 482 bandymus, PAP duomenimis, užfiksuotus jos Baltarusijos ruože nuo sausio iki lapkričio 8 d. Naujesnių Lietuvos dienos duomenų nerasta. Skaičiuojami bandymai, o ne žmonės, o duomenys skelbiami nevienodai.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|smuggling",
+  "date": "2026-11-28",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Kontrabandininkų tinklai ir organizuotas sienos kirtimas",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Apie naują organizuotą sienos kirtimą, tunelį ar kontrabandos bylą nepranešta. Lapkričio 23 d. praneštas įtariamos organizatorės sulaikymas Lenkijoje ir Latvijos 179 baudžiamieji procesai šiais metais tebėra naujausi duomenys.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|russia-border",
+  "date": "2026-11-28",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Siena su Rusija: Estija, Latvija, Suomija",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Gruodžio 1 d. Estija uždaro kelių pasienio punktus; Latvijos sprendimo tikimasi lapkričio 30 d. savaitę, o jos vidaus reikalų ministras pritaria uždarymo svarstymui. Neįprasto migrantų judėjimo Rusijos pusėje nepranešta.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|eu-solidarity",
+  "date": "2026-11-28",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "ES solidarumo ir perkėlimo sprendimai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Taryba dar nenustatė 2027 m. solidarumo fondo. Lietuvos vidaus reikalų ministras planuoja 2027 m. sumokėti iki 4 mln. eurų, užuot priėmus perkeliamus žmones; Seimo komitetai šiam požiūriui pritarė. Latvija siekia atleidimo nuo savo dalies; niekas neįpareigoja Baltijos šalies priimti perkeliamų žmonių.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|transfers",
+  "date": "2026-11-28",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Perdavimai atgal į Baltijos šalis",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "Nepranešta, kad kitos ES šalys planuotų siųsti migrantus į Baltijos šalis. Iš 58 žmonių, kuriuos Lietuva savanoriškai sutiko priimti iš Kipro, 28 jau atvyko, o kita grupė laukiama gruodį. Teisėtas Estijos grąžinimas į Latviją pagal ES taisykles tęsiasi.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|schengen-checks",
+  "date": "2026-11-28",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Patikros Šengeno erdvės viduje",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Lenkijos patikros pasienyje su Lietuva ir Vokietija tęsiasi iki 2027 m. kovo 30 d. Naujo sprendimo dėl patikrų tarp Estijos ir Latvijos nėra.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|onward-routes",
+  "date": "2026-11-28",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Tranzito maršrutai per Baltijos šalis",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Apie naują atvejį nepranešta. Iš Baltarusijos į Latviją patekę žmonės ir toliau randami keliaujantys Estijos, Suomijos ir Vakarų Europos link.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|asylum-capacity",
+  "date": "2026-11-28",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Prieglobsčio prašymai ir priėmimo pajėgumai",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Pajėgumų problemų nepranešta. Lietuvos priėmimo agentūros vadovas 58 žmonių perkėlimą iš Kipro pavadino suvaldomu.",
+  "evidence": "Oficialus pareiškimas"
+ },
+ {
+  "key": "2026-11-28|law-rights",
+  "date": "2026-11-28",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Apgręžimo įstatymas, teismai ir teisės",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujo sprendimo nėra. Vyriausybės ir žmogaus teisių organizacijos lapkričio 24 d. žmogaus teisių teismo sprendimus dėl Lietuvos, Latvijos ir Lenkijos toliau aiškina skirtingai.",
+  "evidence": "Vaizdai ar dokumentai"
+ },
+ {
+  "key": "2026-11-28|narratives",
+  "date": "2026-11-28",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Dezinformacija ir retorika apie migraciją",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Naujo klaidinančio teiginio apie migraciją nerasta. Lietuvos vidaus diskusijoje dėl mokėjimo vietoj perkėlimo nuskambėjo nepatikrintas teiginys, kad Kipras atsiuntė probleminius atvejus.",
+  "evidence": "Analizė"
  }
 ]

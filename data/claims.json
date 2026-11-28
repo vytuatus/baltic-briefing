@@ -1978,5 +1978,82 @@
   "conflict": "Kaliningrad's governor said there was no threat; Lithuania denied any attack; Poland's counter-disinformation centre estimates the false story reached at least 19 million people.",
   "verdict": "False",
   "verdict_note": "No official or physical evidence."
+ },
+ {
+  "key": "2026-11-28|c1",
+  "date": "2026-11-28",
+  "order": 1,
+  "claim": "Allied drills near Kaliningrad rehearse seizing the region",
+  "claimed_by": "Russia's OSCE envoy Dmitry Polyansky",
+  "evidence": "Official statement",
+  "conflict": "Lithuania describes the German-led exercise as readiness training; the drills were announced publicly and no plan to seize territory has been shown.",
+  "verdict": "Unsupported",
+  "verdict_note": "No evidence offered."
+ },
+ {
+  "key": "2026-11-28|c2",
+  "date": "2026-11-28",
+  "order": 2,
+  "claim": "Some NATO countries take part in attacks on Russian ships in the Baltic",
+  "claimed_by": "Russia's OSCE envoy; Russian state media",
+  "evidence": "Unverified claim",
+  "conflict": "Finland's defence ministry and Ukraine's president attributed the Sparta II strike to Ukraine; Lithuania denied involvement. No NATO state has been shown to take part.",
+  "verdict": "Unsupported",
+  "verdict_note": "Strikes attributed to Ukraine alone."
+ },
+ {
+  "key": "2026-11-28|c3",
+  "date": "2026-11-28",
+  "order": 3,
+  "claim": "Ukraine is spreading the war to the Baltic Sea",
+  "claimed_by": "Kremlin spokesman Dmitry Peskov",
+  "evidence": "Official statement",
+  "conflict": "Ukraine has struck Russian ships in the Baltic, as Kyiv and Helsinki confirm; Kyiv presents them as legitimate targets, while Moscow calls them terrorism.",
+  "verdict": "Contested",
+  "verdict_note": "Facts agreed; framing disputed."
+ },
+ {
+  "key": "2026-11-28|c4",
+  "date": "2026-11-28",
+  "order": 4,
+  "claim": "Russia has no plans to attack NATO members",
+  "claimed_by": "Russian foreign ministry spokeswoman Maria Zakharova",
+  "evidence": "Official statement",
+  "conflict": "Lithuania's 2026 threat assessment judges that Russia is rebuilding capacity and could in the longer term mount limited operations against NATO states; Moscow's envoys now speak of nuclear war.",
+  "verdict": "Contested",
+  "verdict_note": "A statement of intent, not verifiable."
+ },
+ {
+  "key": "2026-11-28|c5",
+  "date": "2026-11-28",
+  "order": 5,
+  "claim": "A Russian warship jammed GPS on about 140 UK flights on 9 November",
+  "claimed_by": "The Telegraph and the i, citing Hexbird analysis",
+  "evidence": "Analysis",
+  "conflict": "Hexbird itself says it neither identifies nor rules out the convoy; an unnamed senior British defence source was sceptical; the government gave no view.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Source does not attribute it."
+ },
+ {
+  "key": "2026-11-28|c6",
+  "date": "2026-11-28",
+  "order": 6,
+  "claim": "Russia caused the 21–23 November GPS interference around Stockholm, Tallinn and Helsinki",
+  "claimed_by": "A Danish naval officer; the Robert Lansing Institute calls it a new phase of hybrid confrontation",
+  "evidence": "Analysis",
+  "conflict": "Swedish authorities ruled out natural causes but named no state; the Lansing Institute itself says Russian origin is plausible but unproven.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Plausible, but not attributed."
+ },
+ {
+  "key": "2026-11-28|c7",
+  "date": "2026-11-28",
+  "order": 7,
+  "claim": "The drone that entered Latvian airspace on 27 November was a Russian incursion",
+  "claimed_by": "Early online framing; not Latvian officials",
+  "evidence": "Unverified claim",
+  "conflict": "Latvia's armed forces still call it unidentified; Russia reported a Ukrainian drone attack on the neighbouring Leningrad region at the same time.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Origin still not established."
  }
 ]

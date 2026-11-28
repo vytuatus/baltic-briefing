@@ -570,5 +570,71 @@
   "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta; Suomijos 13 sienos kirtimų šiais metais rodo mažą spaudimą šiaurinėje sienos dalyje.",
   "verdict": "Unconfirmed",
   "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
+ },
+ {
+  "key": "2026-11-28|forced-relocation",
+  "date": "2026-11-28",
+  "order": 1,
+  "claim": "ES migracijos paktas verčia Baltijos šalis priimti migrantus iš kitų ES šalių",
+  "claimed_by": "Populistiniai politikai ir socialinių tinklų įrašai Baltijos šalyse; šiandien naujai neišplito",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Paktas leidžia valstybėms perkelti žmones, mokėti ar teikti kitą paramą; 2027 m. Lietuva planuoja sumokėti iki 4 mln. eurų, užuot perkėlusi žmones, o Latvija siekia atleidimo.",
+  "verdict": "False",
+  "verdict_note": "Nė viena Baltijos šalis neprivalo nieko priimti."
+ },
+ {
+  "key": "2026-11-28|latvia-pressure-over",
+  "date": "2026-11-28",
+  "order": 2,
+  "claim": "Baltarusijos spaudimas Latvijos pasieniui baigėsi",
+  "claimed_by": "Išvados iš keturių dienų be bandymų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Latvija keturias dienas bandymų neužfiksavo, tačiau šių metų suma rekordinė, ankstesni atoslūgiai baigdavosi naujais pikais, o Lenkija vis dar nurodo realų spaudimą.",
+  "verdict": "Unsupported",
+  "verdict_note": "Atoslūgis nėra pabaiga."
+ },
+ {
+  "key": "2026-11-28|cyprus-problem-cases",
+  "date": "2026-11-28",
+  "order": 3,
+  "claim": "Kipras atsiuntė Lietuvai ypač probleminių perkėlimo atvejų sąrašą",
+  "claimed_by": "Lietuvos socialdemokratų Seimo narys, cituojamas LRT",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Lietuvos priėmimo agentūros vadovas 58 žmonių perkėlimą pavadino suvaldomu; jokių atvejų detalių nepaskelbta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Viešai įrodymų nepateikta."
+ },
+ {
+  "key": "2026-11-28|lithuania-pay-2027",
+  "date": "2026-11-28",
+  "order": 4,
+  "claim": "2027 m. Lietuva nepriims perkeliamų prieglobsčio prašytojų ir vietoj to mokės",
+  "claimed_by": "Vidaus reikalų ministras Martynas Katelynas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Pritarė du Seimo komitetai; kritikavo opozicijos atstovai; 2027 m. fondo ir sumų Taryba dar nenustatė.",
+  "verdict": "Likely",
+  "verdict_note": "Planuojama; dar nepriimtas galutinis sprendimas."
+ },
+ {
+  "key": "2026-11-28|echr-cleared-lithuania",
+  "date": "2026-11-28",
+  "order": 5,
+  "claim": "Žmogaus teisių teismas išteisino Lietuvą dėl apgręžimo",
+  "claimed_by": "Kai kurios internetinės antraštės ir agregatoriai; vis dar cirkuliuoja",
+  "evidence": "Vaizdai ar dokumentai",
+  "conflict": "Teismas grąžinimo pažeidimo nenustatė, tačiau pripažino keturių pareiškėjų sulaikymą neteisėtu ir kiekvienam priteisė po 15 000 eurų.",
+  "verdict": "Misleading",
+  "verdict_note": "Teisinga dėl grąžinimo, klaidinga dėl sulaikymo."
+ },
+ {
+  "key": "2026-11-28|estonia-migration-push",
+  "date": "2026-11-28",
+  "order": 6,
+  "claim": "Uždarius kelių pasienio punktus, Rusija gali stumti migrantus prie Estijos sienos",
+  "claimed_by": "Estijos vidaus reikalų ministerija, kaip galimą scenarijų",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Rusijos pusėje neįprasto judėjimo nepranešta; Suomijos 13 sienos kirtimų šiais metais rodo mažą spaudimą šiaurinėje sienos dalyje.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Atsargumo scenarijus, o ne užfiksuota tendencija."
  }
 ]

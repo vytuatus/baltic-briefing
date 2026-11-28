@@ -570,5 +570,71 @@
   "conflict": "No unusual movement has been reported on the Russian side; Finland's 13 crossings this year show low pressure on the Nordic part of the border.",
   "verdict": "Unconfirmed",
   "verdict_note": "A precautionary scenario, not an observed trend."
+ },
+ {
+  "key": "2026-11-28|forced-relocation",
+  "date": "2026-11-28",
+  "order": 1,
+  "claim": "The EU Migration Pact forces the Baltic states to accept migrants from other EU countries",
+  "claimed_by": "Populist politicians and social media posts in the Baltic states; not newly spread today",
+  "evidence": "Official statement",
+  "conflict": "The Pact lets states relocate people, pay or offer other support; Lithuania plans to pay up to €4 million instead of relocating in 2027, and Latvia seeks exemption.",
+  "verdict": "False",
+  "verdict_note": "No Baltic state is required to take anyone."
+ },
+ {
+  "key": "2026-11-28|latvia-pressure-over",
+  "date": "2026-11-28",
+  "order": 2,
+  "claim": "Pressure from Belarus on Latvia's border has ended",
+  "claimed_by": "Inferences from four days without attempts",
+  "evidence": "Official statement",
+  "conflict": "Latvia recorded no attempts for four days, but this year's total is a record, earlier lulls were followed by new peaks, and Poland still cites real pressure.",
+  "verdict": "Unsupported",
+  "verdict_note": "A lull is not an end."
+ },
+ {
+  "key": "2026-11-28|cyprus-problem-cases",
+  "date": "2026-11-28",
+  "order": 3,
+  "claim": "Cyprus sent Lithuania a list of particularly problematic cases for relocation",
+  "claimed_by": "A Lithuanian Social Democrat MP, quoted by LRT",
+  "evidence": "Unverified claim",
+  "conflict": "The head of Lithuania's reception agency called the 58 relocations manageable; no details of the cases have been published.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "No evidence made public."
+ },
+ {
+  "key": "2026-11-28|lithuania-pay-2027",
+  "date": "2026-11-28",
+  "order": 4,
+  "claim": "Lithuania will take no relocated asylum seekers in 2027 and pay instead",
+  "claimed_by": "Interior Minister Martynas Katelynas",
+  "evidence": "Official statement",
+  "conflict": "Supported by two Seimas committees; criticised by opposition figures; the 2027 pool and amounts are not yet set by the Council.",
+  "verdict": "Likely",
+  "verdict_note": "Planned; not yet final."
+ },
+ {
+  "key": "2026-11-28|echr-cleared-lithuania",
+  "date": "2026-11-28",
+  "order": 5,
+  "claim": "The human rights court cleared Lithuania over its pushbacks",
+  "claimed_by": "Some online headlines and aggregators; still circulating",
+  "evidence": "Imagery or documents",
+  "conflict": "The court found no breach over returns, but found the four applicants' detention unlawful and awarded €15,000 each.",
+  "verdict": "Misleading",
+  "verdict_note": "True for returns, wrong for detention."
+ },
+ {
+  "key": "2026-11-28|estonia-migration-push",
+  "date": "2026-11-28",
+  "order": 6,
+  "claim": "Russia may push migrants toward Estonia's border once the road crossings close",
+  "claimed_by": "Estonian interior ministry, as a contingency",
+  "evidence": "Official statement",
+  "conflict": "No unusual movement has been reported on the Russian side; Finland's 13 crossings this year show low pressure on the Nordic part of the border.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "A precautionary scenario, not an observed trend."
  }
 ]

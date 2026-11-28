@@ -1158,5 +1158,45 @@
   "metric": "Official Russian threats",
   "value": 0,
   "note": "None; no new explicit threat by a senior Russian official since the 23 November warning to Estonia."
+ },
+ {
+  "key": "2026-11-28|airspace",
+  "date": "2026-11-28",
+  "order": 1,
+  "metric": "Airspace incidents",
+  "value": 0,
+  "note": "None confirmed; Estonia's 27 November drone alert ended without a reported incursion, and the Latvian drone was counted yesterday."
+ },
+ {
+  "key": "2026-11-28|sabotage",
+  "date": "2026-11-28",
+  "order": 2,
+  "metric": "Sabotage cases",
+  "value": 0,
+  "note": "None; the IISS study analyses past incidents."
+ },
+ {
+  "key": "2026-11-28|jamming",
+  "date": "2026-11-28",
+  "order": 3,
+  "metric": "GPS jamming reports",
+  "value": 0,
+  "note": "None new in the Baltic region; the Telegraph's UK flights report concerns the North Sea on 9 November."
+ },
+ {
+  "key": "2026-11-28|border",
+  "date": "2026-11-28",
+  "order": 4,
+  "metric": "Border incidents",
+  "value": 0,
+  "note": "None; no new provocation at Baltic, Polish or Finnish borders with Russia or Belarus."
+ },
+ {
+  "key": "2026-11-28|threats",
+  "date": "2026-11-28",
+  "order": 5,
+  "metric": "Official Russian threats",
+  "value": 0,
+  "note": "None explicit; the OSCE envoy's nuclear-war remarks were warnings and accusations, not a threat against a named state."
  }
 ]

@@ -1788,5 +1788,65 @@
   "evidence": "Analysis",
   "corroboration": "GSC summary of Polish official estimates; Lithuanian and Polish fact-checks of the Kaliningrad claim earlier this week.",
   "analysis": "Shows the reach of a story that had no official Russian backing. The audience figure is an estimate, and the firm's own risk ratings are its judgement."
+ },
+ {
+  "key": "2026-11-28|drone-alerts",
+  "date": "2026-11-28",
+  "order": 1,
+  "title": "Estonia issues drone alert; Latvia reinforces its eastern air defence",
+  "summary": "Estonia's Defence Forces sent an air-threat alert to six southern and south-eastern counties at 06:40 on 27 November and lifted it at 07:24; NATO fighters were scrambled. The alert came hours after an unidentified drone briefly entered Latvia over Ludza, while Russia's Leningrad region governor reported a large drone attack there. Latvia's armed forces have sent extra air defence units to the eastern border and warned that more foreign drones could enter.",
+  "evidence": "Official statement",
+  "corroboration": "ERR via LB.ua; Euronews citing the Latvian armed forces, LSM and AFP; Bytes Europe citing LRT.",
+  "analysis": "Both alerts fit the pattern of Ukrainian long-range drones flying near the Baltic borders, sometimes diverted by Russian jamming. Neither country has attributed them, and no damage was reported."
+ },
+ {
+  "key": "2026-11-28|osce-nuclear",
+  "date": "2026-11-28",
+  "order": 2,
+  "title": "Russia's OSCE envoy: NATO bringing the world 'closer to nuclear war'",
+  "summary": "Speaking in Vienna on 26 November, Russia's permanent representative to the OSCE, Dmitry Polyansky, said NATO military activity near Russia's borders and the involvement of some NATO countries in attacks on Russian civilian ships in the Baltic bring the world closer to nuclear war. He claimed allied drills near Kaliningrad aim to rehearse seizing the region and cited the drone strike on the cargo ship Sparta II.",
+  "evidence": "Official statement",
+  "corroboration": "TASS; Newsweek, which notes Lithuania calls the drills readiness training.",
+  "analysis": "A familiar Russian line, now tied to the Ukrainian strikes on Russian shipping. No evidence is offered that NATO states took part in those strikes, and the drills are publicly announced."
+ },
+ {
+  "key": "2026-11-28|kremlin-baltic",
+  "date": "2026-11-28",
+  "order": 3,
+  "title": "Kremlin: Ukraine is spreading the war to the Baltic",
+  "summary": "Kremlin spokesman Dmitry Peskov said on 26 November that Ukraine is trying to spread the war to the Baltic and Mediterranean seas, calling it dangerous. He was responding to a joint statement after US President Donald Trump met NATO Secretary General Mark Rutte, which urged Russia to avoid widening the war; Trump later said both Russia and Ukraine must avoid such actions.",
+  "evidence": "Official statement",
+  "corroboration": "An aggregated summary of Reuters and Politico reports; the original articles could not be read for this edition.",
+  "analysis": "The exchange shows the Baltic Sea becoming a theatre of the Russia–Ukraine war through ship strikes, which raises the risk of incidents near Baltic and Finnish waters even without any plan to attack NATO."
+ },
+ {
+  "key": "2026-11-28|iiss-sabotage",
+  "date": "2026-11-28",
+  "order": 4,
+  "title": "IISS: Russia-linked sabotage in Europe up 16% in a year",
+  "summary": "A study by the International Institute for Strategic Studies, published on 26 November, counts a 16% rise in Russia-linked sabotage incidents in Europe from October 2025 to September 2026. Poland accounted for about a quarter of incidents, and Germany and the Baltic states for about a fifth each; arson and bomb attacks roughly doubled and five attempted assassinations were recorded. The study says the campaign has not achieved a strategic effect but warns a mass-casualty incident is becoming more possible.",
+  "evidence": "Analysis",
+  "corroboration": "LB.ua; Kyiv Independent via Yahoo.",
+  "analysis": "An independent count that supports the Lithuanian baseline's description of hybrid threats. It covers a past period, so it does not change today's counts."
+ },
+ {
+  "key": "2026-11-28|telegraph-gps",
+  "date": "2026-11-28",
+  "order": 5,
+  "title": "Report: Russian warship suspected of jamming GPS on UK flights",
+  "summary": "The Telegraph reported on 24 November, citing analysis by the aviation intelligence group Hexbird first published by the i paper, that a GPS outage on 9 November affected about 140 flights, with a likely source over the North Sea where a Russian warship was escorting sanctioned cargo ships. Hexbird said its analysis neither identifies nor rules out the convoy. Anadolu quotes an unnamed senior British defence source as sceptical; the UK government did not comment.",
+  "evidence": "Analysis",
+  "corroboration": "The Telegraph via Yahoo; Anadolu Agency citing British media.",
+  "analysis": "The headlines run ahead of the evidence: the source itself does not attribute the outage. It also lies outside the Baltic region, so it is not counted here."
+ },
+ {
+  "key": "2026-11-28|lithuania-5pct",
+  "date": "2026-11-28",
+  "order": 6,
+  "title": "Lithuania: at least 5% of GDP on defence may be needed until 2035–2040",
+  "summary": "Defence Minister Robertas Kaunas said on 27 November that Lithuania will need at least 5% of GDP for defence for a decade or longer, possibly 5.5%, to build a national division and strengthen air, maritime and border defence. The government has proposed 5% of GDP, over €4.8 billion, for next year.",
+  "evidence": "Official statement",
+  "corroboration": "LRT/BNS.",
+  "analysis": "A long-term planning signal consistent with the baseline's view that the threat is about Russia's rebuilt capacity over years, not an imminent attack."
  }
 ]

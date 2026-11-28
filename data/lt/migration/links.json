@@ -1123,5 +1123,77 @@
   "perspective": "Baltic",
   "title": "PPA: Illegal immigration to Estonia has fallen, but may rise next spring",
   "url": "https://www.byteseu.com/2494334/"
+ },
+ {
+  "key": "2026-11-28|l1",
+  "date": "2026-11-28",
+  "topic": "Lietuvos grėsmių nacionaliniam saugumui vertinimas (bazinė linija)",
+  "outlet": "VSD and AOTD",
+  "perspective": "Baltic",
+  "title": "National Threat Assessment 2026",
+  "url": "https://www.vsd.lt/en/reports/national-threat-assessment-2026/"
+ },
+ {
+  "key": "2026-11-28|l2",
+  "date": "2026-11-28",
+  "topic": "Latvijos ir Baltarusijos pasienio duomenys",
+  "outlet": "1188.lv (LETA)",
+  "perspective": "Baltic",
+  "title": "Četras dienas pēc kārtas nav konstatēti migrantu mēģinājumi nelikumīgi šķērsot Latvijas-Baltkrievijas robežu",
+  "url": "https://www.1188.lv/zinas/cetras-dienas-pec-kartas-nav-konstateti-migrantu-meginajumi-nelikumigi-skersot-latvijas-baltkrievijas-robezu/77361"
+ },
+ {
+  "key": "2026-11-28|l3",
+  "date": "2026-11-28",
+  "topic": "Latvijos ir Baltarusijos pasienio duomenys",
+  "outlet": "Diena",
+  "perspective": "Baltic",
+  "title": "Valsts robežsardze",
+  "url": "https://diena.lv/temas/valsts-robezsardze"
+ },
+ {
+  "key": "2026-11-28|l4",
+  "date": "2026-11-28",
+  "topic": "Lenkijos buferinė zona",
+  "outlet": "Polsat News (PAP)",
+  "perspective": "Central Europe",
+  "title": "Strefa buforowa przy granicy z Białorusią. Jest nowa decyzja",
+  "url": "https://www.polsatnews.pl/wiadomosc/2026-11-28/strefa-buforowa-przy-granicy-z-bialorusia-jest-nowa-decyzja/"
+ },
+ {
+  "key": "2026-11-28|l5",
+  "date": "2026-11-28",
+  "topic": "ES solidarumo fondas",
+  "outlet": "LRT",
+  "perspective": "Baltic",
+  "title": "Solidarity, social tensions and fines: Lithuania opts out of EU migrant relocation scheme",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3125373/solidarity-social-tensions-and-fines-lithuania-opts-out-of-eu-migrant-relocation-scheme"
+ },
+ {
+  "key": "2026-11-28|l6",
+  "date": "2026-11-28",
+  "topic": "ES solidarumo fondas",
+  "outlet": "BNN",
+  "perspective": "Baltic",
+  "title": "Lithuanian politicians divided over accepting asylum seekers from EU countries",
+  "url": "https://bnn-news.com/world/lithuanian-politicians-divided-over-accepting-asylum-seekers-from-eu-countries-cbpgvnk"
+ },
+ {
+  "key": "2026-11-28|l7",
+  "date": "2026-11-28",
+  "topic": "Siena su Rusija",
+  "outlet": "Bytes Europe (Delfi)",
+  "perspective": "Baltic",
+  "title": "Latvia is preparing to close its border with Russia completely",
+  "url": "https://www.byteseu.com/2548113/"
+ },
+ {
+  "key": "2026-11-28|l8",
+  "date": "2026-11-28",
+  "topic": "Teismo sprendimai",
+  "outlet": "LSM",
+  "perspective": "Baltic",
+  "title": "ECHR finds fault with treatment of some border crossers from Belarus",
+  "url": "https://eng.lsm.lv/article/society/crime/26.11.2026-echr-finds-fault-with-treatment-of-some-border-crossers-from-belarus.a673608/"
  }
 ]

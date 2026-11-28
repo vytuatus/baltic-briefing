@@ -1978,5 +1978,82 @@
   "conflict": "Karaliaučiaus srities gubernatorius sakė, kad grėsmės nebuvo; Lietuva neigė bet kokią ataką; Lenkijos dezinformacijos kontrolės centras vertina, kad melaginga istorija pasiekė mažiausiai 19 mln. žmonių.",
   "verdict": "False",
   "verdict_note": "Jokių oficialių ar fizinių įrodymų."
+ },
+ {
+  "key": "2026-11-28|c1",
+  "date": "2026-11-28",
+  "order": 1,
+  "claim": "Sąjungininkų pratybose prie Karaliaučiaus repetuojamas srities užėmimas",
+  "claimed_by": "Rusijos pasiuntinys ESBO Dmitrijus Polianskis",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lietuva Vokietijos vadovaujamas pratybas apibūdina kaip parengties mokymus; pratybos paskelbtos viešai, o jokio plano užimti teritoriją neparodyta.",
+  "verdict": "Unsupported",
+  "verdict_note": "Įrodymų nepateikta."
+ },
+ {
+  "key": "2026-11-28|c2",
+  "date": "2026-11-28",
+  "order": 2,
+  "claim": "Kai kurios NATO šalys dalyvauja atakose prieš Rusijos laivus Baltijoje",
+  "claimed_by": "Rusijos pasiuntinys ESBO; Rusijos valstybinė žiniasklaida",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Suomijos gynybos ministerija ir Ukrainos prezidentas smūgį „Sparta II“ priskyrė Ukrainai; Lietuva neigė dalyvavimą. Neparodyta, kad dalyvavo kuri nors NATO valstybė.",
+  "verdict": "Unsupported",
+  "verdict_note": "Smūgiai priskiriami tik Ukrainai."
+ },
+ {
+  "key": "2026-11-28|c3",
+  "date": "2026-11-28",
+  "order": 3,
+  "claim": "Ukraina perkelia karą į Baltijos jūrą",
+  "claimed_by": "Kremliaus atstovas Dmitrijus Peskovas",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Ukraina smogė Rusijos laivams Baltijoje, kaip patvirtina Kyjivas ir Helsinkis; Kyjivas juos pateikia kaip teisėtus taikinius, o Maskva vadina terorizmu.",
+  "verdict": "Contested",
+  "verdict_note": "Dėl faktų sutariama; vertinimas ginčijamas."
+ },
+ {
+  "key": "2026-11-28|c4",
+  "date": "2026-11-28",
+  "order": 4,
+  "claim": "Rusija neplanuoja pulti NATO narių",
+  "claimed_by": "Rusijos užsienio reikalų ministerijos atstovė Marija Zacharova",
+  "evidence": "Oficialus pareiškimas",
+  "conflict": "Lietuvos 2026 m. grėsmių vertinime teigiama, kad Rusija atkuria pajėgumus ir ilgesniu laikotarpiu galėtų vykdyti ribotas operacijas prieš NATO valstybes; Maskvos pasiuntiniai dabar kalba apie branduolinį karą.",
+  "verdict": "Contested",
+  "verdict_note": "Ketinimų pareiškimas, kurio patikrinti negalima."
+ },
+ {
+  "key": "2026-11-28|c5",
+  "date": "2026-11-28",
+  "order": 5,
+  "claim": "Lapkričio 9 d. Rusijos karo laivas sutrikdė GPS maždaug 140 JK skrydžių",
+  "claimed_by": "„The Telegraph“ ir „The i“, remdamiesi „Hexbird“ analize",
+  "evidence": "Analizė",
+  "conflict": "Pati „Hexbird“ sako, kad konvojaus nei identifikuoja, nei atmeta; neįvardytas aukšto rango Didžiosios Britanijos gynybos šaltinis vertino skeptiškai; vyriausybė savo nuomonės nepareiškė.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Šaltinis to nepriskiria."
+ },
+ {
+  "key": "2026-11-28|c6",
+  "date": "2026-11-28",
+  "order": 6,
+  "claim": "Lapkričio 21–23 d. GPS trikdžius aplink Stokholmą, Taliną ir Helsinkį sukėlė Rusija",
+  "claimed_by": "Danijos karinio jūrų laivyno karininkas; Roberto Lansingo institutas tai vadina nauju hibridinės konfrontacijos etapu",
+  "evidence": "Analizė",
+  "conflict": "Švedijos institucijos atmetė natūralias priežastis, bet valstybės neįvardijo; pats Lansingo institutas sako, kad rusiška kilmė tikėtina, bet neįrodyta.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Tikėtina, bet nepriskirta."
+ },
+ {
+  "key": "2026-11-28|c7",
+  "date": "2026-11-28",
+  "order": 7,
+  "claim": "Lapkričio 27 d. į Latvijos oro erdvę įskridęs dronas buvo Rusijos įsiveržimas",
+  "claimed_by": "Ankstyvos interpretacijos internete; ne Latvijos pareigūnai",
+  "evidence": "Nepatikrintas teiginys",
+  "conflict": "Latvijos ginkluotosios pajėgos droną vis dar vadina neatpažintu; Rusija tuo pačiu metu pranešė apie Ukrainos dronų ataką prieš gretimą Leningrado sritį.",
+  "verdict": "Unconfirmed",
+  "verdict_note": "Kilmė vis dar nenustatyta."
  }
 ]

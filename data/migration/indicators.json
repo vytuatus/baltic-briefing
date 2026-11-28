@@ -1208,5 +1208,115 @@
   "trend": "Unchanged",
   "note": "No new misleading migration claim found. Simplified readings of the court rulings are still in circulation but are not new.",
   "evidence": "Analysis"
+ },
+ {
+  "key": "2026-11-28|belarus-crossings",
+  "date": "2026-11-28",
+  "order": 1,
+  "group": "Belarus and Russia",
+  "indicator": "Crossing attempts from Belarus",
+  "status": "Elevated",
+  "trend": "Easing",
+  "note": "Latvia reported no attempts for a fourth day in a row on 27 November; this year's total is still above all of 2025. Poland extended its Belarus-border buffer zone for 90 days, citing continuing pressure and 482 attempts recorded on its Belarus section from January to 8 November, per PAP. No newer Lithuanian daily figures found. Attempts are counted, not people, and publication is uneven.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|smuggling",
+  "date": "2026-11-28",
+  "order": 2,
+  "group": "Belarus and Russia",
+  "indicator": "Smuggling networks and organised crossings",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "No new organised crossing, tunnel or smuggling case first reported. The Polish arrest of a suspected organiser reported on 23 November and Latvia's 179 criminal proceedings this year remain the latest data.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|russia-border",
+  "date": "2026-11-28",
+  "order": 3,
+  "group": "Belarus and Russia",
+  "indicator": "Russia border: Estonia, Latvia, Finland",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "Estonia's road crossings close on 1 December; Latvia's decision is expected in the week of 30 November, and its interior minister backs discussing a closure. No unusual migrant movement reported on the Russian side.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|eu-solidarity",
+  "date": "2026-11-28",
+  "order": 4,
+  "group": "EU and Schengen",
+  "indicator": "EU solidarity and relocation decisions",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "The Council has not yet set the 2027 solidarity pool. Lithuania's interior minister plans to pay up to €4 million rather than accept relocated people in 2027; committees of the Seimas supported the approach. Latvia seeks exemption from its share; nothing obliges a Baltic state to accept relocated people.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|transfers",
+  "date": "2026-11-28",
+  "order": 5,
+  "group": "EU and Schengen",
+  "indicator": "Transfers back to the Baltic states",
+  "status": "Quiet",
+  "trend": "Unchanged",
+  "note": "No reports of other EU countries planning to send migrants to the Baltic states. Of the 58 people Lithuania voluntarily agreed to take from Cyprus, 28 have arrived and another group is due in December. Estonia's lawful returns to Latvia under EU rules continue.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|schengen-checks",
+  "date": "2026-11-28",
+  "order": 6,
+  "group": "EU and Schengen",
+  "indicator": "Border checks inside Schengen",
+  "status": "Elevated",
+  "trend": "Unchanged",
+  "note": "Poland's checks on its borders with Lithuania and Germany continue until 30 March 2027. No new decision on checks between Estonia and Latvia.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|onward-routes",
+  "date": "2026-11-28",
+  "order": 7,
+  "group": "EU and Schengen",
+  "indicator": "Onward routes through the Baltics",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new case reported. People crossing from Belarus into Latvia continue to be found moving on toward Estonia, Finland and western Europe.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|asylum-capacity",
+  "date": "2026-11-28",
+  "order": 8,
+  "group": "Domestic",
+  "indicator": "Asylum claims and reception capacity",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No capacity problem reported. The head of Lithuania's reception agency called the 58 relocations from Cyprus manageable.",
+  "evidence": "Official statement"
+ },
+ {
+  "key": "2026-11-28|law-rights",
+  "date": "2026-11-28",
+  "order": 9,
+  "group": "Domestic",
+  "indicator": "Pushback law, courts and rights",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new ruling. Governments and rights groups continue to read the 24 November human rights judgments on Lithuania, Latvia and Poland differently.",
+  "evidence": "Imagery or documents"
+ },
+ {
+  "key": "2026-11-28|narratives",
+  "date": "2026-11-28",
+  "order": 10,
+  "group": "Information",
+  "indicator": "Migration disinformation and rhetoric",
+  "status": "Watch",
+  "trend": "Unchanged",
+  "note": "No new misleading migration claim found. Domestic debate in Lithuania over paying instead of relocating includes an unverified claim that Cyprus sent problematic cases.",
+  "evidence": "Analysis"
  }
 ]

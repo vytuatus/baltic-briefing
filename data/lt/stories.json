@@ -1788,5 +1788,65 @@
   "evidence": "Analizė",
   "corroboration": "GSC Lenkijos oficialių įvertinimų santrauka; šią savaitę Lietuvos ir Lenkijos faktų tikrintojai jau paneigė Karaliaučiaus teiginį.",
   "analysis": "Rodo istorijos, neturėjusios oficialios Rusijos paramos, mastą. Auditorijos dydis yra įvertinimas, o pačios bendrovės rizikos reitingai – jos vertinimas."
+ },
+ {
+  "key": "2026-11-28|drone-alerts",
+  "date": "2026-11-28",
+  "order": 1,
+  "title": "Estija skelbia dronų pavojų; Latvija stiprina rytinę oro gynybą",
+  "summary": "Lapkričio 27 d. 6.40 val. Estijos gynybos pajėgos išsiuntė oro grėsmės pranešimą šešioms pietinėms ir pietryčių apskritims ir atšaukė jį 7.24 val.; pakelti NATO naikintuvai. Pavojus paskelbtas praėjus kelioms valandoms po to, kai neatpažintas dronas trumpam įskrido į Latviją virš Ludzos, o Rusijos Leningrado srities gubernatorius pranešė apie didelę dronų ataką prieš sritį. Latvijos ginkluotosios pajėgos pasiuntė papildomus oro gynybos padalinius prie rytinės sienos ir įspėjo, kad gali įskristi daugiau užsienio dronų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "ERR per „LB.ua“; „Euronews“, remdamasis Latvijos ginkluotosiomis pajėgomis, LSM ir AFP; „Bytes Europe“, remdamasis LRT.",
+  "analysis": "Abu pavojai atitinka modelį, kai Ukrainos tolimojo nuotolio dronai skrenda prie Baltijos šalių sienų, kartais nukreipiami Rusijos trikdymo. Nė viena šalis jų nepriskyrė, o žalos nepranešta."
+ },
+ {
+  "key": "2026-11-28|osce-nuclear",
+  "date": "2026-11-28",
+  "order": 2,
+  "title": "Rusijos pasiuntinys ESBO: NATO priartina pasaulį „prie branduolinio karo“",
+  "summary": "Lapkričio 26 d. Vienoje Rusijos nuolatinis atstovas ESBO Dmitrijus Polianskis sakė, kad NATO karinė veikla prie Rusijos sienų ir kai kurių NATO šalių dalyvavimas atakose prieš Rusijos civilinius laivus Baltijoje priartina pasaulį prie branduolinio karo. Jis tvirtino, kad sąjungininkų pratybomis prie Karaliaučiaus siekiama repetuoti srities užėmimą, ir minėjo dronų smūgį krovininiam laivui „Sparta II“.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "TASS; „Newsweek“, pažymintis, kad Lietuva pratybas vadina parengties mokymais.",
+  "analysis": "Pažįstama Rusijos linija, dabar susieta su Ukrainos smūgiais Rusijos laivybai. Jokių įrodymų, kad NATO valstybės dalyvavo tuose smūgiuose, nepateikta, o pratybos paskelbtos viešai."
+ },
+ {
+  "key": "2026-11-28|kremlin-baltic",
+  "date": "2026-11-28",
+  "order": 3,
+  "title": "Kremlius: Ukraina perkelia karą į Baltiją",
+  "summary": "Lapkričio 26 d. Kremliaus atstovas Dmitrijus Peskovas sakė, kad Ukraina bando perkelti karą į Baltijos ir Viduržemio jūras, ir pavadino tai pavojingu. Jis atsakė į bendrą pareiškimą po JAV prezidento Donaldo Trumpo susitikimo su NATO generaliniu sekretoriumi Marku Rutte, kuriame Rusija raginama vengti karo išplėtimo; vėliau Trumpas sakė, kad tokių veiksmų turi vengti ir Rusija, ir Ukraina.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "Apibendrinta „Reuters“ ir „Politico“ pranešimų santrauka; originalių straipsnių šiam leidimui perskaityti nepavyko.",
+  "analysis": "Šis pasikeitimas nuomonėmis rodo, kad per smūgius laivams Baltijos jūra tampa Rusijos ir Ukrainos karo teatru, o tai didina incidentų riziką prie Baltijos šalių ir Suomijos vandenų net ir nesant jokio plano pulti NATO."
+ },
+ {
+  "key": "2026-11-28|iiss-sabotage",
+  "date": "2026-11-28",
+  "order": 4,
+  "title": "IISS: su Rusija siejamas sabotažas Europoje per metus išaugo 16 proc.",
+  "summary": "Lapkričio 26 d. paskelbtame Tarptautinio strateginių studijų instituto tyrime nuo 2025 m. spalio iki 2026 m. rugsėjo Europoje suskaičiuota 16 proc. daugiau su Rusija siejamų sabotažo incidentų. Lenkijai teko maždaug ketvirtadalis incidentų, Vokietijai ir Baltijos šalims – maždaug po penktadalį; padegimų ir sprogdinimų padaugėjo maždaug dvigubai, užfiksuoti penki pasikėsinimai nužudyti. Tyrime teigiama, kad kampanija strateginio poveikio nepasiekė, tačiau įspėjama, kad incidentas su daugybe aukų tampa vis labiau tikėtinas.",
+  "evidence": "Analizė",
+  "corroboration": "„LB.ua“; „Kyiv Independent“ per „Yahoo“.",
+  "analysis": "Nepriklausomas suskaičiavimas, patvirtinantis Lietuvos bazinės linijos hibridinių grėsmių aprašymą. Jis apima praėjusį laikotarpį, todėl šiandienos skaičių nekeičia."
+ },
+ {
+  "key": "2026-11-28|telegraph-gps",
+  "date": "2026-11-28",
+  "order": 5,
+  "title": "Pranešimas: Rusijos karo laivas įtariamas trikdęs JK skrydžių GPS",
+  "summary": "Lapkričio 24 d. „The Telegraph“, remdamasis aviacijos žvalgybos grupės „Hexbird“ analize, kurią pirmasis paskelbė „The i“, pranešė, kad lapkričio 9 d. GPS sutrikimas palietė maždaug 140 skrydžių, o tikėtinas šaltinis buvo virš Šiaurės jūros, kur Rusijos karo laivas lydėjo sankcijų sąraše esančius krovininius laivus. „Hexbird“ sakė, kad jos analizė konvojaus nei identifikuoja, nei atmeta. „Anadolu“ cituoja neįvardytą aukšto rango Didžiosios Britanijos gynybos šaltinį, vertinantį tai skeptiškai; JK vyriausybė nekomentavo.",
+  "evidence": "Analizė",
+  "corroboration": "„The Telegraph“ per „Yahoo“; „Anadolu“, remdamasi Didžiosios Britanijos žiniasklaida.",
+  "analysis": "Antraštės aplenkia įrodymus: pats šaltinis sutrikimo nepriskiria. Be to, tai už Baltijos regiono ribų, todėl čia neįskaičiuojama."
+ },
+ {
+  "key": "2026-11-28|lithuania-5pct",
+  "date": "2026-11-28",
+  "order": 6,
+  "title": "Lietuva: iki 2035–2040 m. gynybai gali prireikti mažiausiai 5 proc. BVP",
+  "summary": "Lapkričio 27 d. krašto apsaugos ministras Robertas Kaunas sakė, kad dešimtmetį ar ilgiau Lietuvai gynybai reikės mažiausiai 5 proc. BVP, galbūt 5,5 proc., kad būtų suformuota nacionalinė divizija ir sustiprinta oro, jūrų ir pasienio gynyba. Vyriausybė kitiems metams pasiūlė 5 proc. BVP – daugiau nei 4,8 mlrd. eurų.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT/BNS.",
+  "analysis": "Ilgalaikio planavimo signalas, atitinkantis bazinės linijos požiūrį, kad grėsmė susijusi su per metus atkurtais Rusijos pajėgumais, o ne su artėjančiu puolimu."
  }
 ]

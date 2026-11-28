@@ -478,5 +478,45 @@
   "evidence": "Vaizdai ar dokumentai",
   "corroboration": "„CiberCuba“, remdamasis teismo bylos duomenimis; „EUobserver“.",
   "analysis": "Ir vyriausybės, ir žmogaus teisių organizacijos sprendime gali rasti paramos sau: grąžinimas leidžiamas griežtai apibrėžtais atvejais, o sulaikymas ir pažeidžiamų asmenų atranka bus atidžiai tikrinami."
+ },
+ {
+  "key": "2026-11-28|latvia-four-days",
+  "date": "2026-11-28",
+  "order": 1,
+  "title": "Latvija: keturios dienos iš eilės be bandymų iš Baltarusijos",
+  "summary": "Lapkričio 27 d. Latvijos valstybės sienos apsaugos tarnyba pranešė, kad keturias dienas iš eilės neužfiksavo migrantų bandymų kirsti sieną iš Baltarusijos; lapkričio 26 d. ji pranešė apie tris tokias dienas. Lapkričio viduryje skaičiai buvo vienaženkliai, o mėnesio pradžioje – 20–40 bandymų per dieną. Šių metų suma, apie 13 035, tebeviršija 12 046, užfiksuotus per visus 2025 m.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LETA per 1188.lv ir „Diena“; pasieniečių puslapio gauti nepavyko, todėl tikslios datos nustatytos netiesiogiai.",
+  "analysis": "Ilgiausias atoslūgis per pastarąsias savaites, tačiau tai viena serija, skaičiuojanti bandymus, o ne žmones. Ji nerodo, kad Baltarusija liovėsi organizuoti sienos kirtimą."
+ },
+ {
+  "key": "2026-11-28|poland-buffer",
+  "date": "2026-11-28",
+  "order": 2,
+  "title": "Lenkija 90 dienų pratęsia buferinę zoną Baltarusijos pasienyje",
+  "summary": "Lenkija pratęsė buferinę zoną palei sieną su Baltarusija gruodžiui, sausiui ir vasariui – tai dešimtas pratęsimas nuo 2024 m. birželio, – nurodydama tebesančias realias grėsmes, susijusias su migracijos spaudimu. PAP praneša apie 482 bandymus neteisėtai kirsti sieną Lenkijos ir Baltarusijos ruože nuo sausio iki lapkričio 8 d., o Palenkės pasieniečiai iki spalio pabaigos skyrė 13 baudų ir 141 įspėjimą už buvimą zonoje. Zonos plotas nepakito.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Polsat News“, remdamasis PAP.",
+  "analysis": "Įprastas pratęsimas, o ne eskalacija, tačiau jis rodo, kad Varšuva nelaiko spaudimo pasibaigusiu."
+ },
+ {
+  "key": "2026-11-28|lithuania-pay",
+  "date": "2026-11-28",
+  "order": 3,
+  "title": "Lietuva planuoja sumokėti iki 4 mln. eurų, užuot priėmusi perkeliamus prieglobsčio prašytojus",
+  "summary": "Vidaus reikalų ministras Martynas Katelynas planuoja, kad 2027 m. Lietuva nepriimtų perkeliamų prieglobsčio prašytojų, o vietoj to mokėtų į ES solidarumo fondą – galbūt iki 4 mln. eurų. Šiais metais Lietuva sutiko priimti 58 žmones iš Kipro: 28 jau atvyko, kita grupė laukiama gruodį, o už likusią dalį sumokėta beveik 1,5 mln. eurų. Opozicijos atstovai planą kritikavo, o Seimo Užsienio reikalų ir Europos reikalų komitetai jam pritarė; vienas Seimo narys tvirtino, kad Kipras atsiuntė ypač probleminius atvejus.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "LRT; BNN to paties pranešimo perpasakojimas.",
+  "analysis": "Mokėjimas vietoj perkėlimo yra viena iš galimybių, kurias migracijos paktas suteikia kiekvienai valstybei, todėl tai teisėtas pasirinkimas, o ne kitų ES šalių spaudimo ženklas."
+ },
+ {
+  "key": "2026-11-28|russia-border-next",
+  "date": "2026-11-28",
+  "order": 4,
+  "title": "Estija gruodžio 1 d. uždaro kelių pasienio punktus su Rusija; Latvija spręs kitą savaitę",
+  "summary": "Gruodžio 1 d. Estijos kelių pasienio punktai su Rusija užsidaro mažiausiai šešiems mėnesiams. Latvijos premjeras paprašė ministerijų įvertinti apribojimus saugumo, transporto ir krovinių tranzito srityse, klausimą tikimasi svarstyti lapkričio 30 d. savaitę; vidaus reikalų ministras pritaria svarstymui, bet sako, kad koalicijai reikia bendros pozicijos, o pasieniečių vadas įspėjo, kad eismas persikels į Latviją.",
+  "evidence": "Oficialus pareiškimas",
+  "corroboration": "„Bytes Europe“, remdamasis „Delfi“.",
+  "analysis": "Tai saugumo, o ne migracijos priemonė, tačiau nevienodi sprendimai gali perkelti keliautojus ir bet kokį spaudimą palei Baltijos šalių sieną su Rusija."
  }
 ]

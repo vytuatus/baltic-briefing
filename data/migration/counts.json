@@ -438,5 +438,45 @@
   "metric": "Misleading migration claims",
   "value": 0,
   "note": "None new."
+ },
+ {
+  "key": "2026-11-28|organised",
+  "date": "2026-11-28",
+  "order": 1,
+  "metric": "Organised crossing incidents",
+  "value": 0,
+  "note": "None; no new escorted group, smuggling vehicle, tunnel or damage to border equipment first reported."
+ },
+ {
+  "key": "2026-11-28|measures",
+  "date": "2026-11-28",
+  "order": 2,
+  "metric": "New border measures",
+  "value": 1,
+  "note": "One: Poland extended its buffer zone on the Belarus border for 90 days, covering December to February."
+ },
+ {
+  "key": "2026-11-28|eu",
+  "date": "2026-11-28",
+  "order": 3,
+  "metric": "EU decisions affecting the Baltic states",
+  "value": 0,
+  "note": "None; the 2027 solidarity pool still awaits the Council."
+ },
+ {
+  "key": "2026-11-28|transfers",
+  "date": "2026-11-28",
+  "order": 4,
+  "metric": "Transfers to the Baltic states",
+  "value": 0,
+  "note": "None newly reported; the Cyprus relocations to Lithuania were agreed in May."
+ },
+ {
+  "key": "2026-11-28|claims",
+  "date": "2026-11-28",
+  "order": 5,
+  "metric": "Misleading migration claims",
+  "value": 0,
+  "note": "None new rated Misleading, Unsupported or False."
  }
 ]
